@@ -1,6 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getAllPostIds, getPostData, getSortedPostsData } from "../../lib/posts";
+import {
+  getAllPostIds,
+  getPostData,
+  getSortedPostsData,
+} from "../../lib/posts";
 import Head from "next/head";
 import styles from "../styles/blog.module.css";
 import { sortByDate } from "../utils";
@@ -11,17 +15,17 @@ import React, { useState } from "react";
 import { FaChevronDown } from "react-icons/fa";
 import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
-import Blog from "../../components/BlogPage/Blog/Category/CategorySection";
-import FirstSection from "../../components/BlogPage/Blog/FirstSection/FirstSection";
+import Blog from "../../components/BlogPage/Category/CategorySection";
+import FirstSection from "../../components/BlogPage/FirstSection/FirstSection";
 import BottomBar from "../../components/BottomBar/BottomBar";
 
 export default function Post({ postData, posts, allPostsData }) {
   // console.log(postData);
   let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
-  let aurl = `/author/${makeUrl}`;
+  let aurl = `/blog/author/${makeUrl}`;
 
   let catUrl = postData.category.toLowerCase().replace(/\s+/g, "-");
-  let curl = `/category/${catUrl}`;
+  let curl = `/blog/category/${catUrl}`;
 
   const [isContentVisible, setIsContentVisible] = useState(false);
 
@@ -67,43 +71,22 @@ export default function Post({ postData, posts, allPostsData }) {
 
         <Navbar />
 
-        <FirstSection allPostsData={allPostsData} />
-        {/* <div className={styles.DivImg}>
-          <Image
-            src={postData.img}
-            alt={postData.alt}
-            className={styles.bImg}
-            width="100"
-            height="35"
-          />
-        </div> */}
+        <FirstSection
+          postData={postData}
+          descs={postData.desc}
+          title={postData.mainH1}
+          img={postData.img}
+          author={postData.author}
+          authorimg={postData.authorimg}
+          category={postData.category}
+          time={postData.time}
+          publish={postData.publish}
+          date={postData.date}
+        />
       </section>
 
       <main>
         <div className={styles.Open}>
-          {/* <Socialshare postData={postData} /> */}
-          {/* <div className={styles.headerInfo}>
-            <h1>{postData.mainH1}</h1>
-            <div className={styles.Bloginfo}>
-              By{" "}
-              <strong className={styles.aname}>
-                <a href={aurl} target="_blank" rel="noreferrer">
-                  {postData.author}
-                </a>
-              </strong>{" "}
-              <BsDot className="bIcon" />
-              Category{" "}
-              <strong className={styles.aname}>
-                <a href={curl} target="_blank" rel="noreferrer">
-                  {postData.category}
-                </a>
-              </strong>{" "}
-              <BsDot className="bIcon" /> Reading time{" "}
-              <strong className={styles.time}>{postData.time}</strong>{" "}
-              <BsDot className="bIcon" /> {postData.publish}{" "}
-              <strong className={styles.date}>{postData.date}</strong>
-            </div>
-          </div> */}
           <div className={styles.bodyInfo}>
             <div className={styles.rightInfo}>
               <div className={styles.blogdiv1}>
@@ -119,7 +102,7 @@ export default function Post({ postData, posts, allPostsData }) {
                       const uMake = removeSpecial
                         .toLowerCase()
                         .replace(/\s+/g, "-");
-                      const url = `/#${uMake}`;
+                      const url = `/blog/#${uMake}`;
                       return (
                         <div key={i}>
                           <div className={styles.divContent}>
@@ -155,7 +138,7 @@ export default function Post({ postData, posts, allPostsData }) {
                             const uMake = removeSpecial
                               .toLowerCase()
                               .replace(/\s+/g, "-");
-                            const url = `/#${uMake}`;
+                            const url = `/blog/#${uMake}`;
                             return (
                               <div key={i}>
                                 <span>

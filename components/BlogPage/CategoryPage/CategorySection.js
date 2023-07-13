@@ -76,7 +76,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                 { id, date, title, author, desc, headerImg, categoryPosts },
                 index
               ) => {
-                const url = `/${id}`;
+                const url = `/blog/${id}`;
                 return (
                   <div key={index} className={styles.blogUpper}>
                     <div className={styles.profileWrap}>
@@ -120,7 +120,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
         <div className={styles.rightSide}>
           {categoryPostTag.map((data, index) => {
             let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
-            let url = `/category/${makeUrl}`;
+            let url = `/blog/category/${makeUrl}`;
             return (
               <Link href={url}>
                 <p key={index}>{data}</p>

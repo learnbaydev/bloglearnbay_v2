@@ -1,4 +1,4 @@
-import Post from "../../components/BlogPage/Post";
+import Post from "../../components/BlogPage/CategoryPage/Post";
 import search from "../../search.json";
 import { useRouter } from "next/router";
 import styles from "../styles/blogM.module.css";

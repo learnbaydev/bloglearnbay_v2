@@ -243,6 +243,73 @@
   border: none;
 }
 
+/* Css use for search feature Post.js page */
+
+.bImg{
+  height: 100%;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+  width: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.profileWrapPost{
+    padding: 42px 15px 20px 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 35px;
+    
+    display: flex;
+    flex-flow: column;
+    gap: 10px;
+}
+
+.profileWrapPost h4 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  height: 50px;
+  overflow: hidden;
+}
+
+.profileWrapPost p {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  margin-top: 5px;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #545151;
+}
+
+.profileWrapPost span {
+  display: flex;
+  gap: 5px;
+  flex-flow: column;
+  color: #0072bc;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 1rem;
+}
+
+.categoryPostImgPost {
+  height: 160px;
+}
+
+
+.authP{
+  display: block;
+}
+
+
+
+
+
+
 @media (max-width: 1281px) {
   .viewMoreSection {
     gap: 100px;
