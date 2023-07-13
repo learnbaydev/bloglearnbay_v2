@@ -43,10 +43,10 @@
   grid-template-columns: 20% 54% 22%;
 }
 
-.leftInfo {
+/* .leftInfo {
   border-radius: 5px;
   box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%);
-}
+} */
 
 .leftInfo article {
   /* margin-top: 30px; */
@@ -55,24 +55,34 @@
   margin-bottom: 50px;
   padding: 18px 24px;
 }
+.leftInfo article span{
+  font-size: 30px !important;
+}
 .leftInfo article h2 {
   color: black;
-  font-size: 26px;
+  font-size: 24px;
+  margin: 13px 0px;
 }
 .leftInfo article p {
   color: black;
-  font-size: 18px;
-  line-height: 30px;
+  font-size: 17px;
+  line-height: 34px;
 
 }
 .leftInfo article p strong {
   color: black;
-  font-size: 20px;
+  font-size: 18px;
+}
+
+.leftInfo article h3 {
+  color: black;
+  font-size: 24px;
+  margin: 13px 0px;
 }
 .leftInfo article li {
   color: #000;
   margin-bottom: 10px;
-  line-height: 23px;
+  line-height: 20px;
 }
 .leftInfo article li strong {
   color: rgb(82, 82, 82);
@@ -190,7 +200,7 @@
   padding: 10px 20px;
   border-radius: 8px;
   border-left: 4px solid #2D9CD7;
-  background: #000000;
+  /* background: #000000; */
   border-bottom: 4px solid #2D9CD7;
 }
 .rPost:hover {
@@ -200,10 +210,10 @@
   transition: all 0.5s ease-in-out;
 }
 .rPost h5 {
-  font-size: 15px;
+  font-size: 12px;
   margin: 0;
   font-weight: 500;
-  color: #fff;
+  color: #000;
   margin-bottom: 10px;
 }
 .rPost h5:hover {
@@ -213,8 +223,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #fff;
-  font-size: 14px;
+  color: #000;
+  font-size: 12px;
   font-weight: 500;
 }
 .rPost span p {
@@ -224,7 +234,7 @@
   align-items: center;
   gap: 5px;
   font-size: 12px;
-  color: #fff;
+  color: #000;
 }
 .timeIcon {
   font-size: 16px;
@@ -258,11 +268,105 @@
 }
 .relatePost {
   display: grid;
-  grid-template-columns: 33% 33% 33%;
+  grid-template-columns: 31% 31% 31%;
   gap: 10px; 
 }
 
+@media(max-width: 1281px){
+  .leftInfo article h2 {
+  font-size: 23px;
+}
+.leftInfo article p {
+  font-size: 16px;
+  line-height: 34px;
 
+}
+.leftInfo article h3 {
+ font-size: 22px;
+}
+.leftInfo article p strong {
+  font-size: 17px;
+}
+.leftInfo article span{
+  font-size: 27px !important;
+}
+}
+@media(max-width: 1024px){
+  .contentT {
+    padding: 16px;
+  }
+  .Open {
+  margin: 50px 40px;
+  }
+  .leftInfo article span{
+  font-size: 24px !important;
+}
+.leftInfo article h3 {
+ font-size: 20px;
+}
+}
+@media(max-width:961px){
+  .rPost {
+  padding: 10px 10px;}
+
+   .leftInfo article span{
+  font-size: 22px !important;
+}
+.leftInfo article p {
+  font-size: 15px;
+  line-height: 30px;
+}
+.leftInfo article p strong {
+  font-size: 16px;
+}
+.leftInfo article h3 {
+ font-size: 19px;
+}
+.leftInfo article h2 {
+  font-size: 19px;
+}
+}
+@media(max-width:801px){
+  .bodyInfo {
+  gap: 15px;
+  grid-template-columns: 30% 65%;
+}
+.rPost {
+  padding: 10px 10px;}
+  .rPost h5 {
+  font-size: 11px;}
+}
+
+
+@media(max-width: 641px){
+   .bodyInfo {
+     grid-template-columns: 32% 65%;
+    gap: 17px;
+    }
+    .leftInfo span{
+      font-size: 11px !important;
+    }
+    .leftInfo article p{
+      font-size: 13px;
+    }
+    .leftInfo article p strong {
+  font-size: 14px;
+}
+.leftInfo article h3,.leftInfo article h2{
+      font-size: 16px;
+    }
+    .leftInfo article h3 {
+ font-size: 18px;
+}
+.leftInfo article li {
+ font-size: 24;
+}
+.relatePost {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  gap: 10px; 
+}
+}
 @media (max-width: 481px) {
 
    
@@ -399,6 +503,12 @@
       overflow-y: none;
       height: fit-content;
     }
+    .tableline{
+    width: 310px !important;
+    color: rgba(0, 0, 0, 0.10);;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.10);;
+}
 }
 
 .socialshare{
@@ -449,14 +559,14 @@
     position: -webkit-sticky;
     position: sticky;
     overflow-y: auto;
-    height: 300px;
+    /* height: 300px; */
     z-index: 10;
   }
 
   .blogdiv1{
     position: sticky;
     bottom: 224px;
-
+    top: 1px;
   }
 
   .parentDdiv{
@@ -482,20 +592,9 @@
 }
 
   .contentTM {
-
-    /* border-radius: 5px;
-    box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%); */
-    /* display: flex;
-    margin-bottom: 40px;
-    flex-flow: column;
-    justify-content: center;
-    
-    
-    position: sticky;
-    top: 72px; */
-
     padding: 20px;
-    background-color:#2d2d2d;
+    background-color:#fff;
+    color: #000;
     overflow-y: auto;
     height: 400px;
     border: 1px solid #d8d8d8;
@@ -503,6 +602,7 @@
   }
   .contentTM p {
     cursor: pointer;
+    padding: 4px 4px;
   }
   .contentTM p:hover {
     color: #2D9CD7;
@@ -518,7 +618,7 @@
     display: block;
     font-size: 14px;
     padding: -1px 20px;
-    color: #fff;
+    color: #000;
   }
 
   .rpH1{
@@ -527,8 +627,6 @@
   font-size: 18px;
 
   }
- 
-
 
 }
 
