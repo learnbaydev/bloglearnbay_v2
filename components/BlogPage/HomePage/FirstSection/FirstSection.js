@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
-import { Search } from "../../search";
+import { Search } from "../../../SearchBar/search";
 
 import { Pagination, FreeMode } from "swiper";
 import { CiSearch } from "react-icons/ci";
