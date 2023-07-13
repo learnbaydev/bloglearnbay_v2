@@ -1,0 +1,247 @@
+.banner {
+  padding: 50px 100px;
+  gap: 44px;
+  align-items: center;
+  display: grid;
+  grid-template-columns: 35% 62%;
+  background: #e1f1f559;
+}
+
+.upperBanner {
+  margin: 40px 0px 70px 0px;
+}
+
+.divSecond {
+  padding: 30px;
+}
+
+.headP {
+  color: #2d9cd7;
+  font-size: 20px;
+  margin: 10px 0px;
+}
+
+.headH2 {
+  font-size: 36px;
+  margin: 10px 0px;
+}
+
+.spanH2 {
+  color: #edbb52;
+}
+
+.bottomP {
+  color: #515151;
+  font-size: 16px;
+  margin-top: 30px;
+}
+.divFirst {
+  position: relative;
+  width: 100%;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.imgText {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.imgC {
+  display: flex;
+  gap: 20px;
+
+  overflow: hidden;
+  align-items: center;
+}
+.profileImg {
+  border-radius: 50%;
+  overflow: hidden;
+  height: 50px;
+  width: 50px;
+}
+.pD {
+  margin: 0px;
+  font-size: 16px;
+}
+
+.PH {
+  color: #2d9cd7;
+  font-weight: bold;
+  margin: 0;
+  font-size: 16px;
+}
+
+.readMore {
+  color: #2d9cd7;
+}
+
+.upperDiv {
+  margin-top: 130px;
+  padding: 0px 100px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.innerP {
+  display: flex;
+  gap: 50px;
+}
+
+.innerP p {
+  cursor: pointer;
+}
+
+.innerP p:hover {
+  color: #2d9cd7;
+  border-bottom: 1px solid;
+}
+
+.formControl {
+  padding: 5px;
+  border-radius: 30px;
+  border: 1px solid #0000004d;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.formControl input {
+  border: none;
+  outline: none;
+}
+
+@media (max-width: 1025px) {
+  .upperDiv {
+    gap: 30px;
+    padding: 0px 50px;
+    margin-top: 100px;
+  }
+  .innerP {
+    gap: 30px;
+  }
+  .innerP p {
+    font-size: 14px;
+  }
+  .banner {
+    padding: 20px 50px;
+    grid-template-columns: 38% 60%;
+    gap: 20px;
+  }
+  .headH2 {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 961px) {
+  .upperDiv {
+    padding: 0px 20px;
+  }
+  .banner {
+    padding: 20px 20px;
+  }
+
+  .divSecond {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 800px) {
+  .bottomP {
+    margin-top: 10px;
+  }
+
+  .innerP p {
+    font-size: 11px;
+  }
+
+  .headH2 {
+    font-size: 22px;
+  }
+
+  .bottomP {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 641px) {
+  .right article p img {
+    width: 100%;
+  }
+  .banner {
+    display: block;
+    padding: 20px;
+  }
+
+  .divSecond {
+    padding: 20px 0 0 0;
+  }
+
+  .Content {
+    display: block;
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .left {
+    width: 100%;
+    position: inherit;
+    height: 475px;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .heading {
+    font-size: 18px;
+    padding: 20px;
+  }
+
+  .Hcontent {
+    font-size: 16px;
+    color: #505050;
+    padding: 20px 20px 0px 40px;
+  }
+
+  .right article {
+    padding: 20px 20px;
+    width: 100%;
+    margin-bottom: 0;
+  }
+  .headH2 {
+    font-size: 28px;
+  }
+  .headP {
+    font-size: 18px;
+  }
+  .innerP {
+    display: grid;
+    grid-template-columns: 35% 55% 36%;
+    overflow: scroll;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 641px) {
+  .upperDiv {
+    display: grid;
+    grid-template-columns: 59% 40%;
+    gap: 10px;
+    width: 100%;
+  }
+  .formControl {
+    width: 100%;
+  }
+  .formControl input {
+    width: 100%;
+  }
+  .innerP {
+    grid-template-columns: 60% 95% 66%;
+    gap: 10px;
+  }
+}

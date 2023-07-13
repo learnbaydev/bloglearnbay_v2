@@ -1,0 +1,468 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Best Data Science Career Paths - 2023",
+            "summary": "Discover data science career path and set yourself up for success. Explore the best opportunities, skills, and industries in Data Science.",
+            "date_modified": "2023-06-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Top 25 Data Science Companies To Work",
+            "summary": "We have put together a list of 25 data science companies that are making names for themselves while providing spaces for data scientists to contribute and grow.",
+            "date_modified": "2023-06-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "The Future of Data Analytics Career",
+            "summary": "Data analysts are experts who translate & capture valuable insights from unstructured data. Here, in this blog we will take a dive into data analytics career.",
+            "date_modified": "2023-06-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Data Analytics Career Path: How to Start, Grow, and Succeed",
+            "summary": "Let us guide you through the data analyst career path. Here you can find the skills you need to learn which will help you grow in your career.",
+            "date_modified": "2023-06-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Unleashing The Most Demanding Data Science Projects In Healthcare",
+            "summary": "In this blog, we'll learn about data science projects in healthcare that will provide practical insights that can guide you professionally in data science career.",
+            "date_modified": "2023-04-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference",
+            "summary": "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries.",
+            "date_modified": "2023-04-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "8 Most Demanded Data Science Tools in 2023",
+            "summary": "Data science tools are very reliable and practical in today's tech world. In this blog, we will learn about 8 most demanded data science tools and their features.",
+            "date_modified": "2023-03-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Top Data Visualization Tools Every Data Scientist Must Know in 2023",
+            "summary": "In this blog, you will learn about the best data visualization tools that can help any data science professional advance in their career.",
+            "date_modified": "2023-03-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors",
+            "summary": "Women have attained a peak in the field of technology. Here in this blog, we are going to discuss how women in data science have diminished the gender gap in tech sectors. Also, what are the difficulties and alternatives to pursuing the best data science course?",
+            "date_modified": "2023-03-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "The 7 Best Data Science Project Ideas to Get Hired by Top MNCs",
+            "summary": "Are you a data science expert looking for projects to improve your job opportunities? Here’s a list of data science projects that help you to find a job.",
+            "date_modified": "2023-01-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "10 Best Data Analytics Startups to Work in 2023",
+            "summary": "Data analytics startups have gained a huge surge in the field of the technology sector. Know about the most prominent startups that will help you to boost your career.",
+            "date_modified": "2023-01-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "How Is Data Science Powering OTT Platform to Multi-Dollar Business",
+            "summary": "Know how fusion of Data Science and OTT platforms is revolutionizing the entertainment industry, driving unprecedented growth & transforming businesses.",
+            "date_modified": "2022-12-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Top Technical and Soft Skills Required for Data Scientists in Fintech(2023 Update)",
+            "summary": "Learn more about the technical and softskills required for a data scientist in fintech companies. Read more in this blog.",
+            "date_modified": "2022-12-20T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Know The Importance of Domain Specialization Within a Data Science Course",
+            "summary": "In this blog, Learn why Domain Specialization in data science is essential and how it can help you to maximise your data science skill.",
+            "date_modified": "2022-12-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed",
+            "summary": "This blog will shed light on how a series of unique data science professional certifications are successfully boosting working professional's careers.",
+            "date_modified": "2022-11-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Is Your Data Scientist Salary Competitive? Cross-Check With The Latest Trends",
+            "summary": "Wondering if your Data Scientist salary is competitive? Keep up with the latest trends and compare your salary to industry standards.",
+            "date_modified": "2022-11-20T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Top 8 Domains For Data Science Those Offering Tempting Job Opportunities",
+            "summary": "Discover the best domains for data science job opportunities. Explore how these domains can enhance your career and find out why they are in high demand.",
+            "date_modified": "2022-10-18T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "21 Most Asked Data Science Interview Questions for 2023",
+            "summary": "We've compiled a list of the 21 most important data science interview questions with answers,  which will help the data scientists to prepare for their next interview.",
+            "date_modified": "2022-10-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Know The 10 Most Used Programming Languages For Data Science",
+            "summary": "In this article, we will take a look at the 10 most used programming languages for data science. From Python to R to Java, find out which language is right for you.",
+            "date_modified": "2022-10-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Successful Data Scientist Without A Tech Degree! Yes, It Is Possible",
+            "summary": "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data scientist without a tech degree.",
+            "date_modified": "2022-09-21T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "You could be a pro in Data Science by Self Assisting",
+            "summary": "Get good at stats, math and machine learning. Take online data course. Learn to code. Computer science, development and a language...",
+            "date_modified": "2022-09-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Ace The Toughest Data Science Interview With These Stunning Tricks",
+            "summary": "From preparing ahead of time to knowing what to expect, this article will give you some of the best tips for data science interview preparation.",
+            "date_modified": "2022-09-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Hybrid Learning- The Success Key To Job-Guaranteed Professional Training",
+            "summary": "Explore the benefits & opportunities of hybrid learning, ensuring job-guaranteed professional training. ",
+            "date_modified": "2022-08-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "The  Most Important Skills of Data Science To Master in 2023?",
+            "summary": "As data becomes increasingly important in our world, it's more important than ever to master the skills of data science. But what skills are most important? In this article, we'll explore the most important skills of data science.",
+            "date_modified": "2022-08-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?",
+            "summary": "A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology.",
+            "date_modified": "2022-08-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "What is Data Science? | Uncovering The Explicit Truth",
+            "summary": "Data science is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data.",
+            "date_modified": "2022-08-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023",
+            "summary": "Are you a manager? If you are looking for a career in data science, here top 5 best Job-ready data science course for managers in 2023.",
+            "date_modified": "2022-08-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Introduction To Data Types - What Does It Mean In Python Programming?",
+            "summary": "In Python programming, Data types are classes, and variables are instances (objects) for these classes, as everything is an object in python programming.",
+            "date_modified": "2022-08-21T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning",
+            "summary": "Data science is a rapidly growing field with many opportunities. However, many people are still unaware of the basics of data science learning.",
+            "date_modified": "2022-08-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Differentiating Data Scientist and Data Analyst",
+            "summary": "Here in this blog uou will get to know the key differences between data scientists and data analysts, their unique roles, and the skills required.",
+            "date_modified": "2022-08-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Data Science for working professionals",
+            "summary": "Check out this blog for the most updated tips on learning data science and how it may help you advance your career while maintaining your current professional career.",
+            "date_modified": "2022-07-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Text Stemming In NLP",
+            "summary": "Discover the fundamentals of Text Stemming in NLP & Its practical applications. Learn how to implement text stemming techniques in NLP for enhanced information retrieval & analysis.",
+            "date_modified": "2022-07-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals",
+            "summary": "Are you a banking professional ? Looking for a data science course then check out a list of the data science certification course that help you land a job at a top tech company.",
+            "date_modified": "2022-06-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "How Does Data Science Promote Project Managers to a New Perspective of Success",
+            "summary": "As a project manager, understanding how data science can be used to improve your projects is essential to success. In this article, we will explore how data science can promote project managers to a new perspective of success.",
+            "date_modified": "2022-05-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Know The Top 10 Data Science Trends (2023)",
+            "summary": "In this blog, We will tell you about the Latest Data Science trends in 2023. Data science, AI and Big Data are the leading technologies that have empowered businesses.",
+            "date_modified": "2022-05-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "How to Build a Rewarding Career As a Healthcare Data Scientist?",
+            "summary": "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied...",
+            "date_modified": "2022-05-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Investing 3 lakhs on Data science Certification Course? Is it really worth it",
+            "summary": "Discover the value of investing 3 lakhs in a data science certification course. Learn about the benefits, job prospects, and ROI to make an informed decision.",
+            "date_modified": "2022-04-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Data Science in Media, Hospitality, and Transportation",
+            "summary": "In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses.",
+            "date_modified": "2022-04-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?",
+            "summary": "In this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends.",
+            "date_modified": "2022-04-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?",
+            "summary": "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd.",
+            "date_modified": "2022-04-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Gradient Descent for Machine Learning",
+            "summary": "In this blog post, you will get an overview of how Gradient descent works and what are its efficiency while implementing a machine learning algorithm.",
+            "date_modified": "2022-03-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Reliable Resources for Data Science",
+            "summary": "Data science is one of the most diversified fields with different in-depth concepts. Here in this blog, you will be briefed on the best sources to learn data science in a very simple and concise manner. It is the most reliable source for you to stay up to date with the latest development in data science.",
+            "date_modified": "2022-01-31T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "How to Get the Best Data Science Internship in 2023?",
+            "summary": "A data science internship is a fantastic opportunity to begin a career in the field of data science and AI. Mostly for nontechies, a certification course is not enough to get a job. Know the strategy to successfully get into the data science field.",
+            "date_modified": "2022-01-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Young Data Scientists",
+            "summary": "In this blog, you will get to know more about India's youngest data scientists. Learn about their successful journey as well.",
+            "date_modified": "2021-12-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Why Data Science Actually Matters in 2023?",
+            "summary": "Data science is a diversified field, but many individuals still wonder why data science is important. This blog will provide an overview of numerous aspects and applications of data science, which shows its future implications.",
+            "date_modified": "2021-11-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Everything About Data Preprocessing",
+            "summary": "Data preprocessing, an important step in the data mining process refers to the cleaning, transforming, and integrating of data in order to make it ready for analysis.",
+            "date_modified": "2021-11-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Customer Experience Enhancement In Banks",
+            "summary": "Customer Experience Enhancement now have access to accounts and can transact across mobile, social, and other self-serve channels...",
+            "date_modified": "2021-07-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Win the COVID-19",
+            "summary": "Equip yourself with data science skills to combat COVID-19. Learn how to analyze and predict pandemic trends.",
+            "date_modified": "2021-04-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Exploratory Data Analysis on Iris dataset",
+            "summary": "Learn about the Iris dataset and how it measures the 150 dataframes of iris petal and sepal length for each species of setosa, versicolor, and virginica.",
+            "date_modified": "2021-01-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "NLP and Deep Learning for Data Scientists",
+            "summary": "Deep learning and natural language processing are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing.",
+            "date_modified": "2020-12-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Understanding Different Job Opportunities of Data Science",
+            "summary": "To maintain and sustain any job opportunities in data science is a bliss in life, not only because it rains money but for the professional stability and experience one gets about technology...",
+            "date_modified": "2020-11-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Know The Best Strategy To Find The Right Data Science Job in Delhi?",
+            "summary": "Looking for a data science job in Delhi? Discover the best strategies to find the right job for you and advance your career in this growing field.",
+            "date_modified": "2020-08-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Evolution of Data Science in India",
+            "summary": "Explore the journey of data science in India, from its inception to the present day. Gain valuable insights from experts and stay ahead in the data science revolution.",
+            "date_modified": "2020-02-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Is AI a threat to humanity?",
+            "summary": "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it...",
+            "date_modified": "2019-08-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Learnbay | Data Science Training in Bangalore",
+            "summary": "Learnbay provides data science training in Bangalore with real time projects and Industry certificates. Our Classroom is especially designed for working professionals.",
+            "date_modified": "2019-05-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "10 Reasons Why Data Science is A Best Career Move",
+            "summary": "Discover the top 10 reasons why pursuing a career in data science is a smart move. Learn how data science can unlock endless opportunities for growth and success.",
+            "date_modified": "2018-11-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-science",
+            "url": "undefined/category/data-science",
+            "title": "Why You Need Data Structures And Algorithms training",
+            "summary": "The best of actors practice their dialogues in front of the mirror; they do several rehearsals before they start shooting for a film. The best of cricketers spend hours in the net, practicing...",
+            "date_modified": "2017-05-07T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

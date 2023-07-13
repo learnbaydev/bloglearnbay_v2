@@ -1,0 +1,476 @@
+.container {
+    padding: 0rem;
+  }
+  
+  .program {
+    height: max-content;
+  }
+  
+  .footer {
+    display: flex;
+    flex: 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    justify-content: center;
+    align-items: center;
+  }
+  .boxShape {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 40px;
+    gap: 20px;
+  }
+  .boxWrap {
+    display: flex;
+    flex-flow: column;
+    padding: 50px 100px;
+  }
+  .boxWrap h2 {
+    margin: 0;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+  }
+  .boxp {
+    margin: 0px;
+    text-align: center;
+    color: #6c6c6c;
+    font-size: 18px;
+    margin: 5px;
+  }
+  .footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+  }
+  
+  .title a {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  .title a:hover,
+  .title a:focus,
+  .title a:active {
+    text-decoration: underline;
+  }
+  
+  .title {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 4rem;
+  }
+  
+  .title,
+  .description {
+    text-align: center;
+  }
+  
+  .description {
+    margin: 4rem 0;
+    line-height: 1.5;
+    font-size: 1.5rem;
+  }
+  
+  .code {
+    background: #fafafa;
+    border-radius: 5px;
+    padding: 0.75rem;
+    font-size: 1.1rem;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+      Bitstream Vera Sans Mono, Courier New, monospace;
+  }
+  
+  .HiringPartner {
+    text-align: center;
+    width: 100%;
+    margin: 70px 0px;
+  }
+  
+  .HiringPartnerB {
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  .grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 800px;
+  }
+  
+  .card {
+    margin: 1rem;
+    padding: 1.5rem;
+    text-align: left;
+    color: inherit;
+    text-decoration: none;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+    max-width: 300px;
+  }
+  
+  .card:hover,
+  .card:focus,
+  .card:active {
+    color: #0070f3;
+    border-color: #0070f3;
+  }
+  
+  .card h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+  }
+  
+  .card p {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.5;
+  }
+  
+  .logo {
+    height: 1em;
+    margin-left: 0.5rem;
+  }
+  
+  .cta {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    justify-content: space-between;
+    border-radius: 25px;
+    background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Cta(2).webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    justify-content: center;
+    margin-top: 70px;
+    background-size: cover;
+    padding: 50px 0px 20px 0px;
+    align-items: center;
+    margin: 70px 100px;
+  }
+  
+  .ctj {
+    display: grid;
+    grid-template-columns: 10% 60% 20%;
+    justify-content: space-between;
+    background: #2d9cd730;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    justify-content: center;
+    margin: 70px 0px;
+    background-size: cover;
+    padding: 50px 100px;
+    align-items: center;
+  }
+  
+  .cta h6 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+    color: #fff;
+  }
+  .cta p {
+    color: #fff;
+    margin: 10px 0px;
+    font-size: 20px;
+  }
+  
+  .ctj h6 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+    color: #2d9cd7;
+  }
+  .ctj p {
+    color: #fff;
+    margin: 10px 0px;
+    font-size: 20px;
+  }
+  .img {
+    position: absolute;
+    z-index: 9;
+    right: 10px;
+    top: -40px;
+    height: 200px;
+    width: 400px;
+  }
+  .cta button {
+    background-color: rgba(13, 74, 155);
+    color: white;
+    padding: 12px 25px;
+    font-weight: 600;
+    border-radius: 6px;
+    margin-top: 40px;
+  }
+  .cta button:hover {
+    background-color: #2d9cd7;
+  }
+  .ExpertWrapper {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    margin-top: 30px;
+    align-items: center;
+    margin: 70px 100px;
+    margin-bottom: 20px;
+  }
+  .expert {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .expert h5 {
+    font-weight: 600;
+    margin-top: 45px;
+  
+    width: 100%;
+    font-size: 24px;
+  }
+  .ProjectWrapper {
+    padding-top: 30px;
+    margin: 0px 100px 70px 100px;
+  }
+  .expertBody {
+    margin-top: -90px;
+  
+    box-sizing: border-box;
+    margin-left: -2em;
+    margin-right: -2em;
+  }
+  .slider {
+    height: 400px;
+  }
+  .ctaBot {
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  .PriceH {
+    font-size: 36px;
+    font-family: 600;
+    color: rgb(103, 103, 103);
+  }
+
+.Reviewbtn{
+    margin: auto;
+}
+  
+  @media (max-width: 1281px) {
+    .program {
+      height: 90px;
+    }
+    .Feature {
+      margin-top: 50px;
+    }
+    .ProjectWrapper {
+      padding-top: 0px;
+      margin: 30px 40px 70px 40px;
+    }
+  }
+  
+  @media (max-width: 1025px) {
+    .boxShape {
+      gap: 10px;
+    }
+    .boxWrap {
+      padding: 20px;
+    }
+    .boxWrap h2 {
+      font-size: 30px;
+      font-weight: 500;
+    }
+  }
+  
+  @media (max-width: 800px) {
+    .BangaloreMap{
+      width: 100%;
+    }
+    .Feature {
+      margin-top: 20px;
+    }
+  }
+  
+  @media (max-width: 641px) {
+    .boxShape {
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .boxWrap {
+      padding: 20px;
+    }
+    .boxWrap h2 {
+      font-size: 26px;
+      font-weight: 600;
+    }
+  }
+  
+  @media (max-width: 481px) {
+  
+    .BangaloreMap{
+      /* position: relative;
+      left: 0px; */
+      width: 100%;
+     
+    }
+    .program {
+      height: 390px;
+    }
+    .container {
+      padding: 0 0rem;
+    }
+    .boxWrap {
+      display: flex;
+      flex-flow: column;
+      padding: 50px 20px 0px 20px;
+    }
+    .boxWrap h2 {
+      margin: 0;
+      font-size: 24px;
+      text-align: center;
+      font-weight: 700;
+    }
+    .boxp {
+      margin: 0px;
+      margin-top: 10px;
+      text-align: center;
+      color: #6c6c6c;
+      font-size: 16px;
+    }
+    .boxShape {
+      display: flex;
+      flex-flow: column;
+      gap: 20px;
+      justify-content: space-evenly;
+      width: 100%;
+      margin-top: 20px;
+      margin-bottom: 30px;
+    }
+    .cta {
+      display: flex;
+      justify-content: space-between;
+      background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/cta-m.png");
+      background-position: center center;
+      background-repeat: no-repeat;
+      position: relative;
+      margin-top: 70px;
+      background-size: cover;
+      padding: 30px 100px;
+      align-items: center;
+    }
+    .cta h6 {
+      font-size: 22px;
+      padding-left: 10px;
+      margin-right: 90px;
+    }
+    .cta p {
+      font-size: 18px;
+      padding-left: 10px;
+    }
+    .cta {
+      display: block;
+      justify-content: space-between;
+      border-radius: 25px;
+      background-image: url("https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/mobile-view.webp");
+      background-position: center center;
+      background-repeat: no-repeat;
+      position: relative;
+      margin-top: 0px;
+      background-size: contain;
+      padding: 40px;
+      align-items: center;
+      width: 100%;
+    }
+    .ctj {
+      display: flex;
+      justify-content: space-between;
+      background: #2d9cd730;
+      background-position: center center;
+      background-repeat: no-repeat;
+      position: relative;
+      margin-top: 70px;
+      background-size: cover;
+      padding: 30px 100px;
+      align-items: center;
+    }
+    .ctj h6 {
+      font-size: 22px;
+      padding-left: 10px;
+      margin-right: 90px;
+      color: #2d9cd7;
+    }
+    .ctj p {
+      font-size: 18px;
+      padding-left: 10px;
+    }
+    .ctaBot {
+      margin-bottom: 20px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  
+    .ProjectWrapper {
+      padding: 20px;
+      margin: 0px;
+    }
+    .expertBody {
+      margin-left: -0em;
+      margin-right: -0em;
+    }
+  
+    .expert h5 {
+      font-weight: 600;
+      margin-top: 10px;
+      width: 100%;
+      font-size: 24px;
+    }
+  
+    .ExpertWrapper {
+      display: block;
+      grid-template-columns: auto;
+      margin: 0;
+      margin-top: 30px;
+  
+      margin-bottom: 20px;
+    }
+    .HiringPartner {
+      text-align: center;
+      width: 100%;
+      margin: 40px 0px 0px 0px;
+    }
+  
+  
+  }
+  
+  @media (max-width: 600px) {
+    .BangaloreMap{
+      width: 100%;
+    }
+    .grid {
+      width: 100%;
+      flex-direction: column;
+    }
+    .cta {
+      display: block;
+      margin: auto;
+      width: 100%;
+      padding: 100px 50px 50px 50px;
+      margin-top: 20px;
+    }
+    .cta h6 {
+      margin-right: 120px;
+    }
+    .ctj {
+      display: block;
+      padding: 30px;
+    }
+    .ctj h6 {
+      margin-right: 0px;
+      margin-bottom: 20px;
+    }
+  }
+  

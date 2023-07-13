@@ -1,0 +1,257 @@
+.blogWrap {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 31% 31% 31%;
+  margin: 0px 70px 0px 40px;
+  gap: 25px;
+  row-gap: 0px;
+}
+.blog {
+  height: 130px;
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  cursor: pointer;
+  z-index: 0;
+}
+
+.blogBox {
+  display: flex;
+  position: relative;
+}
+.blog:hover {
+  box-shadow: 0px 0px 10px 0px rgb(45 156 215 / 31%),
+    0px 0px 10px 0px rgb(45 156 215 / 31%);
+  transition: all 0.5 ease-in-out;
+}
+
+.categoryPosts h4:hover {
+  color: #2d9cd7;
+}
+
+.profileWrap {
+  padding: 42px 15px 20px 15px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 10px;
+  position: relative;
+  bottom: 35px;
+  display: flex;
+  flex-flow: column;
+  gap: 10px;
+}
+
+.profileWrap h4 {
+  font-size: 18px;
+  font-weight: 400;
+  height: 46px;
+  overflow: hidden;
+  margin: 10px 0px 0px 0px;
+  line-height: 23px;
+}
+.profileWrap span {
+  display: flex;
+  gap: 5px;
+  flex-flow: column;
+  color: #0072bc;
+  font-weight: bold;
+
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.blog span h5,
+.profileWrap h5 {
+  font-size: 14px;
+  color: white;
+  margin: 0;
+}
+.blog span p,
+.profileWrap p {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  margin-top: 5px;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #545151;
+}
+
+.tagSpan {
+  padding: 8px;
+  font-size: 12px;
+  background-color: #0072bc17;
+  color: #2d9cd7;
+  border-radius: 8px;
+  width: max-content;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.tagSpan:hover {
+  color: #2d9cd7;
+}
+
+.categoryPosts {
+  cursor: pointer;
+  overflow-x: scroll;
+}
+
+.viewMoreSection {
+  padding: 0px 70px 0px 70px;
+  display: grid;
+  grid-template-columns: 65% 35%;
+}
+.viewMoreSection1 {
+  display: grid;
+  grid-template-columns: 90% 10%;
+}
+.viewMoreSection h2 {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 36px;
+  color: #212121;
+}
+.viewMoreSection p {
+  color: #4fa0eb;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.categoryWrapper {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 0px;
+  /* padding: 25px; */
+}
+.categoryPost {
+  display: grid;
+  grid-template-columns: 39% 59%;
+  gap: 20px;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  height: max-content;
+  align-items: center;
+}
+.categoryPost:hover {
+  -webkit-box-shadow: 0px 0px 10px 0px rgb(45 156 215 / 31%);
+  -moz-box-shadow: 0px 0px 10px 0px rgb(45 156 215 / 31%);
+  box-shadow: 0px 0px 10px 0px rgb(45 156 215 / 31%);
+}
+.link {
+  margin-bottom: 18px;
+}
+
+.rightCategoryPostFirst p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+.rightCategoryPostSecond p {
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+.hrline {
+  border: 1px solid #efefef;
+  background-color: #0072bc;
+}
+
+.authordiv {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.categoryPost {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  position: absolute;
+  padding: 20px;
+}
+.categoryPostRightSide {
+  position: relative;
+
+  top: 0px;
+}
+
+@media (max-width: 1281px) {
+  .viewMoreSection {
+    gap: 100px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .categoryPost {
+    padding: 20px;
+  }
+
+  .blogWrap {
+    grid-template-columns: 33% 33% 33%;
+  }
+  .viewMoreSection h2 {
+    font-size: 20px;
+  }
+
+  .viewMoreSection p {
+    font-size: 16px;
+  }
+
+  .profileWrap h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .profileWrap p {
+    font-size: 0.81rem;
+    gap: 7px;
+  }
+
+  .rightCategoryPostFirst p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 600px) {
+  .blogWrap {
+    display: block;
+    align-items: center;
+    margin: 30px 20px;
+  }
+  .blog {
+    height: 350px;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+    position: relative;
+  }
+  .categoryPosts {
+    margin: 30px 20px;
+  }
+  .categoryWrapper {
+    display: block;
+  }
+  .categoryPost {
+    display: block;
+    padding: 10px 10px;
+    align-items: left;
+  }
+  .rightCategoryPost {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  .BackP {
+    margin-top: 70px;
+    height: 30vh;
+    text-align: left;
+    padding: 20px;
+  }
+}
