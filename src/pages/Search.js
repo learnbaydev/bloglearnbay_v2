@@ -6,6 +6,8 @@ import { NextSeo } from 'next-seo';
 import { sortByDate, ImageUrl } from '../utils'
 import styles from "../../src/styles/blogM.module.css";
 import Sidebar from "../../components/SearchBar/Sidebar"
+import Navbar from '../../components/Navbar/Navbar';
+import Footer from '../../components/Footer/Footer';
 
 export default function Search() {
     const { query } = useRouter()
@@ -34,6 +36,7 @@ export default function Search() {
 
     return (
         <>
+        <Navbar />
             <br /><br /><br />
 
             <section className={styles.blogHead}>
@@ -57,6 +60,7 @@ export default function Search() {
                 }
 
             </section>
+            <Footer />
         </>
     )
 }
