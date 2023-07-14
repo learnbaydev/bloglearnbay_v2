@@ -1,6 +1,7 @@
-import Link from "next/link";
-import styles from "./CategorySection.module.css";
+import styles from "../BlogPage/MainCategoryPage/MainCategorySection.module.css"
 import Image from "next/image";
+import Link from "next/link";
+
 
 
 export default function Post({ post }) {

@@ -306,8 +306,13 @@
 }
 
 
-
-
+.blogWrapPost {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  align-items: center;
+  margin: 45px 100px;
+  gap: 30px;
+}
 
 
 @media (max-width: 1281px) {

@@ -21,7 +21,7 @@
 
 .adesc p {
   position: relative;
-  bottom: 3rem;
+  bottom: 1rem;
   color: #575555;
   font-size: 16px;
   line-height: 148%;
@@ -59,7 +59,7 @@
   font-size: 24px;
   position: relative;
   left: 18rem;
-  bottom: 3.2rem;
+  bottom: 2.2rem;
   display: inline;
   display: initial;
   background-color: #0a66c2;

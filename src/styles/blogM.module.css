@@ -338,13 +338,7 @@
 
 
 
-.loadMore{
-  font-weight: 600;
-  padding-left: 643px;
-  padding-bottom: 38px;
-  padding-top: 23px;
 
-}
 
 .blogWrapPost {
   display: grid;
@@ -434,16 +428,6 @@
     bottom: 72px;
     right: 37px;
   }
-
-  .loadMore{
-    font-weight: 600;
-    padding-left: 120px;
-    padding-bottom: 38px;
-    padding-top: 23px;
-  }
-  
-
-
 }
 
 @media (max-width: 400px){
@@ -456,4 +440,10 @@
   }
 
 }
+
+
+
+
+
+
 

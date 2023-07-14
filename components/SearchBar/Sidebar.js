@@ -1,6 +1,6 @@
 import React, { useState,useEffect } from "react";
 import Link from 'next/link'
-import Search from "../../search.json";
+import Search from "./search.json"
 import { slugify } from "../../src/utils";
 import styles from './search.module.css';
 import Image from "next/image";
