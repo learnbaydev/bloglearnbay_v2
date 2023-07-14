@@ -1,4 +1,4 @@
-import styles from "../BlogPage/Category/CategorySection.module.css"
+import styles from "../BlogPage/MainCategoryPage/MainCategorySection.module.css"
 import Image from "next/image";
 import Link from "next/link";
 
