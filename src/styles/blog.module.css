@@ -14,9 +14,8 @@
 
 
 .blogdiv1{
-  overflow-y: auto;
-  height: 500px;
-  text-align: justify;
+  overflow: hidden;
+  /* text-align: justify; */
 }
 
 .headerInfo h1 {
@@ -270,10 +269,16 @@
   grid-template-columns: 31% 31% 31%;
   gap: 10px; 
 }
+.leftInfo article h4{
+    font-size: 25px !important;
+    color: black;
+    margin-bottom: 10px !important;
+}
+  
 
 @media(max-width: 1281px){
   .leftInfo article h2 {
-  font-size: 23px;
+  font-size: 20px;
 }
 .leftInfo article p {
   font-size: 16px;
@@ -298,7 +303,7 @@
   margin: 50px 40px;
   }
   .leftInfo article span{
-  font-size: 24px !important;
+  font-size: 22px !important;
 }
 .leftInfo article h3 {
  font-size: 20px;
@@ -395,24 +400,11 @@
   }
 
   .contentTM {
-
-    /* border-radius: 5px;
-    box-shadow: 0px 0px 5px 0px rgb(45 156 215 / 31%); */
-    /* display: flex;
-    margin-bottom: 40px;
-    flex-flow: column;
-    justify-content: center;
-    
-    
-    position: sticky;
-    top: 72px; */
-
     padding: 20px;
     background-color:#ffffff;
     overflow-y: auto;
     height: 400px;
     border: 1px solid #d8d8d8;
-  
   }
   .contentTM p {
     cursor: pointer;
@@ -472,8 +464,11 @@
       font-size: 18px;
     }
 
+     .leftInfo article span {
+      font-size: 19px !important;
+    }
     .leftInfo article p {
-      font-size: 16px;
+      font-size: 14px;
     }
     .leftInfo article p strong {
       color: black;
@@ -521,7 +516,7 @@
 
 
 .tableline{
-    width: 100% !important;
+    width: 350% !important;
     color: rgba(0, 0, 0, 0.10);;
     height: 2px;
     background-color: rgba(0, 0, 0, 0.10);;
@@ -540,8 +535,6 @@
 
   .MobileContent{
     display: contents;
- 
-
   }
   .Bloginfo{
     display: flex;

@@ -40,6 +40,7 @@
   display: flex;
   flex-flow: column;
   gap: 10px;
+  height: 289px;
 }
 
 .profileWrap h4 {
@@ -98,7 +99,7 @@
   cursor: pointer;
   display: flex;
   flex-flow: column;
-  padding: 40px 100px;
+  padding: 40px 50px;
 }
 
 .viewMoreSection {
@@ -117,14 +118,14 @@
 }
 .viewMoreSection p {
   color: #4fa0eb;
-  font-size: 20px;
+  font-size: 18px;
   margin-top: 15px;
 }
 
 .categoryWrapper {
   display: grid;
   grid-template-columns: 68% 27%;
-  gap: 40px;
+  gap: 100px;
   padding-top: 40px;
 }
 .categoryPost {
@@ -179,7 +180,6 @@
 }
 .categoryPostRightSide {
   position: relative;
-
   top: 0px;
 }
 
@@ -187,13 +187,18 @@
   .viewMoreSection {
     gap: 100px;
   }
+  .categoryWrapper {
+  gap: 59px;
+}
 }
 
 @media (max-width: 1024px) {
   .categoryPost {
     padding: 20px;
   }
-
+  .categoryWrapper {
+  gap: 70px;
+}
   .blogWrap {
     grid-template-columns: 33% 33% 33%;
   }
@@ -202,7 +207,7 @@
   }
 
   .viewMoreSection p {
-    font-size: 16px;
+        font-size: 14px;
   }
 
   .profileWrap h4 {
@@ -219,7 +224,40 @@
     font-size: 15px;
   }
 }
+@media(max-width:961px){
+     .viewMoreSection p {
+        font-size: 12px;
+  }
+   .profileWrap h4 {
+    font-size: 10px;
+    line-height: 16px;
+    font-weight: 500;
+  }
+   .profileWrap p {
+    font-size: 10px;
+  }
+  .profileWrap span {
+    font-size: 11px;
+  }
+   .rightCategoryPostFirst p {
+    font-size: 11px;
+  }
+}
 
+@media(max-width:641px){
+  .categoryPostRightSide {
+display: none;
+}
+ .viewMoreSection1 {
+ display: flex;
+ width: 610px;
+ justify-content: space-around;
+ text-align: center;
+}
+.categoryWrapper {
+  grid-template-columns: 100%;
+}
+}
 @media (max-width: 600px) {
   .blogWrap {
     display: block;
@@ -227,7 +265,7 @@
     margin: 30px 20px;
   }
   .blog {
-    height: 350px;
+    /* height: 350px; */
     margin-bottom: 20px;
     padding: 0px 10px;
     position: relative;
@@ -246,6 +284,21 @@
   .rightCategoryPost {
     margin-top: 10px;
   }
+    .viewMoreSection p {
+        font-size: 12px;
+  }
+}
+
+@media(max-width: 481px){
+   .viewMoreSection h2 {
+    font-size: 16px;
+  }
+  .viewMoreSection1 {
+ display: flex;
+ width: 310px;
+ justify-content: space-around;
+ text-align: center;
+}
 }
 
 @media (max-width: 400px) {
