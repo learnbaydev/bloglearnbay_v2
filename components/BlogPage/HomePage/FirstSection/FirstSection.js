@@ -65,7 +65,7 @@ function FirstSection({ allPostsData }) {
         </div>
       </div>
       <div className={styles.upperBanner}>
-        {/* <Swiper
+        <Swiper
           slidesPerView={1}
           spaceBetween={40}
           pagination={{
@@ -136,7 +136,7 @@ function FirstSection({ allPostsData }) {
                 );
               }
             )}
-        </Swiper> */}
+        </Swiper>
       </div>
     </>
   );
