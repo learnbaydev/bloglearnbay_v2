@@ -9,7 +9,7 @@ import { sortByDate } from "../../utils";
 import { useState } from "react";
 import Navbar from "../../../components/Navbar/Navbar";
 import Footer from "../../../components/Footer/Footer";
-import CategorySection from "../../../components/BlogPage/CategoryPage/CategorySection";
+import CategorySection from "../../../components/BlogPage/MainCategoryPage/MainCategorySection";
 import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
 import BottomBar from "../../../components/BottomBar/BottomBar";
 

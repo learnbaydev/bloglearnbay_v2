@@ -130,7 +130,7 @@ const Course = ({ dataScience, radio, dataScienceCounselling }) => {
                   return (
                     <div key={index}>
                       <div className={styles.gridPanel}>
-                        {/* <Swiper
+                        <Swiper
                           slidesPerView={value}
                           spaceBetween={mobile ? 20 : 20}
                           breakpoints={{
@@ -225,7 +225,7 @@ const Course = ({ dataScience, radio, dataScienceCounselling }) => {
                               );
                             }
                           )}
-                        </Swiper> */}
+                        </Swiper>
                       </div>
                     </div>
                   );
