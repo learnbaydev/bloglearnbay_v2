@@ -44,32 +44,6 @@ const Course = ({ dataScience, radio, dataScienceCounselling }) => {
   };
   const [titleCourse, setTitleCourse] = useState();
   const [brochureLinks, setBrochureLinks] = useState();
-
-  // useEffect(() => {
-  //   let width = window.innerWidth;
-  //   if (width < 481) {
-  //     setValue(1.4);
-  //     setMobile(true);
-  //   }
-  //   if (width < 600) {
-  //     setValue(1.2);
-  //     setMobile(true);
-  //   } else if (width <= 641) {
-  //     setValue(1.6);
-  //   } else if (width <= 801) {
-  //     setValue(2);
-  //   } else if (width <= 961) {
-  //     setValue(2.3);
-  //   } else if (width <= 1025) {
-  //     setValue(2.6);
-  //   } else if (width <= 1280) {
-  //     setValue(3);
-  //   } else if (width <= 1281) {
-  //     setValue(2.4);
-  //   }
-  // }, []);
-
-  // console.log(Details);
   return (
     <div className={styles.Course} id="course">
       <Popup
@@ -139,8 +113,8 @@ const Course = ({ dataScience, radio, dataScienceCounselling }) => {
                             961: { slidesPerView: 2.5, spaceBetween: 30 },
                             801: { slidesPerView: 2, spaceBetween: 20 },
                             641: { slidesPerView: 1.8, spaceBetween: 80 },
-                            481: { slidesPerView: 1.8, spaceBetween: 40 },
-                            100: { slidesPerView: 1.2, spaceBetween: 20 },
+                            481: { slidesPerView: 1.3, spaceBetween: 30 },
+                            100: { slidesPerView: 1, spaceBetween: 20 },
                           }}
                           pagination={{
                             clickable: true,
