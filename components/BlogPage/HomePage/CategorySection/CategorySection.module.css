@@ -2,7 +2,7 @@
   height: 85%;
   display: grid;
   grid-template-columns: 31% 31% 31%;
-  margin: 0px 70px 0px 40px;
+
   gap: 25px;
   row-gap: 0px;
 }
@@ -96,10 +96,12 @@
 
 .categoryPosts {
   cursor: pointer;
+  display: flex;
+  flex-flow: column;
+  padding: 40px 100px;
 }
 
 .viewMoreSection {
-  padding: 0px 70px 0px 70px;
   display: grid;
   grid-template-columns: 65% 35%;
 }
@@ -121,9 +123,9 @@
 
 .categoryWrapper {
   display: grid;
-  grid-template-columns: 69% 29%;
-  gap: 0px;
-  padding: 25px;
+  grid-template-columns: 68% 27%;
+  gap: 40px;
+  padding-top: 40px;
 }
 .categoryPost {
   display: grid;
