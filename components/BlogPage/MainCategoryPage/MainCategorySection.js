@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "./CategorySection.module.css";
+import styles from "./MainCategorySection.module.css";
 import Image from "next/image";
 import Link from "next/link";
 import { CiSearch } from "react-icons/ci";
@@ -76,7 +76,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                 { id, date, title, author, desc, headerImg, categoryPosts },
                 index
               ) => {
-                const url = `/blog/${id}`;
+                const url = `/${id}`;
                 return (
                   <div key={index} className={styles.blogUpper}>
                     <div className={styles.profileWrap}>
@@ -120,7 +120,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
         <div className={styles.rightSide}>
           {categoryPostTag.map((data, index) => {
             let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
-            let url = `/blog/category/${makeUrl}`;
+            let url = `/category/${makeUrl}`;
             return (
               <Link href={url}>
                 <p key={index}>{data}</p>

@@ -15,7 +15,7 @@
 
 .blogdiv1{
   overflow-y: auto;
-  height: 500px;
+  height: 1700px;
   text-align: justify;
 }
 
@@ -52,7 +52,7 @@
   padding: 0px 20px;
   width: 100%;
   margin-bottom: 50px;
-  padding: 18px 24px;
+  padding: 18px 0px;
 }
 .leftInfo article span{
   font-size: 30px !important;
@@ -563,7 +563,6 @@
   }
 
   .blogdiv1{
-    position: sticky;
     bottom: 224px;
     top: 1px;
   }

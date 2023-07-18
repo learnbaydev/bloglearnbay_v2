@@ -56,7 +56,7 @@ function FirstSection({ allPostsData }) {
 
             <Link
               href={{
-                pathname: "/blog/Search",
+                pathname: "/Search",
                 query: { q: search?.toLowerCase() },
               }}
               id="myBtn"
@@ -91,9 +91,9 @@ function FirstSection({ allPostsData }) {
                 desc,
                 authorimg,
               }) => {
-                const url = `/blog/${id}`;
+                const url = `/${id}`;
                 let makeUrl = author.toLowerCase().replace(/\s+/g, "-");
-                let aurl = `/blog/author/${makeUrl}`;
+                let aurl = `/author/${makeUrl}`;
                 return (
                   <SwiperSlide key={id}>
                     <div className={styles.banner}>

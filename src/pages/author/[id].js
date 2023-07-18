@@ -4,18 +4,18 @@ import path from "path";
 import { NextSeo } from "next-seo"; // Add this import statement
 import matter from "gray-matter";
 import { getSortedPostsData } from "../../../lib/posts";
-import styles from "../../styles/blogM.module.css";
+import styles from "../../../components/BlogPage/MainCategoryPage/MainCategorySection.module.css";
 import Head from "next/head";
 import Image from "next/image";
-import { BsDot } from "react-icons/bs";
-import { IoTimeOutline } from "react-icons/io5";
 import { sortByDate } from "../../utils";
 import authorstyle from "../../styles/author.module.css";
 import Link from "next/link";
 import { FaLinkedinIn } from "react-icons/fa";
 import Navbar from "../../../components/Navbar/Navbar";
 import Footer from "../../../components/Footer/Footer";
-import BottomBar from "../../../components/BottomBar/BottomBar";
+import dynamic from "next/dynamic";
+
+const Button = dynamic(() => import("../../../components/Button/Button"));
 
 export default function CategoryBlog({ categoryPosts }) {
   const [visible, setVisible] = useState(9);
@@ -81,18 +81,13 @@ export default function CategoryBlog({ categoryPosts }) {
               <FaLinkedinIn className={authorstyle.bIcons} />
             </Link>
           </div>
-
-          {/* <div>
-            <h3>Designation : {categoryPosts[0].position}</h3>
-          </div> */}
-
           <div className={authorstyle.adesc}>
             <p> &quot;{categoryPosts[0].authordesc}&quot;</p>
           </div>
         </div>
       </div>
 
-      <section className={styles.blogWrap}>
+      <section className={styles.blogWrapPost}>
         {categoryPosts
           .slice(0, visible)
           .map(
@@ -104,48 +99,51 @@ export default function CategoryBlog({ categoryPosts }) {
               readTime,
               headerImg,
               categoryPosts,
+              desc,
             }) => {
               const url = `/${id}`;
               return (
-                <div
-                  className={styles.blog}
-                  key={id}
-                  style={{
-                    background: `linear-gradient(0deg, rgba(0,0,0,0.8) 34%, rgba(255,255,255,0) 200%), url(${headerImg}) no-repeat center center `,
-                    backgroundSize: "cover",
-                  }}
-                >
-                  <a href={url}>
-                    <h4>{title}</h4>
-                  </a>
-                  <div className={styles.profileWrap}>
-                    <Image
-                      src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/avatar-02.webp"
-                      width="80"
-                      height="45"
-                      alt="blog_writer"
-                      className={styles.blogIMg}
-                    />
-                    <span>
-                      <h5>{author}</h5>
-                      <p>
-                        {date} <BsDot className={styles.dot} />
-                        <IoTimeOutline className={styles.time} />
-                        {readTime}
-                      </p>
-                    </span>
+                <div>
+                  <div className={styles.blog}>
+                    <div className={styles.bImg}>
+                      <Image
+                        src={`${headerImg}`}
+                        width="500"
+                        height="180"
+                        alt={id}
+                        className={styles.categoryPostImgPost}
+                        style={{ objectFit: "cover" }}
+                      />
+                    </div>
+                  </div>
+                  <div className={styles.profileWrapPost}>
+                    <Link href={`/${url}`} passHref>
+                      <h4>{title.substring(0, 60)}</h4>
+                    </Link>
+                    <p>{desc.substring(0, 60)}...</p>
+                    <Link href={`/${url}`} passHref>
+                      <span>Read More</span>
+                    </Link>
+                    <div className={styles.authordiv}>
+                      <hr className={styles.hrline} />
+                      <Link href={`/${url}`}>
+                        <p className={styles.authP}>
+                          {date} <b>By</b>
+                          <span>{author}</span>
+                        </p>
+                      </Link>
+                    </div>
                   </div>
                 </div>
               );
             }
           )}
+        
       </section>
-
-      <div className={styles.loadMore}>
-        <button onClick={showMoreItems}>Load More...</button>
+      <div onClick={showMoreItems}  style={{ marginBottom: "70px", display: "flex", justifyContent: "center" }} >
+          <Button text="Load More..."/>
       </div>
       <Footer />
-      <BottomBar radio={true} />
     </>
   );
 }
