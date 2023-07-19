@@ -8,14 +8,13 @@ import {
 import Head from "next/head";
 import styles from "../styles/blog.module.css";
 import { sortByDate } from "../utils";
-import { BsDot } from "react-icons/bs";
 import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../../components/BlogPage/Socialshare/Socialshare";
 import React, { useState } from "react";
 import { FaChevronDown } from "react-icons/fa";
 import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
-import Blog from "../../components/BlogPage/Category/CategorySection";
+import Blog from "../../components/BlogPage/Blog/Category/CategorySection";
 import FirstSection from "../../components/BlogPage/FirstSection/FirstSection";
 import BottomBar from "../../components/BottomBar/BottomBar";
 

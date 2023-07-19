@@ -125,7 +125,7 @@
 .categoryWrapper {
   display: grid;
   grid-template-columns: 68% 27%;
-  gap: 100px;
+  gap: 59px;
   padding-top: 40px;
 }
 .categoryPost {
