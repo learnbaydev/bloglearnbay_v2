@@ -12,13 +12,10 @@ import Footer from "../../../components/Footer/Footer";
 import CategorySection from "../../../components/BlogPage/MainCategoryPage/MainCategorySection";
 import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
 import BottomBar from "../../../components/BottomBar/BottomBar";
+import Button from "../../../components/Button/Button";
 
 export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
   const [visible, setVisible] = useState(9);
-
-  const showMoreItems = () => {
-    setVisible((prevValue) => prevValue + 9);
-  };
 
   const cattitle = categoryPosts[0]?.cattitle || "";
   const catdesc = categoryPosts[0]?.catdesc || "";
