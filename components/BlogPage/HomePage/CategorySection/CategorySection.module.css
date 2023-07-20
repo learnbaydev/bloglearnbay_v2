@@ -244,6 +244,16 @@
   }
 }
 
+@media(max-width: 801px){
+    .blogWrap {
+    grid-template-columns: 48% 48%;
+    /* gap: ; */
+  }
+  .categoryWrapper {
+
+  grid-template-columns: 68% 30%;}
+}
+
 @media(max-width:641px){
   .categoryPostRightSide {
 display: none;
