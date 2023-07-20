@@ -1,0 +1,204 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top 5 Business Analytics Certifications to Boost Your Career",
+            "summary": "Explore the top 5 business analytics certification and Learn the latest tools and techniques to make smarter decisions, drive growth, and achieve better results.",
+            "date_modified": "2023-06-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Emerging IT Technologies and Services in 2023",
+            "summary": "Stay ahead of the crowd with our list of top 15 emerging IT technologies. Know these technologies' potential applications and how they help shape your future.",
+            "date_modified": "2023-06-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "The Most Valuable Soft Skills for IT Professionals in 2023",
+            "summary": "From Accounting & Integrity to Time Management, we have listed the ten most valuable IT skills for professionals in 2023.",
+            "date_modified": "2023-06-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "How to Build a Career in HR Analytics: Essential Skills & Qualifications",
+            "summary": "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics",
+            "date_modified": "2023-06-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top 5 Business Analyst Career Paths For 2023",
+            "summary": "Explore the 5 best career opportunities for business analyst professionals in 2023 with this blog. Also check out their salary packages respectively",
+            "date_modified": "2023-06-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "How to Use Business Analytics for Better Decision-Making",
+            "summary": "In this blog, you will be briefed on the use of business analytics in the decision making process in a company.",
+            "date_modified": "2023-06-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "How To Build A Career in Business Analytics: A Step-by-Step Guide",
+            "summary": "Learn how to build a successful Business Analyst career with this step-by-step guide. Get practical advice on topics such as data analysis, data visualisation, etc.",
+            "date_modified": "2023-05-31T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "10 Essential Skills To Become A Successful Business Analyst",
+            "summary": "Check out the top most essential skills to become a successful business analyst and it help you to stand out as a highly effective business analyst",
+            "date_modified": "2023-05-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Trending IT Career in India For 2023",
+            "summary": "Let us have a look at the most trending IT careers. We have listed the highest paying tech jobs that will help you to choose the right career path.",
+            "date_modified": "2023-05-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "HR Analytics Certification: 7 Instances of a Successful Career You Want",
+            "summary": "HR analytics certification has initiated a radical change to the HR profession. It holds a bright and lucrative future for the said professionals. Read this article to know proven facts associated with this certification.",
+            "date_modified": "2023-05-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top IT Certifications in Demand For 2023 - Learnbay Blog",
+            "summary": "From Amazon Web Services to IBM, here you will find the top IT certification courses and programs to expand your skills and boost your career and salary.",
+            "date_modified": "2023-05-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top 10 Trending Skills for a Successful Data Analytics Career",
+            "summary": "check out the skills to become a data analyst and stay ahead of the curve with these essential abilities for data analysts and boost your career.",
+            "date_modified": "2023-04-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Business Analyst Certification: 5 Ways to Certify Your Business Acumen",
+            "summary": "In this blog we will brief you about five proven facts of business analyst certification that you must consider.",
+            "date_modified": "2023-04-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Time Series Forecasting Methods | Trends of 2023",
+            "summary": "In this blog, you will learn about various advantages and use cases of time series forecasting to build strategies and limit the consequences.",
+            "date_modified": "2023-02-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!",
+            "summary": "Learn how hybrid integration platforms can help improve the efficacy of network infrastructure by leveraging various technologies and frameworks.",
+            "date_modified": "2023-02-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Time Series Forecasting! How Does It Improve Business Decision-Making?",
+            "summary": "Discover the power of time series forecasting in improving business decision-making. Explore the benefits, techniques, and also read its procedure of predition.",
+            "date_modified": "2023-01-22T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top 30 Highest Paying Jobs to Target in 2023",
+            "summary": "Are you looking for a career change? In this blog,you will learn about the 30 Highest paying jobs in technical field that will reach a peak in the upcoming years.",
+            "date_modified": "2023-01-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top 5 DSA Projects for Beginners in 2023!",
+            "summary": "In this blog, will look at some top DSA projects for beginners that may help you establish a remarkable portfolio and stand out from the crowd.",
+            "date_modified": "2022-12-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Hyperautomation and Its Benefits to Businesses and IT Processes",
+            "summary": "Hyperautomation is the hot new thing in business and IT processes. Here We'll explore what hyperautomation is, its benefits, and how businesses make use of it.",
+            "date_modified": "2022-11-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break",
+            "summary": "Women make up a significant portion of the workforce, but they often take a break from their careers to raise children or other reasons. Data science is a growing field that offers a lucrative career path for women who want to return to work after a career break.",
+            "date_modified": "2022-09-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package",
+            "summary": "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Different Job Roles After A Data Science Course",
+            "summary": "The amount of data that needs to be processed by humans has essentially been decreased and reduced by the use of data science. In today's technological environment, data scientists play a variety of functions that are fundamentally distinct from one another. If you're interested in a career in data science, check out our course to get started with different job roles in the data science industry.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Marketing, Sales, and HR Is being a data scientist the only hope?",
+            "summary": "Discover the role of data science in marketing, sales, and HR. Explore how data-driven insights can transform these industries and the opportunities for aspiring data scientists. Learn more at Learnbay Blog.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/hot-topics",
+            "url": "undefined/category/hot-topics",
+            "title": "Top 25 interview question on Statistics",
+            "summary": "Are you preparing for a statistics interview? Stay ahead of the competition with this comprehensive guide to the 25 most important interview question on Statistics.",
+            "date_modified": "2022-01-23T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Full Stack Development for Non-Techies: How to Get Started",
+            "summary": "In this blog we will guide you on essential skills, training, and tips on how to become a full stack software developer with a non-technical background.",
+            "date_modified": "2023-06-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "The Benefits of Pursuing a Full Stack developer Certification",
+            "summary": "Explore the full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry.",
+            "date_modified": "2023-05-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Why Full Stack Development is the Future of Tech",
+            "summary": "Learn about the future technologies of full stack development. Gain insights into the efficiency and demand of full stack developers in the dynamic tech industry.",
+            "date_modified": "2023-05-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "How to Build a Portfolio as a Full Stack Web Developer",
+            "summary": "Learn how to create a portfolio as a full stack web developer. Explore essential tips, practices and strategies for showcasing your skills and projects.",
+            "date_modified": "2023-05-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Becoming a Full Stack Developer: The Ultimate Career Hack",
+            "summary": "Looking to fast-track your career as a full stack developer? Explore the ultimate career hack with our comprehensive guide on becoming a full stack developer",
+            "date_modified": "2023-05-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Breaking Down The Full Stack Developer Job Description",
+            "summary": "Explore in-depth full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field.",
+            "date_modified": "2023-05-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "The Top Programming Languages for Full Stack Development",
+            "summary": "Master the essential full stack developer languages and become a sought-after employee. Our comprehensive guide outlines the various programming languages.",
+            "date_modified": "2023-05-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Top Full Stack Interview Questions and Answers in 2023",
+            "summary": "Explore the 45+ top interview questions for Full Stack developers with some tips. Master the art of acing Full Stack interviews with expert guidance.",
+            "date_modified": "2023-05-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?",
+            "summary": "In this blog, you will learn about how DSA can easily help to crack product-based company interviews and the impact it can have in the future.",
+            "date_modified": "2023-04-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?",
+            "summary": "Discover the importance of learning Data Structures and Algorithms (DSA) in Java or Python in this blog.",
+            "date_modified": "2023-03-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "7 Must-Know Web Development Languages of 2023",
+            "summary": "In this blog, you will be briefed on seven must-know web development languages HTML, CSS, JavaScript, Python, Node.Js, Express and MongoDB.",
+            "date_modified": "2023-01-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Top Courses in 2023 for a Full-Stack Software Developer",
+            "summary": "are you looking for the full-stack software development course? Here is a list of best courses that can help you to choose a career as a full-stack software developer.",
+            "date_modified": "2023-01-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "15 Tools Every Full-Stack Web Developer Should Master",
+            "summary": "Check out this list of 15 essential tools that every full-stack web developer should master, categorized for front-end and back-end developer tools.",
+            "date_modified": "2022-10-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech",
+            "summary": "In this article, we will read about 7 highly recognized female full-stack software developers, their career paths, and their advice for aspiring software developers.",
+            "date_modified": "2022-10-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break",
+            "summary": "Discover the best career path with Learnbay's Full Stack Developer Career Course, which is designed specifically for women who want to make a successful career restart after a career break.",
+            "date_modified": "2022-09-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/full-stack",
+            "url": "undefined/category/full-stack",
+            "title": "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted",
+            "summary": "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer.",
+            "date_modified": "2022-09-11T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

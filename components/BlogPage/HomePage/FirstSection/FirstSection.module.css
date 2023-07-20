@@ -114,7 +114,11 @@
   border: none;
   outline: none;
 }
-
+@media (max-width: 1281px) {
+  .banner {
+    padding: 50px 60px;
+  }
+}
 @media (max-width: 1025px) {
   .upperDiv {
     gap: 30px;
