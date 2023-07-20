@@ -20,7 +20,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
   const [visible, setVisible] = useState(3);
 
   const showMoreItems = () => {
-    setVisible((prevValue) => prevValue + 9);
+    setVisible((prevValue) => prevValue + 3);
   };
   return (
     <>
@@ -70,7 +70,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
       <section className={styles.categoryWrapper}>
         <div className={styles.blogWrap}>
           {categoryPosts
-            .slice(0, 4)
+            .slice(0, visible)
             .map(
               (
                 { id, date, title, author, desc, headerImg, categoryPosts },
@@ -83,11 +83,11 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                       <Link href={url} passHref>
                         <h4>{title}</h4>
                         <p>{desc}</p>
-
+                        <br />
+                        <hr className={styles.hrline} />
                         <span>Read More</span>
 
                         <div className={styles.authordiv}>
-                          <hr className={styles.hrline} />
                           <div className={styles.botCont}>
                             <p>26/05/2023</p>{" "}
                             <p>
@@ -103,7 +103,9 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                         <Image
                           src={headerImg}
                           fill={true}
-                          // alt={categoryPosts.id}
+                          priority={true}
+                          alt={title}
+                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                           className={styles.categoryPostImg}
                           style={{ objectFit: "cover" }}
                         />
@@ -122,7 +124,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
             let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
             let url = `/category/${makeUrl}`;
             return (
-              <Link href={url}>
+              <Link href={url} key={index}>
                 <p key={index}>{data}</p>
               </Link>
             );
