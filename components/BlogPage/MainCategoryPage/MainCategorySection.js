@@ -83,11 +83,10 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                       <Link href={url} passHref>
                         <h4>{title}</h4>
                         <p>{desc}</p>
-
+                        <hr className={styles.hrline} />
                         <span>Read More</span>
 
                         <div className={styles.authordiv}>
-                          <hr className={styles.hrline} />
                           <div className={styles.botCont}>
                             <p>26/05/2023</p>{" "}
                             <p>

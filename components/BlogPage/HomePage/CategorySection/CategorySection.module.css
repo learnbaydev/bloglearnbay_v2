@@ -125,7 +125,7 @@
 .categoryWrapper {
   display: grid;
   grid-template-columns: 68% 27%;
-  gap: 100px;
+  gap: 59px;
   padding-top: 40px;
 }
 .categoryPost {
@@ -242,6 +242,16 @@
    .rightCategoryPostFirst p {
     font-size: 11px;
   }
+}
+
+@media(max-width: 801px){
+    .blogWrap {
+    grid-template-columns: 48% 48%;
+    /* gap: ; */
+  }
+  .categoryWrapper {
+
+  grid-template-columns: 68% 30%;}
 }
 
 @media(max-width:641px){
