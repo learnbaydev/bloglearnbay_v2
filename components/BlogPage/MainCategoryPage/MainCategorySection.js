@@ -20,7 +20,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
   const [visible, setVisible] = useState(3);
 
   const showMoreItems = () => {
-    setVisible((prevValue) => prevValue + 9);
+    setVisible((prevValue) => prevValue + 3);
   };
   return (
     <>
@@ -70,7 +70,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
       <section className={styles.categoryWrapper}>
         <div className={styles.blogWrap}>
           {categoryPosts
-            .slice(0, 4)
+            .slice(0, visible)
             .map(
               (
                 { id, date, title, author, desc, headerImg, categoryPosts },
@@ -83,6 +83,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                       <Link href={url} passHref>
                         <h4>{title}</h4>
                         <p>{desc}</p>
+                        <br />
                         <hr className={styles.hrline} />
                         <span>Read More</span>
 
