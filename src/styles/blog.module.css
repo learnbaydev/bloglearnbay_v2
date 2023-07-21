@@ -17,6 +17,7 @@
   overflow-y: auto;
   height: 1700px;
   text-align: justify;
+  padding-right: 16px;
 }
 
 .headerInfo h1 {

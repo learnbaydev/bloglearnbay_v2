@@ -54,7 +54,6 @@ export default function CategorySection({ categoryPostTag }) {
                 {firstBlogPosts.map(
                   ({ id, date, title, author, headerImg, desc }) => {
                     let url = `/${id}`;
-
                     let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
                     let aurl = `/author/${amakeUrl}`;
                     return (

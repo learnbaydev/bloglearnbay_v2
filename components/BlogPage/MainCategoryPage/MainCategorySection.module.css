@@ -16,8 +16,11 @@
   height: 100%;
   display: flex;
   background: white;
-  z-index: -1;
+  z-index: 1;
   position: relative;
+  cursor: pointer;
+  
+  
 }
 .blog img {
   z-index: -1;

@@ -22,10 +22,10 @@ import BottomBar from "../../components/BottomBar/BottomBar";
 export default function Post({ postData, posts, allPostsData }) {
   // console.log(postData);
   let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
-  let aurl = `/blog/author/${makeUrl}`;
+  let aurl = `/author/${makeUrl}`;
 
   let catUrl = postData.category.toLowerCase().replace(/\s+/g, "-");
-  let curl = `/blog/category/${catUrl}`;
+  let curl = `/category/${catUrl}`;
 
   const [isContentVisible, setIsContentVisible] = useState(false);
 
@@ -102,7 +102,7 @@ export default function Post({ postData, posts, allPostsData }) {
                       const uMake = removeSpecial
                         .toLowerCase()
                         .replace(/\s+/g, "-");
-                      const url = `/blog/#${uMake}`;
+                      const url = `#${uMake}`;
                       return (
                         <div key={i}>
                           <div className={styles.divContent}>
@@ -138,7 +138,7 @@ export default function Post({ postData, posts, allPostsData }) {
                             const uMake = removeSpecial
                               .toLowerCase()
                               .replace(/\s+/g, "-");
-                            const url = `/blog/#${uMake}`;
+                            const url = `#${uMake}`;
                             return (
                               <div key={i}>
                                 <span>
