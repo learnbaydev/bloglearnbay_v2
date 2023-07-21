@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styles from "./MainCategorySection.module.css";
 import Image from "next/image";
 import Link from "next/link";
@@ -6,11 +6,22 @@ import { CiSearch } from "react-icons/ci";
 import dynamic from "next/dynamic";
 const Button = dynamic(() => import("../../Button/Button"));
 
-function CategorySection({ categoryPosts, categoryPostTag }) {
+function MainCategorySection({ categoryPosts, categoryPostTag }) {
   const [search, setSearch] = useState();
   function findSerach(value) {
     setSearch(value.target.value);
   }
+
+  useEffect(() => {
+    //
+    var input = document.getElementById("myInput");
+    input.addEventListener("keypress", function (event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("myBtn").click();
+      }
+    });
+  });
   const [selectedOption, setSelectedOption] = useState("");
 
   const handleOptionChange = (e) => {
@@ -26,14 +37,14 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
     <>
       <div className={styles.upperDiv}>
         <div className={styles.innerP}>
-          <Link href="#">
+          <Link href="https://www.learnbay.co/">
             <p>Home&nbsp; {">"}</p>
           </Link>
-          <Link href="#">
+          <Link href="/">
             <p>&nbsp;&nbsp;Blog&nbsp; {">"}</p>
           </Link>
           <Link href="#">
-            <p>&nbsp;&nbsp;Data Science</p>
+            <p>&nbsp;&nbsp;{categoryPosts[0].category}</p>
           </Link>
         </div>
         <div className={styles.btnsFlex}>
@@ -52,17 +63,20 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
           <div className={styles.formControl}>
             <CiSearch />
             <input
+              id="myInput"
               onChange={findSerach}
               type="text"
               placeholder="Search"
               aria-label="Search"
               aria-describedby="button-search"
             />
+
             <Link
               href={{
                 pathname: "/Search",
                 query: { q: search?.toLowerCase() },
               }}
+              id="myBtn"
             ></Link>
           </div>
         </div>
@@ -135,4 +149,4 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
   );
 }
 
-export default CategorySection;
+export default MainCategorySection;

@@ -19,6 +19,7 @@ export default function blog({ allPostsData, categoryPostTag }) {
   //   return post.category;
   // });
   // let categoryPostTag = Array.from(new Set(singleCategoryPost));
+
   return (
     <div>
       <Head>
@@ -58,6 +59,7 @@ export default function blog({ allPostsData, categoryPostTag }) {
     </div>
   );
 }
+
 export async function getStaticProps(_context) {
   await generateRssFeed();
   await generateCategoryRssFeed();
