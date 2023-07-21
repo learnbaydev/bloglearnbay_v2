@@ -1,4 +1,4 @@
-.blogWrap {
+/* .blogWrap {
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -21,22 +21,22 @@
 }
 .blog img {
   z-index: -1;
-}
-.botCont {
+} */
+/* .botCont {
   display: flex;
   justify-content: space-between;
-}
+} */
 
-.blogBox {
+/* .blogBox {
   display: flex;
   position: relative;
-}
+} */
 
 .categoryPosts h4:hover {
   color: #2d9cd7;
 }
 
-.profileWrap {
+/* .profileWrap {
   padding: 15px 30px 15px 40px;
   z-index: 0;
   background-color: white;
@@ -60,9 +60,9 @@
   font-size: 1rem;
   line-height: 1rem;
   margin: 20px 0px;
-}
+} */
 
-.blog span h5,
+/* .blog span h5,
 .profileWrap h5 {
   font-size: 14px;
   color: white;
@@ -78,7 +78,7 @@
   font-size: 0.875rem;
   line-height: 1.25rem;
   color: #545151;
-}
+} */
 
 .tagSpan {
   padding: 8px;
@@ -98,7 +98,7 @@
 .categoryPosts {
   cursor: pointer;
 }
-
+/* 
 .viewMoreSection {
   padding: 50px 70px 0px 70px;
   display: flex;
@@ -114,7 +114,7 @@
   color: #4fa0eb;
   font-size: 20px;
   margin-top: 15px;
-}
+} */
 
 .categoryWrapper {
   display: grid;
@@ -158,31 +158,31 @@
   background-color: #0072bc;
 }
 
-.authordiv {
+/* .authordiv {
   margin-top: 10px;
-}
+} */
 
 .categoryPostRightSide .categoryPost {
   display: block;
   padding: 34px;
 }
 
-.categoryPostImg {
+/* .categoryPostImg {
   height: 240px;
   border-radius: 0px 10px 10px 0px;
   z-index: -1;
-}
+} */
 
-.upperDiv {
+/* .upperDiv {
   margin-top: 130px;
   padding: 0px 100px;
   display: flex;
   gap: 50px;
   align-items: center;
   justify-content: space-between;
-}
+} */
 
-.innerP {
+/* .innerP {
   display: flex;
 }
 
@@ -193,9 +193,9 @@
 .innerP p:hover {
   color: #2d9cd7;
   border-bottom: 1px solid;
-}
+} */
 
-.formControl {
+/* .formControl {
   padding: 5px;
   border-radius: 30px;
   border: 1px solid #0000004d;
@@ -207,9 +207,9 @@
 .formControl input {
   border: none;
   outline: none;
-}
+} */
 
-.btnsFlex {
+/* .btnsFlex {
   display: flex;
   gap: 20px;
 }
@@ -218,12 +218,12 @@
   background-color: #0072bc;
   color: #fff;
   padding: 5px 10px;
-}
+} */
 
-.btdfdd {
+/* .btdfdd {
   border-radius: 8px;
-}
-
+} */
+/* 
 .rightSide {
   background: #e1f1f54d;
   text-align: center;
@@ -240,11 +240,11 @@
 
 .rightSide p:last-child {
   border: none;
-}
+} */
 
 /* Css use for search feature Post.js page */
 
-.bImg{
+/* .bImg{
   height: 100%;
   left: 0;
   top: 0;
@@ -252,9 +252,9 @@
   width: 100%;
   overflow: hidden;
   z-index: -1;
-}
+} */
 
-.profileWrapPost{
+/* .profileWrapPost{
     padding: 42px 15px 20px 15px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     border-radius: 10px;
@@ -293,24 +293,24 @@
   font-weight: bold;
   font-size: 15px;
   line-height: 1rem;
-}
+} */
 
-.categoryPostImgPost {
+/* .categoryPostImgPost {
   height: 160px;
 }
 
 
 .authP{
   display: block;
-}
+} */
 
 @media (max-width: 1281px) {
-  .viewMoreSection {
+  /* .viewMoreSection {
     gap: 100px;
   }
   .upperDiv {
     padding: 0px 50px;
-  }
+  } */
   .categoryWrapper {
     /* padding: 3px 50px; */
     gap: 45px;
@@ -323,23 +323,23 @@
     padding: 20px;
   }
 
-  .upperDiv {
+  /* .upperDiv {
     margin-top: 100px;
     padding: 0px 20px;
-  }
+  } */
 
   /* .categoryWrapper {
     grid-template-columns: 70% 25%;
     padding: 50px 20px;
   } */
 
-  .blogWrap {
+  /* .blogWrap {
     grid-template-columns: 48% 48%;
     display: grid;
     gap: 30px;
-  }
+  } */
 
-  .blog {
+  /* .blog {
     display: flex;
     justify-content: center;
   }
@@ -353,9 +353,9 @@
 
   .viewMoreSection p {
     font-size: 16px;
-  }
+  } */
 
-  .profileWrap h4 {
+  /* .profileWrap h4 {
     font-size: 24px;
     line-height: inherit;
   }
@@ -363,74 +363,74 @@
   .profileWrap p {
     font-size: 0.81rem;
     gap: 7px;
-  }
+  } */
 
   .rightCategoryPostFirst p {
     font-size: 13px;
   }
-  .categoryPostImg {
+  /* .categoryPostImg {
     height: fit-content;
     width: 100%;
     border-radius: 10px 10px 0px 0px;
-  }
-  .profileWrap {
+  } */
+  /* .profileWrap {
     border-radius: 0px 0px 10px 10px;
-  }
+  } */
 }
 
 @media (max-width: 801px) {
-  .blogWrap {
+  /* .blogWrap {
     display: flex;
-  }
-  .blog img {
+  } */
+  /* .blog img {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
-  }
+  } */
   .categoryWrapper {
     gap: 20px;
     grid-template-columns: 70% 27%;
   }
-  .rightSide p {
+  /* .rightSide p {
     font-size: 12px;
-  }
+  } */
 }
 
 @media (max-width: 641px) {
-  .profileWrap h4 {
+  /* .profileWrap h4 {
     font-size: 18px;
-  }
+  } */
 
-  .innerP {
+  /* .innerP {
     display: flex;
   }
   .upperDiv {
     display: grid;
     gap: 20px;
-  }
+  } */
 
-  .profileWrap {
+  /* .profileWrap {
     padding: 20px;
-  }
+  } */
   .categoryWrapper {
     grid-template-columns: 66% 31%;
   }
 }
 
 @media (max-width: 481px) {
-  .btnsFlex {
+  /* .btnsFlex {
     display: grid;
     gap: 10px;
-  }
-  .blogWrap {
+  } */
+  /* .blogWrap {
     display: grid;
     grid-template-columns: 100%;
     align-items: center;
     margin: 30px 20px;
-  }
-  .blog {
+  } */
+  /* .blog {
     padding: 0px;
     position: relative;
-  }
+  } */
   .categoryPosts {
     margin: 30px 0px;
   }
@@ -447,9 +447,9 @@
     margin-top: 10px;
   }
 
-  .rightSide {
+  /* .rightSide {
     margin: 20px 20px 50px 20px;
-  }
+  } */
 
   .categoryPostRightSide .categoryPost {
     display: block;
