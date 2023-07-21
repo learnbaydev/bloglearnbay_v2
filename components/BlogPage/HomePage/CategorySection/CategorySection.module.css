@@ -13,18 +13,14 @@
   background-size: cover;
   border-radius: 10px;
   display: flex;
+  background-color: white;
   cursor: pointer;
-  z-index: 0;
+  z-index: -1;
 }
 
 .blogBox {
   display: flex;
   position: relative;
-}
-.blog:hover {
-  box-shadow: 0px 0px 10px 0px rgb(45 156 215 / 31%),
-    0px 0px 10px 0px rgb(45 156 215 / 31%);
-  transition: all 0.5 ease-in-out;
 }
 
 .categoryPosts h4:hover {
@@ -99,7 +95,7 @@
   cursor: pointer;
   display: flex;
   flex-flow: column;
-  padding: 40px 50px;
+  padding: 40px 100px;
 }
 
 .viewMoreSection {
@@ -125,7 +121,7 @@
 .categoryWrapper {
   display: grid;
   grid-template-columns: 68% 27%;
-  gap: 59px;
+  gap: 40px;
   padding-top: 40px;
 }
 .categoryPost {
@@ -188,8 +184,14 @@
     gap: 100px;
   }
   .categoryWrapper {
-  gap: 59px;
-}
+    gap: 59px;
+  }
+  .categoryPosts {
+    cursor: pointer;
+    display: flex;
+    flex-flow: column;
+    padding: 40px 60px;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -197,8 +199,8 @@
     padding: 20px;
   }
   .categoryWrapper {
-  gap: 70px;
-}
+    gap: 70px;
+  }
   .blogWrap {
     grid-template-columns: 33% 33% 33%;
   }
@@ -207,7 +209,7 @@
   }
 
   .viewMoreSection p {
-        font-size: 14px;
+    font-size: 14px;
   }
 
   .profileWrap h4 {
@@ -224,49 +226,52 @@
     font-size: 15px;
   }
 }
-@media(max-width:961px){
-     .viewMoreSection p {
-        font-size: 12px;
+@media (max-width: 961px) {
+  .viewMoreSection {
+    grid-template-columns: 100%;
+    gap: 10px;
   }
-   .profileWrap h4 {
-    font-size: 10px;
-    line-height: 16px;
+  .viewMoreSection p {
+    font-size: 12px;
+  }
+  .profileWrap h4 {
+    font-size: 20px;
+    line-height: 22px;
     font-weight: 500;
   }
-   .profileWrap p {
-    font-size: 10px;
+  .profileWrap p {
+    font-size: 16px;
   }
   .profileWrap span {
     font-size: 11px;
   }
-   .rightCategoryPostFirst p {
+  .categoryWrapper {
+    grid-template-columns: 100%;
+  }
+  .categoryPostRightSide {
+    display: none;
+  }
+  .rightCategoryPostFirst p {
     font-size: 11px;
   }
 }
 
-@media(max-width: 801px){
-    .blogWrap {
-    grid-template-columns: 48% 48%;
-    /* gap: ; */
+@media (max-width: 641px) {
+  .categoryPostRightSide {
+    display: none;
+  }
+
+  .blogWrap {
+    grid-template-columns: 49% 49%;
+  }
+  .viewMoreSection1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
   }
   .categoryWrapper {
-
-  grid-template-columns: 68% 30%;}
-}
-
-@media(max-width:641px){
-  .categoryPostRightSide {
-display: none;
-}
- .viewMoreSection1 {
- display: flex;
- width: 610px;
- justify-content: space-around;
- text-align: center;
-}
-.categoryWrapper {
-  grid-template-columns: 100%;
-}
+    grid-template-columns: 100%;
+  }
 }
 @media (max-width: 600px) {
   .blogWrap {
@@ -282,6 +287,7 @@ display: none;
   }
   .categoryPosts {
     margin: 30px 20px;
+    padding: 0;
   }
   .categoryWrapper {
     display: block;
@@ -294,21 +300,27 @@ display: none;
   .rightCategoryPost {
     margin-top: 10px;
   }
-    .viewMoreSection p {
-        font-size: 12px;
+  .viewMoreSection p {
+    margin: 0;
+    font-size: 12px;
   }
 }
 
-@media(max-width: 481px){
-   .viewMoreSection h2 {
+@media (max-width: 481px) {
+  .viewMoreSection h2 {
     font-size: 16px;
   }
+  .categoryWrapper {
+    padding-top: 0;
+  }
   .viewMoreSection1 {
- display: flex;
- width: 310px;
- justify-content: space-around;
- text-align: center;
-}
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+
+    text-align: center;
+  }
 }
 
 @media (max-width: 400px) {

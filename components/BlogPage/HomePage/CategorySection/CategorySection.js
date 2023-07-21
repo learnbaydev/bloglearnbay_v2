@@ -65,7 +65,7 @@ export default function CategorySection({ categoryPostTag }) {
                               src={headerImg}
                               width="300"
                               height="180"
-                              alt={categoryPosts.id}
+                              alt={title}
                               className={styles.categoryPostImg}
                               style={{ objectFit: "cover" }}
                             />

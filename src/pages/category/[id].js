@@ -13,6 +13,7 @@ import CategorySection from "../../../components/BlogPage/MainCategoryPage/MainC
 import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
 import BottomBar from "../../../components/BottomBar/BottomBar";
 import Button from "../../../components/Button/Button";
+import Link from "next/link";
 
 export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
   const [visible, setVisible] = useState(9);
@@ -29,18 +30,11 @@ export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
       />
 
       <Head>
-        {categoryPosts.slice(0, 1).map(({ category, categoryPosts }) => {
+        {/* {categoryPosts.slice(0, 1).map(({ category, categoryPosts }, index) => {
           let makeUrl = category.toLowerCase().replace(/\s+/g, "-");
-
-          return (
-            <>
-              <link
-                rel="canonical"
-                href={"https://blog.learnbay.co/category/" + makeUrl}
-              />
-            </>
-          );
-        })}
+          const canonicalUrl = "https://blog.learnbay.co/category/" + makeUrl;
+          return <Link key={index} rel="canonical" href={canonicalUrl} />;
+        })} */}
         {/* <html lang="en" /> */}
         <meta name="robots" content="index, follow" />
         <link

@@ -38,13 +38,8 @@ export default function CategoryBlog({ categoryPosts }) {
       <Head>
         {categoryPosts.slice(0, 1).map(({ author, categoryPosts }) => {
           let makeUrl = author.toLowerCase().replace(/\s+/g, "-");
-
-          return (
-            <link
-              rel="canonical"
-              href={"https://blog.learnbay.co/author/" + makeUrl}
-            />
-          );
+          const canonical = "https://blog.learnbay.co/author/" + makeUrl;
+          return <link rel="canonical" href={canonical} />;
         })}
         <link
           rel="icon"
@@ -54,17 +49,12 @@ export default function CategoryBlog({ categoryPosts }) {
       </Head>
 
       <Navbar />
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
 
       <div className={authorstyle.mdiv}>
         <div className={authorstyle.mcircle}>
           <Image
             src={categoryPosts[0].authorimg}
-            alt=""
+            alt={categoryPosts[0].authorimg}
             priority={true}
             width={170}
             height={170}
@@ -138,10 +128,16 @@ export default function CategoryBlog({ categoryPosts }) {
               );
             }
           )}
-        
       </section>
-      <div onClick={showMoreItems}  style={{ marginBottom: "70px", display: "flex", justifyContent: "center" }} >
-          <Button text="Load More..."/>
+      <div
+        onClick={showMoreItems}
+        style={{
+          marginBottom: "70px",
+          display: "flex",
+          justifyContent: "center",
+        }}
+      >
+        <Button text="Load More..." />
       </div>
       <Footer />
     </>

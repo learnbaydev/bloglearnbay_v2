@@ -103,7 +103,9 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
                         <Image
                           src={headerImg}
                           fill={true}
-                          // alt={categoryPosts.id}
+                          priority={true}
+                          alt={title}
+                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                           className={styles.categoryPostImg}
                           style={{ objectFit: "cover" }}
                         />
@@ -122,7 +124,7 @@ function CategorySection({ categoryPosts, categoryPostTag }) {
             let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
             let url = `/category/${makeUrl}`;
             return (
-              <Link href={url}>
+              <Link href={url} key={index}>
                 <p key={index}>{data}</p>
               </Link>
             );

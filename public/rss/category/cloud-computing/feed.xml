@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Learnbay blog</title>
+        <link>undefined</link>
+        <description></description>
+        <lastBuildDate>Fri, 21 Jul 2023 06:12:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Learnbay blog</title>
+            <url>undefined/logo.svg</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2023, Learnbay</copyright>
+        <item>
+            <title><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
+            <link>undefined/category/cloud-computing</link>
+            <guid>undefined/category/cloud-computing</guid>
+            <pubDate>Mon, 24 Oct 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></description>
+        </item>
+    </channel>
+</rss>

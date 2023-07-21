@@ -1,0 +1,76 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "Python 2 Vs Python 3: Know How They Differ?",
+            "summary": "Python 2 Vs Python 3 has become a hot topic for python in data science and AI. Here we examined differences between both and explained which could be better alternative.",
+            "date_modified": "2023-04-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?",
+            "summary": "We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message.",
+            "date_modified": "2023-02-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "8 Most Trending Python Libraries for Natural Language Processing (NLP) [2023 Update]",
+            "summary": "Discover the trending Python libraries for natural language processing (NLP) that would help you with classification, summarization, NER, and machine translation.",
+            "date_modified": "2023-02-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "Operators in Python - Operation using Symbol",
+            "summary": "Python has a set of built-in operators that can be used on different data types. In this blog, we will learn about the different operators in Python and how to use them.",
+            "date_modified": "2022-09-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "Basics of Functions In Python - A Glance",
+            "summary": "In this blog you will learn about Python functions, including how to call and write a function. To understand more about Python functions, click here.",
+            "date_modified": "2022-09-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "Tuples - An Immutable Derived Datatype",
+            "summary": "In this blog you will learn about What is Tuples, Their Different Types, Sorting of Tuples and also, you will get to know about its basic operations.",
+            "date_modified": "2022-08-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "Introduction to Python Programming",
+            "summary": "The Python programming language is a high-level, general-purpose language. The object-oriented programming approach made it ideal for application development.",
+            "date_modified": "2022-04-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/python",
+            "url": "undefined/category/python",
+            "title": "Method Overriding in Python of Data Science Everything You Need to Know",
+            "summary": "The method overriding in Python means creating around two methods with the same particular name but differ in the programming logic as well.",
+            "date_modified": "2021-12-16T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}
