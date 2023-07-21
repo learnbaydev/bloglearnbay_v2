@@ -335,11 +335,6 @@
   display: inline;
 }
 
-
-
-
-
-
 .blogWrapPost {
   display: grid;
   grid-template-columns: 30% 30% 30%;
@@ -348,6 +343,15 @@
   gap: 30px;
 }
 
+@media(max-width: 801px){
+.blogWrapPost {
+  margin: 45px 50px;
+}
+.blogHead {
+  margin-left: 56px;
+
+}
+}
 
 @media (max-width: 600px) {
   .searchmain {
@@ -429,6 +433,13 @@
     right: 37px;
   }
 }
+@media(max-width: 482px){
+   .blogWrapPost {
+  grid-template-columns: 48% 48%;
+    margin: 45px 40px;
+  gap: 30px;
+}
+}
 
 @media (max-width: 400px){
 
@@ -438,8 +449,13 @@
     text-align: left;
     padding: 20px;
   }
+   .blogWrapPost {
+  grid-template-columns:  100%;
 
 }
+}
+
+
 
 
 
