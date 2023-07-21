@@ -6,7 +6,9 @@
   grid-template-columns: 35% 62%;
   background: #e1f1f559;
 }
-
+.active {
+  border-bottom: 2px solid #2d9cd7;
+}
 .upperBanner {
   margin: 40px 0px 70px 0px;
 }

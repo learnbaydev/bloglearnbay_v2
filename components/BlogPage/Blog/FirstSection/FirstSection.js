@@ -16,6 +16,7 @@ function FirstSection({ allPostsData }) {
   function findSerach(value) {
     setSearch(value.target.value);
   }
+  const [active, setActive] = useState(false);
 
   useEffect(() => {
     //
@@ -33,13 +34,34 @@ function FirstSection({ allPostsData }) {
       <div className={styles.upperDiv}>
         <div className={styles.innerP}>
           <Link href="#featured">
-            <p>FEATURED BLOG POSTS</p>
+            <p
+              className={active ? styles.inactive : styles.active}
+              onClick={() => {
+                setActive(!active);
+              }}
+            >
+              FEATURED BLOG POSTS
+            </p>
           </Link>
           <Link href="#data-science">
-            <p>DATA SCIENCE & BUSINESS ANALYTICS</p>
+            <p
+              className={active ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(!active);
+              }}
+            >
+              DATA SCIENCE & BUSINESS ANALYTICS
+            </p>
           </Link>
           <Link href="#software">
-            <p>SOFTWARE DEVELOPMENT</p>
+            <p
+              className={active ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(!active);
+              }}
+            >
+              SOFTWARE DEVELOPMENT
+            </p>
           </Link>
         </div>
         <div className="col-lg-4">
@@ -64,7 +86,7 @@ function FirstSection({ allPostsData }) {
           </div>
         </div>
       </div>
-      <div className={styles.upperBanner}>
+      <div className={styles.upperBanner} id="featured">
         <Swiper
           slidesPerView={1}
           spaceBetween={40}

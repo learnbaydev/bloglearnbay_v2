@@ -7,7 +7,10 @@
 .Open {
   margin: 50px 44px;
 }
-
+.sticky {
+  position: sticky;
+  top: 70px;
+}
 .headerInfo {
   margin: 0px 0px 50px 0px;
 }
@@ -37,6 +40,7 @@
 .bodyInfo {
   display: grid;
   gap: 23px;
+  scroll-behavior: smooth;
   grid-template-columns: 20% 54% 22%;
 }
 
