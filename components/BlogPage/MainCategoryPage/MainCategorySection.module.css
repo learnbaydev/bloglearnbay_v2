@@ -49,10 +49,10 @@
 }
 
 .profileWrap h4 {
-  font-size: 26px;
+  font-size: 21px;
   font-weight: 500;
   margin: 10px 0px 20px 0px;
-  line-height: 35px;
+  line-height: 26px;
 }
 .profileWrap span {
   display: flex;
@@ -231,9 +231,9 @@
 .rightSide {
   background: #e1f1f54d;
   text-align: center;
-  height: 410px;
+  height: max-content;
   padding: 0px 20px;
-  overflow-x: scroll;
+  overflow: hidden;
 }
 
 .rightSide p {
@@ -347,20 +347,18 @@
     padding: 50px 20px;
   }
 
-  .blogWrap {
-    grid-template-columns: 48% 48%;
-    display: grid;
-    gap: 30px;
-  }
+ .profileWrap span {
+  font-size: 13px;
+ }
 
   .blog {
     display: flex;
     justify-content: center;
   }
 
-  .blogUpper {
+  /* .blogUpper {
     display: block;
-  }
+  } */
   .viewMoreSection h2 {
     font-size: 20px;
   }
@@ -370,12 +368,13 @@
   }
 
   .profileWrap h4 {
-    font-size: 24px;
-    line-height: inherit;
+    font-size: 18px;
+    line-height: 25px;
   }
 
   .profileWrap p {
-    font-size: 0.81rem;
+    display: none;
+    font-size: 13px;
     gap: 7px;
   }
 
@@ -390,12 +389,29 @@
   .profileWrap {
     border-radius: 0px 0px 10px 10px;
   }
+  .profileWrapPost span {
+    font-size: 11px;
+  }
+  .profileWrapPost p {    
+    font-size: 13px;}
+    .profileWrapPost h4 {
+      font-size: 14px;
+    }
+    .blogWrapPost {   
+       margin: 45px 66px;
+          gap: 41px;}
+          .profileWrapPost{height: 283px;}
 }
 
+/* @media(max-width:961px){
+  .profileWrapPost{height: 283px;}
+} */
 @media (max-width: 801px) {
   .blogWrap {
     display: flex;
   }
+  .blogWrapPost {   
+     margin: 45px 86px; }
   .blog img {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
@@ -407,13 +423,21 @@
   .rightSide p {
     font-size: 12px;
   }
+   .profileWrap h4 {
+    font-size: 17px;
+    line-height: 23px;
+  }
 }
 
 @media (max-width: 641px) {
   .profileWrap h4 {
     font-size: 18px;
   }
-
+.profileWrapPost{
+  height: 322px;
+}
+   .blogWrapPost {   
+     margin: 45px 46px; }
   .innerP {
     display: flex;
   }
@@ -428,9 +452,20 @@
   .categoryWrapper {
     grid-template-columns: 66% 31%;
   }
+   .categoryWrapper {
+
+    padding: 50px 40px;
+  }
 }
 
 @media (max-width: 481px) {
+  .blogWrapPost {
+  grid-template-columns: 48% 48%;
+   gap: 15px;
+}
+.profileWrapPost{
+  height: max-content;
+}
   .btnsFlex {
     display: grid;
     gap: 10px;
@@ -464,4 +499,13 @@
   .rightSide {
     margin: 20px 20px 50px 20px;
   }
+   .profileWrap h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
 }
+
+@media (max-width: 400px) {
+  .blogWrapPost {
+  grid-template-columns: 100% ;
+}}
