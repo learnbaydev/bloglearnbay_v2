@@ -65,7 +65,7 @@ export async function getStaticProps(_context) {
   await generateCategoryRssFeed();
   const allPostsData = getSortedPostsData();
   let singleCategoryPost = allPostsData.map((post) => {
-    return post.category;
+    return post.parantcategory;
   });
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
 
@@ -76,3 +76,4 @@ export async function getStaticProps(_context) {
     },
   };
 }
+ 

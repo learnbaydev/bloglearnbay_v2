@@ -18,6 +18,10 @@
   z-index: -1;
 }
 
+.active {
+  border-bottom: 2px solid #2d9cd7;
+}
+
 .blogBox {
   display: flex;
   position: relative;
@@ -50,7 +54,6 @@
 .profileWrap span {
   display: flex;
   gap: 5px;
-  flex-flow: column;
   color: #0072bc;
   font-weight: bold;
 
@@ -68,7 +71,7 @@
 .profileWrap p {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 50px;
   margin: 0;
   margin-top: 5px;
   font-size: 0.875rem;
@@ -162,8 +165,6 @@
 }
 
 .authordiv {
-  display: flex;
-  align-items: center;
   margin-top: 10px;
 }
 
@@ -178,6 +179,44 @@
   position: relative;
   top: 0px;
 }
+
+/* category filter css */
+.upperDiv {
+  padding: 0px 100px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.innerP {
+  display: flex;
+  gap: 50px;
+}
+
+.innerP p {
+  cursor: pointer;
+}
+
+.innerP p:hover {
+  color: #2d9cd7;
+  border-bottom: 1px solid;
+}
+
+.formControl {
+  padding: 5px;
+  border-radius: 30px;
+  border: 1px solid #0000004d;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.formControl input {
+  border: none;
+  outline: none;
+}
+
+/* category filter end */
 
 @media (max-width: 1281px) {
   .viewMoreSection {
@@ -225,6 +264,17 @@
   .rightCategoryPostFirst p {
     font-size: 15px;
   }
+  .upperDiv {
+    gap: 30px;
+    padding: 0px 50px;
+    margin-top: 100px;
+  }
+  .innerP {
+    gap: 30px;
+  }
+  .innerP p {
+    font-size: 14px;
+  }
 }
 @media (max-width: 961px) {
   .viewMoreSection {
@@ -254,6 +304,9 @@
   .rightCategoryPostFirst p {
     font-size: 11px;
   }
+  .upperDiv {
+    padding: 0px 20px;
+  }
 }
 
 @media (max-width: 641px) {
@@ -271,6 +324,22 @@
   }
   .categoryWrapper {
     grid-template-columns: 100%;
+  }
+  .upperDiv {
+    display: grid;
+    grid-template-columns: 59% 40%;
+    gap: 10px;
+    width: 100%;
+  }
+  .formControl {
+    width: 100%;
+  }
+  .formControl input {
+    width: 100%;
+  }
+  .innerP {
+    grid-template-columns: 60% 95% 66%;
+    gap: 10px;
   }
 }
 @media (max-width: 600px) {

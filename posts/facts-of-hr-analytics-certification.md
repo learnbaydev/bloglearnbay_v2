@@ -15,7 +15,8 @@ tag:
     hr analytics course with placement,
     data analytics for hr professionals,
   ]
-category: "Hot Topics"
+parantcategory: "Hot Topics"
+category: "Trending"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."

@@ -9,7 +9,8 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-1.jpg"
 headerAlt: "A banner image titled 'OpenAI GPT-3 Revolution', The Thrill of Next-Generation AI Innovation' shows an robot looking at a large screen."
 date: "Feb 01, 2023"
-tag: [ OpenAI GPT-3, chat GPT-3 ]
+tag: [OpenAI GPT-3, chat GPT-3]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +19,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,11 +28,14 @@ h1: "OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation"
 id: "openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation"
 tableData:
   [
-      Why is GPT-3 so special?, OpenAI GPT-3 work model:-, Use cases of GTP-3:-, GPT-3 integrated application for great results and productivity:-, But the ultimate twist comes here....
-
-   ]
-
+    Why is GPT-3 so special?,
+    OpenAI GPT-3 work model:-,
+    Use cases of GTP-3:-,
+    GPT-3 integrated application for great results and productivity:-,
+    But the ultimate twist comes here....,
+  ]
 ---
+
 <span style=" font-weight:bold; font-size:28px">Become Well-versed with the OpenAI GPT-3 Model Through a Variety of Fascinating Facts!</span>
 
 Have you ever written a screenplay? Perhaps you're really terrible at it. But that doesn't mean that you can't impress your friends by presenting a good screenplay if you have a hidden aspiration about it. GPT-3 technology can auto-generate it for you with minimal possible topic-related manual inputs.
@@ -56,11 +60,11 @@ As of the present, GPT-3 is the largest neural network ever created. In the end,
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-2.jpg" style="width:100%" class="img" alt='The photo shows a human hand using a smartphone. A callout from the phone shows a robotic face. Illuminative radiation comes out from the phone screen with a text that reads "GPT."The phone is surrounded by Messenger logos.'/>
 
-### 1. Can GPT-3 write code?  
+### 1. Can GPT-3 write code?
 
 OpenAI GPT-3 allows us to advance <a href="https://blog.learnbay.co/nlp-and-deep-learning-for-data-scientists" target="_blank">Natural language processing (NLP)</a>, which can code automatically and understand the programming language by utilizing AI to run feasibility checks. With just a few lines of Python code, you will be able to create and maintain a straightforward web application that uses advanced code generation features.
 
-### 2. Is GPT-3 open-sourced software?  
+### 2. Is GPT-3 open-sourced software?
 
 Despite being the largest of its kind, the initial GPT-3 language model had no embedded knowledge and could not store or retrieve factual information. GPT-3 is not a language model that is open-sourced. It can handle up to 45 TB of text data and was trained on a dataset with 175B parameters.
 
@@ -72,7 +76,7 @@ The general release adds restrictions that only permit the use of GPT-3 in a few
 
 OpenAI API fine-tuning API for GPT-3 has recently gained some attention due to its ability to improve performance in computer vision tasks making it especially helpful in the context of navigation projects that may not have large datasets to train on.
 
-## OpenAI GPT-3 work model:- 
+## OpenAI GPT-3 work model:-
 
 An illustration of a language model is GPT-3, a statistical software that instructs a machine on how to communicate with people in a certain environment, such as the real world. Initially, it was created as neural network software.
 
@@ -96,25 +100,25 @@ Software that determines the probability of words occurring sequentially is call
 
 <a href="https://blog.learnbay.co/the-top-10-deep-learning-algorithms-to-master-in-2023" target="_blank">Deep learning</a> is a kind of adaptive compression where words are given vectors or numerical representations. This is the name given to this process of adjusting to particular data patterns. The technique being applied here is known as "**data compression.**"
 
-## Use cases of GTP-3:-   
+## Use cases of GTP-3:-
 
 GPT-3 is appropriate in a wide range of essential situations. It includes everything from writing posts (although needing the final touch from human) to writing code or sending bulk business emails. The list goes on and on. A few applications for OpenAI GPT-3 are listed below:-
 
--  The development of layout tools and apps
+- The development of layout tools and apps
 
--  Data gathering and analysis
+- Data gathering and analysis
 
--  Both the creation and analysis of programs
+- Both the creation and analysis of programs
 
--  Chat GPT-3 for Text Production
+- Chat GPT-3 for Text Production
 
--  Development of content Mathematics and general reasoning
+- Development of content Mathematics and general reasoning
 
--  Games of chess using natural language in IVR designs
+- Games of chess using natural language in IVR designs
 
--  Clinical vignettes used for patient diagnosis
+- Clinical vignettes used for patient diagnosis
 
--  Converting legal language to ordinary English using chat GPT-3
+- Converting legal language to ordinary English using chat GPT-3
 
 **Note**: _OpenAI is also capable of producing AI artwork via DALL-E2. You can read the blog_ _<a href="https://blog.learnbay.co/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai" target="_blank">The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI</a>_
 
@@ -122,36 +126,31 @@ GPT-3 is appropriate in a wide range of essential situations. It includes everyt
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-4.jpg" style="width:100%" class="img" alt='A two-part illustration shows a robot reading a book on the left and a girl sitting in a chair using a laptop on the right.'/>
 
-### 1. Tabulate   
+### 1. Tabulate
 
 Tabulate uses the GPT-3 AI model to unite industry accounting professionals with cutting-edge technology. This can help in creating the greatest financial back-office solution. It provides several services, including
 
 - Accounts payable
-  
 - Payroll
-  
 - Analytics
-  
 - Bookkeeping
-  
 - Tax Preparation
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-5.jpg" style="width:100%" class="img" alt='A laptop shows a chat GPT-3 powered tool, Message bird.'/>
 
-### 2. MessageBird:-   
+### 2. MessageBird:-
 
 A Chat GPT-3 powered tool is integrated into MessageBird's channel communications platform. While improving each interaction helps to make video meetings and authentications more productive for sales and marketing.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-6.jpg" style="width:100%" class="img" alt='An illustration shows a desktop, keyboard, mouse, and megaphone on a table with a Messenger logo at the top.'/>
 
-
-### 3. Copy AI:-  
+### 3. Copy AI:-
 
 Copy AI is a well-known GPT-3-powered technology that automates creativity tools and efficiently produces marketing copy in a short amount of time. This AI model may be used by businesses to create digital ads, social media posts, website content, eCommerce copy, blog content, and sales copy.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ogt-7.jpg" style="width:100%" class="img" alt='A GPT-3-powered robot used for social media platform communication shows different unknown profiles.'/>
 
-### 4. GPT-3 AI Channel:-  
+### 4. GPT-3 AI Channel:-
 
 One of the most well-known GPT-3-driven apps is AI Channel, which also functions as a social media platform for communicating with AI agents. It is beneficial for businesses or individuals to communicate with an AI model that can grasp natural language. The AI Channel app experience is similar to a messaging app and includes a directory of various discussions.
 
@@ -160,7 +159,6 @@ One of the most well-known GPT-3-driven apps is AI Channel, which also functions
 AI has beaten AI. Yes, although Chat GPT-3 can write an entire blog with the least possible human interference but Google search engines can now detect and demote the content. Basically, Google uses advanced neural engines to detect patterns of content and easily detect the lack of human touch. In fact, Google's webmaster guidelines also go against such AI-written content. In fact, the chat GPT-3 does not have data after 2021.
 
 **Although this was a good initiation, somehow it lost track. In fact, Google is now more intense in detecting AI-generated content and demoting the respective sites.**
-
 
 ## Then, what lies next?
 

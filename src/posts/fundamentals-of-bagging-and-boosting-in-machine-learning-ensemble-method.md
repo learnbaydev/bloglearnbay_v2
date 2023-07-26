@@ -9,7 +9,12 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-1.png"
 headerAlt: "A banner image titled, 'Fundamentals of Bagging and Boosting in Machine Learning: Ensemble Method,' which shows a process workflow chart."
 date: "Mar 15, 2023"
-tag: [ bagging and boosting example, describe boosting bagging and ensemble learning in the machine learning context ]
+tag:
+  [
+    bagging and boosting example,
+    describe boosting bagging and ensemble learning in the machine learning context,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -17,8 +22,8 @@ catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comp
 authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
 adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
 
-author: "Manas Kochar" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
+author: "Manas Kochar"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
@@ -27,7 +32,20 @@ h1: "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method"
 id: "fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method"
 tableData:
   [
-    What is the ensemble method (learning)?, What is bagging in machine learning?, What is bootstrapping?, What is boosting in machine learning?, Variance and Bias, How does the bagging method work?, How does the boosting method work?, Difference between bagging and boosting, Similarities between bagging and boosting in machine learning, Which method is best out of boosting and bagging?, Bagging:- Advantages, Bagging:- Disadvantages, Boosting:- Advantages, Boosting:- Disadvantages
+    What is the ensemble method (learning)?,
+    What is bagging in machine learning?,
+    What is bootstrapping?,
+    What is boosting in machine learning?,
+    Variance and Bias,
+    How does the bagging method work?,
+    How does the boosting method work?,
+    Difference between bagging and boosting,
+    Similarities between bagging and boosting in machine learning,
+    Which method is best out of boosting and bagging?,
+    Bagging:- Advantages,
+    Bagging:- Disadvantages,
+    Boosting:- Advantages,
+    Boosting:- Disadvantages,
   ]
 ---
 
@@ -51,7 +69,7 @@ This post will discuss all of these topics and more. But first, you need to unde
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-2.png" style="width:100%" class="img" alt="An illustration shows a group of four people doing different tasks in parallel manner, which represents bagging."/>
 
-## What is bagging in machine learning?   
+## What is bagging in machine learning?
 
 Bagging (or **Bootstrap Aggregation**) is a simple ensemble approach, but it is extremely effective. This model learns from one another simultaneously and then combines the result to calculate the model average.
 
@@ -59,13 +77,13 @@ Bagging is a weak learner model. In the bagging method, we apply the _bootstrap 
 
 It is the process of integrating the outputs of different <a href="https://blog.learnbay.co/everything-about-decision-tree-from-scratch" target="_blank">decision trees</a> to produce a generalized result.
 
-## What is bootstrapping?   
+## What is bootstrapping?
 
 Bootstrapping is a simple method of sampling data into subsets and replacing this subset with a better one. This method is helpful in understanding the variance or bias present in the dataset.
 
 A random sampling of subsets is done with the same probability as the original dataset. The subset and original set are also of the same size.
 
-## What is boosting in machine learning?   
+## What is boosting in machine learning?
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-3.png" style="width:100%" class="img" alt="An illustration shows a group of four people communicating in a sequental manner, which represents boosting."/>
 
@@ -75,7 +93,7 @@ The initial learners apply basic models to data, and the subsequent learners the
 
 The terms _bias and variance_ might confuse those not familiar with them. So let's discuss them in detail below.
 
-## Variance and Bias   
+## Variance and Bias
 
 - When a model makes an assumption on the target function, it produces _bias_. This assumption helps the model learn the function easily. But if the model produces high bias, then it may not learn properly from the training data and become less flexible as a result.
 
@@ -87,7 +105,7 @@ For example, you can use either _linear regression or decision trees_ to predict
 
 While predicting, you may observe three types of errors:
 
--   _Bias_
+- _Bias_
 
 - _Variance_
 
@@ -95,7 +113,7 @@ While predicting, you may observe three types of errors:
 
 We can reduce bias and variance by choosing a different algorithm.
 
-## How does the bagging method work?   
+## How does the bagging method work?
 
 1. First, we create diverse subsets from the raw dataset. We will select the observations with replacements.
 
@@ -105,7 +123,7 @@ We can reduce bias and variance by choosing a different algorithm.
 
 4. The predictions gained from each model combine to provide us with a final prediction with less bias.
 
-## How does the boosting method work?   
+## How does the boosting method work?
 
 1. We create one subset from the original dataset. All the data points are provided with similar weights.
 
@@ -121,11 +139,10 @@ We can reduce bias and variance by choosing a different algorithm.
 
 7. We are left with a final model (strong learner). This model displays the weighted average of all the weak learners.
 
-## Difference between bagging and boosting   
+## Difference between bagging and boosting
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fbab-4.png" style="width:100%" class="img" alt="An illustration shows two process workflow charts. The left flow chart suggests bagging, and the right flow chart suggests boosting."/>
 <br/><br/>
-
 
 <style>
 table {
@@ -140,7 +157,7 @@ td, th {
   font-size: 17px;
   padding: 8px;
 }
-</style>  
+</style>
 <table>
   <tr>
     <th>Bagging &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -181,7 +198,7 @@ td, th {
   </tr>
 </table> <br/><br/>
 
-## Similarities between bagging and boosting in machine learning    
+## Similarities between bagging and boosting in machine learning
 
 Even though both the **bagging and boosting** methods have different uses, there are some similarities they share with each other.
 
@@ -191,7 +208,7 @@ Even though both the **bagging and boosting** methods have different uses, there
 
 3. Both methods make the final decision by taking the average of the N learners or majority voting (selecting the majority values).
 
-## Which method is best out of boosting and bagging?    
+## Which method is best out of boosting and bagging?
 
 Which approach to take depends on the circumstances present, the dataset, and their simulation. Both the **bagging and boosting** approach provide solutions for different case scenarios.
 
@@ -199,28 +216,26 @@ Which approach to take depends on the circumstances present, the dataset, and th
 
 - If we are faced with overfitting in a model, then apply the bagging method. Boosting doesn't help solve the problem as it faces overfitting itself. Therefore, bagging is a better alternative in this scenario.
 
-### Bagging:- Advantages   
+### Bagging:- Advantages
 
 - It handles the problem of overfitting in a model.
 
 - It can work well with higher-dimension data.
 
 - It helps maintain accuracy for missing values.
-  
-### Bagging:- Disadvantages   
+
+### Bagging:- Disadvantages
 
 - <p>The classification and regression models will not have accurate values because we calculate the final        
   prediction from the mean predictions of subgroup trees.</p>
 
-
-
-### Boosting:- Advantages   
+### Boosting:- Advantages
 
 - It can support several loss functions.
 
 - It's great for interactions.
 
-### Boosting:- Disadvantages   
+### Boosting:- Disadvantages
 
 - Overfitting is a risk.
 
@@ -232,6 +247,6 @@ Depending on your dataset, their simulation, and the circumstances provided, you
 
 There are many such fundamental techniques in data science and machine learning where you need to consider the appropriate method to use and get the desired outcome from a model. A thorough training in ML will help you understand the concepts with practical examples to make you industry ready.
 
-You can check out the  <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank ">Advanced AI and ML course</a> for more details on how these concepts apply to industry use cases. Enroll yourself and get the advantage of learning and practicing through experts.
+You can check out the <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank ">Advanced AI and ML course</a> for more details on how these concepts apply to industry use cases. Enroll yourself and get the advantage of learning and practicing through experts.
 
 Follow us on <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a> for the latest tech updates and a fruitful career transition.

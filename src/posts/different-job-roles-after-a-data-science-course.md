@@ -9,12 +9,13 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/roles1.jpg"
 headerAlt: ""
 date: "Apr 7, 2022"
-tag: [ Hot Topics ]
+tag: [Hot Topics]
 author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
-category: "Hot Topics"
+parantcategory: "Hot Topics"
+category: "Trending"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
@@ -27,10 +28,21 @@ h1: "Different Job Roles After A Data Science Course"
 id: "different-job-roles-after-a-data-science-course"
 tableData:
   [
-   Data Science Is Not The Future:- It Is The Present, Why choose Data Science?, Why Is Data Science in High Demand Different Job Roles?, Data Analyst,  Data Scientist , Data Engineers, Machine Learning Engineer, Data Architect, Statistician,  Business Analyst, Market Research Analyst, Database Administrator,  Final Words
+    Data Science Is Not The Future:- It Is The Present,
+    Why choose Data Science?,
+    Why Is Data Science in High Demand Different Job Roles?,
+    Data Analyst,
+    Data Scientist,
+    Data Engineers,
+    Machine Learning Engineer,
+    Data Architect,
+    Statistician,
+    Business Analyst,
+    Market Research Analyst,
+    Database Administrator,
+    Final Words,
   ]
 ---
-
 
 ## Data Science Is Not The Future:- It Is The Present
 
@@ -64,7 +76,7 @@ Lets us check out the different job roles in which you can upgrade your career a
 
 Data analysts are responsible for various duties, including data visualization, munging, and processing. Although not all data analysts are junior, compensation can vary greatly; this is often regarded as an "entry-level" role in the data science industry.
 
-- They must also run different queries against particular databases from time to time.             Optimization is one of a data analyst's most significant talents.
+- They must also run different queries against particular databases from time to time. Optimization is one of a data analyst's most significant talents.
 - The primary responsibility of a data analyst is to examine corporate or industry data and use it to answer business issues, then convey those answers to other departments within the organization.
 - This is because they must develop and modify algorithms and utilize them to extract data from some of the world's largest databases without causing data corruption.
 - Data analysts frequently collaborate with a range of teams inside a firm over time; for example, they might focus on marketing analytics for one month and then help the CEO utilize data to uncover reasons for the company's growth.

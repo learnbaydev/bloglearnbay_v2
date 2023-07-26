@@ -32,7 +32,7 @@ function FirstSection({ allPostsData }) {
 
   return (
     <>
-      <div className={styles.upperDiv}>
+      {/* <div className={styles.upperDiv}>
         <div className={styles.innerP}>
           <Link href="#featured">
             <p
@@ -46,7 +46,7 @@ function FirstSection({ allPostsData }) {
               FEATURED BLOG POSTS
             </p>
           </Link>
-          <Link href="#data-science">
+          <Link href="#Full Stack">
             <p
               className={active ? styles.active : styles.inactive}
               onClick={() => {
@@ -55,10 +55,10 @@ function FirstSection({ allPostsData }) {
                 setActive2(false);
               }}
             >
-              DATA SCIENCE & BUSINESS ANALYTICS
+              SOFTWARE DEVELOPMENT
             </p>
           </Link>
-          <Link href="#software">
+          <Link href="#Data Science">
             <p
               className={active1 ? styles.active : styles.inactive}
               onClick={() => {
@@ -67,7 +67,7 @@ function FirstSection({ allPostsData }) {
                 setActive2(false);
               }}
             >
-              SOFTWARE DEVELOPMENT
+             DATA SCIENCE & BUSINESS ANALYTICS 
             </p>
           </Link>
         </div>
@@ -92,7 +92,7 @@ function FirstSection({ allPostsData }) {
             ></Link>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className={styles.upperBanner} id="featured">
         <Swiper
           slidesPerView={1}

@@ -1,0 +1,36 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/technology",
+            "url": "undefined/category/technology",
+            "title": "Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement",
+            "summary": "Learn the advantage of blockchain technology in the supply chain industry. Know the implications of this cutting-edge technology on supply chain and logistics management.",
+            "date_modified": "2023-04-18T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/technology",
+            "url": "undefined/category/technology",
+            "title": "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!",
+            "summary": "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge.",
+            "date_modified": "2023-04-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/technology",
+            "url": "undefined/category/technology",
+            "title": "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?",
+            "summary": "Data analytics in supply chain has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce.",
+            "date_modified": "2022-05-06T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

@@ -9,7 +9,13 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-1.png"
 headerAlt: "A banner image titled 'Intelligence Augmentation & Artificial Intelligence' shows two robots named IA and AI standing in front of each other."
 date: "Feb 03, 2023"
-tag: [ artificial intelligence vs augmented intelligence, what is augmented intelligence, augmented AI ]
+tag:
+  [
+    artificial intelligence vs augmented intelligence,
+    what is augmented intelligence,
+    augmented AI,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +24,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,10 +33,17 @@ h1: "How Does Intelligence Augmentation Differ from Artificial Intelligence?"
 id: "how-does-intelligence-augmentation-differ-from-artificial-intelligence"
 tableData:
   [
-     What is artificial intelligence?, What is augmented intelligence?, What is the key difference between intelligence augmentation and artificial intelligence?, Artificial intelligence vs. augmented intelligence- The keynotes, How does augmented intelligence function?, Deployment of Intelligence Augmentation:-, Healthcare sector:-, BFSI sector:-, Manufacturing:-, Oil and gas:-
-
-   ]
-
+    What is artificial intelligence?,
+    What is augmented intelligence?,
+    What is the key difference between intelligence augmentation and artificial intelligence?,
+    Artificial intelligence vs. augmented intelligence- The keynotes,
+    How does augmented intelligence function?,
+    Deployment of Intelligence Augmentation:-,
+    Healthcare sector:-,
+    BFSI sector:-,
+    Manufacturing:-,
+    Oil and gas:-,
+  ]
 ---
 
 <span style=" font-weight:bold; font-size:28px"> Artificial Intelligence vs. Augmented Intelligence: The Goals are Same But Not the Approaches </span>
@@ -39,11 +52,11 @@ The term "technology" has significantly impacted the world today. We have seen a
 
 Technology such as artificial intelligence and **intelligence augmentation** aid in:-
 
--  streamlining workflow
+- streamlining workflow
 
--  Improving productivity
+- Improving productivity
 
--  Lowering costs in order to reduce the human workload
+- Lowering costs in order to reduce the human workload
 
 However, all of this technology serves different purposes and is based on different business requirements. And the dilemma of artificial intelligence vs. augmented intelligence is still there as a hot topic.
 
@@ -55,7 +68,7 @@ Therefore, we can conclude that AI has tremendous potential to change both the t
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-2.png" style="width:100%" class="img" alt='An illustration shows a robot, a human hand holding a circular gadget, an eye scanner, and an humanoid robotic skull.'/>
 
-## What is augmented intelligence?   
+## What is augmented intelligence?
 
 The word "**intelligence augmentation (IA)**" or "**augmented intelligence**" (also referred to as "cognitive augmentation") is a substitute for AI that helps by emphasizing human performance to make it faster and wiser.
 
@@ -63,7 +76,7 @@ Fundamentally, IA is intended to enhance rather than diminish human intelligence
 
 **Note**: **Sometimes, IA is also referred to as augmented AI.**
 
-## What is the key difference between intelligence augmentation and artificial intelligence?  
+## What is the key difference between intelligence augmentation and artificial intelligence?
 
 Here comes the answer for "**artificial intelligence vs. augmented intelligence**."
 
@@ -75,9 +88,9 @@ AI is primarily designed to carry out numerous tasks simultaneously for humans. 
 
 Artificial intelligence is quite effective when it comes to highly structured tasks requiring a lot of human assistance. Unfortunately, these include
 
--  Data organization
+- Data organization
 
--  Email sorting
+- Email sorting
 
 The above two are frequently unpleasant or repetitive activities that individuals wish to avoid.
 
@@ -87,7 +100,7 @@ Augmented AI, however, is better suited for enhancing human intelligence and dec
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-3.png" style="width:100%" class="img" alt='An illustration shows a human and a robot in a flying position, while greeting each other.'/>
 
-## Artificial intelligence vs. augmented intelligence- The keynotes   
+## Artificial intelligence vs. augmented intelligence- The keynotes
 
 <style>
 table {
@@ -102,7 +115,7 @@ td, th {
   font-size: 17px;
   padding: 8px;
 }
-</style>  
+</style>
 <table>
   <tr>
     <th>Artificial Intelligence  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -133,46 +146,45 @@ td, th {
   </tr>
 </table>
 
-## How does augmented intelligence function?   
+## How does augmented intelligence function?
 
 **Intelligence augmentation** can help consumer goods companies by gathering data from different sources and presenting it to employees. In this way, employees can completely understand their customers and the industry they're in.
 
 Furthermore, augmented AI can assist in detecting threats and malware that professionals are completely unaware of. Finally, having IA in place allows companies to use information more effectively under the supervision of humans. In this manner, technology does not have complete control over the data.
 
-## Deployment of Intelligence Augmentation:-   
+## Deployment of Intelligence Augmentation:-
 
 The augmenting human intelligence assessment aids in the adaptation and rapid learning of technology. This essentially means that as time passes, its user benefits greatly. Augmented AI can also help businesses improve customer connections by providing onboarding, customer support, and consulting services. Let us look at a common use case of IA for improvement in several industries.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-4.png" style="width:100%" class="img" alt='A woman undergoining diagnosis using an AI-based headgear. Her brain & spinal cord are getting scanned on a screen.'/>
 
-### Healthcare sector:-   
+### Healthcare sector:-
 
 The healthcare sector is extremely benefited from the ongoing trend of **Intelligence augmentation**. It aids in improving treatment and quality by providing information on how healthcare professionals may improve.
 
 Augmented AI also reduces the numerous chances of medical errors that occur when data points are entered manually by humans. Additionally, it aids in accelerating laborious tasks like invoices, billing, and payment. The core applications of **augmented intelligence** in healthcare and medicine include
 
--  Error-free and quicker drug discovery with end-to-end research
+- Error-free and quicker drug discovery with end-to-end research
 
--  Patient Monitoring
+- Patient Monitoring
 
--  Early diagnosis of life-threatening diseases
+- Early diagnosis of life-threatening diseases
 
--  Remote treatments
+- Remote treatments
 
-### BFSI sector:-   
+### BFSI sector:-
 
 **Intelligence Augmentation** can help various <a href="https://blog.learnbay.co/advanced-application-of-ai-in-banking-a-new-era-of-bfsi-sector" target="_blank">BFSI sectors</a> manage and regulate their finances while avoiding common blunders. By utilizing this technology, financial advisors may now quickly customize services that are well-versed in their customers' data needs and risks. This eliminates manual errors, allowing businesses to operate smoothly and efficiently. The most powerful use of **intelligence augmentation** are:-
 
--  Enriching the client's experiences
+- Enriching the client's experiences
 
--  Initiating precise advisory services
+- Initiating precise advisory services
 
--  Extremely potential fraud detection services
+- Extremely potential fraud detection services
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hdia-5.png" style="width:100%" class="img" alt='An illustration shows AI-based drones and mechanical equipment used in the manufacturing industry.'/>
 
-### Manufacturing:-  
-
+### Manufacturing:-
 
 Although technology can help reduce the stress of manual procedures in production, human participation is still required.
 
@@ -186,15 +198,15 @@ The augmented intelligence works to provide a basic environment for optimizing t
 
 Many other sectors that mine large amounts of data can benefit from intelligence augmentation. Here are a few examples:
 
--  Machine maintenance and various forecasting techniques
+- Machine maintenance and various forecasting techniques
 
--  Customer behavior and preferences can be predicted
+- Customer behavior and preferences can be predicted
 
--  Finding effective treatment alternatives
+- Finding effective treatment alternatives
 
--  Recognizing market trends
+- Recognizing market trends
 
--  Creating choices for autopilot
+- Creating choices for autopilot
 
 The options for intelligence augmentation are limitless, and the ultimate goal is to improve all workers' knowledge, skill, and experience. It aims to empower employees to work with machines in order to better grasp and comprehend internet data types.
 

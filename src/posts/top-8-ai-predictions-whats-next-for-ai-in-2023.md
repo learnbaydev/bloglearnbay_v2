@@ -1,15 +1,21 @@
 ---
 title: Top 8 AI Predictions | What's Next for AI in 2023?
 stitle: "Top 8 AI Predictions: What's Next for AI in 2023"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2022-10-04T13:25:31+05:30"
-modified_time:   "2022-10-04T13:25:31+05:30"
+modified_time: "2022-10-04T13:25:31+05:30"
 desc: "Discover the top 8 AI predictions shaping the future of artificial intelligence in 2023. Stay ahead with insights on AI advancements, applications, and trends."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tipw-1.jpg"
 headerAlt: "A banner image titled, 'Top 8 AI Predictions: What's Next for AI in 2023?' Shows a hologram representation of a robot."
 date: "Mar 10, 2023"
-tag: [ future predictions for artificial intelligence, next big thing in ai, future of ai in 2023 ]
+tag:
+  [
+    future predictions for artificial intelligence,
+    next big thing in ai,
+    future of ai in 2023,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -18,7 +24,7 @@ authortitle: ""
 adesc: ""
 
 author: "Abhishek Gupta"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
 authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ years of experience in business development, with a strong background as an instructor in management training and technology. Additionally holding expertise in data science, machine learning, data structure, and system designing. "
 authorlinkedin: "https://www.linkedin.com/in/abhishek-gupta-716552115/"
 position: "Editor"
@@ -27,8 +33,16 @@ h1: "Top 8 AI Predictions | What's Next for AI in 2023?"
 id: "top-8-ai-predictions-whats-next-for-ai-in-2023"
 tableData:
   [
-
-   1. We will see some ethical concerns regarding the increase in artificial intelligence implementation., 2. We can also see increased regulation., 3. The release of Open AI GPT-4., What to expect from GPT-4?, 4. We may face a shortage of training data., 5. More AI investments are to be seen.,  6. AI/ML engineers will see a rise in demand.,  7. We will finally get driverless cars., 8. The Google search engine may present a major change., Summing Up:-
+    1. We will see some ethical concerns regarding the increase in artificial intelligence implementation.,
+    2. We can also see increased regulation.,
+    3. The release of Open AI GPT-4.,
+    What to expect from GPT-4?,
+    4. We may face a shortage of training data.,
+    5. More AI investments are to be seen.,
+    6. AI/ML engineers will see a rise in demand.,
+    7. We will finally get driverless cars.,
+    8. The Google search engine may present a major change.,
+    Summing Up:-,
   ]
 ---
 
@@ -52,7 +66,7 @@ It would be exciting to see what innovative solutions the companies come up with
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tipw-2.jpg" style="width:100%" class="img" alt="A laptop and a smartphone are seen on a desk, with two chatbots displaying a message popup."/>
 
-## 2. We can also see increased regulation.  
+## 2. We can also see increased regulation.
 
 This is among the most shocking **AI predictions** for this year.
 
@@ -60,11 +74,11 @@ Due to the problem of bias and wrong information in AI chatbots, governments wil
 
 This will force the companies to build models with proper governance. According to a <a href="https://www.datarobot.com/newsroom/press/datarobots-state-of-ai-bias-report-reveals-81-of-technology-leaders-want-government-regulation-of-ai-bias/" target="_blank" rel="nofollow">DataRobot report</a>, around 81% of technology leaders want the regulation to occur. Therefore, we may see an increase in regulatory practice by the governing bodies this year.
 
-## 3. The release of Open AI GPT-4.   
+## 3. The release of Open AI GPT-4.
 
 Moving to the technical side, OpenAI is set to release its GPT-4. After the much-hyped ChatGPT release, get ready to look at improved and effective **LLM models**. OpenAI already made plenty of noise last year with ChatGPT and its comparison with the **Google search engine**. This year they will look to match the hype created.
 
-### What to expect from GPT-4?  
+### What to expect from GPT-4?
 
 While it is not confirmed, the **OpenAI GPT 4** is rumored to feature a multimodal interface. The current OpenAI innovations take only text inputs. However, a multimodal interface can function with text, images, and sounds to interact with humans.
 
@@ -72,7 +86,7 @@ It will be interesting if they go through with it. The **current trends in AI** 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tipw-3.jpg" style="width:100%" class="img" alt="An illustration shows a robot greeting  'Hello' in different languages."/>
 
-## 4. We may face a shortage of training data. 
+## 4. We may face a shortage of training data.
 
 Something that should be discussed more when talking about **AI predictions** for 2023 is the shortage of data the LLMs may face. An effective way to create LLMs with better performance is to train them on more data. However, the training data available on the net for a LLM is finite.
 
@@ -80,7 +94,7 @@ The GPT-4 model may utilize trillions of tokens of data. This amount will exhaus
 
 Hopefully, the leading LLM researchers will find a solution to this problem soon.
 
-## 5. More AI investments are to be seen.   
+## 5. More AI investments are to be seen.
 
 We will now move on to some thrilling **artificial intelligence predictions** that may excite you for the future of artificial intelligence.
 
@@ -98,15 +112,15 @@ The industry needs more professionals who can handle the scaling of AI projects 
 
 It presents many opportunities to grab and hold onto as the competition steadily grows.
 
-## 7. We will finally get driverless cars.  
+## 7. We will finally get driverless cars.
+
 After much hype around **autonomous vehicles**, we can finally drive in one. It is not fake news, as the <a href="https://getcruise.com/" target="_blank" rel="nofollow">Cruise app</a> allows its passengers to get from one point to another just by downloading their app and requesting a driverless car.
 
 This is a US-based company, so it only operates in San Francisco. This year, it is also looking to expand to other areas, such as Austin, Phoenix, Miami, and Las Vegas. If this goes according to plan, we will see development in autonomous vehicles in India.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tipw-4.jpg" style="width:100%" class="img" alt="An illustration shows a man sitting in a car that is being driven automatically by AI."/>
 
-## 8. The Google search engine may present a major change.    
-
+## 8. The Google search engine may present a major change.
 
 <a href="https://blog.learnbay.co/know-how-conversational-ai-is-making-amazon-alexa-smarter" target="_blank">Conversational AI</a> has taken over the internet. This is all thanks to OpenAI ChatGPT. Google is no stranger to the advantages of conversational artificial intelligence in improving its search engine activity.
 
@@ -114,7 +128,7 @@ As previously stated, multimodal interfaces can change how we interact with syst
 
 Its rival 'Bing' is also planning to incorporate multimodal LLM through OpenAI, increasing the urgency for both search engines to perform better than the other. As one of my favourite **AI predictions** on the list, it will be exciting to see the development of multimodal search engines with the inclusion of image and sound recognition technologies.
 
-## Summing Up:-   
+## Summing Up:-
 
 **Artificial intelligence in 2023** seems full of opportunities. There is concern about how artificial intelligence-led systems develop after the regulatory laws are imposed. The mentioned **AI predictions** can benefit you for a long time. All you have to do to benefit from the increased demand for artificial intelligence is stay updated with the developments.
 

@@ -1,15 +1,21 @@
 ---
 title: What Are The Differences Between Deep Learning and Neural Networks?
 stitle: "Differences Between Deep Learning and Neural Networks"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2023-01-30T13:25:31+05:30"
-modified_time:  "2023-01-30T13:25:31+05:30" 
+modified_time: "2023-01-30T13:25:31+05:30"
 desc: "In this blog, you will learn the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-1.jpg"
 headerAlt: "A banner image titled, 'Differences Between Deep Learning and Neural Networks', shows an AI-based robotic hand holding a human brain."
 date: "Jan 30, 2023"
-tag: [ Neural Networks in machine learning, machine learning architecture, deep learning vs neural network, ]
+tag:
+  [
+    Neural Networks in machine learning,
+    machine learning architecture,
+    deep learning vs neural network,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +24,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,13 +33,15 @@ h1: "What Are The Differences Between Deep Learning and Neural Networks?"
 id: "what-are-the-differences-between-deep-learning-and-neural-networks"
 tableData:
   [
-      1. Neural Networks in Machine Learning:-, 2. Deep learning in ML:-, Deep learning VS Neural network:-, Which has better functionality Deep learning or Neural Network architecture?, Summing up:-
-   ]
-
+    1. Neural Networks in Machine Learning:-,
+    2. Deep learning in ML:-,
+    Deep learning VS Neural network:-,
+    Which has better functionality Deep learning or Neural Network architecture?,
+    Summing up:-,
+  ]
 ---
 
-
-<span style=" font-weight:bold; font-size:28px">  Get a Distinct Overview of Deep Learning and Neural Networks in Machine Learning Architectures! </span>
+<span style=" font-weight:bold; font-size:28px"> Get a Distinct Overview of Deep Learning and Neural Networks in Machine Learning Architectures! </span>
 
 **Deep learning** and **Neural networks** are the subsets of machine learning-based algorithms which helped and contributed to both tech and non-tech industries. Both algorithms work differently and have a different approach to every problem, but before diving into the difference, let's understand some of the essential facts.
 
@@ -57,7 +65,7 @@ Neural networks in machine learning are commonly referred to as **"artificial ne
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/dlnn-3.jpg" style="width:100%" class="img" alt="A deep learning architecture shows different data sets, with one input layer, one output layer, and two hidden layers."/>
 
-## 2. Deep learning in ML:-  
+## 2. Deep learning in ML:-
 
 A <a href="https://blog.learnbay.co/the-top-10-deep-learning-algorithms-to-master-in-2023" target="_blank">deep learning algorithm</a> is a sort of machine learning process that uses AI to train neural networks on enormous amounts of data. Neural networks are designed to learn and recognize data patterns without human intervention or explicit programming.
 
@@ -67,8 +75,7 @@ These layers of artificial neural networks are known as hidden layers. The metho
 
 **Below is the given table, which provides an in-depth difference between deep learning and neural network:-**
 
-## Deep learning VS Neural network:-       
-
+## Deep learning VS Neural network:-
 
 <style>
 table {
@@ -83,7 +90,7 @@ td, th {
   font-size: 17px;
   padding: 8px;
 }
-</style>  
+</style>
 <table>
   <tr>
     <th>S.No &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -103,22 +110,24 @@ td, th {
 
 <span style="font-size:16px"> • Unsupervised Networks with Pre-Training </span>
 
-<span style="font-size:16px"> • Neural Networks with Convolutions  </span>
+<span style="font-size:16px"> • Neural Networks with Convolutions </span>
+
 </td>
     <td>There are three basic types of neural networks in machine learning architecture:
 
- <span style="font-size:16px"> • Forward feed </span>
+<span style="font-size:16px"> • Forward feed </span>
 
 <span style="font-size:16px"> • Recurring neural network (RNN) </span>
 
 <span style="font-size:16px"> • Symmetrical linked neural network </span>
+
 </td>
   </tr>
   <tr>
     <td>3. Architecture</td>
     <td>Deep learning architecture is structured into 4 types:-
 
-<span style="font-size:16px"> • Motherboards  </span>
+<span style="font-size:16px"> • Motherboards </span>
 
 <span style="font-size:16px"> • PSU </span>
 
@@ -136,6 +145,7 @@ td, th {
 <span style="font-size:16px"> • Propagation function </span>
 
 <span style="font-size:16px"> • Learning rate </span>
+
 </td>
   </tr>
   <tr>
@@ -165,7 +175,7 @@ td, th {
 
 So, these are a few of the key differences that distinguish deep learning and neural networks in machine learning architecture.
 
-## Which has better functionality Deep learning or Neural Network architecture?    
+## Which has better functionality Deep learning or Neural Network architecture?
 
 Suppose we compare the following depending on the functionalities. We can easily deduce that deep learning techniques are much more sophisticated than neural network architecture. This is because the deep learning algorithm deals with the seven stages.
 
@@ -173,7 +183,7 @@ Neural network architecture seems to provide a complex structure too, which beco
 
 _Deep learning methods are very easy to understand and don't have any complexity; therefore, we can easily rely on deep learning rather than neural network architecture for high-efficiency usage._
 
-## Summing up:-    
+## Summing up:-
 
 As we use deep learning and neural networks in machine learning architecture for work purposes, we can easily rely on the fact that each proves to be fully efficient.
 

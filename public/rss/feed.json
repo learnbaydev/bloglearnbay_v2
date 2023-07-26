@@ -1,0 +1,1468 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/data-science-career-path",
+            "url": "undefined/data-science-career-path",
+            "title": "Best Data Science Career Paths - 2023",
+            "summary": "Discover data science career path and set yourself up for success. Explore the best opportunities, skills, and industries in Data Science.",
+            "date_modified": "2023-06-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-science-companies",
+            "url": "undefined/data-science-companies",
+            "title": "Top 25 Data Science Companies To Work",
+            "summary": "We have put together a list of 25 data science companies that are making names for themselves while providing spaces for data scientists to contribute and grow.",
+            "date_modified": "2023-06-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/business-analytics-certifications",
+            "url": "undefined/business-analytics-certifications",
+            "title": "Top 5 Business Analytics Certifications to Boost Your Career",
+            "summary": "Explore the top 5 business analytics certification and Learn the latest tools and techniques to make smarter decisions, drive growth, and achieve better results.",
+            "date_modified": "2023-06-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/it-technologies-and-services",
+            "url": "undefined/it-technologies-and-services",
+            "title": "Emerging IT Technologies and Services in 2023",
+            "summary": "Stay ahead of the crowd with our list of top 15 emerging IT technologies. Know these technologies' potential applications and how they help shape your future.",
+            "date_modified": "2023-06-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/soft-skills-for-it-professionals",
+            "url": "undefined/soft-skills-for-it-professionals",
+            "title": "The Most Valuable Soft Skills for IT Professionals in 2023",
+            "summary": "From Accounting & Integrity to Time Management, we have listed the ten most valuable IT skills for professionals in 2023.",
+            "date_modified": "2023-06-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/future-of-data-analytics-career",
+            "url": "undefined/future-of-data-analytics-career",
+            "title": "The Future of Data Analytics Career",
+            "summary": "Data analysts are experts who translate & capture valuable insights from unstructured data. Here, in this blog we will take a dive into data analytics career.",
+            "date_modified": "2023-06-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-analyst-career-paths",
+            "url": "undefined/data-analyst-career-paths",
+            "title": "Data Analytics Career Path: How to Start, Grow, and Succeed",
+            "summary": "Let us guide you through the data analyst career path. Here you can find the skills you need to learn which will help you grow in your career.",
+            "date_modified": "2023-06-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/career-in-hr-analytics",
+            "url": "undefined/career-in-hr-analytics",
+            "title": "How to Build a Career in HR Analytics: Essential Skills & Qualifications",
+            "summary": "Are you interested in a career in HR analytics? Learn about the necessary skills and requirements by reading How to Build a Career in HR Analytics",
+            "date_modified": "2023-06-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/business-analyst-career-paths",
+            "url": "undefined/business-analyst-career-paths",
+            "title": "Top 5 Business Analyst Career Paths For 2023",
+            "summary": "Explore the 5 best career opportunities for business analyst professionals in 2023 with this blog. Also check out their salary packages respectively",
+            "date_modified": "2023-06-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/business-analytics-in-decision-making",
+            "url": "undefined/business-analytics-in-decision-making",
+            "title": "How to Use Business Analytics for Better Decision-Making",
+            "summary": "In this blog, you will be briefed on the use of business analytics in the decision making process in a company.",
+            "date_modified": "2023-06-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-development-for-non-techies",
+            "url": "undefined/full-stack-development-for-non-techies",
+            "title": "Full Stack Development for Non-Techies: How to Get Started",
+            "summary": "In this blog we will guide you on essential skills, training, and tips on how to become a full stack software developer with a non-technical background.",
+            "date_modified": "2023-06-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/business-analytics-career",
+            "url": "undefined/business-analytics-career",
+            "title": "How To Build A Career in Business Analytics: A Step-by-Step Guide",
+            "summary": "Learn how to build a successful Business Analyst career with this step-by-step guide. Get practical advice on topics such as data analysis, data visualisation, etc.",
+            "date_modified": "2023-05-31T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-certification-benefits",
+            "url": "undefined/full-stack-certification-benefits",
+            "title": "The Benefits of Pursuing a Full Stack developer Certification",
+            "summary": "Explore the full stack developer certification and how it equips you with a comprehensive skill set to excel in the demanding tech industry.",
+            "date_modified": "2023-05-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/future-of-full-stack-development",
+            "url": "undefined/future-of-full-stack-development",
+            "title": "Why Full Stack Development is the Future of Tech",
+            "summary": "Learn about the future technologies of full stack development. Gain insights into the efficiency and demand of full stack developers in the dynamic tech industry.",
+            "date_modified": "2023-05-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-web-developer-portfolio",
+            "url": "undefined/full-stack-web-developer-portfolio",
+            "title": "How to Build a Portfolio as a Full Stack Web Developer",
+            "summary": "Learn how to create a portfolio as a full stack web developer. Explore essential tips, practices and strategies for showcasing your skills and projects.",
+            "date_modified": "2023-05-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/become-full-stack-developer",
+            "url": "undefined/become-full-stack-developer",
+            "title": "Becoming a Full Stack Developer: The Ultimate Career Hack",
+            "summary": "Looking to fast-track your career as a full stack developer? Explore the ultimate career hack with our comprehensive guide on becoming a full stack developer",
+            "date_modified": "2023-05-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-developer-job-description",
+            "url": "undefined/full-stack-developer-job-description",
+            "title": "Breaking Down The Full Stack Developer Job Description",
+            "summary": "Explore in-depth full stack developer job description and gain a clear understanding of the roles, responsibilities, and skills required in this dynamic field.",
+            "date_modified": "2023-05-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-developer-languages",
+            "url": "undefined/full-stack-developer-languages",
+            "title": "The Top Programming Languages for Full Stack Development",
+            "summary": "Master the essential full stack developer languages and become a sought-after employee. Our comprehensive guide outlines the various programming languages.",
+            "date_modified": "2023-05-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/business-analyst-skills",
+            "url": "undefined/business-analyst-skills",
+            "title": "10 Essential Skills To Become A Successful Business Analyst",
+            "summary": "Check out the top most essential skills to become a successful business analyst and it help you to stand out as a highly effective business analyst",
+            "date_modified": "2023-05-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-developer-interview-questions",
+            "url": "undefined/full-stack-developer-interview-questions",
+            "title": "Top Full Stack Interview Questions and Answers in 2023",
+            "summary": "Explore the 45+ top interview questions for Full Stack developers with some tips. Master the art of acing Full Stack interviews with expert guidance.",
+            "date_modified": "2023-05-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/it-careers-in-india",
+            "url": "undefined/it-careers-in-india",
+            "title": "Trending IT Career in India For 2023",
+            "summary": "Let us have a look at the most trending IT careers. We have listed the highest paying tech jobs that will help you to choose the right career path.",
+            "date_modified": "2023-05-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/facts-of-hr-analytics-certification",
+            "url": "undefined/facts-of-hr-analytics-certification",
+            "title": "HR Analytics Certification: 7 Instances of a Successful Career You Want",
+            "summary": "HR analytics certification has initiated a radical change to the HR profession. It holds a bright and lucrative future for the said professionals. Read this article to know proven facts associated with this certification.",
+            "date_modified": "2023-05-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/it-certifications",
+            "url": "undefined/it-certifications",
+            "title": "Top IT Certifications in Demand For 2023 - Learnbay Blog",
+            "summary": "From Amazon Web Services to IBM, here you will find the top IT certification courses and programs to expand your skills and boost your career and salary.",
+            "date_modified": "2023-05-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-analytics-skills",
+            "url": "undefined/data-analytics-skills",
+            "title": "Top 10 Trending Skills for a Successful Data Analytics Career",
+            "summary": "check out the skills to become a data analyst and stay ahead of the curve with these essential abilities for data analysts and boost your career.",
+            "date_modified": "2023-04-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/business-analyst-certification",
+            "url": "undefined/business-analyst-certification",
+            "title": "Business Analyst Certification: 5 Ways to Certify Your Business Acumen",
+            "summary": "In this blog we will brief you about five proven facts of business analyst certification that you must consider.",
+            "date_modified": "2023-04-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-ai-trends",
+            "url": "undefined/top-ai-trends",
+            "title": "What Are the Next Big Trends in AI? | Latest AI Trends to Look Out",
+            "summary": "The tech world has seen sudden hype about trending AI technologies. This blog will teach you about the top 7 AI trends and their promising future implications.",
+            "date_modified": "2023-04-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/python-2-vs-python-3",
+            "url": "undefined/python-2-vs-python-3",
+            "title": "Python 2 Vs Python 3: Know How They Differ?",
+            "summary": "Python 2 Vs Python 3 has become a hot topic for python in data science and AI. Here we examined differences between both and explained which could be better alternative.",
+            "date_modified": "2023-04-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/blockchain-in-supply-chain",
+            "url": "undefined/blockchain-in-supply-chain",
+            "title": "Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement",
+            "summary": "Learn the advantage of blockchain technology in the supply chain industry. Know the implications of this cutting-edge technology on supply chain and logistics management.",
+            "date_modified": "2023-04-18T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-data-science-projects-in-healthcare",
+            "url": "undefined/top-data-science-projects-in-healthcare",
+            "title": "Unleashing The Most Demanding Data Science Projects In Healthcare",
+            "summary": "In this blog, we'll learn about data science projects in healthcare that will provide practical insights that can guide you professionally in data science career.",
+            "date_modified": "2023-04-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/devops-automation-tools-in-retail",
+            "url": "undefined/devops-automation-tools-in-retail",
+            "title": "DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!",
+            "summary": "DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge.",
+            "date_modified": "2023-04-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-analyst-vs-data-scientist",
+            "url": "undefined/data-analyst-vs-data-scientist",
+            "title": "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference",
+            "summary": "This blog is about data scientist vs. data analytics job responsibilities, salaries, criteria, and which one can provide significant growth in the different industries.",
+            "date_modified": "2023-04-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-to-increase-the-accuracy-of-machine-learning-model-over-90",
+            "url": "undefined/how-to-increase-the-accuracy-of-machine-learning-model-over-90",
+            "title": "How To Increase The Accuracy Of Machine Learning Model Over 90%?",
+            "summary": "The accuracy of machine learning models is the key to achieving the desired and profitable output. Learn how to increase the accuracy of machine-learning models using various methods and strategies.",
+            "date_modified": "2023-04-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/multimodal-deep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning",
+            "url": "undefined/multimodal-deep-learning-enabling-fusion-of-multiple-modalities-and-deep-learning",
+            "title": "Multimodal Deep Learning | Enabling Fusion of Multiple Modalities And  Deep Learning",
+            "summary": "In this blog will introduce you to multimodal deep learning and the process of training AI models to determinate connections between several modalities.",
+            "date_modified": "2023-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
+            "url": "undefined/is-data-structure-and-algorithm-important-to-crack-product-based-company-interviews",
+            "title": "Is Data Structure and Algorithm Important to Crack Product-based Company Interviews?",
+            "summary": "In this blog, you will learn about how DSA can easily help to crack product-based company interviews and the impact it can have in the future.",
+            "date_modified": "2023-04-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/why-is-quantum-computing-useful-for-optimization-problems-in-blockchain",
+            "url": "undefined/why-is-quantum-computing-useful-for-optimization-problems-in-blockchain",
+            "title": "Why Is Quantum Computing Useful for Optimization Problems in Blockchain?",
+            "summary": "Discover how quantum computing revolutionizes optimization problems in blockchain. Also, learn how do quantum computers break blockchain authentication.",
+            "date_modified": "2023-04-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/is-google-bard-a-possible-rival-to-chatgpt-4",
+            "url": "undefined/is-google-bard-a-possible-rival-to-chatgpt-4",
+            "title": "Is Google Bard a Possible Rival to ChatGPT-4?",
+            "summary": "Google Bard and ChatGPT-4 are both very advanced language models, but their respective strengths and applications make it difficult to determine if they are rivals.",
+            "date_modified": "2023-03-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-do-google-algorithms-identify-ai-generated-content",
+            "url": "undefined/how-do-google-algorithms-identify-ai-generated-content",
+            "title": "How Do Google Algorithms Identify AI-Generated Content?",
+            "summary": "In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content.",
+            "date_modified": "2023-03-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/human-activity-recognition-with-smart-phone",
+            "url": "undefined/human-activity-recognition-with-smart-phone",
+            "title": "Human Activity Recognition With Smartphone",
+            "summary": "Human activity recognition (HAR) using machine learning holds a massive hype ad so the projects of human activity recognition using smartphones. Learn how to handle HAR dataset for a project of human activity recognition using smartphones.",
+            "date_modified": "2023-03-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/8-most-demanded-data-science-tools-in-2023",
+            "url": "undefined/8-most-demanded-data-science-tools-in-2023",
+            "title": "8 Most Demanded Data Science Tools in 2023",
+            "summary": "Data science tools are very reliable and practical in today's tech world. In this blog, we will learn about 8 most demanded data science tools and their features.",
+            "date_modified": "2023-03-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/ai-in-automotive-industry-maneuvering-the-automobile-sector-of-2023",
+            "url": "undefined/ai-in-automotive-industry-maneuvering-the-automobile-sector-of-2023",
+            "title": "AI in Automotive Industry - Maneuvering the Automobile Sector of 2023",
+            "summary": "Discover how AI is transforming the automotive industry in 2023. From autonomous vehicles to predictive maintenance, explore the latest advancements and opportunities.",
+            "date_modified": "2023-03-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-data-visualization-tools-every-data-scientist-must-know-in-2023",
+            "url": "undefined/top-data-visualization-tools-every-data-scientist-must-know-in-2023",
+            "title": "Top Data Visualization Tools Every Data Scientist Must Know in 2023",
+            "summary": "In this blog, you will learn about the best data visualization tools that can help any data science professional advance in their career.",
+            "date_modified": "2023-03-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-5-fascinating-ai-blockchain-projects-to-master-in-the-year-2023",
+            "url": "undefined/top-5-fascinating-ai-blockchain-projects-to-master-in-the-year-2023",
+            "title": "Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!",
+            "summary": "This blog will teach you about the benefits of AI in blockchain Projects and Learn about the compelling AI blockchain technology and its impact on future.",
+            "date_modified": "2023-03-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method",
+            "url": "undefined/fundamentals-of-bagging-and-boosting-in-machine-learning-ensemble-method",
+            "title": "Fundamentals of Bagging and Boosting in Machine Learning | Ensemble Method",
+            "summary": "Bagging and boosting in machine learning are two most popular techniques. This blog will brief you on the various advantages and disadvantages of bagging and boosting.",
+            "date_modified": "2023-03-14T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/why-should-you-learn-data-structures-and-algorithms-dsa-in-java-or-python",
+            "url": "undefined/why-should-you-learn-data-structures-and-algorithms-dsa-in-java-or-python",
+            "title": "Why Should You Learn Data Structures and Algorithms (DSA) in Java or Python?",
+            "summary": "Discover the importance of learning Data Structures and Algorithms (DSA) in Java or Python in this blog.",
+            "date_modified": "2023-03-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-8-ai-predictions-whats-next-for-ai-in-2023",
+            "url": "undefined/top-8-ai-predictions-whats-next-for-ai-in-2023",
+            "title": "Top 8 AI Predictions | What's Next for AI in 2023?",
+            "summary": "Discover the top 8 AI predictions shaping the future of artificial intelligence in 2023. Stay ahead with insights on AI advancements, applications, and trends.",
+            "date_modified": "2023-03-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors",
+            "url": "undefined/women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors",
+            "title": "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors",
+            "summary": "Women have attained a peak in the field of technology. Here in this blog, we are going to discuss how women in data science have diminished the gender gap in tech sectors. Also, what are the difficulties and alternatives to pursuing the best data science course?",
+            "date_modified": "2023-03-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/ai-lawyers-is-legal-system-approaching-a-new-era",
+            "url": "undefined/ai-lawyers-is-legal-system-approaching-a-new-era",
+            "title": "AI Lawyers | Is Legal System Approaching a New Era?",
+            "summary": "AI lawyers are the next big thing in the legal business. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers.",
+            "date_modified": "2023-03-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/ai-hardware-what-is-it-and-how-does-it-help",
+            "url": "undefined/ai-hardware-what-is-it-and-how-does-it-help",
+            "title": "AI Hardware | What Is It and How Does It Help?",
+            "summary": "This blog will explain in detail how the development of AI hardware has enhanced the effectiveness and proficiency of various hardware components in today's IT industry.",
+            "date_modified": "2023-03-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-8-machine-learning-tools-you-should-know-in-2023",
+            "url": "undefined/top-8-machine-learning-tools-you-should-know-in-2023",
+            "title": "Top 8 Machine Learning Tools You Should Know in 2023",
+            "summary": "This blog you will learn top 8 machine learning tools and their key features. Every tech industry incorporates ML tools and algorithms into their regular operations.",
+            "date_modified": "2023-02-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/time-series-forecasting-methods-trends-of-2023",
+            "url": "undefined/time-series-forecasting-methods-trends-of-2023",
+            "title": "Time Series Forecasting Methods | Trends of 2023",
+            "summary": "In this blog, you will learn about various advantages and use cases of time series forecasting to build strategies and limit the consequences.",
+            "date_modified": "2023-02-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/open-ai-chatgpt-is-it-really-a-threat-to-the-humanoid-world",
+            "url": "undefined/open-ai-chatgpt-is-it-really-a-threat-to-the-humanoid-world",
+            "title": "OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?",
+            "summary": "In this blog, we'll explore the impact of the limitations and whether the Open ChatGPT can compete with Google's chatbot development tools.",
+            "date_modified": "2023-02-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-15-natural-language-processing-tools-for-startups",
+            "url": "undefined/top-15-natural-language-processing-tools-for-startups",
+            "title": "Top 15 Natural Language Processing Tools for Startups",
+            "summary": "In this blog, you will find 15 Natural Language Processing tools for startups to help you easily implement and deploy various software applications.",
+            "date_modified": "2023-02-21T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology",
+            "url": "undefined/handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology",
+            "title": "Handwriting Recognition | An Excellent AI Innovation in OCR Technology",
+            "summary": "Learn about the OCR technology's handwriting text recognition method and its in-depth working technique, its use cases and implications in various organizational fields.",
+            "date_modified": "2023-02-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/hybrid-integration-platform-hip-enhancing-the-efficiency-of-network-infrastructure",
+            "url": "undefined/hybrid-integration-platform-hip-enhancing-the-efficiency-of-network-infrastructure",
+            "title": "Hybrid Integration Platform (HIP) - Enhancing the Efficiency of Network Infrastructure!",
+            "summary": "Learn how hybrid integration platforms can help improve the efficacy of network infrastructure by leveraging various technologies and frameworks.",
+            "date_modified": "2023-02-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/cognitive-computing-vs-artificial-intelligence-which-one-is-superior",
+            "url": "undefined/cognitive-computing-vs-artificial-intelligence-which-one-is-superior",
+            "title": "Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?",
+            "summary": "In this blog we will get to know the key differences between Cognitive Computing and Artificial Intelligence and evaluate which is more in demand.",
+            "date_modified": "2023-02-14T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/create-ml-and-core-ml-the-secret-of-apples-unbeatable-success",
+            "url": "undefined/create-ml-and-core-ml-the-secret-of-apples-unbeatable-success",
+            "title": "Create ML and Core ML- The Secret of Apple's Unbeatable Success",
+            "summary": "This blog will brief us about the two Machine learning algorithms, create ML and core ML, which are used by Apple to develop its own IOS tools and platforms.",
+            "date_modified": "2023-02-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-to-use-pythons-pywhatkit-module-for-sending-message-generating-codes",
+            "url": "undefined/how-to-use-pythons-pywhatkit-module-for-sending-message-generating-codes",
+            "title": "How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?",
+            "summary": "We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message.",
+            "date_modified": "2023-02-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/application-of-ai-in-the-fashion-industry-the-next-Level-of-technical-creativity",
+            "url": "undefined/application-of-ai-in-the-fashion-industry-the-next-Level-of-technical-creativity",
+            "title": "Application of AI in the Fashion Industry | The Next-Level of Technical Creativity",
+            "summary": "In this blog, you will be briefed on the various applications of AI in the fashion industry which has enhanced the next level of technical creativity.",
+            "date_modified": "2023-02-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/8-most-trending-python-libraries-for-natural-language-processing-nlp-2023-update",
+            "url": "undefined/8-most-trending-python-libraries-for-natural-language-processing-nlp-2023-update",
+            "title": "8 Most Trending Python Libraries for Natural Language Processing (NLP) [2023 Update]",
+            "summary": "Discover the trending Python libraries for natural language processing (NLP) that would help you with classification, summarization, NER, and machine translation.",
+            "date_modified": "2023-02-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-does-intelligence-augmentation-differ-from-artificial-intelligence",
+            "url": "undefined/how-does-intelligence-augmentation-differ-from-artificial-intelligence",
+            "title": "How Does Intelligence Augmentation Differ from Artificial Intelligence?",
+            "summary": "In the blog, we will learn the major difference between intelligence augmentation and artificial intelligence as well as deployment, functioning, and use cases of IA.",
+            "date_modified": "2023-02-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation",
+            "url": "undefined/openai-gpt-3-revolution-the-thrill-of-next-gen-ai-innovation",
+            "title": "OpenAI GPT-3 Revolution- The Thrill of Next-Gen AI Innovation",
+            "summary": "In this blog post, we will explore all the potential implications of Open GPT-3 and how it helps increase results and productivity",
+            "date_modified": "2023-01-31T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-are-the-differences-between-deep-learning-and-neural-networks",
+            "url": "undefined/what-are-the-differences-between-deep-learning-and-neural-networks",
+            "title": "What Are The Differences Between Deep Learning and Neural Networks?",
+            "summary": "In this blog, you will learn the key differences between deep learning and neural networks, which will assist you in determining which approach is best for your needs.",
+            "date_modified": "2023-01-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-5-machine-learning-projects-for-beginners-in-2023",
+            "url": "undefined/top-5-machine-learning-projects-for-beginners-in-2023",
+            "title": "Top 5 Machine Learning Projects for Beginners in 2023",
+            "summary": "Check out the top 5 ML projects for beginners in 2023.These projects will help to get started with ML and understand the real-world ML problems in a better way.",
+            "date_modified": "2023-01-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/7-must-know-web-development-languages-of-2023",
+            "url": "undefined/7-must-know-web-development-languages-of-2023",
+            "title": "7 Must-Know Web Development Languages of 2023",
+            "summary": "In this blog, you will be briefed on seven must-know web development languages HTML, CSS, JavaScript, Python, Node.Js, Express and MongoDB.",
+            "date_modified": "2023-01-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/time-series-forecasting-how-does-it-improve-business-decision-making",
+            "url": "undefined/time-series-forecasting-how-does-it-improve-business-decision-making",
+            "title": "Time Series Forecasting! How Does It Improve Business Decision-Making?",
+            "summary": "Discover the power of time series forecasting in improving business decision-making. Explore the benefits, techniques, and also read its procedure of predition.",
+            "date_modified": "2023-01-22T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-will-ai-in-digital-marketing-save-marketers-in-a-cookieless-world",
+            "url": "undefined/how-will-ai-in-digital-marketing-save-marketers-in-a-cookieless-world",
+            "title": "How Will AI in Digital Marketing Save Marketers in a Cookieless World?",
+            "summary": "We have seen the evolution of digital marketing at a rapid pace, and with the involvement of AI in Digital Marketing, we can effortlessly enhance the use of digital marketing in various marketing and advertising fields. Here in this blog, you will get a brief on how AI in digital marketing can save marketers in a cookieless world.",
+            "date_modified": "2023-01-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-30-highest-paying-jobs-to-target-in-2023",
+            "url": "undefined/top-30-highest-paying-jobs-to-target-in-2023",
+            "title": "Top 30 Highest Paying Jobs to Target in 2023",
+            "summary": "Are you looking for a career change? In this blog,you will learn about the 30 Highest paying jobs in technical field that will reach a peak in the upcoming years.",
+            "date_modified": "2023-01-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-7-best-data-science-project-ideas-to-get-hired-by-top-mncs",
+            "url": "undefined/the-7-best-data-science-project-ideas-to-get-hired-by-top-mncs",
+            "title": "The 7 Best Data Science Project Ideas to Get Hired by Top MNCs",
+            "summary": "Are you a data science expert looking for projects to improve your job opportunities? Here’s a list of data science projects that help you to find a job.",
+            "date_modified": "2023-01-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-courses-in-2023-for-a-full-stack-software-developer",
+            "url": "undefined/top-courses-in-2023-for-a-full-stack-software-developer",
+            "title": "Top Courses in 2023 for a Full-Stack Software Developer",
+            "summary": "are you looking for the full-stack software development course? Here is a list of best courses that can help you to choose a career as a full-stack software developer.",
+            "date_modified": "2023-01-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-3-python-libraries-for-machine-learning",
+            "url": "undefined/top-3-python-libraries-for-machine-learning",
+            "title": "Top 3 Python Libraries for Machine Learning!",
+            "summary": "Python has become a key tool for ML algorithms. In this blog, we'll explore python libraries for ML, that help you to work in different types of ML based projects.",
+            "date_modified": "2023-01-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/types-of-machine-learning-models-quickly-explained",
+            "url": "undefined/types-of-machine-learning-models-quickly-explained",
+            "title": "Types of Machine Learning Models - Quickly Explained",
+            "summary": "In this blog, you will learn about types of machine learning models that you need to know, which will help you to easily comprehend their work patterns and use cases.",
+            "date_modified": "2023-01-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin",
+            "url": "undefined/how-darwin-platform-can-ease-ai-related-difficulties-an-invention-by-linkedin",
+            "title": "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin",
+            "summary": "Here in this blog, learn how AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device.",
+            "date_modified": "2023-01-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/10-best-data-analytics-startups-to-work-in-2023",
+            "url": "undefined/10-best-data-analytics-startups-to-work-in-2023",
+            "title": "10 Best Data Analytics Startups to Work in 2023",
+            "summary": "Data analytics startups have gained a huge surge in the field of the technology sector. Know about the most prominent startups that will help you to boost your career.",
+            "date_modified": "2023-01-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/ai-and-cybersecurity-a-match-made-in-technology-heaven",
+            "url": "undefined/ai-and-cybersecurity-a-match-made-in-technology-heaven",
+            "title": "AI and Cybersecurity - A Match Made in Technology Heaven",
+            "summary": "In this blog post, you will be briefed on different types of benefits while implementing both AI and cybersecurity to fight against cyber attacks and threats.",
+            "date_modified": "2023-01-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-can-ai-blockchain-help-with-modern-day-climate-change",
+            "url": "undefined/how-can-ai-blockchain-help-with-modern-day-climate-change",
+            "title": "How Can AI Blockchain Help With Modern-day Climate Change?",
+            "summary": "In this blog, we will learn about blockchain's benefits in environmental and climate change to build unique approaches that will surely contribute to preserving the environment.",
+            "date_modified": "2022-12-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-is-data-science-powering-ott-platform-to-multi-dollar-business",
+            "url": "undefined/how-is-data-science-powering-ott-platform-to-multi-dollar-business",
+            "title": "How Is Data Science Powering OTT Platform to Multi-Dollar Business",
+            "summary": "Know how fusion of Data Science and OTT platforms is revolutionizing the entertainment industry, driving unprecedented growth & transforming businesses.",
+            "date_modified": "2022-12-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-can-mlops-techniques-help-bring-advanced-ai-into-mainstream-business",
+            "url": "undefined/how-can-mlops-techniques-help-bring-advanced-ai-into-mainstream-business",
+            "title": "How Can MLOps Techniques Help Bring Advanced AI Into Mainstream Business?",
+            "summary": "The combination of ML with Devops remains cutting edge while launching a machine learning operation. In this blog, we'll build an MLOps process that combines machine learning (ML) with DevOps to accelerate and automate Intelligent App deployment.",
+            "date_modified": "2022-12-22T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-technical-and-soft-skills-required-for-data-scientists-in-fintech-2023-update",
+            "url": "undefined/top-technical-and-soft-skills-required-for-data-scientists-in-fintech-2023-update",
+            "title": "Top Technical and Soft Skills Required for Data Scientists in Fintech(2023 Update)",
+            "summary": "Learn more about the technical and softskills required for a data scientist in fintech companies. Read more in this blog.",
+            "date_modified": "2022-12-20T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/application-of-ai-in-social-media-content-optimization",
+            "url": "undefined/application-of-ai-in-social-media-content-optimization",
+            "title": "Application of AI in Social Media Content Optimization",
+            "summary": "Discover how AI enhances social media content optimization, increasing engagement and expanding reach. Learn about the latest applications and strategies.",
+            "date_modified": "2022-12-18T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/5-amazing-usages-of-ai-in-the-entertainment-industries",
+            "url": "undefined/5-amazing-usages-of-ai-in-the-entertainment-industries",
+            "title": "5 Amazing Usages of AI in the Entertainment Industries",
+            "summary": "AI in entertainment has gradually started influencing the entertainment sector. Get a brief overview of the awe-inspiring facts of AI in entertainment industry.",
+            "date_modified": "2022-12-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/know-the-importance-of-domain-specialization-within-a-data-science-course",
+            "url": "undefined/know-the-importance-of-domain-specialization-within-a-data-science-course",
+            "title": "Know The Importance of Domain Specialization Within a Data Science Course",
+            "summary": "In this blog, Learn why Domain Specialization in data science is essential and how it can help you to maximise your data science skill.",
+            "date_modified": "2022-12-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-5-dsa-projects-for-beginners-in-2023",
+            "url": "undefined/top-5-dsa-projects-for-beginners-in-2023",
+            "title": "Top 5 DSA Projects for Beginners in 2023!",
+            "summary": "In this blog, will look at some top DSA projects for beginners that may help you establish a remarkable portfolio and stand out from the crowd.",
+            "date_modified": "2022-12-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-most-trending-applications-of-ai-in-transportation-industry",
+            "url": "undefined/the-most-trending-applications-of-ai-in-transportation-industry",
+            "title": "The Most Trending Applications of AI in Transportation Industry",
+            "summary": "Increasing demand for safety in transportation and efficient traffic management are key factors influencing artificial intelligence in transportation.",
+            "date_modified": "2022-12-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-top-10-deep-learning-algorithms-to-master-in-2023",
+            "url": "undefined/the-top-10-deep-learning-algorithms-to-master-in-2023",
+            "title": "The Top 10 Deep Learning Algorithms to Master in 2023",
+            "summary": "Read on to learn more about deep learning algorithms with best practices and benefits that are able to make predictions, find data patterns, and make decisions.",
+            "date_modified": "2022-12-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/10-must-know-machine-learning-algorithms-for-beginners-in-2023",
+            "url": "undefined/10-must-know-machine-learning-algorithms-for-beginners-in-2023",
+            "title": "10 Must-Know Machine Learning Algorithms for Beginners in 2023",
+            "summary": "Machine learning algorithms are essential aspects of designing real-world applications. Reading this blog will quickly assist you in adapting all ML algorithms.",
+            "date_modified": "2022-12-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai",
+            "url": "undefined/the-outstanding-evolution-of-dall-e-2-tool-kit-amazing-open-ai",
+            "title": "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI",
+            "summary": "Discover the remarkable advancements and incredible possibilities of DALL·E 2 tool kit by OpenAI. Explore the amazing potential of this groundbreaking technology.",
+            "date_modified": "2022-12-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/edge-ai-and-its-importance-in-todays-tech-world",
+            "url": "undefined/edge-ai-and-its-importance-in-todays-tech-world",
+            "title": "Edge AI and Its Importance in Today's Tech World!",
+            "summary": "Edge AI is one of the most effective artificial intelligence (AI) programs currently available in the majority of physical devices worldwide.",
+            "date_modified": "2022-11-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-is-aiot-know-its-advantages-in-real-world-scenarios",
+            "url": "undefined/what-is-aiot-know-its-advantages-in-real-world-scenarios",
+            "title": "What is AIoT? Know Its Advantages in Real-world Scenarios",
+            "summary": "AIoT is a combination of AI and IoT.It is an approach to the development of intelligent systems that use data from sensors and other sources.",
+            "date_modified": "2022-11-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/fact-or-hype-an-ibm-data-science-professional-certificate-can-boost-your-career-at-10x-speed",
+            "url": "undefined/fact-or-hype-an-ibm-data-science-professional-certificate-can-boost-your-career-at-10x-speed",
+            "title": "Fact or Hype - An IBM Data Science Professional Certificate Can Boost Your Career At 10x Speed",
+            "summary": "This blog will shed light on how a series of unique data science professional certifications are successfully boosting working professional's careers.",
+            "date_modified": "2022-11-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/advanced-application-of-ai-in-banking-a-new-era-of-bfsi-sector",
+            "url": "undefined/advanced-application-of-ai-in-banking-a-new-era-of-bfsi-sector",
+            "title": "Advanced Application of AI in Banking | A New Era of BFSI Sector",
+            "summary": "In this blog, we'll explore how AI is being used to revolutionize the banking industry, making it more efficient and effective. We'll also know how AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences!",
+            "date_modified": "2022-11-22T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends",
+            "url": "undefined/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends",
+            "title": "Is Your Data Scientist Salary Competitive? Cross-Check With The Latest Trends",
+            "summary": "Wondering if your Data Scientist salary is competitive? Keep up with the latest trends and compare your salary to industry standards.",
+            "date_modified": "2022-11-20T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/know-how-conversational-ai-is-making-amazon-alexa-smarter",
+            "url": "undefined/know-how-conversational-ai-is-making-amazon-alexa-smarter",
+            "title": "Know-How Conversational AI is Making Amazon Alexa Smarter",
+            "summary": "AI is making Amazon Alexa smarter every day. Check out how conversational AI is making Amazon Alexa more intelligent. From improving her voice recognition to understanding human emotions, conversational AI is giving Alexa a big boost.",
+            "date_modified": "2022-11-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/hyperautomation-and-its-benefits-to-businesses-and-it-processes",
+            "url": "undefined/hyperautomation-and-its-benefits-to-businesses-and-it-processes",
+            "title": "Hyperautomation and Its Benefits to Businesses and IT Processes",
+            "summary": "Hyperautomation is the hot new thing in business and IT processes. Here We'll explore what hyperautomation is, its benefits, and how businesses make use of it.",
+            "date_modified": "2022-11-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-is-augmented-reality-helping-the-cyber-security-system",
+            "url": "undefined/how-is-augmented-reality-helping-the-cyber-security-system",
+            "title": "How is Augmented Reality Helping the Cyber Security System?",
+            "summary": "Artificial Intelligence in cyber security system is providing a new level of security for businesses and how AR is changing the landscape of cyber security.",
+            "date_modified": "2022-11-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/best-ai-ebooks-for-you-to-explore-and-refine-domain-knowledge",
+            "url": "undefined/best-ai-ebooks-for-you-to-explore-and-refine-domain-knowledge",
+            "title": "Best AI eBooks For You To Explore And Refine Domain Knowledge",
+            "summary": "Looking for the best AI eBooks? Check out our collection of top AI eBooks for you to explore and refine your domain knowledge. From books on machine learning and artificial intelligence to data science and big data, we've got you covered. So what are you waiting for? Start reading today!",
+            "date_modified": "2022-11-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/octoml-the-coolest-platform-for-faster-machine-learning-model-deployment",
+            "url": "undefined/octoml-the-coolest-platform-for-faster-machine-learning-model-deployment",
+            "title": "OctoML- The Coolest Platform for Faster Machine Learning Model Deployment",
+            "summary": "Know what is OctoML, How to Machine Learning should be integrated with Apache TVM. Also learn about the how doe OctoMl Works.",
+            "date_modified": "2022-11-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/artificial-intelligence-in-weather-forecasting-it-can-definitely-save-our-day",
+            "url": "undefined/artificial-intelligence-in-weather-forecasting-it-can-definitely-save-our-day",
+            "title": "Artificial Intelligence in Weather Forecasting - It Can Definitely Save Our Day",
+            "summary": "Discover how artificial intelligence is revolutionizing weather forecasting. Learn how AI algorithms analyze vast data sets to provide accurate forecasts.",
+            "date_modified": "2022-11-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-innovation-of-robot-chef-is-thrilling-the-world-the-power-of-ai",
+            "url": "undefined/the-innovation-of-robot-chef-is-thrilling-the-world-the-power-of-ai",
+            "title": "The Innovation of Robot Chef is Thrilling The World! | The Power of AI",
+            "summary": "Discover the incredible innovation of robot chefs powered by AI technology that is revolutionizing the culinary world. Explore the features, benefits & impact of cooking automation.",
+            "date_modified": "2022-11-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-is-ml-fairness-indicator-all-you-need-to-know",
+            "url": "undefined/what-is-ml-fairness-indicator-all-you-need-to-know",
+            "title": "What is ML Fairness Indicator?- All You Need to Know",
+            "summary": "Google's new ML fairness indicator is designed to help developers assess the fairness of their machine learning models. In this article, we'll explain what the ML fairness indicator is and how it works.",
+            "date_modified": "2022-11-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/7-ways-artificial-intelligence-innovation-is-wiping-out-environmental-impurities",
+            "url": "undefined/7-ways-artificial-intelligence-innovation-is-wiping-out-environmental-impurities",
+            "title": "7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!",
+            "summary": "Seven ways that artificial intelligence is being used to wipe out environmental impurities! From cleaning up oil spills to reducing air pollution, AI is making a big difference. Learn more about how AI is helping to save the planet.",
+            "date_modified": "2022-10-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/stock-prediction-gone-extraordinarily-precise-an-outstanding-application-of-ml",
+            "url": "undefined/stock-prediction-gone-extraordinarily-precise-an-outstanding-application-of-ml",
+            "title": "Stock Prediction Gone Extraordinarily Precise - An Outstanding Application of ML",
+            "summary": "Many people have tried to predict stock market performance. In this blog we have discussed algorithms for predicting stock markets",
+            "date_modified": "2022-10-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant",
+            "url": "undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant",
+            "title": "Cloud Computing and Machine Learning - How These Two Become Relevant",
+            "summary": "Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.",
+            "date_modified": "2022-10-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond",
+            "url": "undefined/a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond",
+            "title": "A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond",
+            "summary": "From chatbots to voice search, learn about the fascinating facts about artificial intelligence and how it is impacting our lives.",
+            "date_modified": "2022-10-20T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-8-domains-for-data-science-those-offering-tempting-job-opportunities",
+            "url": "undefined/top-8-domains-for-data-science-those-offering-tempting-job-opportunities",
+            "title": "Top 8 Domains For Data Science Those Offering Tempting Job Opportunities",
+            "summary": "Discover the best domains for data science job opportunities. Explore how these domains can enhance your career and find out why they are in high demand.",
+            "date_modified": "2022-10-18T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/21-most-asked-data-science-interview-questions-for-2023",
+            "url": "undefined/21-most-asked-data-science-interview-questions-for-2023",
+            "title": "21 Most Asked Data Science Interview Questions for 2023",
+            "summary": "We've compiled a list of the 21 most important data science interview questions with answers,  which will help the data scientists to prepare for their next interview.",
+            "date_modified": "2022-10-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/15-tools-every-full-stack-web-developer-should-master",
+            "url": "undefined/15-tools-every-full-stack-web-developer-should-master",
+            "title": "15 Tools Every Full-Stack Web Developer Should Master",
+            "summary": "Check out this list of 15 essential tools that every full-stack web developer should master, categorized for front-end and back-end developer tools.",
+            "date_modified": "2022-10-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/did-you-know-artificial-intelligence-can-manipulate-human-behavior",
+            "url": "undefined/did-you-know-artificial-intelligence-can-manipulate-human-behavior",
+            "title": "Did You Know Artificial Intelligence Can Manipulate Human Behavior?",
+            "summary": "In this blog, we'll look at how Artificial Intelligence (AI) may detect defects in human behavior and utilize them to make decisions. AI has a lot of potential, but it also has a nasty side.",
+            "date_modified": "2022-10-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/7-ways-artificial-intelligence-can-boost-delivery-management-worldwide",
+            "url": "undefined/7-ways-artificial-intelligence-can-boost-delivery-management-worldwide",
+            "title": "7 Ways Artificial Intelligence Can Boost Delivery Management Worldwide!",
+            "summary": "AI can help with route planning, order management, and more. In this blog, you will be briefed on how Artificial Intelligence Can boost delivery management.",
+            "date_modified": "2022-10-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/know-the-10-most-used-programming-languages-for-data-science",
+            "url": "undefined/know-the-10-most-used-programming-languages-for-data-science",
+            "title": "Know The 10 Most Used Programming Languages For Data Science",
+            "summary": "In this article, we will take a look at the 10 most used programming languages for data science. From Python to R to Java, find out which language is right for you.",
+            "date_modified": "2022-10-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-7-women-full-stack-software-develope-the-inspiration-for-all-women-in-tech",
+            "url": "undefined/top-7-women-full-stack-software-develope-the-inspiration-for-all-women-in-tech",
+            "title": "Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech",
+            "summary": "In this article, we will read about 7 highly recognized female full-stack software developers, their career paths, and their advice for aspiring software developers.",
+            "date_modified": "2022-10-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break",
+            "url": "undefined/full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break",
+            "title": "Full Stack Software Developer Course - The Guarantee of a Lucrative Career Restart for Women after a Break",
+            "summary": "Discover the best career path with Learnbay's Full Stack Developer Career Course, which is designed specifically for women who want to make a successful career restart after a career break.",
+            "date_modified": "2022-09-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/a-career-in-data-science-the-key-to-lucrative-come-back-for-women-after-a-career-break",
+            "url": "undefined/a-career-in-data-science-the-key-to-lucrative-come-back-for-women-after-a-career-break",
+            "title": "A Career in Data Science - The Key To Lucrative Come-back for Women After a Career Break",
+            "summary": "Women make up a significant portion of the workforce, but they often take a break from their careers to raise children or other reasons. Data science is a growing field that offers a lucrative career path for women who want to return to work after a career break.",
+            "date_modified": "2022-09-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/women-in-ai-top-10-indian-women-empowering-the-world-of-ai",
+            "url": "undefined/women-in-ai-top-10-indian-women-empowering-the-world-of-ai",
+            "title": "Women in AI - Top 10 Indian Women Empowering the World of AI",
+            "summary": "Know the achievements of Indian women who are making a significant impact in the world of AI. Learn how these inspiring women are revolutionizing the field and empowering others.",
+            "date_modified": "2022-09-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/successful-data-scientist-without-a-tech-degree-yes-it-is-possible",
+            "url": "undefined/successful-data-scientist-without-a-tech-degree-yes-it-is-possible",
+            "title": "Successful Data Scientist Without A Tech Degree! Yes, It Is Possible",
+            "summary": "Are you considering a career in data science, but don't have a tech degree? It is possible to have a successful career in data scientist without a tech degree.",
+            "date_modified": "2022-09-21T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-is-generative-ai-all-you-need-to-know",
+            "url": "undefined/what-is-generative-ai-all-you-need-to-know",
+            "title": "What Is Generative AI? All You Need To Know!",
+            "summary": "Generative AI is a type of Artificial Intelligence that used to generate new data from scratch. This could be anything from new images to new text or even 3D models.",
+            "date_modified": "2022-09-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+            "url": "undefined/introduction-to-vertex-ai-models-the-new-horizon-of-google-cloud's-success",
+            "title": "Introduction To Vertex AI Models - The New Horizon of Google Cloud's Success",
+            "summary": "Learn more about the power of Vertex AI models and explore the new horizon of success with Google Cloud in this blog",
+            "date_modified": "2022-09-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/operators-in-python-operation-using-symbol",
+            "url": "undefined/operators-in-python-operation-using-symbol",
+            "title": "Operators in Python - Operation using Symbol",
+            "summary": "Python has a set of built-in operators that can be used on different data types. In this blog, we will learn about the different operators in Python and how to use them.",
+            "date_modified": "2022-09-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
+            "url": "undefined/how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted",
+            "title": "How To Become a Demanding Full-Stack Developer in 2023? All Confusion Sorted",
+            "summary": "In this blog post we will tell you everything you need to know to get started on your career as a full-stack developer. We will discuss the different skills you need to learn and how to get started on your path to becoming a full-stack developer.",
+            "date_modified": "2022-09-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/you-could-be-a-pro-in-data-science-by-self-assisting",
+            "url": "undefined/you-could-be-a-pro-in-data-science-by-self-assisting",
+            "title": "You could be a pro in Data Science by Self Assisting",
+            "summary": "Get good at stats, math and machine learning. Take online data course. Learn to code. Computer science, development and a language...",
+            "date_modified": "2022-09-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/basics-of-functions-in-python-a-glance",
+            "url": "undefined/basics-of-functions-in-python-a-glance",
+            "title": "Basics of Functions In Python - A Glance",
+            "summary": "In this blog you will learn about Python functions, including how to call and write a function. To understand more about Python functions, click here.",
+            "date_modified": "2022-09-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/7-best-machine-learning-companies-to-work-for-in-bangalore-2023",
+            "url": "undefined/7-best-machine-learning-companies-to-work-for-in-bangalore-2023",
+            "title": "7 Best Machine Learning companies to work for in Bangalore 2023",
+            "summary": "Bangalore is one of the best places to work for AI & Machine Learning Professionals, and discover a list of the top 7 machine learning companies to work for in 2023.",
+            "date_modified": "2022-09-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/ace-the-toughest-data-science-interview-with-these-stunning-tricks",
+            "url": "undefined/ace-the-toughest-data-science-interview-with-these-stunning-tricks",
+            "title": "Ace The Toughest Data Science Interview With These Stunning Tricks",
+            "summary": "From preparing ahead of time to knowing what to expect, this article will give you some of the best tips for data science interview preparation.",
+            "date_modified": "2022-09-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/no-code-machine-learning-just-gone-viral-but-what's-that",
+            "url": "undefined/no-code-machine-learning-just-gone-viral-but-what's-that",
+            "title": "No Code Machine Learning Just Gone Viral!- But What's That?",
+            "summary": "Machine Learning with no code is a subset of Machine Learning. No code Machine Learning uses a development platform with a code-free drag and drop interface, which is basically grounded on ML and AI-based models.",
+            "date_modified": "2022-09-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/hybrid-learning-the-success-key-to-job-guaranteed-professional-training",
+            "url": "undefined/hybrid-learning-the-success-key-to-job-guaranteed-professional-training",
+            "title": "Hybrid Learning- The Success Key To Job-Guaranteed Professional Training",
+            "summary": "Explore the benefits & opportunities of hybrid learning, ensuring job-guaranteed professional training. ",
+            "date_modified": "2022-08-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-most-important-skills-of-data-science-to-master-in-2023",
+            "url": "undefined/the-most-important-skills-of-data-science-to-master-in-2023",
+            "title": "The  Most Important Skills of Data Science To Master in 2023?",
+            "summary": "As data becomes increasingly important in our world, it's more important than ever to master the skills of data science. But what skills are most important? In this article, we'll explore the most important skills of data science.",
+            "date_modified": "2022-08-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course",
+            "url": "undefined/what-is-a-job-ready-capstone-project-and-why-is-it-important-in-ai-and-data-science-course",
+            "title": "What Is A Job-Ready Capstone Project, And Why Is It Important In AI And Data Science Course?",
+            "summary": "A capstone project is like a crown on your analytics skills and learning. It gives data scientists and AI engineers the freedom to play with the tools and technology.",
+            "date_modified": "2022-08-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-is-data-science-uncovering-the-explicit-truth",
+            "url": "undefined/what-is-data-science-uncovering-the-explicit-truth",
+            "title": "What is Data Science? | Uncovering The Explicit Truth",
+            "summary": "Data science is the field of study combining programming, domain expertise, skills, and knowledge of mathematics and statistics to derive meaningful insights from data.",
+            "date_modified": "2022-08-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023",
+            "url": "undefined/top-5-Job-ready-data-science-course-for-managers-and-leaders-in-2023",
+            "title": "Top 5 Job-Ready Data Science Course For Managers And Leaders In 2023",
+            "summary": "Are you a manager? If you are looking for a career in data science, here top 5 best Job-ready data science course for managers in 2023.",
+            "date_modified": "2022-08-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/introduction-to-data-types-what-does-it-mean-in-python-programming",
+            "url": "undefined/introduction-to-data-types-what-does-it-mean-in-python-programming",
+            "title": "Introduction To Data Types - What Does It Mean In Python Programming?",
+            "summary": "In Python programming, Data types are classes, and variables are instances (objects) for these classes, as everything is an object in python programming.",
+            "date_modified": "2022-08-21T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/tuples-an-immutable-derived-datatype",
+            "url": "undefined/tuples-an-immutable-derived-datatype",
+            "title": "Tuples - An Immutable Derived Datatype",
+            "summary": "In this blog you will learn about What is Tuples, Their Different Types, Sorting of Tuples and also, you will get to know about its basic operations.",
+            "date_modified": "2022-08-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/oops-why-2023-is-too-late-for-video-Based-data-science-learning",
+            "url": "undefined/oops-why-2023-is-too-late-for-video-Based-data-science-learning",
+            "title": "Oops! Why 2023 Is Too Late For Video-Based Data Science Learning",
+            "summary": "Data science is a rapidly growing field with many opportunities. However, many people are still unaware of the basics of data science learning.",
+            "date_modified": "2022-08-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/differentiating-data-scientist-and-data-analyst",
+            "url": "undefined/differentiating-data-scientist-and-data-analyst",
+            "title": "Differentiating Data Scientist and Data Analyst",
+            "summary": "Here in this blog uou will get to know the key differences between data scientists and data analysts, their unique roles, and the skills required.",
+            "date_modified": "2022-08-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-science-for-working-professionals",
+            "url": "undefined/data-science-for-working-professionals",
+            "title": "Data Science for working professionals",
+            "summary": "Check out this blog for the most updated tips on learning data science and how it may help you advance your career while maintaining your current professional career.",
+            "date_modified": "2022-07-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/text-stemming-in-nlp",
+            "url": "undefined/text-stemming-in-nlp",
+            "title": "Text Stemming In NLP",
+            "summary": "Discover the fundamentals of Text Stemming in NLP & Its practical applications. Learn how to implement text stemming techniques in NLP for enhanced information retrieval & analysis.",
+            "date_modified": "2022-07-04T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/future-of-education-in-hands-of-machine-learning",
+            "url": "undefined/future-of-education-in-hands-of-machine-learning",
+            "title": "Future of Education in hands of Machine Learning",
+            "summary": "Machine learning allows computers to learn from data without using programs or human interference. This blog will brief you on machine learning in education examples.",
+            "date_modified": "2022-06-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-data-science-certifications-in-2023-exclusive-to-banking-professionals",
+            "url": "undefined/top-data-science-certifications-in-2023-exclusive-to-banking-professionals",
+            "title": "Top Data Science Certifications In 2023 - Exclusive To Banking Professionals",
+            "summary": "Are you a banking professional ? Looking for a data science course then check out a list of the data science certification course that help you land a job at a top tech company.",
+            "date_modified": "2022-06-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-does-data-science-promote-project-managers-to-a-new-perspective-of-success",
+            "url": "undefined/how-does-data-science-promote-project-managers-to-a-new-perspective-of-success",
+            "title": "How Does Data Science Promote Project Managers to a New Perspective of Success",
+            "summary": "As a project manager, understanding how data science can be used to improve your projects is essential to success. In this article, we will explore how data science can promote project managers to a new perspective of success.",
+            "date_modified": "2022-05-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/regression-techniques-in-machine-learning",
+            "url": "undefined/regression-techniques-in-machine-learning",
+            "title": "Regression techniques in Machine Learning",
+            "summary": "ML has become a trend in today's world of technology. There are different types of regression techniques in machine learning, which we will learn about in this article.",
+            "date_modified": "2022-05-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/know-the-top-10-data-science-trends-2023",
+            "url": "undefined/know-the-top-10-data-science-trends-2023",
+            "title": "Know The Top 10 Data Science Trends (2023)",
+            "summary": "In this blog, We will tell you about the Latest Data Science trends in 2023. Data science, AI and Big Data are the leading technologies that have empowered businesses.",
+            "date_modified": "2022-05-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist",
+            "url": "undefined/how-to-build-a-rewarding-career-as-a-healthcare-data-scientist",
+            "title": "How to Build a Rewarding Career As a Healthcare Data Scientist?",
+            "summary": "Data science in Healthcare isn’t something new. It is the most common industry where data science and analytics are applied...",
+            "date_modified": "2022-05-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career",
+            "url": "undefined/how-data-analytics-can-fast-track-your-e-commerce-retail-and-supply-chain-career",
+            "title": "How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?",
+            "summary": "Data analytics in supply chain has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce.",
+            "date_modified": "2022-05-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/introduction-to-python-programming",
+            "url": "undefined/introduction-to-python-programming",
+            "title": "Introduction to Python Programming",
+            "summary": "The Python programming language is a high-level, general-purpose language. The object-oriented programming approach made it ideal for application development.",
+            "date_modified": "2022-04-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/the-necessity-of-machine-learning-in-retail",
+            "url": "undefined/the-necessity-of-machine-learning-in-retail",
+            "title": "The Necessity of Machine Learning in Retail",
+            "summary": "In this blog, you will get an overview of use cases of machine learning in retail that help analyze user habits and make predictions without human intervention.",
+            "date_modified": "2022-04-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/investing-3-lakhs-on-data-science-certification-course-does-it-really-worth",
+            "url": "undefined/investing-3-lakhs-on-data-science-certification-course-does-it-really-worth",
+            "title": "Investing 3 lakhs on Data science Certification Course? Is it really worth it",
+            "summary": "Discover the value of investing 3 lakhs in a data science certification course. Learn about the benefits, job prospects, and ROI to make an informed decision.",
+            "date_modified": "2022-04-12T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package",
+            "url": "undefined/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package",
+            "title": "Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package",
+            "summary": "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/different-job-roles-after-a-data-science-course",
+            "url": "undefined/different-job-roles-after-a-data-science-course",
+            "title": "Different Job Roles After A Data Science Course",
+            "summary": "The amount of data that needs to be processed by humans has essentially been decreased and reduced by the use of data science. In today's technological environment, data scientists play a variety of functions that are fundamentally distinct from one another. If you're interested in a career in data science, check out our course to get started with different job roles in the data science industry.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope",
+            "url": "undefined/marketing-sales-and-hr-is-being-a-data-scientist-the-only-hope",
+            "title": "Marketing, Sales, and HR Is being a data scientist the only hope?",
+            "summary": "Discover the role of data science in marketing, sales, and HR. Explore how data-driven insights can transform these industries and the opportunities for aspiring data scientists. Learn more at Learnbay Blog.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/practice-of-intelligence-with-help-of-artificial-intelligence-in-academics",
+            "url": "undefined/practice-of-intelligence-with-help-of-artificial-intelligence-in-academics",
+            "title": "The Practice of Intelligence with help of Artificial Intelligence in Academics",
+            "summary": "Integrating AI in academics has potential to revolutionise the way students learn and teachers teach. AI provide personalised feedback and recommendations to students.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/what-is-supervised-and-unsupervised-learning-in-machine-learning",
+            "url": "undefined/what-is-supervised-and-unsupervised-learning-in-machine-learning",
+            "title": "What is Supervised, Unsupervised Learning, and Reinforcement Learning in Machine Learning",
+            "summary": "Learn more about Machine Learning Algorithms, such as Supervised, Unsupervised and Reinforcement Machine Learning. Also, learn their importance in relevant fields.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-science-in-media-hospitality-and-transportation",
+            "url": "undefined/data-science-in-media-hospitality-and-transportation",
+            "title": "Data Science in Media, Hospitality, and Transportation",
+            "summary": "In this blog, you will learn how data science can be implemented to showcase better customer services, optimize operations and make more efficient businesses.",
+            "date_modified": "2022-04-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care",
+            "url": "undefined/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care",
+            "title": "Data Science Jobs - The Busting Ways To Secure Attractive Packages In Health Care?",
+            "summary": "In this blog, you will get to know the data science jobs in the healthcare sector with the various opportunities and trends.",
+            "date_modified": "2022-04-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist",
+            "url": "undefined/how-to-make-a-rewarding-career-in-the-energy-oil-and-gas-domain-as-a-data-scientist",
+            "title": "How To Make a Rewarding Career in the Energy, Oil, and Gas Domain as a Data Scientist?",
+            "summary": "Data science jobs in energy, oil, and gas have predicted a huge job surge with continuous advancement. Here's how to make a rewarding career in this domain, with the best projects and training to help you stand out from the crowd.",
+            "date_modified": "2022-04-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/gaussian-and-normal-distribution",
+            "url": "undefined/gaussian-and-normal-distribution",
+            "title": "Normal and Gaussian Distribution",
+            "summary": "In this blog you will learn the basics of the normal distribution in statistics by estimating probability distribution and probability.",
+            "date_modified": "2022-03-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/gradient-descent-for-machine-learning",
+            "url": "undefined/gradient-descent-for-machine-learning",
+            "title": "Gradient Descent for Machine Learning",
+            "summary": "In this blog post, you will get an overview of how Gradient descent works and what are its efficiency while implementing a machine learning algorithm.",
+            "date_modified": "2022-03-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency.",
+            "url": "undefined/In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency.",
+            "title": "Everything About the XGBoost Classifier",
+            "summary": "In this blog, learn about the XGBoost classifier and how it works with various applications to increase its efficiency.",
+            "date_modified": "2022-02-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/reliable-resources-for-data-science",
+            "url": "undefined/reliable-resources-for-data-science",
+            "title": "Reliable Resources for Data Science",
+            "summary": "Data science is one of the most diversified fields with different in-depth concepts. Here in this blog, you will be briefed on the best sources to learn data science in a very simple and concise manner. It is the most reliable source for you to stay up to date with the latest development in data science.",
+            "date_modified": "2022-01-31T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-25-interview-question-on-statistics",
+            "url": "undefined/top-25-interview-question-on-statistics",
+            "title": "Top 25 interview question on Statistics",
+            "summary": "Are you preparing for a statistics interview? Stay ahead of the competition with this comprehensive guide to the 25 most important interview question on Statistics.",
+            "date_modified": "2022-01-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/how-to-get-the-best-data-science-internship-in-2023",
+            "url": "undefined/how-to-get-the-best-data-science-internship-in-2023",
+            "title": "How to Get the Best Data Science Internship in 2023?",
+            "summary": "A data science internship is a fantastic opportunity to begin a career in the field of data science and AI. Mostly for nontechies, a certification course is not enough to get a job. Know the strategy to successfully get into the data science field.",
+            "date_modified": "2022-01-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/method-overriding-in-python-of-data-science-everything-you-need-to-know",
+            "url": "undefined/method-overriding-in-python-of-data-science-everything-you-need-to-know",
+            "title": "Method Overriding in Python of Data Science Everything You Need to Know",
+            "summary": "The method overriding in Python means creating around two methods with the same particular name but differ in the programming logic as well.",
+            "date_modified": "2021-12-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/young-data-scientists",
+            "url": "undefined/young-data-scientists",
+            "title": "Young Data Scientists",
+            "summary": "In this blog, you will get to know more about India's youngest data scientists. Learn about their successful journey as well.",
+            "date_modified": "2021-12-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/why-data-science-actually-matters-in-2023",
+            "url": "undefined/why-data-science-actually-matters-in-2023",
+            "title": "Why Data Science Actually Matters in 2023?",
+            "summary": "Data science is a diversified field, but many individuals still wonder why data science is important. This blog will provide an overview of numerous aspects and applications of data science, which shows its future implications.",
+            "date_modified": "2021-11-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/everything-about-data-preprocessing",
+            "url": "undefined/everything-about-data-preprocessing",
+            "title": "Everything About Data Preprocessing",
+            "summary": "Data preprocessing, an important step in the data mining process refers to the cleaning, transforming, and integrating of data in order to make it ready for analysis.",
+            "date_modified": "2021-11-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/everything-about-decision-tree-from-scratch",
+            "url": "undefined/everything-about-decision-tree-from-scratch",
+            "title": "Everything About Decision Tree From Scratch",
+            "summary": "Decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, and utility.",
+            "date_modified": "2021-10-31T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/introduction-to-simple-linear-regression-in-machine-learning",
+            "url": "undefined/introduction-to-simple-linear-regression-in-machine-learning",
+            "title": "Introduction to Simple Linear Regression in Machine Learning",
+            "summary": "Learn the fundamentals of simple linear regression in machine learning. Understand how it works, its applications, and implementation",
+            "date_modified": "2021-09-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/customer-experience-enhancement-in-banks",
+            "url": "undefined/customer-experience-enhancement-in-banks",
+            "title": "Customer Experience Enhancement In Banks",
+            "summary": "Customer Experience Enhancement now have access to accounts and can transact across mobile, social, and other self-serve channels...",
+            "date_modified": "2021-07-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/top-50-interview-questions-of-machine-learning",
+            "url": "undefined/top-50-interview-questions-of-machine-learning",
+            "title": "Top 50 Interview Questions of Machine Learning",
+            "summary": "Prepare for your interview with our 50 most asked interview questions of ML. These questions cover a wide range of topics and will help you demonstrate your ML skills.",
+            "date_modified": "2021-05-26T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/model-vs-algorithm-in-ml",
+            "url": "undefined/model-vs-algorithm-in-ml",
+            "title": "Model vs Algorithm in ML",
+            "summary": "In this blog, you will understand Model Vs Algorithms in Machine Learning. Both play an important role in Machine learning.",
+            "date_modified": "2021-04-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/win-this-covid-19-with-data-science-course",
+            "url": "undefined/win-this-covid-19-with-data-science-course",
+            "title": "Win the COVID-19",
+            "summary": "Equip yourself with data science skills to combat COVID-19. Learn how to analyze and predict pandemic trends.",
+            "date_modified": "2021-04-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/artificial-intelligence-in-e-commerce",
+            "url": "undefined/artificial-intelligence-in-e-commerce",
+            "title": "Artificial Intelligence in E-commerce",
+            "summary": "In this blog, we will discuss about the top 10 practical applications of artificial intelligence in E-commerce and how it is useful for online retailers.",
+            "date_modified": "2021-04-14T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/exploratory-data-analysis-on-iris-dataset",
+            "url": "undefined/exploratory-data-analysis-on-iris-dataset",
+            "title": "Exploratory Data Analysis on Iris dataset",
+            "summary": "Learn about the Iris dataset and how it measures the 150 dataframes of iris petal and sepal length for each species of setosa, versicolor, and virginica.",
+            "date_modified": "2021-01-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/linear-regression-in-machine-learning",
+            "url": "undefined/linear-regression-in-machine-learning",
+            "title": "Linear Regression in Machine Learning",
+            "summary": "Linear regression is one of the simplest and most popular machine learning algorithms. It is a statistical method used for predictive analysis.",
+            "date_modified": "2020-12-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/random-forest-model-rfm",
+            "url": "undefined/random-forest-model-rfm",
+            "title": "Random forest model(RFM)",
+            "summary": "Random Forest Model is also a classification model with the combination of the decision tree. The RFM algorithm is a supervised classification algorithm.",
+            "date_modified": "2020-12-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/nlp-and-deep-learning-for-data-scientists",
+            "url": "undefined/nlp-and-deep-learning-for-data-scientists",
+            "title": "NLP and Deep Learning for Data Scientists",
+            "summary": "Deep learning and natural language processing are as busy as they’ve always been. The most in-demand technologies are deep learning and natural language processing.",
+            "date_modified": "2020-12-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/support-vector-machines",
+            "url": "undefined/support-vector-machines",
+            "title": "Support Vector Machine",
+            "summary": "Support vector machines are a particularly powerful and flexible class of supervised algorithms. In this blog, we will explore the support vendor machines.",
+            "date_modified": "2020-11-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/clustering-data-science-unsupervised-learning",
+            "url": "undefined/clustering-data-science-unsupervised-learning",
+            "title": "Clustering & Types Of Clustering",
+            "summary": "Clustering & Types Of Clustering is the process of finding similar groups in data, called a cluster. It groups data instances that are similar to each other in one cluster and data instances that are very different(far away) from each other into different clusters...",
+            "date_modified": "2020-11-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/different-jobs-opportunities-of-data-science",
+            "url": "undefined/different-jobs-opportunities-of-data-science",
+            "title": "Understanding Different Job Opportunities of Data Science",
+            "summary": "To maintain and sustain any job opportunities in data science is a bliss in life, not only because it rains money but for the professional stability and experience one gets about technology...",
+            "date_modified": "2020-11-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/know-the-best-strategy-to-find-the-right-data-science-job-in-delhi",
+            "url": "undefined/know-the-best-strategy-to-find-the-right-data-science-job-in-delhi",
+            "title": "Know The Best Strategy To Find The Right Data Science Job in Delhi?",
+            "summary": "Looking for a data science job in Delhi? Discover the best strategies to find the right job for you and advance your career in this growing field.",
+            "date_modified": "2020-08-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/evolution-of-data-science-in-india",
+            "url": "undefined/evolution-of-data-science-in-india",
+            "title": "Evolution of Data Science in India",
+            "summary": "Explore the journey of data science in India, from its inception to the present day. Gain valuable insights from experts and stay ahead in the data science revolution.",
+            "date_modified": "2020-02-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/is-ai-a-threat-to-humanity",
+            "url": "undefined/is-ai-a-threat-to-humanity",
+            "title": "Is AI a threat to humanity?",
+            "summary": "The alarms rang in Jul 2017 when in a meeting of the National Governors Association, Elon Musk, a prominent celebrated figure pointed out I have exposure to the very cutting-edge AI, and I think people should be really concerned about it...",
+            "date_modified": "2019-08-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/learnbay-data-science-training-in-bangalore",
+            "url": "undefined/learnbay-data-science-training-in-bangalore",
+            "title": "Learnbay | Data Science Training in Bangalore",
+            "summary": "Learnbay provides data science training in Bangalore with real time projects and Industry certificates. Our Classroom is especially designed for working professionals.",
+            "date_modified": "2019-05-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/10-reasons-why-data-science-is-a-best-career-move",
+            "url": "undefined/10-reasons-why-data-science-is-a-best-career-move",
+            "title": "10 Reasons Why Data Science is A Best Career Move",
+            "summary": "Discover the top 10 reasons why pursuing a career in data science is a smart move. Learn how data science can unlock endless opportunities for growth and success.",
+            "date_modified": "2018-11-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/why-you-need-data-structures-and-algorithms-training",
+            "url": "undefined/why-you-need-data-structures-and-algorithms-training",
+            "title": "Why You Need Data Structures And Algorithms training",
+            "summary": "The best of actors practice their dialogues in front of the mirror; they do several rehearsals before they start shooting for a film. The best of cricketers spend hours in the net, practicing...",
+            "date_modified": "2017-05-07T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

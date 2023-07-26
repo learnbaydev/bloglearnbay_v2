@@ -9,7 +9,19 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/machine.jpg"
 headerAlt: "An image titled 'Machine Learning in Education' shows three machine learning professionals sitting and discussing with a book and a  laptop."
 date: "Jun 10, 2022"
-tag: [ future of machine learning in india, future of machine learning, machine learning in education sector, machine learning in education examples, machine learning in education industry, use of machine learning in education, artificial intelligence and machine learning in education, benefits of machine learning in education, machine learning in edtech ]
+tag:
+  [
+    future of machine learning in india,
+    future of machine learning,
+    machine learning in education sector,
+    machine learning in education examples,
+    machine learning in education industry,
+    use of machine learning in education,
+    artificial intelligence and machine learning in education,
+    benefits of machine learning in education,
+    machine learning in edtech,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -17,29 +29,22 @@ catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comp
 authortitle: ""
 adesc: ""
 
-
 author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "Editor"
 readTime: "3-4 mins"
 h1: "Future of Education in hands of Machine Learning"
 id: "future-of-education-in-hands-of-machine-learning"
-tableData:
-  [
-    Future of Education in hands of Machine Learning,
-  ]
+tableData: [Future of Education in hands of Machine Learning]
 ---
 
-
-Old school educators are having a hard time getting used to machines having the ability to think and learn. Suggesting to them that Machine Learning is going to revolutionize the education field usually falls on deaf ears. However, sooner or later, they will have to come to grips with this  new reality.
-
+Old school educators are having a hard time getting used to machines having the ability to think and learn. Suggesting to them that Machine Learning is going to revolutionize the education field usually falls on deaf ears. However, sooner or later, they will have to come to grips with this new reality.
 
 Machine Learning is defined as a field of computer science that uses statistical techniques to give computer systems the ability to “learn” (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed.
 
 In this piece, I want to discuss 6 ways Machine Learning will revolutionize the education sector.
-
 
 1. Increasing efficiency: Machine Learning in the form of artificial intelligence has the potential to make educators more efficient by completing tasks such as classroom management, scheduling, etc. In turn, educators are free to focus on tasks that cannot be achieved by <a href="https://blog.learnbay.co/a-few-fascinating-facts-about-artificial-intelligence-in-2022-and-beyond" target="_blank">AI</a>, and that require a human touch.
 2. Learning analytics: Machine Learning in the form of learning analytics can help teachers gain insight into data that cannot be gleaned by using the human brain. In this capacity, computers can perform deep dives into data, sifting through millions of pieces of content, and making connections and conclusions that positively impact the teaching and learning process.

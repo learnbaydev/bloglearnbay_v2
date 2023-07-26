@@ -16,6 +16,7 @@ tag:
     data science benefits to business,
     advantages of data science,
   ]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"

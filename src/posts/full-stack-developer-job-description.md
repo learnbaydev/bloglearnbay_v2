@@ -10,6 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-
 headerAlt: ""
 date: "May 27, 2023"
 tag: []
+parantcategory: "software Development"
 category: "Full Stack"
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
 catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
@@ -64,11 +65,8 @@ The job description for this role consists of holistic responsibilities. It is t
 **The job descriptions consist of :**
 
 - Job Profile
-  
 - Education Details
-  
 - Roles and Responsibilities
-  
 - Skills and Certifications
 
 If a candidate fails to understand the job description, then cracking the interviews becomes a difficult factor.<br/><br/>
@@ -90,16 +88,14 @@ Do you know that understanding the job summary almost prepares you for cracking 
 Do you wish to get into the profession in a full-stack developer role? Then you must know the basic criteria for getting into the role.
 
 - If you are from a BE/BTech background with a degree in computer science, you can get into the developer role very easily.
-  
 - If you come from the BCA/BSc stream, then your basic knowledge of software development programs helps. Here I recommend upgrading it.
-  
 - If you hail from MCA/MTech/MSc, you can become a full-stack developer. These postgraduate degrees are not required, as a graduation degree is enough.
-  
 - If you come from a non-tech background and are interested in the IT industry, you can get a job as a full-stack developer. The fundamentals of programming (clear picture) are the core requirement here. <br/><br/>
 
 **Check Out This Blog : <a href="https://blog.learnbay.co/15-tools-every-full-stack-web-developer-should-master" target="_blank">15 Top Full Stack Developer Tools</a>**
 
 ## 3. Roles and Responsibilities of Full stack developer
+
 <br/>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/bdtf-2.png" alt="" style="width:100%" class="img"/> <br/><br/>
@@ -143,23 +139,16 @@ You must not limit your skills to programming languages and application developm
 ### Technical skills required to become a full stack developer:-
 
 - <b>For front-end applications</b> - HTML, CSS, JavaScript, Angular/React/jQuery frameworks.
-  
 - <b>For back-end applications</b> - APIs, configuration settings, PHP/Java/Python language, and Django/Rails/.NET frameworks.
-  
 - <b>Database Management</b> - Oracle, NoSQL, MySQL
-  
 - <b>STACKS</b> - A full-stack developer must know different tech stacks like LAMP, MEAN, MERN, and Rails.
 
 ### Soft skills required to become a full stack developer:-
 
 - Good communication and verbal skills
-  
 - Flexibility to continuous changes and alterations
-  
 - Critical thinking abilities for resolving issues
-  
 - A temperament to learn more and new concepts
-  
 - Leadership & team handling skills
 
 **Check Out This Blog: <a href="https://blog.learnbay.co/how-to-become-a-demanding-full-stack-developer-in-2023-all-confusion-sorted" target="">How to become a most demanding full-stack developer in 2023</a>**

@@ -1,15 +1,16 @@
 ---
 title: Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors
 stitle: "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2023-03-07T13:25:31+05:30"
-modified_time:  "2023-03-07T13:25:31+05:30"
+modified_time: "2023-03-07T13:25:31+05:30"
 desc: "Women have attained a peak in the field of technology. Here in this blog, we are going to discuss how women in data science have diminished the gender gap in tech sectors. Also, what are the difficulties and alternatives to pursuing the best data science course?"
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wids-1.jpg"
 headerAlt: "A banner image titled, 'Women in Data Science' shows a woman standing on a circular platform surrounded by various analytical displays."
 date: "Mar 07, 2023"
-tag: [ WiDS2023, women's day 2023 in india, women in data science conference ]
+tag: [WiDS2023, women's day 2023 in india, women in data science conference]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -18,7 +19,7 @@ authortitle: ""
 adesc: ""
 
 author: "Krishna Kumar"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/krishna-kumar.webp"
 authordesc: "Krishna Kumar is the founder and CEO of Learnbay.  With 10+ years of experience in software engineering development followed by data science and AI expertise, he has managed to transform the careers of many tech professionals in data science and the full-stack field through his ed-tech platform."
 authorlinkedin: "https://www.linkedin.com/in/krishna-kumar-learnbay/"
 position: "Editor"
@@ -27,8 +28,13 @@ h1: "Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors
 id: "women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors"
 tableData:
   [
-
-    The Gender Gap Breakdown, Why is Data Science a great career for women?, There are two reasons why women should consider data science as a career:-, What is the qualification to join a career as a Data Scientist?, Is it difficult for women in data science to pursue a long-term career?, How are women narrowing the gender gap?, What are the methods to enhance Data science for Lucaratvie's career?
+    The Gender Gap Breakdown,
+    Why is Data Science a great career for women?,
+    There are two reasons why women should consider data science as a career:-,
+    What is the qualification to join a career as a Data Scientist?,
+    Is it difficult for women in data science to pursue a long-term career?,
+    How are women narrowing the gender gap?,
+    What are the methods to enhance Data science for Lucaratvie's career?,
   ]
 ---
 
@@ -42,7 +48,7 @@ Even though there is a lot of gap between the percentage of females and males in
 
 In these regards, the Women in Data Science (WiDS) at Standford University has taken a good initiative. Since 2015, they have been inspiring women worldwide in the field of AI and (DS) through global **data science conferences**, Datathones, workshops, etc.
 
-_Now, let's explore what facts regulate_  <b>women in data science</b> _and what career advancement can be as a data scientist._
+_Now, let's explore what facts regulate_ <b>women in data science</b> _and what career advancement can be as a data scientist._
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wids-2.jpg" style="width:100%" class="img" alt="A group of female data scientists hold a laptop and are busy discussing."/>
 
@@ -64,11 +70,11 @@ Take the example of **Mathangi Sri Ramachandran**. She is among the **famous fem
 
 Related reading: <a href="https://blog.learnbay.co/women-in-ai-top-10-indian-women-empowering-the-world-of-ai" target="_blank">Women in AI - Top 10 Indian Women Empowering the World of AI</a>
 
-## Why is Data Science a great career for women?   
+## Why is Data Science a great career for women?
 
 Data science offers lucrative job potential. Undoubtedly, the pay comes as a factor attracting the most candidates. Still, (DS) is an industry that is thought to be difficult. But this is not true.
 
-## There are two reasons why women should consider data science as a career:-  
+## There are two reasons why women should consider data science as a career:-
 
 **Reason 1: Best available opportunities for highly paid career transition**
 
@@ -90,24 +96,20 @@ We can't deny that when it comes to family and professional life balancing women
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wids-3.jpg" style="width:100%" class="img" alt="An image shows a female data scientist with a degree scroll in her hand."/>
 
-## What is the qualification to join a career as a Data Scientist?  
+## What is the qualification to join a career as a Data Scientist?
 
 The knowledge of high school-level math and basic coding knowledge is enough to start with data science. **In fact, even if you don't know how to code but have a passion for coding, you can still opt for a data science career transition**. A coding ninja or stat expert is not at all the mandatory criteria for entering the (DS) field. Also, you don't need an undergrad or post-grad degree in the same. But yes, once you enter this field, you have to upskill yourself to master all the ninja techniques of data science.
 
-## Is it difficult for women in data science to pursue a long-term career?  
+## Is it difficult for women in data science to pursue a long-term career?
 
 Women don't generally continue with <a href="https://blog.learnbay.co/a-career-in-data-science-the-key-to-lucrative-come-back-for-women-after-a-career-break" target="_blank">a career in data science</a> as they are discouraged for several reasons.
 
 These are
 
 - Gender pay disparity
-  
 - Male-dominated workplace environment
-  
 - Poor career development
-  
 - Gender discrimination in recruiting
-  
 - Lack of accessibility to mentors
 
 While many of these issues are absent in the data science career, there are still several misconceptions that remain the same. Therefore, **women in the data science** field show a declining trend, which can easily be solved by encouraging more women to pursue a technical career and educating them on the benefits.
@@ -122,7 +124,7 @@ Therefore, **women in data science** may find it difficult to comprehend topics,
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wids-4.jpg" style="width:100%" class="img" alt="A confused woman sits in front of a laptop, searching for solutions to restart her career."/>
 
-## How are women narrowing the gender gap?  
+## How are women narrowing the gender gap?
 
 Women in the data science field have basically narrowed down the technical gap, which was earlier in an extended stage. Today most women are trained and comprehend technical knowledge. They have found their way to stand out from the crowd and make a perfect place in any tech organization.
 

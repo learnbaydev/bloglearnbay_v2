@@ -6,6 +6,7 @@
   background-image: url(https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/author-banner-2.png);
   background-size: cover;
   box-shadow: 0 8px 31px -16px #2372bc;
+  margin-top: 70px;
 }
 .mdiv > * {
   flex: 1 1 0;
@@ -28,31 +29,9 @@
   text-align: justify;
 }
 
-.mcircle {
-  /* margin-left: -50px; */
-}
-
 .circle {
   border-radius: 50%;
   border: solid 3px #534f4f;
-}
-.m1div {
-  /* margin-left: -28rem; */
-
-  /* position: relative;
-  bottom: 2rem;
-  margin-bottom: -4rem; */
-}
-
-.m2div h1 {
-  /* margin-bottom: -20px; */
-}
-
-.Social {
-  /* display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
-    width: 200px; */
 }
 
 .bIcons {
