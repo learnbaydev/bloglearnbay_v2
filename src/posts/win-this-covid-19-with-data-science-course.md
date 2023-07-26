@@ -1,13 +1,14 @@
 ---
 title: Win the COVID-19
 stitle: "Win the Battle Against COVID-19 with Data Science Course"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2021-04-24T13:25:31+05:30"
-modified_time:  "2021-04-24T13:25:31+05:30"
+modified_time: "2021-04-24T13:25:31+05:30"
 desc: "Equip yourself with data science skills to combat COVID-19. Learn how to analyze and predict pandemic trends."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/covid.png"
 headerAlt: ""
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -16,9 +17,9 @@ authortitle: ""
 adesc: ""
 
 date: "Apr 24, 2021"
-tag: [ Data Science ]
+tag: [Data Science]
 author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "Editor"
@@ -27,13 +28,14 @@ h1: "Win the COVID-19"
 id: "win-this-covid-19-with-data-science-course"
 tableData:
   [
-  Win the COVID-19,
-  Job opportunities?,
-  How will Data Science help you?,
-  How to study Data Science?,
-  Conclusion,
+    Win the COVID-19,
+    Job opportunities?,
+    How will Data Science help you?,
+    How to study Data Science?,
+    Conclusion,
   ]
 ---
+
 ## Win the COVID-19
 
 COVID-19 is an inevitable unfortunate situation, each one of us have got to fight it being at home, I just hope this all ends soon. Many lives have changed since Corona came into existence, people died, families suffered, economy collapsed, companies are temporarily logged off, jobs are lost and productivity has stopped. None of us can help in anyway unless by maintaining our personal hygiene by staying at home. Sounds hopeless isn’t it? But what if I told you that by slightly changing your perspective towards this situation you can find hope of this pandemic to end and can hope of a brighter than ever future. This is everything about how to get the most out of COVID-19 pandemic. We all used to whine about going to office, convinced ourselves that the reason behind being not-so-productive is the less time we get due to the work, but now that option is no more available to blame upon because we are literally at our home with enough personal time. This is the best opportunity to build a habit, learn new things and to renovate your lifestyle. The best way to utilize this abundance of time is by learning new things, so why not learn something that will not only be as a new good habit but also help you to level up your game in your professional life? Something that will help for big time, that is popular, trendy and the sexiest. Yes, I am talking about Data Science.
@@ -41,7 +43,6 @@ COVID-19 is an inevitable unfortunate situation, each one of us have got to figh
 Learning Data Science is the best thing to do especially right now
 
 Firstly, Data Science is not easy to learn, one must have to dedicate enough time upon studying its vast concepts and methods so what else could be a better time than right now? You will have enough time to properly understand its workings.
-
 
 ## Job opportunities?
 
@@ -51,7 +52,6 @@ Do not think it is only “Data Scientist” you will become by studying Data Sc
 
 Data Science is anytime the best option to choose for career but please reconsider before thinking about choosing it, because the field demands mandatory discipline and persistence which is not something everyone can manage to provide. Talk to the professional executives regarding whether your profile is suitable to become a Data scientist or not. Do not hesitate to desire Data Science if you are a non-programmer or from a non-technical background, most of the successful Data Scientists belongs from a pure non-tech background, so you can too.
 
-
 ## How will Data Science help you?
 
 I have said enough about the present popularity of Data science, let me tell the future of it. Data Science is a field that will not stop until aliens attack on us, why you ask? because it runs by “data”, something that we all generate everyday. For now only 65% of the world population are having access to internet, only such ratio of people are creating 1.5 Quintilian bytes of data everyday, which is too much huge to handle by data scientists. It is estimated that within 5 years atleast 80% of the world population will have access to internet, which ofcourse further increases the everyday amount of data generation.
@@ -60,11 +60,9 @@ So as each day rolls by, the number of internet users keep increasing resulting 
 
 Due to the “_corona effect_” many industries have already faced loss, many more companies yet to face in near future but the statistics have reported that only the <a href="https://www.deccanherald.com/business/business-news/how-the-indian-it-industry-can-survive-the-covid-19-crisis-821877.html" target="_blank" rel="nofollow">IT field will have opportunity to quickly recover from the pandemic effect</a>. It is evident because the fuel for IT is the virtual data, which keeps on increasing at any day, so the field has least chances to face downfall.
 
-
 ## How to study Data Science?
 
 One of the best way to study Data Science(especially now) is through a good Data Science course. But firstly I want you to be aware of the fact that not every Data Science course will help you to get ready for the most desired field of the decade, so it is important to choose the course that indeed makes you a Data Scientist. <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> <span style="text-decoration:underline;"> </span>is a Bangalore based Data Science course providing institute, that has been helping students to realize their dream of becoming Data Scientist in a very less price. Students will be certified by IBM and will be benefited by other more helpful features, do check that out. There are so many Data Science courses in the market but unfortunately only some are managing to make their students as a real Data Scientist, so it is necessary to choose the right course.
-
 
 ## Conclusion
 

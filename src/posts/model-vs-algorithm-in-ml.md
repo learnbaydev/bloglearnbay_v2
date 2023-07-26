@@ -14,6 +14,7 @@ author: "Learnbay"
 authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -35,10 +36,6 @@ Conclusion,
   ]
 ---
 
-
-
-
-
 ## Model vs Algorithm in ML: Introduction
 
 Machine Learning works with “models” and “algorithms”, and both play an important role in Machine Learning where the algorithm tells about the process and model is built by following those rules. So, let’s study further how Model vs Algorithm in ML( Machine Learning).
@@ -49,8 +46,6 @@ A model in Machine Learning nothing but a function that is used to take some cer
 
 Some of the Machine Learning algorithms are:
 
-
-
 1. Linear regression
 2. Logistic regression
 3. Decision tree
@@ -58,19 +53,15 @@ Some of the Machine Learning algorithms are:
 5. K-nearest neighbor
 6. K-means learning
 
-
 ## What is an algorithm in Machine Learning?
 
 An algorithm is a step by step approach powered by statistics that guides the Machine Learning in its learning process. An algorithm is nothing but one of the several components that constitute a model.
 
 There are several characteristics of Machine Learning algorithms:
 
-
-
 1. <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="nofollow">Machine Learning algorithms</a> can be represented by the use of mathematics and pseudo code.
 2. The effectiveness of Machine Learning algorithms can be measured and represented.
 3. With any of the popular programming languages, Machine Learning algorithms can be implemented.
-
 
 ## What is the Model in Machine Learning?
 
@@ -78,17 +69,14 @@ The model is dependent on factors such as features selection, tuning parameters,
 
 Model is the result of an algorithm when we implement the algorithm with the code when we train the algorithms with the real data. A model is something that tells what your program learned from the data by following the rules of those algorithms. The model is used to predict the future result that is observed by the algorithm implementation of small data.
 
-Model = Data + Algorithm 
+Model = Data + Algorithm
 
 A model contains four major steps that are:
-
-
 
 1. Data preprocessing
 2. Feature engineering
 3. Data management
 4. performance measurement.
-
 
 ## How the model and algorithms work together in Machine Learning?
 
@@ -99,8 +87,6 @@ y = mx+c is an equation for a line where m is the slope of the line and c is the
 similarly, the decision tree and random forest have something like the Gini index and K-nearest having Euclidean distance formula.
 
 So take the linear regression algorithm:
-
-
 
 1. Start with a training set with x1, x2,…, and y.
 2. Find out the parameters c0, c1, c2 with the random variables.
@@ -119,7 +105,6 @@ The model will work with three slopes and three intercepts to find out the resul
 The “algorithm” might be treating all the data the same but it is the “model” that actually solves the problems. An algorithm is something that you use to train the model on the data.
 
 After building a model, a data science enthusiasts test it to get the accuracy of that model and fine-tuning to improve the results.
-
 
 ## Conclusion
 

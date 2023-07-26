@@ -10,6 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linea
 headerAlt: ""
 date: "Sep 07, 2021"
 tag: [ Machine Learning ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -44,11 +45,9 @@ Where to learn SLR?,
   ]
 ---
 
-
 No matter what ML course you have chosen, the first learning goal of data science statistics modules will be the LR (linear regression), better to say, Simple Linear Regression in Machine Learning . In addition, we call this type of widely useful ML algorithm with an abbreviation of SLR.
 
 In this blog, we’ll evaluate the foundational approach of Simple Linear Regression in Machine Learning in <a href="https://blog.learnbay.co/model-vs-algorithm-in-ml" target="_blank">ML modelling</a>.
-
 
 ## What is SLR in Machine Learning?
 
@@ -58,19 +57,15 @@ Now, if you ask why ‘simple?’ Well, the phrase “Simple” relates to two f
 
 While you get to indulge in Machine Learning problems and then land on the expected and profitable outcomes, you need to find certain inter-relationships between a set of the above two types of variables. So here comes the application of Simple Linear Regression in Machine Learning .
 
-
 ## What are the real-life applications of SLR algorithms?
 
 If we sit to lists out the real-life instances of SLR in ML, then the list will be an endless entity. However, the handiest real-world example of the SLR application is as follows.
 
-
-
-* Suppose you have decided to take a train your company employee with the basics of data analytics to improve your business outcomes. Now the amount you are going to invest in this training will be a self-sufficient factor. Therefore, based on the training-related investment, the percentage of ROI concerning your business decision improvement will be the outcome factor.
-* Suppose you have planned to buy a second-hand car. But finding it difficult to set your budget based on car performance. To ensure the performance and parts availability, you have decided to consider up to a certain amount of age of the car. In such a scenario, you can apply SLR to set your budget. Here the age of the car will be a self-sufficient factor while the budget will be the outcome factor.
-* Suppose you work for an e-commerce company in the marketing domain. A few months back your company have implemented new advertising strategies. But now you want to evaluate the profit level in monthly advertising cost with respect to the monthly sales rate. Here you can apply the SLR for ML modeling.
+- Suppose you have decided to take a train your company employee with the basics of data analytics to improve your business outcomes. Now the amount you are going to invest in this training will be a self-sufficient factor. Therefore, based on the training-related investment, the percentage of ROI concerning your business decision improvement will be the outcome factor.
+- Suppose you have planned to buy a second-hand car. But finding it difficult to set your budget based on car performance. To ensure the performance and parts availability, you have decided to consider up to a certain amount of age of the car. In such a scenario, you can apply SLR to set your budget. Here the age of the car will be a self-sufficient factor while the budget will be the outcome factor.
+- Suppose you work for an e-commerce company in the marketing domain. A few months back your company have implemented new advertising strategies. But now you want to evaluate the profit level in monthly advertising cost with respect to the monthly sales rate. Here you can apply the SLR for ML modeling.
 
 SLR can be the ultimate solution to lots of complex problems to a moderate business problem. Just keep one thing in mind, don’t forget to approach the linearity condition correctly.
-
 
 ## What is the [linearity condition](https://en.wikipedia.org/wiki/Linearity#:~:text=Linearity%20is%20the%20property%20of,is%20closely%20related%20to%20proportionality.&text=The%20word%20linear%20comes%20from,to%20or%20resembling%20a%20line%22.)<span style="text-decoration:underline;"> </span>in SLR?
 
@@ -92,7 +87,6 @@ Therefore, the useful formula of the SLR becomes as follows.
 
 ⇒𝑌𝑖 = 𝛼𝑖 + 𝛽𝑖 ln(𝑋𝑖 ) + 𝜀𝑖
 
-
 ## What can simple linear regression tell us that correlation does not tell us?
 
 Although correlation apparently seems to be similar to the simple linear regression in actuality, there lies a range of differences between these two.
@@ -100,7 +94,6 @@ Although correlation apparently seems to be similar to the simple linear regress
 Difference1: Correlation quantifies the amount to which two factors are all related. Besides, fitting a line through the data set is not the case of correlation.
 
 Difference 2: In case you need to quantify both the factors, correlation is often used. It infrequently works if one factor is something that you rightfully control. On the contrary, with Simple linear regression, the X factor is often something that you manipulate (it may be a time series or range of salary or price, etc. ). The Y factor is something that can be scaled (measured).
-
 
 ## How does SLR work?
 
@@ -120,21 +113,16 @@ Step#6: Validate the best fitting quality for the model for the intact model. On
 
 Step#7: Identify the determinant and correlation coefficients.
 
-
 ## Why use a scatter diagram in SLR?
 
 While you choose SLR as your regression model, then the first thing you need to do is assessing the relationship between your identified factors.
 
 To perform this inter-relationship identification, the best graphical visualization seems to be the scatter plot. The reason for choosing the scatter plot for this purpose is,
 
-
-
-* Apart from the best-fit line, the dots (data points of identified variables) helps a lot to visualize the hidden pattern of inter-relationship between the factors.
-* If the factors proved to be mutually inter-related, then the estimated equation for the identified relationship can be predicted. Then, with the help of this predicted equation, you can proceed with your ML algorithm modeling.
+- Apart from the best-fit line, the dots (data points of identified variables) helps a lot to visualize the hidden pattern of inter-relationship between the factors.
+- If the factors proved to be mutually inter-related, then the estimated equation for the identified relationship can be predicted. Then, with the help of this predicted equation, you can proceed with your ML algorithm modeling.
 
 In case simple linear regression applies to a business problem, then the identified factors usually can be fo following six types of the scattered plot:
-
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear1.jpg"   class="img" alt="A graph with an X-axis Independent and Y-axis dependent shows a linear connection between 2 factors."/>
 
@@ -144,32 +132,21 @@ The above plot indicates an immediate linear connection between 2 sorts of facto
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear2.jpg"   class="img" alt="A graph with an X-axis Independent and Y-axis dependent shows a curvy linear connection between 2 sorts of factors."/>
 
-
-
-
 Fig:2
 
 The above plot indicates an immediate but curvy linear connection between 2 sorts of factors.
 
-
-
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear3.jpg"   class="img" alt="A graph with an X-axis independent and a Y-axis dependent displays an immediate but inverted linear connection between two types of components."/>
-
 
 Fig:3
 
 The above plot indicates an immediate but inverted linear connection between 2 sorts of factors
 
-
-
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear4.jpg"   class="img" alt="A graph with an independent X-axis and a dependent Y-axis depicts an inverted and curved linear link between two types of factors."/>
-
 
 Fig:4
 
 The above plot indicates an inverted and curvy linear connection between 2 sorts of factors.
-
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear5.jpg"   class="img" alt="A graph with an independent X-axis and a dependent Y-axis displays a direct and inverted linear link between two types of factors but with a great extent of scattering."/>
 
@@ -177,15 +154,11 @@ Fig:5
 
 The above plot indicates a direct and inverted linear connection between 2 sorts of factors, unlike figure 3. But the extent of scattering is much higher in this case.
 
-
-
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/linear6.jpg"   class="img" alt="A graph with an independent X-axis and a dependent Y-axis depicts the elements' non-linear connection"/>
-
 
 Fig 6:
 
 The above plot indicates the non-linear relationship between the factors.
-
 
 ## How to calculate the SLR in ML modeling?
 
@@ -193,13 +166,11 @@ To model, an ML algorithm utilizing SLR can be done either with Python or R. Her
 
 To program an SLR model using python, six prime steps have to be followed cautiously. The prime steps are as follows.
 
-
-
-* #1: Dataset Importing
-* #2: Data Pre-processing
-* #3: Segregation of the train and test sets
-* #4: Assessing the linear regression model concerning the training dataset
-* #5: Predicting evaluation success
+- #1: Dataset Importing
+- #2: Data Pre-processing
+- #3: Segregation of the train and test sets
+- #4: Assessing the linear regression model concerning the training dataset
+- #5: Predicting evaluation success
 
 #6: Conceiving the evaluation benefits
 
@@ -244,7 +215,6 @@ y_pred = regressor.predict(X_test)
 y_pred
 
 y_test
-
 
 ## Where to learn SLR?
 

@@ -11,6 +11,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ucbp.
 headerAlt: ""
 date: "Sep 11, 2022"
 tag: [ Data Science ]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -34,15 +35,15 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px"> I think that really depends on where you are now and what you really want to do as a data scientist.</span>
 
-* Get good at stats, math and machine learning. Take online data course.
-* Learn to code. Computer science, development and a language.
-* Understand databases. Data types, technologies store them, and methods to retrieve data.
-* Master data munging, visualization and reporting. Tools.
-* Level up with big data. Bigger tools like hadoop, mapreduce and spark.
-* Get experience, practice and meet fellow data scientists. Competitions, pet project and developing an intuition.
-* Internship
-* Follow and engage with the community
-  
+- Get good at stats, math and machine learning. Take online data course.
+- Learn to code. Computer science, development and a language.
+- Understand databases. Data types, technologies store them, and methods to retrieve data.
+- Master data munging, visualization and reporting. Tools.
+- Level up with big data. Bigger tools like hadoop, mapreduce and spark.
+- Get experience, practice and meet fellow data scientists. Competitions, pet project and developing an intuition.
+- Internship
+- Follow and engage with the community
+
 At first glance, the graphic suggests that standard mantra of become a math and programming genius before even looking at data or algorithms, an approach I think is wrong. At closer examination, the graphic is suggesting a path of familiarization from steps 1-5. It suggests to take courses and get up to speed with the language of data science and data. <br><br>
 I would suggest that steps 1-5 be minimized further to one step that provided a crash course of terms and themes across these areas. I would suggest getting to the point of working a data set using a tool as soon as possible. Working through this process and working problem after problem will highlight the need and provide the context for those foundational topics that can be learned and weaved in just-in-time.<br><br>
 A segmented linear decomposition is great for course design and infographics, but not best for learning and getting results. I think the modules or steps should be integrated. Studying computer science can make you a good computer scientist (for whomever needs whatever that is) and a more rounded engineer, but to be a great programmer, you need to practice programming.<br><br>

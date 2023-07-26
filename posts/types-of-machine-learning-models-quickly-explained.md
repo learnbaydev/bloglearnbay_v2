@@ -1,15 +1,24 @@
 ---
 title: Types of Machine Learning Models - Quickly Explained
 stitle: "A quick guide to the types of Machine Learning Models"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2023-01-09T13:25:31+05:30"
-modified_time:  "2023-01-09T13:25:31+05:30" 
+modified_time: "2023-01-09T13:25:31+05:30"
 desc: "In this blog, you will learn about types of machine learning models that you need to know, which will help you to easily comprehend their work patterns and use cases."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-1.jpg"
 headerAlt: "An image titled 'Machine Learning Models' depicts an AI-powered robot standing and working in front of a large screen."
 date: "Jan 9, 2023"
-tag: [ machine learning model, machine learning, deep learning, machine learning models for prediction, machine learning models explained, machine learning model use cases ]
+tag:
+  [
+    machine learning model,
+    machine learning,
+    deep learning,
+    machine learning models for prediction,
+    machine learning models explained,
+    machine learning model use cases,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +27,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 authordesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 adesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,10 +36,19 @@ h1: "Types of Machine Learning Models - Quickly Explained"
 id: "types-of-machine-learning-models-quickly-explained"
 tableData:
   [
-     What is a machine learning model?, 1. Supervised machine learning:-, 2. Unsupervised machine learning:-,   3. Reinforcement learning (RL):-, These five categories are as stated in the preceding section., 1. Classification model:-,  2. Regression model:-, 3. Clustering:- , 4. Dimensionality reduction:-, 5. Deep Learning:-, Summing up:-  
-   ]
+    What is a machine learning model?,
+    1. Supervised machine learning:-,
+    2. Unsupervised machine learning:-,
+    3. Reinforcement learning (RL):-,
+    These five categories are as stated in the preceding section.,
+    1. Classification model:-,
+    2. Regression model:-,
+    3. Clustering:-,
+    4. Dimensionality reduction:-,
+    5. Deep Learning:-,
+    Summing up:-,
+  ]
 ---
-
 
 <span style=" font-weight:bold; font-size:28px">Know The Different Types of Machine Learning Models</span>
 
@@ -56,7 +74,7 @@ In any computing term, the machine learning model is divided into 3 types:-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-2.jpeg" style="width:100%" class="img" alt="A supervised learning model shows a data set training mechanism utilizing violet, green, and pink balls, and when the output is violet balls, it creates a separate data set for the subsequent output."/>
 
-### 1. Supervised machine learning:-      
+### 1. Supervised machine learning:-
 
 Supervised learning models are intended to provide a user with a training set as well as a set of desired outcomes. It is one of the simplest machine learning models, and it is built on the three steps in a standard way.
 
@@ -72,7 +90,7 @@ All three processes combine to make supervised learning a simple and powerful in
 - It aids in forecasting time series.
 - It assists with stock and weather forecasting.
 
-### 2. Unsupervised machine learning:-       
+### 2. Unsupervised machine learning:-
 
 Unsupervised machine learning tries to divide the data set into several classes by analyzing the different patterns. Here, the mapping function takes data from each input and identifies the types of classes from the data set.
 
@@ -82,13 +100,13 @@ Unsupervised machine learning is a method in which we mainly focus on finding pa
 
 - Unsupervised machine learning aids in customer segmentation techniques for establishing businesses and markets.
 
-- It supports biological DNA clustering.   
+- It supports biological DNA clustering.
 
 - We may create a recommendation system using unsupervised learning.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-3.jpg" style="width:100%" class="img" alt="Reinforcement learning (RL) mechanism flow chart with an Agent, Environment, Reward, State, and Action for RL process demonstration."/>
 
-### 3. Reinforcement learning (RL):-           
+### 3. Reinforcement learning (RL):-
 
 Reinforcement learning is essentially a supervised machine learning approach, which means we require a trainer to run RL models. The RL model is designed to learn the action for a given set of states that lead to a goal sequence.
 
@@ -100,11 +118,9 @@ In other words, rather than reporting faults after each example, it receives a r
 - We can apply the RL algorithm to self-driving cars.
 - Robots could also employ RL to carry out tiresome and repetitive activities.
 
-
 **If we take any inferences from this machine learning. we can divide models further into five subcategories.**
 
 ## These five categories are as stated in the preceding section.
-   
 
 I. Classification Models <br>
 II. Regression Models <br>
@@ -112,7 +128,7 @@ III. Clustering <br>
 IV. Dimensionality Reduction <br>
 V. Deep Learning <br>
 
-### 1. Classification model:-    
+### 1. Classification model:-
 
 Generally, classification tools are a type of machine learning tool that aid in prediction. Based on a limited number of possibilities, it can be applied to different types of object classes or object types. The standard output is always a subset of a category that is based on an output parameter. For instance, it can categorize and forecast whether a message is spam or not.
 
@@ -128,11 +144,11 @@ Regression models are further categorized as follows:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/toml-4.jpg" style="width:100%" class="img" alt="An image shows the clustering mechanism, in which we utilize violet, red, and blue balls as data sets, which aids in organizing all of the data sets together in similar order."/>
 
-### 3. Clustering:-   
+### 3. Clustering:-
 
 Clustering is a machine-learning technique that can be applied to similar objects and datasets. As a result, this approach aids in automatically identifying objects with similar identities without the need for human involvement. It has been an essential aspect of supervised machine learning models since it provides a way to generate homogeneous data sets required for training models.
 
-### 4. Dimensionality reduction:-      
+### 4. Dimensionality reduction:-
 
 We may reduce the number of variables in a dataset by using dimensionality reduction. Researchers can easily employ such models when dealing with large amounts of parameters. Hence the dimensionality reduction help in the preservation of variance with a small set of variables that helps find the answer.
 
@@ -152,7 +168,7 @@ Deep learning algorithm has evolved significantly in recent years due to the usa
 
 - Recurrent Neural Networks
 
-## Summing up:-  
+## Summing up:-
 
 In this blog, we have discussed various types of machine learning models. While machine learning models are extremely powerful, it is critical to recognize that they are not without defects. They are still in their infancy and lack human-like decision-making abilities. Keeping this in mind, you should constantly strive to work with machines rather than against them. To learn more about <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">machine learning</a> algorithms and models, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">Linkedin</a>.
 

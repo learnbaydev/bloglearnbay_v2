@@ -9,7 +9,8 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog1.webp"
 headerAlt: ""
 date: "Mar 6, 2022"
-tag: [ Data Science ]
+tag: [Data Science]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -18,7 +19,7 @@ authortitle: ""
 adesc: ""
 
 author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "editor"
@@ -27,8 +28,13 @@ h1: "Gradient Descent for Machine Learning"
 id: "gradient-descent-for-machine-learning"
 tableData:
   [
-   What is Gradient Descent?, How does Gradient Descent function?, What is the Learning Rate?, Obstacles to Gradient Descent, Local minima and saddle points:-, Exploding and Vanishing Gradients:-, Summarizing
-   
+    What is Gradient Descent?,
+    How does Gradient Descent function?,
+    What is the Learning Rate?,
+    Obstacles to Gradient Descent,
+    Local minima and saddle points:-,
+    Exploding and Vanishing Gradients:-,
+    Summarizing,
   ]
 ---
 
@@ -40,7 +46,7 @@ Gradient descent in machine learning refers to a repetitive optimization approac
 
 Gradient Descent is a popular optimization approach for training ML models by reducing errors across predicted and actual outcomes. In addition, gradient descent neural network has also been in utilization.
 
-## How does Gradient Descent function?      
+## How does Gradient Descent function?
 
 It is an optimization algorithm to find the values of parameters(coefficient) of a function(f) that minimizes the cost function. It is used when parameters can not be calculated by Linear algebra. To minimize the cost function J(w) parameterized by a model parameter w, it helps by telling us about the slope of the cost function. To minimize the cost function, we move toward Gradient descent, which helps by scaling the large dataset.
 
@@ -99,7 +105,7 @@ d/d intercept = d/d intercept\*(1.3 – (intercept+ 0.64\*0.4))^2
 
 we will apply the chain rule to solve the derivative
 
-d/d intercept = 2(1.4-(intercept+0.64_0.3))_(-1) so that we have
+d/d intercept = 2(1.4-(intercept+0.64*0.3))*(-1) so that we have
 
 d/d intercept = -2(1.4-(intercept+0.64\*0.3))
 
@@ -130,7 +136,7 @@ New parameter = Old parameters – step size
 
 = 0-(-0.77)= 0.77
 
-### What is the Learning Rate?    
+### What is the Learning Rate?
 
 It's a tuning parameter inside an optimization method that sets the step length at each repetition while advancing toward the minimum of gradient descent in Machine Learning and statistics.
 
@@ -144,7 +150,7 @@ There are the following steps to solve the Gradient descent in machine learning 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/grad3.png"   class="img" alt="A gradient descent graph with a downward parabolic curve that has a negative and positive slope."/>
 
-## Obstacles to Gradient Descent   
+## Obstacles to Gradient Descent
 
 Even though Gradient Descent has been used most for optimization approaches, some problem areas need to be addressed.
 
@@ -160,6 +166,6 @@ The deeper gradient descent neural network have some setbacks when backpropagati
 
 **Exploding Gradients:** These occur whenever the gradient becomes big, resulting in an unsteady model. In this instance, the model parameters will get too huge and finally be expressed as NaN. One approach to this problem is to use a dimensionality reduction technique that can assist in enhancing the model.
 
-## Summarizing    
+## Summarizing
 
 This blog taught you about Gradient descent in machine learning and how it applies to machine learning models. Concepts such as this help optimize accurate ML models. These models are an essential component of AI and computer science tools. It is advantageous to gain practical knowledge of such algorithms. You can one day learn how to develop powerful ML models through practice. To learn more about <a href="https://learnbay.co/artificial-intelligence-certification-course" target="_blank">ML and AI</a>, visit the <a href="https://learnbay.co/" target="_blank">Learnbay Website</a>.

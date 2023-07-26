@@ -3,7 +3,7 @@ title: "Unleashing The Most Demanding Data Science Projects In Healthcare"
 stitle: "7 The Most Demanding Data Science Projects In Healthcare"
 publish: "Published on"
 published_time: "2023-04-17T13:25:31+05:30"
-modified_time:  "2023-04-17T13:25:31+05:30"
+modified_time: "2023-04-17T13:25:31+05:30"
 desc: "In this blog, we'll learn about data science projects in healthcare that will provide practical insights that can guide you professionally in data science career."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-1.jpg"
@@ -11,8 +11,11 @@ headerAlt: "A banner image titled, ' Top 7 Data Science Projects in Healthcare [
 date: "Apr 17, 2023"
 tag:
   [
-    data science related projects, data analytics, data science projects in medical field
+    data science related projects,
+    data analytics,
+    data science projects in medical field,
   ]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -21,18 +24,27 @@ authortitle: "Vineeth Kumar - A Data Science Enthusiast and Blogger at Learbay"
 adesc: "Vineeth Kumar, a blogger and experienced techie with in-depth knowledge of data science and python programming languages."
 
 author: "Vineeth Kumar"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
 position: "Editor"
 readTime: "11 mins"
 h1: "Unleashing The Most Demanding Data Science Projects In Healthcare"
 id: top-data-science-projects-in-healthcare
-tableData: [
-
-    What are some advanced data science projects in healthcare?, 1. Prediction on readmissions, 2. Pneumonia Detection using CNN (92.6% Accuracy), 3. Diabetes Prediction Using Voting Classifiers, 4. Heart attack prediction, 5. Visceral Adipose on Pregnancy, 6. Body Fat Prediction (99.5%), 7. Breast cancer CNN Densenet, Conclusion
+tableData:
+  [
+    What are some advanced data science projects in healthcare?,
+    1. Prediction on readmissions,
+    2. Pneumonia Detection using CNN (92.6% Accuracy),
+    3. Diabetes Prediction Using Voting Classifiers,
+    4. Heart attack prediction,
+    5. Visceral Adipose on Pregnancy,
+    6. Body Fat Prediction (99.5%),
+    7. Breast cancer CNN Densenet,
+    Conclusion,
   ]
 ---
+
 <span style=" font-weight:bold; font-size:28px"> What Are Some Good Data Science Projects in Healthcare to Target in 2023?</span>
 
 A collection of **healthcare data science projects** in the portfolio is vital if you want a lucrative career transition within the healthcare industry. The opportunities for a data scientist in healthcare are endless, but the job market competition is harder. If you are in the healthcare sector and want to stay in a win-win position, you need the fusion of two things in your portfolio.
@@ -45,7 +57,7 @@ The healthcare industry is the biggest resource of unstructured data. But, just 
 
 The Curriculum vitae (CV) for a position as a **data scientist in the healthcare sector** could be improved by **data science project topics** and ideas for the prediction of **patient health**, treatment & **medical image analysis**, and so on.
 
-## What are some advanced data science projects in healthcare?  
+## What are some advanced data science projects in healthcare?
 
 In the healthcare industry, plenty of <a href="https://blog.learnbay.co/data-science-jobs-the-busting-ways-to-secure-attractive-packages-in-health-care" target="_blank">data scientist jobs</a> are available. From the utilization of digital scanning, and advanced analytics to electronic health records, data science has proved its importance everywhere. It's a perfect moment for an emerging data scientist to start looking into them.
 
@@ -65,7 +77,7 @@ Now let's dive into the seven best-advanced **data science-related projects in h
 
 **7. Breast cancer CNN Densenet**
 
-## 1. Prediction on readmissions   
+## 1. Prediction on readmissions
 
 **Tools Utilized**: Python, sklearn, Binary classification
 
@@ -85,29 +97,29 @@ The dataset includes clinical services offered for over ten years (1999–2008) 
 
 The data includes features like
 
--  The patient number
+- The patient number
 
--  Gender, race, and age
+- Gender, race, and age
 
--  Admission Type
+- Admission Type
 
--  Duration of hospital stay
+- Duration of hospital stay
 
--  Admitting physician's medical specialty
+- Admitting physician's medical specialty
 
--  The number of lab tests conducted
+- The number of lab tests conducted
 
--  The results of the HbA1c test
+- The results of the HbA1c test
 
--  The diagnosis; the total number of medications he number of diabetic medications
+- The diagnosis; the total number of medications he number of diabetic medications
 
--  The number of inpatients, outpatient, and medical emergency visits during the year before hospitalization.
+- The number of inpatients, outpatient, and medical emergency visits during the year before hospitalization.
 
 **There are two key targets**:
 
--  To develop a trustworthy and effective <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning algorithm</a> that could be utilized to forecast whether diabetic patients would require readmission within a month.
+- To develop a trustworthy and effective <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning algorithm</a> that could be utilized to forecast whether diabetic patients would require readmission within a month.
 
--  To identify which factors are most critical in the readmission of diabetes patients.
+- To identify which factors are most critical in the readmission of diabetes patients.
 
 By considering demographic data, changes in medical specialties, and other factors, this study hopes to advise physicians. The advice is regarding the probability of early readmission for diabetic patients.
 
@@ -125,8 +137,6 @@ This can be one of the impressive **healthcare data science projects** that can 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-3.png"  class="img" alt="A Stacked bar chart with a horizontal axis ranging from 0.00 to 0.10 and a vertical axis with training data shows the training score with high accuracy." title="Most important feature:XGBoost"/> <br/>
 
-
-
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-4.png"  class="img" alt="A snippet shows the codes for the predicting test accuracy model on the training data." title="Model on training data"/> <br/>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/utm-5.png"  class="img" alt="A snippet shows the codes for the predicting test accuracy model on the training data." title="Evaluate the best model on the test data"/> <br/>
@@ -136,9 +146,7 @@ This can be one of the impressive **healthcare data science projects** that can 
 Three models are implemented throughout the modeling phase:
 
 1. Logistic Regression
-   
 2. <a href="https://blog.learnbay.co/random-forest-model-rfm" target="_blank">Random Forest</a>, and
-   
 3. <a href="https://blog.learnbay.co/everything-about-the-xgboost-classifier" target="_blank">XGBoost</a>.
 
 Assuming that the predictive accuracy of these models is comparable. Also, we can consider that the logistic regression method is easier to interpret than tree-based models.
@@ -147,7 +155,7 @@ Then, it could potentially provide clinicians with additional information about 
 
 Particularly, elderly individuals (70+) tend to weigh more, which makes sense. A1Cresult and medical specialties like repaglinide appear to be significant factors in readmission, in addition to the number of inpatient and discharge types.
 
-## 2. Pneumonia Detection using CNN (92.6% Accuracy)   
+## 2. Pneumonia Detection using CNN (92.6% Accuracy)
 
 **Tools Utilized:** Python sklearn, CNN
 
@@ -188,13 +196,9 @@ Users might quickly double or triple the range of training instances and build a
 To execute data augmentation the following steps should be followed:
 
 - Randomly rotating a few training pictures by 30 degrees.
-  
 - Randomly Zooming by 20% a few training pictures.
-  
 - Randomly shifting images by 10% of the width horizontally.
-  
 - Randomly shifting images by 10% of the height vertically.
-  
 - Randomly flipping the pictures horizontally. Once the model is ready, the training dataset will be fitted.
 
 **Code** :
@@ -209,7 +213,7 @@ To execute data augmentation the following steps should be followed:
 
 **Pro Tips:** To make such a project more relevant to the contemporary scenario, you can collect data that are relevant to any trending descents like Covid-19.
 
-## 3. Diabetes Prediction Using Voting Classifiers   
+## 3. Diabetes Prediction Using Voting Classifiers
 
 **Tools Utilized:** Python, KNN, Random Forest, Logistic Regression, sklearn
 
@@ -239,8 +243,7 @@ Finally, users observe that the model's accuracy marginally rises with the combi
 
 This is one of the most trending **data science project topics**.
 
-
-## 4. Heart attack prediction   
+## 4. Heart attack prediction
 
 **Tools Utilized**: Python, sklearn, Logistic regression
 
@@ -253,13 +256,9 @@ Identify and investigate the factors that significantly affect the frequency of 
 **Executing EDA and modeling**
 
 - Explain how cholesterol levels and the target variable are related.
-  
 - What may be inferred regarding the association between peak exercise and the risk of a heart attack?
-  
 - Is thalassemia a significant factor in CVD? How do the other variables impact the probability of CVD?
-  
 - To interpret the connection between all the supplied variables, use a pair plot.
-  
 - Use the confusion matrix to validate the findings after doing logistic regression and predicting the result for test data.
 
 **Code** :
@@ -276,8 +275,7 @@ The model is excellent at predicting the data from the classification report and
 
 If you are learning data science and have industry experience in the healthcare sector, then this will be great to draw the interviewer's attention.
 
-
-## 5. Visceral Adipose on Pregnancy   
+## 5. Visceral Adipose on Pregnancy
 
 **Tools Utilized:** Python, pywaffle - quiet, sklearn
 
@@ -311,8 +309,7 @@ Interventions during and right after pregnancy provide significant chances to en
 
 It is possible to avoid Type 2 diabetes in two generations by screening for it and managing it properly during pregnancy. One of the factors contributing to GDM's low priority in the public health care system is a lack of knowledge in society.
 
-
-## 6. Body Fat Prediction (99.5%)  
+## 6. Body Fat Prediction (99.5%)
 
 **Tools Utilized**: Python, sklearn, Linear Regression, Random Forest
 
@@ -349,15 +346,11 @@ We can observe that the data contain an outlier that might cause the model to di
 **Output Conclusion**
 
 - Datasets from the provided link must first be imported.
-  
 - The basic EDA process to be executed.
-  
 - Detecting the outliers as shown above (before and after preprocessing).
-  
 - Finally, predicting the output.
 
-
-## 7. Breast cancer CNN Densenet   
+## 7. Breast cancer CNN Densenet
 
 **Tools Utilized:** Python, sklearn, tensorflow, keras
 

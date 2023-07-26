@@ -9,9 +9,9 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-1.jpeg"
 headerAlt: "A banner shows two professionals working on coding while one is seated in front of a laptop and the other is using a different screen."
 date: "Sep 2, 2022"
-tag: [ Machine Learning, No Code ML, No Code ML platforms ]
+tag: [Machine Learning, No Code ML, No Code ML platforms]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
-
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
 catdesc: "Check out the Learnbay Machine Learning blog section, featuring a comprehensive collection of blogs on Deep Learning, Neural Networks, NLP, etc."
@@ -19,7 +19,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -28,30 +28,45 @@ h1: "No Code Machine Learning Just Gone Viral!- But What's That?"
 id: "no-code-machine-learning-just-gone-viral-but-what's-that"
 tableData:
   [
-
-     Introduction to No code Machine Learning, How does no-code Machine Learning come to a highlight? , How ML and No code ML are linked together?, Traditional ML, No code ML, Benefits of no code ML, roductivity gains, Changeable, Reduce costs while increasing profits, Improve your decision-making skills, Experts in Machine Learning are in high demand, Increase your value, operationalize it and expand it, Cost-effective , Platforms that support No Code ML, Super Annotate, Teachable Machine,Fritz AI,  An Overview of Mobile Machine Learning, Conclusion,
-        
+    Introduction to No code Machine Learning,
+    How does no-code Machine Learning come to a highlight?,
+    How ML and No code ML are linked together?,
+    Traditional ML,
+    No code ML,
+    Benefits of no code ML,
+    roductivity gains,
+    Changeable,
+    Reduce costs while increasing profits,
+    Improve your decision-making skills,
+    Experts in Machine Learning are in high demand,
+    Increase your value,
+    operationalize it and expand it,
+    Cost-effective,
+    Platforms that support No Code ML,
+    Super Annotate,
+    Teachable Machine,
+    Fritz AI,
+    An Overview of Mobile Machine Learning,
+    Conclusion,
   ]
 ---
 
-
 # No Code Machine Learning Just Gone Viral!- But What's That?
-
-
 
 ## Introduction to No code Machine Learning:-
 
-Big platforms like Tesla, Walmart, and P&G are enjoying the endless advantages of Data science. In short, they are making the market competition for SMEs tougher. Adapting the proper infrastructure of AI and ML is quite expensive for small to medium business entities. But without these technologies, there is no room for saving existence in the current marketplace. 
+Big platforms like Tesla, Walmart, and P&G are enjoying the endless advantages of Data science. In short, they are making the market competition for SMEs tougher. Adapting the proper infrastructure of AI and ML is quite expensive for small to medium business entities. But without these technologies, there is no room for saving existence in the current marketplace.
 
 <a href="https://www.learnbay.co/data-science-course/what-is-supervised-and-unsupervised-learning-in-machine-learning/" target="_blank">Machine Learning (ML)</a> is a critical component of AI and Data Science, and it can be found in a variety of industries ranging from medical to finance. In most cases, Machine Learning is required to analyze the data, which is often unstructured. After that, we'll need AI to provide highly personalized services on a huge scale.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-2.jpeg" style="width:100%" class="img" alt="A cropped screen with different kinds of coding syntax created using machine learning with no code."/>
 
-## How does no-code Machine Learning come to a highlight?  
+## How does no-code Machine Learning come to a highlight?
 
 Understanding a deep Machine Learning approach appears to be a difficult task; advanced **Machine Learning** knowledge is required in order to solve unstructured problems sequentially. The topic of **Machine Learning** is very broad and complex. As a result, a new topic called no code Machine Learning has emerged, which requires only prior and basic knowledge of ML.
 
-## How ML and No code ML are linked together?  
+## How ML and No code ML are linked together?
+
 **Machine Learning** with no code is a subset of Machine Learning that seeks to make it more accessible. **No code Machine Learning uses a development platform with a code-free drag and drop interface, which is basically grounded on ML and AI-based models.** With **no code ML** , non-technical individuals can quickly categorize, assess, and construct accurate models for making predictions.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nocode-3.jpeg" style="width:100%" class="img" alt="An illustration differentiate between  traditional ML and no-code ML. Traditional MLfocuses on data preparation, feature extraction, model selection, fine-tuning, model training, and improvement, whereas no-code ML focuses on drag-and-drop modelling and obtains results."/>
@@ -62,8 +77,7 @@ It's crucial to understand the distinctions between traditional and no-code Mach
 
 This is the way traditional ML looks like. The language used to navigate through the process is generally highly technical, which could make someone who isn't familiar with programming or data science feel overwhelmed.
 
-### No code ML:- 
-
+### No code ML:-
 
 This is a much more straightforward path for someone who wants to generate data predictions for their team but doesn't have the time to gain the technical skills or recognizes the usefulness of Machine Learning but can't afford it.
 
@@ -79,11 +93,11 @@ AI can create and alter programs considerably more quickly.
 
 Everything from design to development is completed in a matter of days using AI.
 
-### - Changeable:-    
+### - Changeable:-
 
 Traditional coding has the problem of being difficult to update, especially if the code is written in a foreign language. While adapting no code ML, you can update the functionality without writing any code in only a few hours.
 
-### - Reduce costs while increasing profits:- 
+### - Reduce costs while increasing profits:-
 
 Machine Learning with no programming can also help you enhance the profit margins of a firm by creating less manpower and higher output generation.
 
@@ -97,7 +111,7 @@ Most businesses consider Machine Learning to be a sophisticated and expensive te
 
 We've gone over a few crucial points to prove why No-Code is the way of the future:
 
-### - Experts in Machine Learning are in high demand.      
+### - Experts in Machine Learning are in high demand.
 
 In the IT industry, there is a rising demand for specialized skills and abilities. As a result, companies across a wide range of industries want IT, workers, with a variety of skill sets in a variety of development areas.
 
@@ -105,7 +119,7 @@ In the IT industry, there is a rising demand for specialized skills and abilitie
 
 The importance of no-code platforms for Machine Learning is now widely recognized. Stunning new statistics show that these are the fastest-growing platforms for business users, professionals, engineers, and IT. They benefit from a highly productive no-code environment, which they can use to create applications in agile ways.
 
-### - Cost-effective    
+### - Cost-effective
 
 Allowing non-programmers to add basic functionalities frees up IT workers to focus on more challenging tasks or projects with more business value, as there will be less manpower necessary for a single type of work.
 
@@ -113,8 +127,7 @@ Allowing non-programmers to add basic functionalities frees up IT workers to foc
 
 ## Platforms that support No Code ML:-
 
-
-There are lots of platforms that support No code Machine Learning. All of them provide a great value to work, but few of them are free, and others are paid. Some of the platforms that we are going to discuss are:-_
+There are lots of platforms that support No code Machine Learning. All of them provide a great value to work, but few of them are free, and others are paid. Some of the platforms that we are going to discuss are:-\_
 
 1.SuperAnnotate
 
@@ -122,11 +135,11 @@ There are lots of platforms that support No code Machine Learning. All of them p
 
 3. Fritz AI
 
-### Super Annotate:- 
+### Super Annotate:-
 
 The **SuperAnnotate** platform streamlines and improves the process of labeling and annotating photos.
 
-Anyone with image-based data can use SuperAnnotate to run deep learning models to address intriguing computer vision challenges. You can use SuperAnnotate to complete the following tasks, for example: 
+Anyone with image-based data can use SuperAnnotate to run deep learning models to address intriguing computer vision challenges. You can use SuperAnnotate to complete the following tasks, for example:
 
 - Classification of images
 
@@ -134,7 +147,7 @@ Anyone with image-based data can use SuperAnnotate to run deep learning models t
 
 - Detection of objects
 
-- Classification of images 
+- Classification of images
 
 From data engineering (producing high-quality training data) to model construction (training using neural networks) to deployment, the SuperAnnotate platform delivers an end-to-end solution for automating computer vision projects (using one API call to control model functionality).
 
@@ -146,7 +159,7 @@ You can educate your model by simply dragging and dropping files, or you can uti
 
 This is a web-based application that allows you to quickly design a Machine Learning model without writing any code. You just drag and drop files containing your training data into the program and trim them as needed. **It generates a model, which you can then combine with other APIs such as the Google Speech API to create your own chatbot or whatever else you desire**.
 
-### 3. Fritz AI  
+### 3. Fritz AI
 
 **Fritz AI** was created with the goal of assisting mobile app developers in harnessing the potential of Machine Learning technologies. They can integrate their app with the platform and use the platform's Machine Learning APIs to train a model or obtain predictions for usage in their app.
 
@@ -162,4 +175,4 @@ We can simply deduce that learning no code appears to be a godsend for both prog
 
 This is all we've come up with so far, no Machine Learning code. I hope you enjoyed reading it.
 
-If you want to learn this amazing technology, enroll in the <a href="https://www.learnbay.co/data-science-course/artificial-intelligence-certification-course/" target="_blank">Advanced Artificial and ML course</a> **with dedicated placement assistance.** 
+If you want to learn this amazing technology, enroll in the <a href="https://www.learnbay.co/data-science-course/artificial-intelligence-certification-course/" target="_blank">Advanced Artificial and ML course</a> **with dedicated placement assistance.**

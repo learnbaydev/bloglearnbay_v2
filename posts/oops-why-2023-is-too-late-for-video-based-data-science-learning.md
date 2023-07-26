@@ -10,6 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video
 headerAlt: "A banner image showing a data science professional using an online medium to learn about data science."
 date: "August 17, 2022"
 tag: [ how to learn data science from scratch, data science learning path, data science course for beginners, data science courses, video based learning benefits, video based learning, video-based learning examples, video-based learning, , video lectures on data science ]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -33,6 +34,7 @@ tableData:
     Real-time Projects, 
   ]
 ---
+
 # Oops! Why 2023 Is Too Late For Video-Based Data Science Learning
 
 Online data science courses are still the best option, but the recorded video-based ones are the worst.
@@ -51,7 +53,7 @@ Self-paced learning lets students take their own pace to learn data science rath
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/video-based-data-5.jpg" style="width:100%" class="img" alt="An illustration shows an instructor teaching data science  in a offline classroom."/>
 
-###  Instructor led online CLasses
+### Instructor led online CLasses
 
 An instructor in a classroom scenario or online courses teaches data science in this learning methodology. Students can interact and even discuss training material. The discussion can be done individually with the instructor or in a group discussion. Online instructor-led training is known as **VILT** (Virtual-Instructor-Led-Training). Students have a lot of advantages in this learning methodology as it is easy to adapt, more social, and enhances abilities. However, still, you can get recorded videos, but yes, those will be backed up by live discussions and feedback-bound assignments. Such courses are 50% more effective than the self-paced ones. Still, these are not 100% effective and reliable.
 
@@ -97,7 +99,7 @@ Currently, recruiters are less concerned with your certifications and more inter
 
 ## But do Learning costs matter?
 
- Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led <a href="https://www.learnbay.co/data-science-ai-masters-program" target="_blank">job ready</a> data science course, that's worth it. Even some courses offer more than 300% ROI.
+Yes, it's a big concern. While recorded video-based classes are even available for 20K INR, the live and interactive classes usually cost more than 70K. Certainly, there will be second thoughts amongst the candidates before spending the hard-earned money on such courses. But here, one thing you need to consider- is the ROI. Yes, as you don't get any job assurance and even proper project exposure, the entire 20K seems like a complete waste. On the other hand, even if you pay 1 lakh for an instructor-led <a href="https://www.learnbay.co/data-science-ai-masters-program" target="_blank">job ready</a> data science course, that's worth it. Even some courses offer more than 300% ROI.
 
 ## So, what's next?
 

@@ -1,5 +1,5 @@
 ---
-title:  A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond
+title: A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond
 stitle: "A Few Fascinating Facts About Artificial Intelligence - Learnbay"
 publish: "Published on"
 published_time: "2022-10-21T13:25:31+05:30"
@@ -9,7 +9,22 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-1.jpg"
 headerAlt: "A banner images titled, 'Fascinating Facts of AI.'"
 date: "Oct 21, 2022"
-tag: [ 10 cool facts on artificial intelligence, 10 points on artificial intelligence, artificial intelligence facts and statistics, artificial intelligence facts 2022, positive facts about ai, artificial intelligence facts 2023, Artificial intelligence, artificial intelligence facts, AI, NLP, Chatbot, Voice search ]
+tag:
+  [
+    10 cool facts on artificial intelligence,
+    10 points on artificial intelligence,
+    artificial intelligence facts and statistics,
+    artificial intelligence facts 2022,
+    positive facts about ai,
+    artificial intelligence facts 2023,
+    Artificial intelligence,
+    artificial intelligence facts,
+    AI,
+    NLP,
+    Chatbot,
+    Voice search,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -17,8 +32,8 @@ catdesc: "Explore Artificial Intelligence Blogs, features highly informative and
 authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
-author: "Milan Jain" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
+author: "Milan Jain"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
@@ -27,14 +42,24 @@ h1: "A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond"
 id: "a-few-fascinating-facts-about-artificial-intelligence-in-2023-and-beyond"
 tableData:
   [
-    Did you know that AI had its presence in ancient Greece?,Key Statistics of AI, AI Stats by Industry, 1. AI and Retail, 2. AI and sales ,  3. AI and Marketing, 4. AI and customer service, AI Stats by Application, 1. Voice search, 2. Chatbots, 3. NLP (Natural language processing), 4. Self-driving cars, Artificial intelligence and Employment Stats, Future Stats Of AI  
-   ]
+    Did you know that AI had its presence in ancient Greece?,
+    Key Statistics of AI,
+    AI Stats by Industry,
+    1. AI and Retail,
+    2. AI and sales,
+    3. AI and Marketing,
+    4. AI and customer service,
+    AI Stats by Application,
+    1. Voice search,
+    2. Chatbots,
+    3. NLP (Natural language processing),
+    4. Self-driving cars,
+    Artificial intelligence and Employment Stats,
+    Future Stats Of AI,
+  ]
 ---
 
-
 <span style=" font-weight:bold; font-size:28px">List of AI Facts That Every Data Science Aspirant Should Know</span>
-
-
 
 You must have been wondering how businesses were not gaining much traction from customers a few years back, and today, every company you see is reaching new heights and milestones. It's artificial intelligence (AI). AI has not just helped businesses but has improved customer satisfaction.
 
@@ -46,9 +71,9 @@ Ancient Greece has a myth in a story where automatons (machine/robots) were crea
 
 Super-fast forwarding at present, after two-and-a-half millennials, AI is here and transforming how we do business and lead our lives with daily routine activities. By the end of this decade, we guess we will see AI assist humans in our everyday aspects of life.
 
-## A list of fascinating facts will tell you that AI is not only the future but also defining the present.  
+## A list of fascinating facts will tell you that AI is not only the future but also defining the present.
 
-## Key Statistics of AI 
+## Key Statistics of AI
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ff-2.jpg" style="width:100%" class="img" alt="An illustration shows an AI-based robot operating a  hologram image of a human via a laptop"/>
 
@@ -68,7 +93,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 
 ## AI Stats by Industry
 
-### 1. AI and Retail   
+### 1. AI and Retail
 
 - Amazon reduced the "click to ship" duration to 15 minutes by machine learning, initiating a 225% decrease.
 - The complete expense of AI in the retail sector will be valued at 7.3$ billion by the end of 2022.
@@ -76,7 +101,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 
 **Source** <a href="https://www.forbes.com/sites/louiscolumbus/2019/08/01/ai-is-predicting-the-future-of-online-fraud-detection/" target="_blank" rel="nofollow">Forbes</a>
 
-### 2. AI and sales   
+### 2. AI and sales
 
 - 79% of organizations say that AI has increased business revenue.
 - Companies have gained a minimum of 20% in earnings even before interest and taxes or EBIT because of strategies created based on AI.
@@ -84,7 +109,7 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 
 **Sources:** <a href="https://analyzingalpha.com/artificial-intelligence-statistics" target="_blank">analyzingalpha</a>
 
-### 3. AI and Marketing  
+### 3. AI and Marketing
 
 - 40% of SMBs do not have AI technology for digital transformation.
 - 28% of the top-performing organizations have leveraged AI for their[ <a href="https://www.youtube.com/watch?v=gALvhMrTFRw&list=PLl1gyDCKkiQTYB_qge-1zuhDUD9FCg3kN&index=2" target="_blank" rel="nofollow">marketing</a>.
@@ -96,17 +121,16 @@ Super-fast forwarding at present, after two-and-a-half millennials, AI is here a
 
 **Sources:** <a href="https://financesonline.com/artificial-intelligence-statistics/" target="_blank" rel="nofollow">Financesonline</a>
 
-### 4. AI and customer service   
+### 4. AI and customer service
+
 - 73% of global businesses have yet to adopt AI for customer service.
 - AI operates 15% of today's international customer service.
 
 **Sources:** <a href="https://www.oberlo.in/blog/artificial-intelligence-statistics" target="_blank" rel="nofollow">oberlo.in</a>
 
+## AI Stats by Application
 
-## AI Stats by Application 
-
-
-### 1. Voice search    
+### 1. Voice search
 
 - 40% of adults use voice assistants for searches every day.
 - 50% of all the searches are the result of voice searches.
@@ -146,8 +170,7 @@ Alexa: approx 65%"/>
 
 **Image data source:** cdn.buttercms.com
 
-
-### 2. Chatbots  AI Stats by Application  
+### 2. Chatbots AI Stats by Application
 
 - 95% of customer interactions will be communicated via AI by 2025. (email, chatting, and even live telephone calls).
 - 85% of customer relationships and business enterprises can manage operations without human involvement.

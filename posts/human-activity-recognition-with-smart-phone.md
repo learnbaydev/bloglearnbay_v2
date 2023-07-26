@@ -15,6 +15,7 @@ tag:
     activity recognition using smartphone sensors,
     human activity recognition with smartphone sensors using deep learning,
   ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -44,7 +45,7 @@ tableData:
     Encoding test labels,
     Encoding train labels,
     Applying supervised neural network using multi-layer perceptron,
-    Final Remarks
+    Final Remarks,
   ]
 ---
 

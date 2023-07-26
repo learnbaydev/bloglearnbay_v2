@@ -8,8 +8,9 @@ desc: "The alarms rang in Jul 2017 when in a meeting of the National Governors A
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/isai.png"
 headerAlt: ""
-date: "August 18, 2019" 
-tag: [ Data Science ]
+date: "August 18, 2019"
+tag: [Data Science]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -18,7 +19,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -26,13 +27,12 @@ readTime: "9-10 mins"
 h1: "Is AI a threat to humanity?"
 id: "is-ai-a-threat-to-humanity"
 tableData:
-  [ 
+  [
     Is AI a threat to humanity?,
     The evolution of Artificial Intelligence,
     Stepping towards the needful,
     Superintelligence,
-    A Machine is never conscious
-
+    A Machine is never conscious,
   ]
 ---
 

@@ -9,11 +9,28 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-1.jpeg"
 headerAlt: "A banner image titled, 'operator in python.'"
 date: "Sep 14, 2022"
-tag: [ Operator in python, Arithmetic operator, logical operator, bitwise operator, bitwise operator in python, assignment operator in python, floor division operator in python, membership operator in python, logical operators in python, types of operators in python, operator in python with example, operators in python, operator meaning in python, set operations in python with examples ]
+tag:
+  [
+    Operator in python,
+    Arithmetic operator,
+    logical operator,
+    bitwise operator,
+    bitwise operator in python,
+    assignment operator in python,
+    floor division operator in python,
+    membership operator in python,
+    logical operators in python,
+    types of operators in python,
+    operator in python with example,
+    operators in python,
+    operator meaning in python,
+    set operations in python with examples,
+  ]
 author: "Vineeth Kumar"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/vineeth-kumar.webp"
 authordesc: "An experienced techie with in-depth knowledge of data science and Python programming languages. His intensive interest in data management and machine learning drew him toward a data science career transition from electrical engineering to advance artificial intelligence. His hobby includes writing programming-related articles. "
 authorlinkedin: "https://www.linkedin.com/in/vineeth-kumar-104a6b98/"
+parantcategory: "Data Science & BA"
 category: "Python"
 
 cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"
@@ -27,18 +44,14 @@ h1: "Operators in Python - Operation using Symbol"
 id: "operators-in-python-operation-using-symbol"
 tableData:
   [
-  Operators in Python - Operation using Symbols, 
-  What is an operator in python?,
-   What are the types of operators?, Takeaway,
-
+    Operators in Python - Operation using Symbols,
+    What is an operator in python?,
+    What are the types of operators?,
+    Takeaway,
   ]
 ---
 
-
-
 # Operators in Python - Operation using Symbols
-
-
 
 _A character that is used to represent an action in mathematics is an operator. In the same way, python operators are used in performing a particular task on values and variables. There is a specific operation for each symbol or operator._
 
@@ -52,7 +65,8 @@ When you write 'x+y', the operator '+' is used on two operands, 'x' and 'y'.
 
 <b>In this article, you will understand different concepts and types of operators used in python.</b>
 
-## What are the types of operators?  
+## What are the types of operators?
+
 There are seven different types of operators in python. Let us take a look at them individually:
 
 - Arithmetic operator
@@ -85,9 +99,8 @@ print(x - y)<br>
 #Multiplication <br>
 x = 10 <br>
 y = 5 <br>
-print(x * y)<br>
+print(x \* y)<br>
 50<br>
-
 
 #Division Float <br>
 x = 10 <br>
@@ -101,25 +114,17 @@ y = 5 <br>
 print(x // y)<br>
 2.0<br>
 
-
 #Modules <br>
 x = 9 <br>
 y = 5 <br>
 print(x % y)<br>
 4<br>
 
-
 #Exponents <br>
 x = 7 <br>
 y = 5 <br>
-print(x ** y)<br>
+print(x \*\* y)<br>
 16807<br>
-
-
-
-
-
-
 
 ### Assignment operator
 
@@ -129,27 +134,24 @@ Assigning values to a variable is called an assignment operator. The result of t
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/operators-in-python-4.jpeg" style="width:100%" class="img" alt="A table lists function of ten assignment operators. The table consists three columns named, 'operator', 'Meaning', 'example.'"/>
 
-Examples for Assignment operators 
+Examples for Assignment operators
 
-x = 10  <br>
+x = 10 <br>
 #Assign value <br>
-y = x	 <br>
+y = x <br>
 print(y) <br>
-
 
 #Add and assign value<br>
 y += x<br>
 print(y) <br>
 
-
 #Subtract<br>
 y -= x<br>
 print(y)<br>
 
-#Multiplication	<br>
-y *= x <br>
+#Multiplication <br>
+y \*= x <br>
 print(y)<br>
-
 
 #Right shift<br>
 y >>= x <br>
@@ -159,18 +161,15 @@ print(y)<br>
 y <<= x<br>
 print(y)<br>
 
-
-10<br>	
+10<br>
 20 <br>
-10<br>	
-100<br>		
+10<br>
+100<br>
 
 0.0<br>
 0.0<br>
 0.0<br>
 10.0<br>
-
-
 
 ### Comparison Operator
 
@@ -190,19 +189,19 @@ In python symbols or characters used in conditional statements is called Logical
 
 Examples
 
- x = True  <br>
- y = False<br>
+x = True <br>
+y = False<br>
 
 #Print x and y is False <br>
- print(x and y)<br>
+print(x and y)<br>
 
 #Print x or y is True<br>
- print(x or y)<br>
+print(x or y)<br>
 
 #Print not x is False<br>
- print(not x)<br>
+print(not x)<br>
 
- Output<br>
+Output<br>
 False<br>
 True<br>
 False <br>
@@ -218,25 +217,25 @@ Bitwise operators are individual bits (0 and 1) of the operands. These 0 and 1 a
 Example<br>
 
 | x = 10<br>
- y = 4<br>
+y = 4<br>
 
 #Bitwise AND operation <br>
- print(x & y)<br>
+print(x & y)<br>
 
 #Bitwise OR operation <br>
- print(x | y)<br>
+print(x | y)<br>
 
 #Bitwise NOT operation <br>
- print(~x)<br>
+print(~x)<br>
 
 #Bitwise XOR operation <br>
- print(x ^ y)<br>
+print(x ^ y)<br>
 
 #Bitwise right shift operation<br>
- print(x \>\> 2)<br>
+print(x \>\> 2)<br>
 
 #Bitwise left shift operation<br>
- print(x \<\< 2)<br>
+print(x \<\< 2)<br>
 
 0<br>
 14<br>
@@ -255,23 +254,23 @@ There are two membership operators listed below:
 
 Example <br>
 
- x = 32 <br>
- y = 10<br>
- list = [10, 20, 30, 40, 50] <br>
+x = 32 <br>
+y = 10<br>
+list = [10, 20, 30, 40, 50] <br>
 
 if(x notin list):<br>
- print("x is not in the given list")<br>
+print("x is not in the given list")<br>
 else:<br>
- print("x is in the given list")<br>
+print("x is in the given list")<br>
 
 if(y in list):<br>
- print("y is in the given list")<br>
+print("y is in the given list")<br>
 else:<br>
- print("y is not in the given list")<br>
+print("y is not in the given list")<br>
 
- Output <br>
- x isnotin the given list<br>
- y isin the given list <br>
+Output <br>
+x isnotin the given list<br>
+y isin the given list <br>
 
 ### Identity Operator
 
@@ -284,17 +283,16 @@ There are two types of identity operators:
 Example <br>
 
 | x = 10<br>
- y = 20<br>
- z = x<br>
+y = 20<br>
+z = x<br>
 
- print(x isnot y)<br>
- print(x is z)<br>
+print(x isnot y)<br>
+print(x is z)<br>
 
- Output<br>
+Output<br>
 True<br>
 True <br>
 
-## Takeaway  
-
+## Takeaway
 
 Let us summarize, an operator is nothing but a particular task that is performed using special symbols by substituting operands. You've also gone through the various types of operators and examples. It is the basic concept that you work on a day-to-day life while working in python.

@@ -9,7 +9,13 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hrae-1.jpg"
 headerAlt: "A banner image titled 'Handwriting Recognition. An excellent AI innovation in OCR technology' shows human hand, writing on a notepad."
 date: "Feb 20, 2023"
-tag: [ handwritten digit recognition using machine learning, handwriting recognition machine learning, application of handwriting recognition ]
+tag:
+  [
+    handwritten digit recognition using machine learning,
+    handwriting recognition machine learning,
+    application of handwriting recognition,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -17,8 +23,8 @@ catdesc: "Explore Artificial Intelligence Blogs, features highly informative and
 authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
 adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
 
-author: "Manas Kochar" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
+author: "Manas Kochar"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
@@ -27,11 +33,22 @@ h1: "Handwriting Recognition | An Excellent AI Innovation in OCR Technology"
 id: "handwriting-recognition-an-excellent-ai-innovation-in-ocr-technology"
 tableData:
   [
-
-    What does handwriting recognition mean?, Problems in converting handwriting into text:-, Benefits of handwritten digit recognition, 1. Optimal data storage, 2. Access and retrieval, Use cases of handwritten character recognition., 1. Medical and Healthcare applications, 2. Banking and Insurance applications, 3. Libraries and Archives, How does handwriting recognition work?, Steps in handwriting recognition:-, 1. Pre-processing:-, 2. Segmentation:-, 3. Feature extraction:-, 4. Classification and recognition:-
-        
-   ]
-
+    What does handwriting recognition mean?,
+    Problems in converting handwriting into text:-,
+    Benefits of handwritten digit recognition,
+    1. Optimal data storage,
+    2. Access and retrieval,
+    Use cases of handwritten character recognition.,
+    1. Medical and Healthcare applications,
+    2. Banking and Insurance applications,
+    3. Libraries and Archives,
+    How does handwriting recognition work?,
+    Steps in handwriting recognition:-,
+    1. Pre-processing:-,
+    2. Segmentation:-,
+    3. Feature extraction:-,
+    4. Classification and recognition:-,
+  ]
 ---
 
 <span style=" font-weight:bold; font-size:28px">How is AI Used in Handwriting Recognition?</span>
@@ -62,7 +79,7 @@ Deep learning has, however, provided a faster and more accurate way to approach 
 
 As <a href="https://blog.learnbay.co/the-top-10-deep-learning-algorithms-to-master-in-2023" target="_blank">deep learning algorithm</a> are much more reliable, handwriting recognition has become easier. But we can still face some issues while implementing the algorithms in pattern recognition techniques.
 
-## Problems in converting handwriting into text:-     
+## Problems in converting handwriting into text:-
 
 - The differences and ambiguity in every person's handwriting are major issues. Everyone has varying strokes, character spacing, irregularities, and handwriting styles, making it a complex task to identify an individual's penmanship.
 
@@ -74,33 +91,33 @@ As <a href="https://blog.learnbay.co/the-top-10-deep-learning-algorithms-to-mast
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hrae-3.jpg" style="width:100%" class="img" alt="A photo shows a handwritten digit, '123,' getting transformed into the digitized one, '123.'"/>
 
-## Benefits of handwritten digit recognition   
+## Benefits of handwritten digit recognition
 
 ### 1. Optimal data storage
 
 Documents such as file records, contracts, etc., have handwritten signatures or notes that need to be stored. Converting them into electronic texts using handwritten **text recognition technologies** can provide a better way to store the files. It also saves on time, space, and costs required in the process.
 
-### 2. Access and retrieval     
+### 2. Access and retrieval
 
 We can access the data efficiently by storing information using **handwriting recognition** software. You can easily retrieve any information by entering the name/details and searching for the file on the system. Therefore, it becomes a much faster implementation than manually accessing the files.
 
-## Use cases of handwritten character recognition.    
+## Use cases of handwritten character recognition.
 
 The implementation of handwritten recognition using deep learning in many industries is not just a thought these days. As the number of applications increases, the demand for handwritten text recognition also rises.
 
-### 1. Medical and Healthcare applications    
+### 1. Medical and Healthcare applications
 
 The digitization of patient prescriptions and enrollment forms saves time and effort by improving the user experience. However, as it's difficult to read a doctor's note, many patients receive the wrong dosage or medicine, which can lead to adverse effects.
 
 With the help of the **handwriting recognition** model, doctors can provide quality healthcare by reducing these risks. These are helpful in places where fewer doctors are available to provide each person with individual care.
 
-### 2. Banking and Insurance applications  
+### 2. Banking and Insurance applications
 
 In most banking sectors, people provide handwritten cheques, which can become a concern to deal with. Moreover, the insurance industry also collects many claims; without proper settlement of these documents, the company can receive a massive blow.
 
 As compared to manual efforts, software seems to be a much faster and reliable option while implementing handwriting recognition on any documents. As a result, dealing with large amounts of cheques and documents will be quicker for both the employees and the users.
 
-### 3. Libraries and Archives    
+### 3. Libraries and Archives
 
 Providing digital versions of books and historical documents/records for customers online is a time-consuming process. Manually documenting, indexing, and publishing the records would take forever.
 
@@ -108,7 +125,7 @@ But HTR (Handwriting Text Recognition) provides a way to automatically publish a
 
 Like this, there are other areas where efficiently using HTR technology improves accuracy.
 
-## How does handwriting recognition work?   
+## How does handwriting recognition work?
 
 There are two ways handwriting recognizing patterns work:
 
@@ -122,11 +139,11 @@ The data presented in offline methods consists of snapshots of handwritten text.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/hrae-4.jpg" style="width:100%" class="img" alt="A professional seated in front of a laptop learns the process of handwriting recognition."/>
 
-### Steps in handwriting recognition:-    
+### Steps in handwriting recognition:-
 
 A handwriting algorithm contains steps to identify the texts from the given data input. These apply to <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning algorithms</a>, techniques, models, and recognition system strategies. They are
 
-### 1. Pre-processing:-   
+### 1. Pre-processing:-
 
 Image pre-processing is essential in text recognition since it helps make the other process easier. Operations such as _noise removal, segmenting images, cleaning, cropping,_ etc., are a part of image pre-processing. This process removes any unnecessary noise from the image and helps identify the objects in the image that may be useful.
 
@@ -138,7 +155,7 @@ It is a complex process where the algorithm segments images into smaller sub-ima
 
 The properties identifying the data present in the image are measured in this step. It helps identify relevant features and extract those not dependent on one another. The image is detailed using a feature extraction algorithm to provide accurate character identification.
 
-### 4. Classification and recognition:- 
+### 4. Classification and recognition:-
 
 In this final step, we use neural networks or other classifiers to decide on the input data provided.
 

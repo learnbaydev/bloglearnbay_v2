@@ -10,7 +10,8 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/marke
 headerAlt: "An image titled, '960  ROLES IN SALES AND TALENT ACQUISITION WERE LAID OFF DURING THE 2020 PANDEMIC SAYS, LINKEDIN.'"
 date: "Apr 07, 2022"
 tag: [ Hot Topics ]
-category: "Hot Topics"
+parantcategory: "Hot Topics"
+category: "Trending"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
@@ -38,7 +39,6 @@ Conclusion,
   ]
 ---
 
-
 Sales, marketing, and HR have been among the most profitable industries in the 21st century. But there have been some hidden downfalls that you may not be aware of.
 
 On the other hand, The covid-19 pandemic has heavily disrupted marketing resulting in the layoff of many employees.
@@ -47,21 +47,19 @@ On the other hand, The covid-19 pandemic has heavily disrupted marketing resulti
 
 Due to this most of the sales and marketing professionals are struggling and freshers are confused at the same time. _So, are the sales and marketing careers approaching a dead end!!_
 
-Obviously no. 
+Obviously no.
 
-There’s no need to be concerned as the saying goes, there’s always a solution for every problem. 
+There’s no need to be concerned as the saying goes, there’s always a solution for every problem.
 
-Starting your career in <a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">Data Science and AI</a><span style="text-decoration:underline;"> </span>might be your one-stop solution to begin your career for breaking into the marketing and sales industry. 
+Starting your career in <a href="https://www.learnbay.co/data-science-certification-courses/" target="_blank">Data Science and AI</a><span style="text-decoration:underline;"> </span>might be your one-stop solution to begin your career for breaking into the marketing and sales industry.
 
 Data science is the newest craze, and it’s swept the marketing world as well.
 
-This blog will help you in taking the necessary steps toward launching a career in the same. 
+This blog will help you in taking the necessary steps toward launching a career in the same.
 
-First, let’s have a look at a few cases. _One prime example is how Coca-Cola lost its market to Pepsi._ It was one of the biggest sales disasters of all time. Coke even tried changing its formula but still couldn’t up to its game. This shows the tough and competitive nature of the industry that can cause people to change their opinion about the industry on the whole and not good opinions at that. 
+First, let’s have a look at a few cases. _One prime example is how Coca-Cola lost its market to Pepsi._ It was one of the biggest sales disasters of all time. Coke even tried changing its formula but still couldn’t up to its game. This shows the tough and competitive nature of the industry that can cause people to change their opinion about the industry on the whole and not good opinions at that.
 
-But if you think that the competition was only between two separate companies, I suppose you might be wrong. Competition can exist within the same company as well. _For example, Ford came out with <a href="https://quasa.io/media/6-well-known-marketing-disasters-in-history-lessons-to-learn205657" target="_blank" rel="nofollow">Ford EDSEL</a>, a new car performing great in the market_. So what was the problem? _It came during the economic recession. _The new car was much more expensive than ford’s previous models in the mercury line without offering anything new or revolutionary; therefore, it started to die down. 
-
-
+But if you think that the competition was only between two separate companies, I suppose you might be wrong. Competition can exist within the same company as well. _For example, Ford came out with <a href="https://quasa.io/media/6-well-known-marketing-disasters-in-history-lessons-to-learn205657" target="_blank" rel="nofollow">Ford EDSEL</a>, a new car performing great in the market_. So what was the problem? \_It came during the economic recession. \_The new car was much more expensive than ford’s previous models in the mercury line without offering anything new or revolutionary; therefore, it started to die down.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market2.png" alt="An illustration represents the use of data science in sales, marketing, and human resources." class="img"/>
 
@@ -70,7 +68,6 @@ Especially after the pandemic, faulty marketing strategies caused a lot of small
 Becoming a data scientist is never a bad idea. It is very in the now and is considered to be the sexiest job of the 21st century by the <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century" target="_blank" rel="nofollow">Harvard Business School</a>. DS is a very lucrative subject no matter in which domain you apply it to. <a href="https://www.learnbay.co/data-science-course/data-science-ai-for-managers/" target="_blank" rel="nofollow">Data Science Courses</a> fare well in the market owing to their importance in the coming times where every single thing will be driven by data.
 
 _Still not convinced? Let’s see why DS is necessary for the sales and marketing sector._
-
 
 ## How is Data Science Used in Sales and Marketing?
 
@@ -81,7 +78,6 @@ Data science is the key to transforming multi-source data into actionable insigh
 1. Analysis of customer sentiment
 
 Customer emotional analysis can be used to extract emotions from communication. This allows us to understand emotions and use this understanding in our business. The algorithms are used to analyze sentiment. They can be used to assess the general attitude towards texts on social media, blogs, and review sites for text mining. With just a click, automated sentiment analysis techniques allow real-time insight. These tools highlight the subtext of comments, taking facts, emotions, and general views into account. These emotions can also be broadened beyond the general classification of positive, negative, or neutral observations.
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market3.png" alt="An image related to customer sentiment research for growth in sales and marketing." class="img"/>
 
@@ -135,92 +131,73 @@ Augmented reality provides a great outlook on sales implementation. Augmented re
 
 The first use of virtual reality is to enhance product and shelf navigation in shops and online. Virtual fitting rooms are also available. Customers have the opportunity to meet with the product, which increases their chances of purchasing it.
 
-
 ## MNCs Currently Using Data Science
-
 
 ### Airbnb
 
 Airbnb is a great example of data science applied to marketing. They hired a data scientist right from the beginning. There were seven people on the team at the time. Since the founder recognized the potential of data science to accelerate company growth, it has been a priority. This means that all levels have been adequately explored, and problems as well as opportunities.
 
-
 ### Netflix
 
 Keeping its subscribers coming back is one of the top priorities for a content subscription service like Netflix. Netflix’s recommendation engine is designed to serve exactly this purpose. It recommends films and series based on the viewing history of similar users. Although the initial effect on the user is positive, enriching, and helpful, the ultimate goal of Netflix’s recommendation engine is to keep them subscribed month after month.
-
 
 ### Spotify
 
 Spotify is similar to Netflix in that it aims to keep its subscribers happy by offering new and interesting ways for them to discover music. There is a significant difference between Spotify and Netflix in the amount of content they offer – which is necessary considering the differences in content types.
 
-
 ### Meta
 
 Meta, previously known as Facebook data science is multi-layered. They not only have their own insights to analyze and take action but also offer marketing tools and insights for the thousands of businesses that market through their platform. It is essential that they have effective strategies that work for customers.
-
 
 ### Google
 
 Google, like Facebook, aims to provide a high return on investment for its business-owning customers. Google will provide these services for small businesses that do not have an in-house data scientist. It is our goal to make data and analytics as easy and intuitive as possible.
 
-
 ## What is the advantage of using Data Science in Business?
 
 There are many perks to using data science in the sales and marketing industry. Some of them are listed below.
 
-
-
-* Spend less time and money trying out marketing strategies that fail
-* Only target the most valuable customers
-* Increase the lifetime value of a customer
-* Learn quickly from customer feedback
-* You can predict which products or services will be most popular in the future
-* Refine your digital advertising
-* Convert more leads with cross- or up-selling
-* Increased Security.
-* Allows companies to calculate the Return on Investment or ROI of a marketing campaign
-* Information for marketing departments about which marketing strategies are effective
-* It can give a picture of target consumers. It can give a company a picture of its target consumers.
+- Spend less time and money trying out marketing strategies that fail
+- Only target the most valuable customers
+- Increase the lifetime value of a customer
+- Learn quickly from customer feedback
+- You can predict which products or services will be most popular in the future
+- Refine your digital advertising
+- Convert more leads with cross- or up-selling
+- Increased Security.
+- Allows companies to calculate the Return on Investment or ROI of a marketing campaign
+- Information for marketing departments about which marketing strategies are effective
+- It can give a picture of target consumers. It can give a company a picture of its target consumers.
 
 Now that we have covered the whys and hows, let’s see where and what kind of a job you can get in the Sales and Marketing department as a data scientist.
 
-
 ## Data Science Jobs in Sales and Marketing
 
-In India, the average salary for the position of Data Scientist in the sales and marketing sector, as reported by LinkedIn, is Rs 8,50,000. 
-
+In India, the average salary for the position of Data Scientist in the sales and marketing sector, as reported by LinkedIn, is Rs 8,50,000.
 
 ### _Based on Experience_
-
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market4.png" alt="Data science job based on experience such as, 
 FOR BEGINNER (1-2YRS) - INR 6,11,000/P.A
 FOR MID SENIOR(5-8 YRS)- INR 10,00,000/P.A
 FOR EXPERT(10-15 YRS)- INR 20,00,000/P.A" class="img"  />
 
-
-* Beginner (1-2 years)-₹ 6,11,000 PA
-* Mid-Senior (5-8 years)-₹ 10,00,000 PA
-* Expert (10-15 years)-₹ 20,00,000 PA
-
+- Beginner (1-2 years)-₹ 6,11,000 PA
+- Mid-Senior (5-8 years)-₹ 10,00,000 PA
+- Expert (10-15 years)-₹ 20,00,000 PA
 
 ### _Based on Role_
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market5.png" alt="A bar chart represents the salary of:-
 Data analyst - INR 6,02,784/P.A
 DATA SCIENTIST- INR 8,00,000/P.A
 DATA SCIENCE ENGINEER- INR 9,76,133/P.A" class="img"/>
 
-
-* Data Scientist – ₹ 8,00,000 PA
-* Data Science Engineer – ₹ 9,76,133 PA
-* Data Analyst – ₹ 6,02,784 PA
-
+- Data Scientist – ₹ 8,00,000 PA
+- Data Science Engineer – ₹ 9,76,133 PA
+- Data Analyst – ₹ 6,02,784 PA
 
 ### _Based on location._
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market6.png" alt="An image represent the Data scientist's salary based on location such as,
 Kolkata - INR 4,02,978/P.A
@@ -230,71 +207,53 @@ Chennai- INR 7,94,403/P.A
 Hyderabad- INR 7,95,023/P.A
 Bengaluru - INR 9,84,488/P.A" class="img"/>
 
-* Mumbai – ₹ 7,88,789
-* Chennai – ₹ 7,94,403
-* Bangalore – ₹ 9,84,488
-* Hyderabad – ₹ 7,95,023
-* Pune – ₹ 7,25,146
-* Kolkata – ₹ 4,02,978
-
+- Mumbai – ₹ 7,88,789
+- Chennai – ₹ 7,94,403
+- Bangalore – ₹ 9,84,488
+- Hyderabad – ₹ 7,95,023
+- Pune – ₹ 7,25,146
+- Kolkata – ₹ 4,02,978
 
 ## Where can Learnbay Help you?
 
 <a href="https://www.learnbay.co/data-science-course/" target="_blank">Learnbay</a> provides some of the best Data Science courses in Bangalore. It especially provides <a href="https://blog.learnbay.co/data-science-for-working-professionals" target="_blank">Data science and AI courses for working professionals</a>. It also provides you with various domain electives, sales, marketing, and HR being one of them. Let us see about this elective in a bit more detail.
 
-
 ### Learnbay’s teaching approach
 
-
-
-* Our methods are completely practical-oriented. This means you will learn through project work and other practical activities.
-* You can choose any two domains to learn with.
-* The module is separated into modules for each specialization, so it is easy for you to understand the concept in the order of precedence. 
-* This domain elective will also learn tools like Keras, Hadoop, MongoDB, Pytorch, TensorFlow, Seaborne, and OpenCV. 
-
+- Our methods are completely practical-oriented. This means you will learn through project work and other practical activities.
+- You can choose any two domains to learn with.
+- The module is separated into modules for each specialization, so it is easy for you to understand the concept in the order of precedence.
+- This domain elective will also learn tools like Keras, Hadoop, MongoDB, Pytorch, TensorFlow, Seaborne, and OpenCV.
 
 ## Projects
 
-
-
-* Sales Prediction (Sales Domain)
+- Sales Prediction (Sales Domain)
 
 Big-Bazar like companies employs this Machine Learning model in order to identify the characteristics of stores and products that are most important for increasing sales. Certain characteristics have been identified for each retailer and product. This Machine Learning project aims to build a predictive model that will determine the sales of each product at a particular retailer. It involves determining the future or present-day sales using data such as past sales, seasonality, and economic conditions. This model can predict sales on a specific day if it is given a set of inputs.
-
-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market7.png"   class="img"/>
 
 <a href="https://www.kaggle.com/harrimansaragih dummy-advertising-and-sales-data" target="_blank" rel="nofollow">Sales and Marketing Forecasting Dataset from Kaggle</a>
 
-
-
-* Resume Parsing(HR Domain)
+- Resume Parsing(HR Domain)
 
 All businesses face challenges in hiring the right talent. The challenge is made more difficult by a large number of applicants, especially if the business has high labor costs, is growing rapidly, or is subject to high attrition rates.IT departments lack the ability to access new markets. A typical service company will hire professionals who have a range of technical skills and business expertise to solve customer problems. Resume screening is the process of selecting the best talent from many applicants. Large companies don’t have the time to read every CV. Therefore, they use Machine Learning algorithms for Resume Screening.
 
-
-
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market8.png"   class="img"  />
-
 
 <a href="https://www.kaggle.com/gauravduttakiit/resume-screening-using-machine-learning" target="_blank" rel="nofollow">Resume Screening criterion Dataset from Kaggle</a>
 
-
-
-* Keyword Generation for social media ads(Marketing Domain)
+- Keyword Generation for social media ads(Marketing Domain)
 
 Keyword generation can be defined as the task of automatically identifying a set of terms that best describe the subject matter of a document. This is an important technique in information retrieval systems (IR). Keywords simplify and speed up the search. Keyword generation can be used for text classification and topic modeling. S.Art and al extracted keywords to determine patent similarity. Keyword generation allows you to automatically index data, summarize text, or create tag clouds using the most representative keywords.
 
-
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/market9.png"   class="img"  />
-
 
 <a href="https://www.kaggle.com/akhatova/extract-keywords" target="_blank" rel="nofollow">Kaggle dataset for keyword generation or extraction</a>
 
 ## Conclusion:-
 
-Throughout this blog, you have seen Data has become the cornerstone of all industries including HR, Sales, and Marketing. Data science techniques help sales leaders to manage their businesses efficiently, focus on viable plans, create leads, improve customer experience. This adoption of big data analytics is differentiating winners from the rest across sectors, resulting in an increase in the demand for skilled data professionals. Thus, You can undoubtedly build a rewarding career in this industry to secure a high-paying job. 
+Throughout this blog, you have seen Data has become the cornerstone of all industries including HR, Sales, and Marketing. Data science techniques help sales leaders to manage their businesses efficiently, focus on viable plans, create leads, improve customer experience. This adoption of big data analytics is differentiating winners from the rest across sectors, resulting in an increase in the demand for skilled data professionals. Thus, You can undoubtedly build a rewarding career in this industry to secure a high-paying job.
 
 Hope you found this blog informative enough.
 
@@ -306,15 +265,9 @@ Facebook:<a href="https://www.facebook.com/learnbay/" target="_blank">https://ww
 
 LinkedIn:<a href="https://www.linkedin.com/company/learnbay/" target="_blank">https://www.linkedin.com/company/learnbay/</a>
 
-
 ## Bibliography
 
-
-
-* <a href="https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201" target="_blank" rel="nofollow">https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201</a>
-  
-* <a href="https://www.kaggle.com/general/205647" target="_blank" rel="nofollow">https://www.kaggle.com/general/205647</a>
-  
-* <a href="https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management" target="_blank" rel="nofollow">https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management</a>
-  
-* <a href="https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/" target="_blank" rel="nofollow">https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/</a>
+- <a href="https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201" target="_blank" rel="nofollow">https://medium.datadriveninvestor.com/ola-lyft-rapido-gojek-grab-and-uber-bikes-ride-demand-forecasting-data-science-in-cead02e44201</a>
+- <a href="https://www.kaggle.com/general/205647" target="_blank" rel="nofollow">https://www.kaggle.com/general/205647</a>
+- <a href="https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management" target="_blank" rel="nofollow">https://silo.tips/download/controlling-project-churn-a-case-for-reality-based-project-management</a>
+- <a href="https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/" target="_blank" rel="nofollow">https://www.mygreatlearning.com/blog/data-scientist-salary-in-india/</a>

@@ -9,11 +9,16 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nagd-1.jpg"
 headerAlt: "A graph represents the normal distribution curve."
 date: "Mar 29, 2022"
-tag: [ importance of normal distribution in statistics, application of normal distribution in finance ]
-author: "Manas Kochar" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
+tag:
+  [
+    importance of normal distribution in statistics,
+    application of normal distribution in finance,
+  ]
+author: "Manas Kochar"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -27,7 +32,14 @@ h1: "Normal and Gaussian Distribution"
 id: "gaussian-and-normal-distribution"
 tableData:
   [
-   What is the normal distribution in statistics?, What are the main properties of normal distribution?, 1. Standard Deviation of Normal Distribution:-, Python code for plotting the normal distribution graph:-, 2. Skewness and Kurtosis:-, How is the normal distribution used in finance?, What are the limitations of normal distribution in finance?, Where to learn more?
+    What is the normal distribution in statistics?,
+    What are the main properties of normal distribution?,
+    1. Standard Deviation of Normal Distribution:-,
+    Python code for plotting the normal distribution graph:-,
+    2. Skewness and Kurtosis:-,
+    How is the normal distribution used in finance?,
+    What are the limitations of normal distribution in finance?,
+    Where to learn more?,
   ]
 ---
 
@@ -51,9 +63,9 @@ The density function of probability for a constant random variable inside a syst
 
 Assuming that f(x) is the probability density function and X is a random variable, it provides a function integrated across the domain or interval (x to x+dx). The frequency of random variable X is given by taking values within x and x+dx into account.
 
-## What are the main properties of normal distribution?   
+## What are the main properties of normal distribution?
 
-### 1. Standard Deviation of Normal Distribution:-   
+### 1. Standard Deviation of Normal Distribution:-
 
 The Gaussian and normal distribution are the same in statistics theory. The normal distribution curve is made with the help of the probability density function with the random values. F(x) is the PDF function, and x is the value of Gaussian which is used to represent the real values of random variables having unknown distribution.
 
@@ -68,39 +80,27 @@ The empirical rule also referred to as the three-sigma rule or 68-95-99.7 rule, 
 Broken down,
 
 - The empirical rule shows that 68% falls within the first standard deviation (µ ± σ),
-  
 - 95% within the first two standard deviations (µ ± 2σ),
-  
 - And 99.7% within the first three standard deviations (µ ± 3σ).
 
-#### Python code for plotting the normal distribution graph:-  
+#### Python code for plotting the normal distribution graph:-
 
 - import matplotlib.pyplot as plt
-  
 - import NumPy as np
-  
 - import Scipy.stats as stats
-  
 - import math
-  
 - mu = 0
-  
 - variance = 1
-  
 - sigma = math.sqrt(variance)
-  
 - x = np.linspace(mu - 3sigma, mu + 3sigma, 100)
-  
 - plt.plot(x, stats.norm.pdf(x, mu, sigma))
-  
 - show()
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nagd-3.jpg" style="width:100%" class="img" alt="A graph represents the Gaussian Distribution curve."/>
 
 The above code shows the Gaussian Distribution with a 99% of confidence interval, a standard deviation of 3, and a mean of 0.
 
-
-### 2. Skewness and Kurtosis:-   
+### 2. Skewness and Kurtosis:-
 
 Skewness means the degree up to which the symmetric distribution is maintained. When the left side tail is longer than the right side, the data set's distribution has a negative skewness (less than zero). And if the right side tail is longer, the skewness is positive.
 
@@ -111,13 +111,14 @@ Kurtosis measures the width of the distribution's tail end concerning its tails.
 The normal distribution shows a 3.0 kurtosis level.
 
 #### **Note:**
+
 _**Why Is the Normal Distribution Called "Normal"?**_
 
 _When the statisticians started doing the equations, they noticed similar shapes regularly occurring for different equations. By seeing this, they thought it appropriate to coin the term "normal" for the distribution._
 
 _In addition, since the distribution was seen over and over as common or typical, the name "normal" came to be attached to the distribution. At the beginning of the 20th century, the term became popular with this type of distribution._
 
-## How is the normal distribution used in finance?   
+## How is the normal distribution used in finance?
 
 - Traders can use standard deviations to suggest suitable trades. However, this trading is often done in extremely short periods because bigger periods make picking entry and exit spots considerably more difficult.
 
@@ -127,7 +128,7 @@ _In addition, since the distribution was seen over and over as common or typical
 
 - Price fluctuations of over three standard deviations outside the mean had already occurred more frequently than predicted under a normal distribution. Whether an asset has followed a normal distribution for long, there is no guarantee that previous performance informs future possibilities.
 
-## What are the limitations of normal distribution in finance?    
+## What are the limitations of normal distribution in finance?
 
 The normal distribution has some constraints when it comes to financing, as its implementations in <a href="https://blog.learnbay.co/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package" target="_blank">finance</a> are restricted, like the expected stock market returns, which are not supported by the **normal distribution in statistics**.
 
@@ -135,16 +136,14 @@ The normal distribution has some constraints when it comes to financing, as its 
 
 - It's hard for most analysts to solve this problem as the statistical distribution to be used is often unknown.
 
-## Where to learn more?   
+## Where to learn more?
 
 So far, we've learned about the following:
 
 - The **normal distribution in statistics** and the probability bell curve
- 
+
 - The mean and standard deviation in a normal distribution
-  
 - Skewness and Kurtosis
-  
 - Normal Distribution usage and limitations in Finance
 
 That concludes the explanation of the normal distribution; perhaps, you felt the distribution was useful. You will learn much more about **normal distribution in statistics** from an <a href="https://www.learnbay.co/advance-data-science-certification-courses" target="_blank">advanced Data Science and AI</a> curriculum.

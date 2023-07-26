@@ -9,7 +9,14 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-1.jpg"
 headerAlt: "A banner image titled, ' 10 Must-Know Machine Learning Algorithms for Beginners in 2023' consists of an ML-powered humanoid robot. "
 date: "Dec 5, 2022"
-tag: [ types of machine learning algorithms, machine learning algorithms for prediction, machine learning algorithms for beginners, machine learning algorithms examples ]
+tag:
+  [
+    types of machine learning algorithms,
+    machine learning algorithms for prediction,
+    machine learning algorithms for beginners,
+    machine learning algorithms examples,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +25,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,13 +34,24 @@ h1: "10 Must-Know Machine Learning Algorithms for Beginners in 2023"
 id: "10-must-know-machine-learning-algorithms-for-beginners-in-2023"
 tableData:
   [
-      The 10 Elementary But Most Useful Machine Learning Algorithms, 1. Linear regression:-,  2. SVM algorithm, The SVM algorithm is classified into two types:-, Non-Linear SVM:-, 3. Decision tree, 4. Logistic regression machine learning algorithm:-, 5. KNN algorithm:-, 6. K-means, 7. Naive Bayes algorithm:-, 8. Random forest algorithm, 9. Dimensionality reduction algorithms, 10. Gradient boosting algorithm and AdaBoosting algorithm, Summing up:-  
-   ]
+    The 10 Elementary But Most Useful Machine Learning Algorithms,
+    1. Linear regression:-,
+    2. SVM algorithm,
+    The SVM algorithm is classified into two types:-,
+    Non-Linear SVM:-,
+    3. Decision tree,
+    4. Logistic regression machine learning algorithm:-,
+    5. KNN algorithm:-,
+    6. K-means,
+    7. Naive Bayes algorithm:-,
+    8. Random forest algorithm,
+    9. Dimensionality reduction algorithms,
+    10. Gradient boosting algorithm and AdaBoosting algorithm,
+    Summing up:-,
+  ]
 ---
 
-
-
-<span style=" font-weight:bold; font-size:28px">  Know the 10 Most Useful Machine Learning Algorithms That Every Beginner Should Include in Their Learning List </span>
+<span style=" font-weight:bold; font-size:28px"> Know the 10 Most Useful Machine Learning Algorithms That Every Beginner Should Include in Their Learning List </span>
 
 The idea of manual labor has completely altered, and society is moving toward an automated world. Numerous ML techniques have boosted computing intelligence and adaptability.
 
@@ -51,46 +69,45 @@ Here, we'll take a closer look at the 10 most useful machine learning algorithms
 
 One of the simplest and most straightforward machine learning algorithms for predicting continuous variables. Such an ML algorithm starts with learning from independent variables. This is called <a href="https://blog.learnbay.co/linear-regression-in-machine-learning" target="_blank">linear regression in Machine learning</a>. Additionally, a dependent variable is an effect whose value changes along with the independent variable.
 
-**The linear equation concerning the relationship between dependent and independent variables is:** 
+**The linear equation concerning the relationship between dependent and independent variables is:**
 
-- **Y=a\*X+b represents this regression line.** 
+- **Y=a\*X+b represents this regression line.**
 
-- **X is defined as an Independent variable** 
+- **X is defined as an Independent variable**
 
-- **Y is defined as a dependent variable** 
+- **Y is defined as a dependent variable**
 
-- **a is defined as a Slope** 
+- **a is defined as a Slope**
 
-- **b is defined as an Intercept** 
+- **b is defined as an Intercept**
 
-**Example:** 
+**Example:**
 
 Suppose an ed-tech platform launched new courses a few months back. The course is going well. But the company is not sure if they should raise the course fee now or should wait for a few more months.
 
 If the course sales have been increasing steadily over the past few months, a linear regression analysis of the sales data and monthly sales can be used to forecast future sales.
 
-### 2. SVM algorithm      
+### 2. SVM algorithm
 
 The support vector machine (SVM) is a method of classifying data points by assigning them to specific coordinates on an n-dimensional space, making it easy to balance and focus different datasets and find trends in the data. With certain data sets, the support vector machine can reduce data complexity.
 
-## The SVM algorithm is classified into two types:-  
+## The SVM algorithm is classified into two types:-
 
-###  Linear SVM:-  
+### Linear SVM:-
 
 Linear SVM is mainly used for data that can be divided into two categories using a single straight line. The most common application of this line is to separate two classes. This is performed by employing the Linear SVM classifier.
 
-### Non-Linear SVM:-  
-
+### Non-Linear SVM:-
 
 The phrase non-linear SVM refers to data that cannot be categorized within a straight line. This is a primary classifier for use with the non-linear SVM classifier.
 
-**Example:** 
+**Example:**
 
 We can use SVM algorithms in a variety of ways, but the most common is to classify documents into various categories in a variety of ways.
 
 For example, a news article can be of various types, but if you want to learn about the business journal, it will help you to classify the data set in order to provide you with better results.
 
-### 3. Decision tree    
+### 3. Decision tree
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-3.jpg" style="width:100%" class="img" alt="A diagram of decision tree illustrating a weather forecasting technique using outlook, humidity, and wind."/>
 
@@ -100,19 +117,19 @@ A <a href="https://blog.learnbay.co/decision-tree" target="_blank">decision tree
 
 - **Leaf node(Final output)**
 
--  **parent node/ child node**
+- **parent node/ child node**
 
--  **Splitting**
+- **Splitting**
 
--  **Pruning**
+- **Pruning**
 
--  **Sub tree**
+- **Sub tree**
 
 **Example:**
 
 If we want to buy any product online, we will get several suggestions on the online product based on previous purchases and searches.
 
-### 4. Logistic regression machine learning algorithm:-      
+### 4. Logistic regression machine learning algorithm:-
 
 Logistic regression machine learning is a method used to predict discrete values from a set of independent variables using binary values such as 0 and 1. A logistic regression algorithm can easily forecast and estimate the likelihood that an event will occur by fitting the data in the logit function. In each equation, we can easily derive the logistic regression. The following are some of the steps to obtaining logistic regression.
 
@@ -128,13 +145,13 @@ Logistic regression machine learning is a method used to predict discrete values
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-03.png" style="width:100%" class="img"/>
 
-**And the final equation of logistic regression is defined above.** 
+**And the final equation of logistic regression is defined above.**
 
 **Example:**
 
 Logistic regression can assist in sorting and classifying data. For example, if you receive a variety of emails, logistic regression can assist in classifying the emails and distinguishing which are spam and which are legitimate.
 
-### 5. KNN algorithm:-   
+### 5. KNN algorithm:-
 
 KNN stands for the K-Nearest Neighbors algorithm, a statistical method that examines how closely two objects can be placed next to one another. It is a sign that the data points in this algorithm have similarities if they are close to each other. This technique can be used to combine various data points. Below is the working of the K- NN algorithm:-
 
@@ -156,7 +173,7 @@ The working of K-NN is explained below and is relatively straightforward:-
 
 The KNN algorithm aids in the forecasting and prediction of data sets. The KNN algorithm can be used to forecast the weather or predict stock market prices etc.
 
-### 6. K-means   
+### 6. K-means
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-4.jpg" style="width:100%" class="img" alt="Two scattered plots represent the use of K-means algorithms. The first is labeled 'before K-means' and shows three sets of random data. The second plot labeled 'after K-means' represents automatically organized data after applying the K-means algorithm."/>
 
@@ -182,7 +199,7 @@ The K means algorithm is demonstrated below and operates in the following ways:
 
 If you listen to music of the same genre frequently, Spotify will recommend similar music based on a customer segmentation algorithm.
 
-### 7. Naive Bayes algorithm:-          
+### 7. Naive Bayes algorithm:-
 
 A simple machine learning tool called a Naive Bayes classifier makes predictions by assuming that each function must be independent of the others. And even if the features are related to a particular class, the statisticians will nevertheless consider them independently when calculating the likelihood of a result.
 
@@ -192,7 +209,7 @@ The Naive Bayesian model works on a simple formula, i.e.,
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-04.png" style="width:100%" class="img">
 
-**Where,** 
+**Where,**
 
 **P(A|B) quantifies the probability of hypothesis (A)on the observed event of B.**
 
@@ -206,7 +223,7 @@ The Naive Bayesian model works on a simple formula, i.e.,
 
 If you are on the field and playing football, but the weather is sunny, you can get a prediction to find out the possible outcome by having a probability that the players should play or not. It works in probabilistic order.
 
-### 8. Random forest algorithm   
+### 8. Random forest algorithm
 
 A group of decision trees is another name for a <a href="https://blog.learnbay.co/random-forest-model-rfm" target="_blank">random forest</a>. The categories and votes assigned to each tree in a random forest are unique to that tree. The Forest then selects the classification that received the most votes after reviewing all of the votes. Below is the working of the Random forest tree.
 
@@ -224,7 +241,7 @@ A group of decision trees is another name for a <a href="https://blog.learnbay.c
 
 If you are purchasing a stock, you can easily forecast whether the stock price will rise or fall, allowing us to approximate loss and profit margins.
 
-### 9. Dimensionality reduction algorithms  
+### 9. Dimensionality reduction algorithms
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/10m-5.jpg" style="width:100%" class="img" alt="An image displays three distinct structural elements in three graphs, each of which dimensions are reduced using dimensionality reduction algorithms."/>
 
@@ -238,7 +255,7 @@ Let's use an example to understand this better.
 
 If you had a data collection with 500 columns, the density reduction technique would reduce it to 50. However, you must first input a relevant research result or feature from the set of features.
 
-### 10. Gradient boosting algorithm and AdaBoosting algorithm  
+### 10. Gradient boosting algorithm and AdaBoosting algorithm
 
 When dealing with massive amounts of data, the gradient boosting algorithm and the AdaBoosting algorithm typically operate effectively and fluidly. It uses a single algorithmic framework to combine decision trees, random forests, Bayesian regression, and multilayer perceptrons.
 
@@ -246,7 +263,7 @@ When dealing with massive amounts of data, the gradient boosting algorithm and t
 
 If you want to know whether a customer is likely to leave or minimize a company service, you can use the AdaBoost algorithm to solve classification problems by combining R and Python.
 
-## Summing up:-  
+## Summing up:-
 
 So there you have it: the machine learning algorithms that every enthusiast in this field should be familiar with. In the <a href="https://blog.learnbay.co/top-50-interview-questions-of-machine-learning" target="_blank">machine learning interview</a> for entry-level positions, these 10 ML algorithms remain the focus. So you must hold a good grip on these algorithms. If you want to master these key skills you can opt for <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">advanced AI and ML Certification</a>.
 
