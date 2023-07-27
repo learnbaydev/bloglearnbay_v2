@@ -4,17 +4,42 @@ import Image from "next/image";
 import Link from "next/link";
 import { CiSearch } from "react-icons/ci";
 import dynamic from "next/dynamic";
+import { sortByDate } from "@/utils";
 const Button = dynamic(() => import("../../Button/Button"));
 
-function MainCategorySection({ categoryPosts, categoryPostTag }) {
+function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
   const [search, setSearch] = useState();
   const [selectedOption, setSelectedOption] = useState("");
   const [categoryBlog, setCategoryBlog] = useState(categoryPosts);
-  const [blogTag, setblogTag] = useState("");
+  const [blogTag, setblogTag] = useState("empty");
 
   function findSerach(value) {
     setSearch(value.target.value);
   }
+
+  useEffect(() => {
+    const fetchCertificateId = async () => {
+      const data = await fetch("/api/sendBlog", {
+        method: "GET",
+      });
+
+      if (data.status === 200) {
+        const { blogData } = await data.json();
+        const categoryPosts = blogData.filter(
+          (post) =>
+            post.parantcategory.toLowerCase().replace(/\s+/g, "-") === id
+        );
+        blogTag === "empty"
+          ? setCategoryBlog(categoryPosts.sort(sortByDate))
+          : setCategoryBlog(
+              categoryPosts
+                .filter((post) => post.category === blogTag)
+                .sort(sortByDate)
+            );
+      }
+    };
+    fetchCertificateId();
+  }, [blogTag]);
 
   useEffect(() => {
     //
@@ -26,10 +51,6 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
       }
     });
   });
-
-  // useEffect(() => {
-  //   setCategoryBlog(categoryPosts.filter((post) => post.category === blogTag));
-  // }, [blogTag]);
 
   const handleOptionChange = (e) => {
     setSelectedOption(e.target.value);
@@ -150,9 +171,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
               <p
                 onClick={() => {
                   setblogTag(data);
-    setCategoryBlog(categoryPosts.filter((post) => post.category === blogTag))
                 }}
-                
                 key={index}
               >
                 {data}

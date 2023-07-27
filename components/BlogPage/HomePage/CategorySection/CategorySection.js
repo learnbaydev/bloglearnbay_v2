@@ -41,67 +41,67 @@ export default function CategorySection({ categoryPostTag }) {
 
   return (
     <>
-                <div className={styles.upperDiv}>
-              <div className={styles.innerP}>
-                <Link href="#featured">
-                  <p
-                    className={active2 ? styles.active : styles.inactive}
-                    onClick={() => {
-                      setActive(false);
-                      setActive1(false);
-                      setActive2(true);
-                    }}
-                  >
-                    HOT TOPICS
-                  </p>
-                </Link>
-                <Link href="#Full Stack">
-                  <p
-                    className={active ? styles.active : styles.inactive}
-                    onClick={() => {
-                      setActive(true);
-                      setActive1(false);
-                      setActive2(false);
-                    }}
-                  >
-                    SOFTWARE DEVELOPMENT
-                  </p>
-                </Link>
-                <Link href="#Data Science">
-                  <p
-                    className={active1 ? styles.active : styles.inactive}
-                    onClick={() => {
-                      setActive1(true);
-                      setActive(false);
-                      setActive2(false);
-                    }}
-                  >
-                    DATA SCIENCE & BUSINESS ANALYTICS
-                  </p>
-                </Link>
-              </div>
-              <div className="col-lg-4">
-                <div className={styles.formControl}>
-                  <CiSearch />
-                  <input
-                    id="myInput"
-                    onChange={findSerach}
-                    type="text"
-                    placeholder="Search"
-                    aria-label="Search"
-                    aria-describedby="button-search"
-                  />
+      <div className={styles.upperDiv}>
+        <div className={styles.innerP}>
+          <Link href="#featured">
+            <p
+              className={active2 ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(false);
+                setActive1(false);
+                setActive2(true);
+              }}
+            >
+              HOT TOPICS
+            </p>
+          </Link>
+          <Link href="#Full Stack">
+            <p
+              className={active ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(true);
+                setActive1(false);
+                setActive2(false);
+              }}
+            >
+              SOFTWARE DEVELOPMENT
+            </p>
+          </Link>
+          <Link href="#Data Science">
+            <p
+              className={active1 ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive1(true);
+                setActive(false);
+                setActive2(false);
+              }}
+            >
+              DATA SCIENCE & BUSINESS ANALYTICS
+            </p>
+          </Link>
+        </div>
+        <div className="col-lg-4">
+          <div className={styles.formControl}>
+            <CiSearch />
+            <input
+              id="myInput"
+              onChange={findSerach}
+              type="text"
+              placeholder="Search"
+              aria-label="Search"
+              aria-describedby="button-search"
+            />
 
-                  <Link
-                    href={{
-                      pathname: "/Search",
-                      query: { q: search?.toLowerCase() },
-                    }}
-                    id="myBtn"
-                  ></Link>
-                </div>
-              </div>
-            </div>
+            <Link
+              href={{
+                pathname: "/Search",
+                query: { q: search?.toLowerCase() },
+              }}
+              id="myBtn"
+            ></Link>
+          </div>
+        </div>
+      </div>
       {[...categoryPostTag].map((post, i) => {
         let tag = post;
 
@@ -115,119 +115,107 @@ export default function CategorySection({ categoryPostTag }) {
 
         const firstBlogPosts = categoryPosts.slice(0, 6);
 
-        console.log("post", post);
-
         return (
-            <section className={styles.categoryPosts} key={i}>
-              <div className={styles.viewMoreSection} id={post}>
-                <div className={styles.viewMoreSection1}>
-                  <h2>
-                    {post} ({categoryPosts.length})
-                  </h2>
-                  <Link href={url} passHref>
-                    <p>View All</p>
-                  </Link>
-                </div>
-
-                <div></div>
+          <section className={styles.categoryPosts} key={i}>
+            <div className={styles.viewMoreSection} id={post}>
+              <div className={styles.viewMoreSection1}>
+                <h2>
+                  {post} ({categoryPosts.length})
+                </h2>
+                <Link href={url} passHref>
+                  <p>View All</p>
+                </Link>
               </div>
 
-              <div className={styles.categoryWrapper}>
-                <div className={styles.blogWrap}>
-                  {firstBlogPosts.map(
-                    ({ id, date, title, author, headerImg, desc }) => {
-                      let url = `/${id}`;
-                      let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
-                      let aurl = `/author/${amakeUrl}`;
-                      return (
-                        <div key={id}>
-                          <div className={styles.blog}>
-                            <div className="bgWrap">
-                              <Image
-                                src={headerImg}
-                                width="300"
-                                height="180"
-                                alt={title}
-                                className={styles.categoryPostImg}
-                                style={{ objectFit: "cover" }}
-                              />
-                            </div>
-                          </div>
-                          <div className={styles.profileWrap}>
-                            <Link href={url} passHref>
-                              <h4>{title}...</h4>
-                            </Link>
-                            <p>{desc.substring(0, 60)}...</p>
-                            <Link href={url} passHref>
-                              <span>Read More</span>
-                            </Link>
-                            <div className={styles.authordiv}>
-                              <hr className={styles.hrline} />
-                              <Link href={aurl}>
-                                <p>
-                                  {date}
-                                  <span>
-                                    <b>By</b>
-                                    {author}
-                                  </span>
-                                </p>
-                              </Link>
-                            </div>
+              <div></div>
+            </div>
+
+            <div className={styles.categoryWrapper}>
+              <div className={styles.blogWrap}>
+                {firstBlogPosts.map(
+                  ({ id, date, title, author, headerImg, desc }) => {
+                    let url = `/${id}`;
+                    let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
+                    let aurl = `/author/${amakeUrl}`;
+                    return (
+                      <div key={id}>
+                        <div className={styles.blog}>
+                          <div className="bgWrap">
+                            <Image
+                              src={headerImg}
+                              width="300"
+                              height="180"
+                              alt={title}
+                              className={styles.categoryPostImg}
+                              style={{ objectFit: "cover" }}
+                            />
                           </div>
                         </div>
-                      );
-                    }
-                  )}
-                </div>
-                {/*side bar map function ------start------*/}
-                {i === 0 && (
-                  <div className={styles.categoryPostRightSide}>
-                    <div className={styles.categoryPost}>
-                      <div className={styles.rightCategoryPostFirst}>
-                        {allPostsData
-                          .slice(10, 20)
-                          .map(
-                            ({ id, date, title, author, category, desc }) => {
-                              let url = `/${id}`;
-                              let tUrl = `/category/${category
-                                .toLowerCase()
-                                .replace(/\s+/g, "-")}`;
-
-                              return (
-                                <div key={id}>
-                                  <a
-                                    href={url}
-                                    target="_blank"
-                                    rel="noreferrer"
-                                  >
-                                    <p>{title}</p>
-                                  </a>
-                                  <div
-                                    className={styles.rightCategoryPostSecond}
-                                  >
-                                    <p>{date}</p>
-                                    <Link
-                                      href={tUrl}
-                                      target="_blank"
-                                      rel="noreferrer"
-                                      className={styles.link}
-                                    >
-                                      <p className={styles.tagSpan}>
-                                        {category}
-                                      </p>
-                                    </Link>
-                                  </div>
-                                  <hr className={styles.hrline} />
-                                </div>
-                              );
-                            }
-                          )}
+                        <div className={styles.profileWrap}>
+                          <Link href={url} passHref>
+                            <h4>{title}...</h4>
+                          </Link>
+                          <p>{desc.substring(0, 60)}...</p>
+                          <Link href={url} passHref>
+                            <span>Read More</span>
+                          </Link>
+                          <div className={styles.authordiv}>
+                            <hr className={styles.hrline} />
+                            <Link href={aurl}>
+                              <p>
+                                {date}
+                                <span>
+                                  <b>By</b>
+                                  {author}
+                                </span>
+                              </p>
+                            </Link>
+                          </div>
+                        </div>
                       </div>
-                    </div>
-                  </div>
+                    );
+                  }
                 )}
               </div>
-            </section>
+              {/*side bar map function ------start------*/}
+              {i === 0 && (
+                <div className={styles.categoryPostRightSide}>
+                  <div className={styles.categoryPost}>
+                    <div className={styles.rightCategoryPostFirst}>
+                      {allPostsData
+                        .slice(10, 20)
+                        .map(({ id, date, title, author, category, desc }) => {
+                          let url = `/${id}`;
+                          let tUrl = `/category/${category
+                            .toLowerCase()
+                            .replace(/\s+/g, "-")}`;
+
+                          return (
+                            <div key={id}>
+                              <a href={url} target="_blank" rel="noreferrer">
+                                <p>{title}</p>
+                              </a>
+                              <div className={styles.rightCategoryPostSecond}>
+                                <p>{date}</p>
+                                <Link
+                                  href={tUrl}
+                                  target="_blank"
+                                  rel="noreferrer"
+                                  className={styles.link}
+                                >
+                                  <p className={styles.tagSpan}>{category}</p>
+                                </Link>
+                              </div>
+                              <hr className={styles.hrline} />
+                            </div>
+                          );
+                        })}
+                    </div>
+                  </div>
+                </div>
+              )}
+            </div>
+          </section>
         );
       })}
     </>

@@ -6,18 +6,13 @@ import matter from "gray-matter";
 import { getSortedPostsData } from "../../../lib/posts";
 import Head from "next/head";
 import { sortByDate } from "../../utils";
-import { useState } from "react";
 import Navbar from "../../../components/Navbar/Navbar";
 import Footer from "../../../components/Footer/Footer";
 import CategorySection from "../../../components/BlogPage/MainCategoryPage/MainCategorySection";
 import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
 import BottomBar from "../../../components/BottomBar/BottomBar";
-import Button from "../../../components/Button/Button";
-import Link from "next/link";
 
-export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
-  const [visible, setVisible] = useState(9);
-
+export default function CategoryBlog({ categoryPosts, categoryPostTag, id }) {
   const cattitle = categoryPosts[0]?.cattitle || "";
   const catdesc = categoryPosts[0]?.catdesc || "";
 
@@ -46,6 +41,7 @@ export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
       <Navbar />
       <CategorySection
         categoryPosts={categoryPosts}
+        id={id}
         categoryPostTag={categoryPostTag}
       />
       <CourseSection />
@@ -92,7 +88,7 @@ export async function getStaticProps({ params: { id } }) {
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
   return {
     props: {
-      categoryPosts: categoryPosts.sort(sortByDate),
+      categoryPosts: categoryPosts.sort(sortByDate).slice(0, 5),
       categoryPostTag,
       id,
     },

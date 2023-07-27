@@ -18,16 +18,12 @@ const FirstSection = dynamic(() =>
   import("../../components/BlogPage/FirstSection/FirstSection")
 );
 const BottomBar = dynamic(() => import("../../components/BottomBar/BottomBar"));
-const RelatedPost = dynamic(() =>
-  import("../../components/BlogPage/Blog/RelatedPost")
-);
+
 const RightSideData = dynamic(() =>
   import("../../components/BlogPage/Blog/RightSideData")
 );
 
-export default function Post({ postData, posts }) {
-  let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
-
+export default function Post({ postData }) {
   return (
     <>
       <section className={styles.MainS}>
@@ -126,7 +122,6 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       postData,
-      posts: posts.sort(sortByDate).slice(1, 6),
     },
   };
 }
