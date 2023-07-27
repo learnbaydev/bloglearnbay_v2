@@ -111,7 +111,7 @@ export default function CategorySection({ categoryPostTag }) {
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
 
-        console.log("@@@@", categoryPostTag);
+        // console.log("@@@@", categoryPostTag);
 
         const firstBlogPosts = categoryPosts.slice(0, 6);
 

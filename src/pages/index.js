@@ -58,7 +58,7 @@ export default function blog({ allPostsData, categoryPostTag }) {
       </main>
     </div>
   );
-}
+} 
 
 export async function getStaticProps(_context) {
   await generateRssFeed();

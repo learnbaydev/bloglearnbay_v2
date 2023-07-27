@@ -64,9 +64,8 @@ export async function getStaticPaths() {
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
-    const categoryLower = frontMatter.category.toLowerCase();
+    const categoryLower = frontMatter.parantcategory.toLowerCase();
     let categoryUrl = categoryLower.replace(/\s+/g, "-");
-
     return categoryUrl;
   });
 
@@ -85,9 +84,9 @@ export async function getStaticProps({ params: { id } }) {
 
   //Filter post by categories
   const categoryPosts = allPostsData.filter(
-    (post) => post.category.toLowerCase().replace(/\s+/g, "-") === id
+    (post) => post.parantcategory.toLowerCase().replace(/\s+/g, "-") === id
   );
-  let singleCategoryPost = allPostsData.map((post) => {
+  let singleCategoryPost = categoryPosts.map((post) => {
     return post.category;
   });
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
@@ -95,6 +94,7 @@ export async function getStaticProps({ params: { id } }) {
     props: {
       categoryPosts: categoryPosts.sort(sortByDate),
       categoryPostTag,
+      id,
     },
   };
 }
