@@ -8,6 +8,10 @@ const Button = dynamic(() => import("../../Button/Button"));
 
 function MainCategorySection({ categoryPosts, categoryPostTag }) {
   const [search, setSearch] = useState();
+  const [selectedOption, setSelectedOption] = useState("");
+  const [categoryBlog, setCategoryBlog] = useState(categoryPosts);
+  const [blogTag, setblogTag] = useState("");
+
   function findSerach(value) {
     setSearch(value.target.value);
   }
@@ -22,7 +26,10 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
       }
     });
   });
-  const [selectedOption, setSelectedOption] = useState("");
+
+  // useEffect(() => {
+  //   setCategoryBlog(categoryPosts.filter((post) => post.category === blogTag));
+  // }, [blogTag]);
 
   const handleOptionChange = (e) => {
     setSelectedOption(e.target.value);
@@ -44,7 +51,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
             <p>&nbsp;&nbsp;Blog&nbsp; {">"}</p>
           </Link>
           <Link href="#">
-            <p>&nbsp;&nbsp;{categoryPosts[0].category}</p>
+            <p>&nbsp;&nbsp;{categoryPosts[0].parantcategory}</p>
           </Link>
         </div>
         <div className={styles.btnsFlex}>
@@ -83,7 +90,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
       </div>
       <section className={styles.categoryWrapper}>
         <div className={styles.blogWrap}>
-          {categoryPosts
+          {categoryBlog
             .slice(0, visible)
             .map(
               (
@@ -103,10 +110,10 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
 
                         <div className={styles.authordiv}>
                           <div className={styles.botCont}>
-                            <p>26/05/2023</p>{" "}
+                            <p>{date}</p>{" "}
                             <p>
                               <b>By</b>
-                              <span>Manas Khochar</span>
+                              <span>{author}</span>
                             </p>
                           </div>
                         </div>
@@ -135,12 +142,22 @@ function MainCategorySection({ categoryPosts, categoryPostTag }) {
         </div>
         <div className={styles.rightSide}>
           {categoryPostTag.map((data, index) => {
-            let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
-            let url = `/category/${makeUrl}`;
+            // console.log(categoryPostTag);
+            // let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
+            // let url = `/category/${makeUrl}`;
             return (
-              <Link href={url} key={index}>
-                <p key={index}>{data}</p>
-              </Link>
+              // <Link href={url} key={index}>
+              <p
+                onClick={() => {
+                  setblogTag(data);
+    setCategoryBlog(categoryPosts.filter((post) => post.category === blogTag))
+                }}
+                
+                key={index}
+              >
+                {data}
+              </p>
+              // </Link>
             );
           })}
         </div>
