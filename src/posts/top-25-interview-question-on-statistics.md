@@ -1,24 +1,25 @@
 ---
-title:  Top 25 interview question on Statistics
+title: Top 25 interview question on Statistics
 stitle: "Top 25 interview question on Statistics - Learnbay Blog"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2022-01-24T13:25:31+05:30"
-modified_time:   "2022-01-24T13:25:31+05:30"
+modified_time: "2022-01-24T13:25:31+05:30"
 desc: "Are you preparing for a statistics interview? Stay ahead of the competition with this comprehensive guide to the 25 most important interview question on Statistics."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-1.jpg"
 headerAlt: ""
 date: "Jan 24, 2022"
-tag: [ Hot Topics ]
-category: "Hot Topics"
+tag: [Hot Topics]
+parantcategory: "Hot Topics"
+category: "Trending"
 
 cattitle: "Stay Updated with Hot Tech Trends and Topics - LearnBay Blog"
 catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technology, Data Science, Programmings, and more."
 authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
-author: "Milan Jain" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
+author: "Milan Jain"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
@@ -27,14 +28,38 @@ h1: "Top 25 interview question on Statistics"
 id: "top-25-interview-question-on-statistics"
 tableData:
   [
-    Interview question on Statistics, 1. What are the different types of Sampling?, 2. What is the confidence interval? What is its significance?, 3. What are the effects of the width of the confidence interval?, 4. What is the level of significance (Alpha)?, 5. What are Skewness and Kurtosis? What does it signify?, 6. What are Range and IQR? What does it signify?, 7. What is the difference between Variance and Standard Deviation?, 8. What is selection Bias? Types of Selection Bias?, 9. What are the ways of handling missing Data?, 10. What are the different types of the probability distribution? Explain with example?, 11. What are the statistical Tests? List Them., 12. How do you calculate the sample size required?, 13. What are the different Biases associated when we sample?, 14. How to convert normal distribution to standard normal distribution?, 15. How to find the mean length of all fishes in a river?, 16. What do you mean by the degree of freedom?, 17. What do you think if DF is more than 30?, 18. When to use t distribution and when to use z distribution?,  19. What are H0 and H1? What is H0 and H1 for the two-tail test?, 20. What is the Degree of Freedom?, 21. How to calculate p-Value?, 22. What is ANOVA?, 23. What is ANCOVA?, 24. What is the difference between ANOVA and ANCOVA?, 25. What are t and z scores? Give Details.
-  
-   ]
+    Interview question on Statistics,
+    1. What are the different types of Sampling?,
+    2. What is the confidence interval? What is its significance?,
+    3. What are the effects of the width of the confidence interval?,
+    4. What is the level of significance (Alpha)?,
+    5. What are Skewness and Kurtosis? What does it signify?,
+    6. What are Range and IQR? What does it signify?,
+    7. What is the difference between Variance and Standard Deviation?,
+    8. What is selection Bias? Types of Selection Bias?,
+    9. What are the ways of handling missing Data?,
+    10. What are the different types of the probability distribution? Explain with example?,
+    11. What are the statistical Tests? List Them.,
+    12. How do you calculate the sample size required?,
+    13. What are the different Biases associated when we sample?,
+    14. How to convert normal distribution to standard normal distribution?,
+    15. How to find the mean length of all fishes in a river?,
+    16. What do you mean by the degree of freedom?,
+    17. What do you think if DF is more than 30?,
+    18. When to use t distribution and when to use z distribution?,
+    19. What are H0 and H1? What is H0 and H1 for the two-tail test?,
+    20. What is the Degree of Freedom?,
+    21. How to calculate p-Value?,
+    22. What is ANOVA?,
+    23. What is ANCOVA?,
+    24. What is the difference between ANOVA and ANCOVA?,
+    25. What are t and z scores? Give Details.,
+  ]
 ---
 
-## Interview question on Statistics  
+## Interview question on Statistics
 
-### 1. What are the different types of Sampling?  
+### 1. What are the different types of Sampling?
 
 Ans: Some of the Common sampling ways are as follows:
 
@@ -60,11 +85,11 @@ Ans: Some of the Common sampling ways are as follows:
 
 **Example** A principal takes an alphabetized <a href="https://web.archive.org/web/20220124040955/https://www.theidioms.com/list/" target="_blank" rel="nofollow">list</a> of student names and picks a random starting point. Every 20th student is selected to take a survey.
 
-### 2. What is the confidence interval? What is its significance?  
+### 2. What is the confidence interval? What is its significance?
+
 Ans: A confidence interval, in statistics, refers to the probability that a population parameter will fall between two set values for a certain proportion of times. Confidence intervals measure the degree of uncertainty or certainty in a sampling method. A confidence interval can take any number of probabilities, with the most common being a 95% or 99% confidence level.
 
-### 3. What are the effects of the width of the confidence interval?   
-
+### 3. What are the effects of the width of the confidence interval?
 
 - The confidence interval is used for decision making
 - The confidence level increases the width of
@@ -73,7 +98,7 @@ Ans: A confidence interval, in statistics, refers to the probability that a popu
 - Useless information – wide CI
 - High risk – narrow CI
 
-### 4. What is the level of significance (Alpha)?  
+### 4. What is the level of significance (Alpha)?
 
 Ans: The significance level also denoted as alpha or α, is a measure of the strength of the evidence that must be present in your sample before you will reject the null hypothesis and conclude that the effect is statistically significant. The researcher determines the significance level before conducting the experiment.
 
@@ -81,7 +106,7 @@ The significance level is the probability of rejecting the null hypothesis when 
 
 Use significance levels during hypothesis testing to help you determine which hypothesis the data support. Compare your p-value to your significance level. If the p-value is less than your significance level, you can reject the null hypothesis and conclude that the effect is statistically significant. In other words, the evidence in your sample is strong enough to be able to reject the null hypothesis at the population level.
 
-### 5. What are Skewness and Kurtosis? What does it signify?  
+### 5. What are Skewness and Kurtosis? What does it signify?
 
 Ans: **Skewness** : It is the degree of distortion from the symmetrical bell curve or the normal distribution. It measures the lack of symmetry in the data distribution. It differentiates extreme values in one versus the other tail. The asymmetrical distribution will have a skewness of 0.
 
@@ -97,9 +122,9 @@ So, when is the skewness too much?
 
 The rule of thumb seems to be:
 
-  - If the skewness is between -0.5 and 0.5, the data are fairly symmetrical.
-  - If the skewness is between -1 and -0.5(negatively skewed) or between 0.5 and 1(positively skewed), the data are moderately skewed.
-  - If the skewness is less than -1(negatively skewed) or greater than 1(positively skewed), the data are highly skewed.
+- If the skewness is between -0.5 and 0.5, the data are fairly symmetrical.
+- If the skewness is between -1 and -0.5(negatively skewed) or between 0.5 and 1(positively skewed), the data are moderately skewed.
+- If the skewness is less than -1(negatively skewed) or greater than 1(positively skewed), the data are highly skewed.
 
 Example
 
@@ -117,13 +142,13 @@ If the peak of the distributed data was right of the average value, that would m
 
 **Mesokurtic** : This distribution has kurtosis statistics similar to that of the normal distribution. It means that the extreme values of the distribution are similar to that of a normal distribution characteristic. This definition is used so that the standard normal distribution has a kurtosis of three.
 
-**Leptokurtic**** (Kurtosis \> 3):** Distribution is longer, tails are fatter. The peak is higher and sharper than Mesokurtic, which means that data are heavy-tailed or profusion of outliers.
+**Leptokurtic\*\*** (Kurtosis \> 3):\*\* Distribution is longer, tails are fatter. The peak is higher and sharper than Mesokurtic, which means that data are heavy-tailed or profusion of outliers.
 
 Outliers stretch the horizontal axis of the histogram graph, which makes the bulk of the data appear in a narrow ("skinny") vertical range, thereby giving the "skinniness" of a leptokurtic distribution.
 
 **Platykurtic** : **(Kurtosis \< 3):** Distribution is shorter; tails are thinner than the normal distribution. The peak is lower and broader than Mesokurtic, which means that data are light-tailed or lack of outliers. The reason for this is because the extreme values are less than that of the normal distribution.
 
-### 6. What are Range and IQR? What does it signify?  
+### 6. What are Range and IQR? What does it signify?
 
 Ans: **Range:** The range of a set of data is the difference between the highest and lowest values in the set.
 
@@ -133,8 +158,7 @@ IQR = Q3 – Q1
 
 The range gives us a measurement of how spread out the entirety of our data set is. The interquartile range, which tells us how far apart the first and third quartile is, indicates how to spread out the middle 50% of our set of data is.
 
-### 7. What is the difference between Variance and Standard Deviation?    
-
+### 7. What is the difference between Variance and Standard Deviation?
 
 Ans: The central tendency mean gives you the idea of an average of the data points( i.e center location of the distribution) And now you want to know how far are your data points from mean So, [here](https://web.archive.org/web/20220124040955/https://www.theidioms.com/) comes the concept of variance to calculate how far are your data points from mean (in simple terms, it is to calculate the variation of your data points from mean)
 
@@ -144,7 +168,7 @@ Standard deviation is simply the square root of variance. And the standard devia
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-3.gif" alt="A smartphone surrounded by books indicates the concept of ebooks. The text reads, 'Best AI ebooks for You to Explore and Refine domain knowledge.'" style="width:100%" class="img"/>
 
-### 8. What is selection Bias? Types of Selection Bias?  
+### 8. What is selection Bias? Types of Selection Bias?
 
 Ans: Selection bias is the phenomenon of selecting individuals, groups, or data for analysis in such a way that proper randomization is not achieved, ultimately resulting in a sample that is not representative of the population.
 
@@ -161,7 +185,7 @@ Understanding and identifying selection bias is important because it can signifi
 
 Handling missing data can make selection bias worse because different methods impact the data in different ways. For example, if you replace null values with the mean of the data, you adding bias in the sense that you're assuming that the data is not as spread out as it might actually be.
 
-### 9. What are the ways of handling missing Data? 
+### 9. What are the ways of handling missing Data?
 
 - Delete rows with missing data
 - Mean/Median/Mode imputation
@@ -169,7 +193,7 @@ Handling missing data can make selection bias worse because different methods im
 - Predicting the missing values using Machine Learning Models
 - Using an algorithm that supports missing values, like random forests.
 
-### 10. What are the different types of the probability distribution? 
+### 10. What are the different types of the probability distribution?
 
 Ans: The common Probability Distribution is as follows:
 
@@ -179,7 +203,7 @@ Ans: The common Probability Distribution is as follows:
 4. Normal Distribution
 5. Poisson Distribution
 
-1. Bernoulli Distribution: A Bernoulli distribution has only two possible outcomes, namely 1 (success) and 0 (failure), and a single trial. So the random variable X which has a Bernoulli distribution can take value 1 with the probability of success, say p, and the value 0 with the probability of failure, say q or 1-p.
+6. Bernoulli Distribution: A Bernoulli distribution has only two possible outcomes, namely 1 (success) and 0 (failure), and a single trial. So the random variable X which has a Bernoulli distribution can take value 1 with the probability of success, say p, and the value 0 with the probability of failure, say q or 1-p.
 
 Example: whether it's going to rain tomorrow or not where rain denotes success and no rain denotes failure and Winning (success) or losing (failure) the game.
 
@@ -229,7 +253,7 @@ Common Tests in Statistics:
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/iqs-4.jpg" alt="" style="width:100%" class="img"/>
 
-### 12. How do you calculate the sample size required?  
+### 12. How do you calculate the sample size required?
 
 Ans: You can use the margin of error (ME) formula to determine the desired sample size.
 
@@ -239,7 +263,7 @@ Ans: You can use the margin of error (ME) formula to determine the desired sampl
 - ME = the desired margin of error
 - S = sample standard deviation
 
-### 13. What are the different Biases associated when we sample?  
+### 13. What are the different Biases associated when we sample?
 
 Ans: Potential biases include the following:
 
@@ -247,7 +271,7 @@ Ans: Potential biases include the following:
 - Under coverage bias: sampling too few observations
 - Survivorship bias: error of overlooking observations that did not make it past a form of the selection process.
 
-### 14. How to convert normal distribution to standard normal distribution?  
+### 14. How to convert normal distribution to standard normal distribution?
 
 Standardized normal distribution has mean = 0 and standard deviation = 1
 
@@ -275,7 +299,8 @@ formula: X (standardized) = (x-µ) / σ
 - At low DF, we have fat tails
 - If DF \> 30, then t-distribution is as good as the normal distribution.
 
-### 18. When to use t distribution and when to use z distribution?    
+### 18. When to use t distribution and when to use z distribution?
+
 - The following conditions must be satisfied to use Z-distribution
 - Do we know the population standard deviation?
 - Is the sample size \> 30?
@@ -285,7 +310,6 @@ formula: X (standardized) = (x-µ) / σ
 
 ### 19. What are H0 and H1? What is H0 and H1 for the two-tail test?
 
-   
 - H0 is known as the null hypothesis. It is the normal case/default case.
 
 For one tail test x \<= µ
@@ -352,7 +376,6 @@ This technique is appropriate when the metric independent variable is linearly a
 
 ### 24. What is the difference between ANOVA and ANCOVA?
 
-
 Ans: The points given below are substantial so far as the difference between ANOVA and ANCOVA is concerned:
 
 - The technique of identifying the variance among the means of multiple groups for homogeneity is known as Analysis of Variance or ANOVA. A statistical process which is used to take off the impact of one or more metric-scaled undesirable variable from the dependent variable before undertaking research is known as ANCOVA.
@@ -402,9 +425,9 @@ Where:
 
 If you have a larger sample (over 30), the t-distribution and z-distribution look pretty much the same.
 
- **To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** visit **our** website <a href="https://www.learnbay.co/" target="_blank" >Learnbay</a>
+**To know more about Data Science, Artificial Intelligence, Machine Learning, and Deep Learning programs** visit **our** website <a href="https://www.learnbay.co/" target="_blank" >Learnbay</a>
 
-**Follow us on:** 
+**Follow us on:**
 
 <a href="https://web.archive.org/web/20220124040955/https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a>
 
@@ -412,11 +435,11 @@ If you have a larger sample (over 30), the t-distribution and z-distribution loo
 
 <a href="https://web.archive.org/web/20220124040955/https://twitter.com/Learnbay1" target="_blank">Twitter</a>
 
- **Watch our Live Session Recordings to precisely understand statistics, probability, calculus, linear algebra, and other math concepts used in data science.** 
+**Watch our Live Session Recordings to precisely understand statistics, probability, calculus, linear algebra, and other math concepts used in data science.**
 
 <a href="https://web.archive.org/web/20220124040955/https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA?view_as=subscriber" target="_blank" rel="nofollow">Youtube</a>
 
-**To get updates on Data Science and AI Seminars/Webinars – Follow our** <a href="https://web.archive.org/web/20220124040955/https://www.meetup.com/Bangalore-Data-Science-Meetup-Learnbay/" target="_blank" rel="nofollow">Meetup</a> **group.** 
+**To get updates on Data Science and AI Seminars/Webinars – Follow our** <a href="https://web.archive.org/web/20220124040955/https://www.meetup.com/Bangalore-Data-Science-Meetup-Learnbay/" target="_blank" rel="nofollow">Meetup</a> **group.**
 
 <a href="https://web.archive.org/web/20220124040955/https://www.learnbay.co/data-science-course/" target="_blank" rel="nofollow">Learnbay</a> provides industry accredited <a href="https://web.archive.org/web/20220124040955/https://www.learnbay.co/data-science-course/" target="_blank" rel="nofollow">data science courses</a> in Bangalore. We understand the conjugation of technology in the field of Data science hence we offer significant courses like Machine learning, Tensor Flow, IBM Watson, Google Cloud platform, Tableau, Hadoop, time series, R, and Python. With authentic real-time industry projects. Students will be efficient by being certified by IBM. Around hundreds of students are placed in promising companies for data science roles. Choosing Learnbay you will reach the most aspiring job of the present and future.
 

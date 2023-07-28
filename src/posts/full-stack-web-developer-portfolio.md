@@ -10,6 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-1
 headerAlt: ""
 date: "May 29, 2023"
 tag: []
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -117,7 +118,6 @@ This is the section that will be of most interest to recruiters. So remember to 
 
 You may mention individual projects, college-level projects, open-source freelance work, and project samples from your past employers. Ensure you adequately describe the problems tackled in the project, the measures you took to solve these problems, and the tools or programming languages you used in the development process.</br></br>
 
-
 ## What are the main points that must be highlighted in a CV?
 
 - Highlight some of the most relevant projects you worked on. Make sure you update the projects relevant to your employers. You should also mention the projects completed for prominent employers that attract companies' interest.
@@ -137,6 +137,7 @@ To create a portfolio that stands apart from others, use the following tips:
 Also, mention what type of projects you are interested in working on in the future, as recruiters will get more information about the candidate you are for their business.</br></br>
 
 ## Best Examples of Web Developer Portfolios
+
  <br/>
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-2.png" alt="" style="width:100%" class="img"/> <br/><br/>

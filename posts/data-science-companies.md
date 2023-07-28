@@ -10,6 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/25dsc
 headerAlt: ""
 date: "Jun 12, 2023"
 tag: []
+parantcategory: "Data Science & BA"
 category: "Data Science"
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
 catdesc: "Check out the latest updates and career related trends of data science and business analytics here inside the Learnbay's data science blogs."
@@ -23,10 +24,7 @@ position: "Editor"
 readTime: "10.5 mins"
 h1: "Top 25 Data Science Companies To Work"
 id: "data-science-companies"
-tableData:
-  [
-   Top 25 data science companies in India, Summing Up!!
-  ]
+tableData: [Top 25 data science companies in India, Summing Up!!]
 ---
 
 Today's corporate world sees data science as a force for uplifting business growth with data solutions. An analytical report presented by the Times of India has predicted that by 2026 there will be approx 11 million job openings spread across several data science companies in India.
@@ -45,9 +43,9 @@ Here are the 25 companies that you must consider in India for a data scientist j
 
 ### 1. Amazon
 
-In the tech-driven world, Amazon hires the most skilled data scientists that align technology with business operations. Data scientists here work in handling measures like ML, deep learning, Artificial intelligence, Python, and MATLAB. Amazon is popular for its customer-centric yet innovative approaches in the industry. Through data science, it is taking charge of rebuilding the e-commerce industry and related operations. 
+In the tech-driven world, Amazon hires the most skilled data scientists that align technology with business operations. Data scientists here work in handling measures like ML, deep learning, Artificial intelligence, Python, and MATLAB. Amazon is popular for its customer-centric yet innovative approaches in the industry. Through data science, it is taking charge of rebuilding the e-commerce industry and related operations.
 
-**Salary:** 9 LPA – 50 LPA (based on years of experience and skill set)   </br></br>
+**Salary:** 9 LPA – 50 LPA (based on years of experience and skill set) </br></br>
 
 ### 2. Accenture
 
@@ -61,7 +59,7 @@ A renowned e-commerce company, Flipkart concentrates on managing unstructured da
 
 **Salary:** 14.7 LPA – 42.5 LPA (based on areas of expertise and experience)
 
-[**Note:** **<a href="https://www.learnbay.co/" target="_blank">Online IT certification courses</a>** in Data science help you learn DS & AI tools with practical projects.]  </br></br>
+[**Note:** **<a href="https://www.learnbay.co/" target="_blank">Online IT certification courses</a>** in Data science help you learn DS & AI tools with practical projects.] </br></br>
 
 ### 4. LinkedIn
 
@@ -79,7 +77,7 @@ IBM is a global technology company that deals with a vast global client base, se
 
 HCL provides IT consulting services to its business clients across the globe. HCL's tech department consists of data scientists in research and development. Customer service enhancement is the aim of the data scientists at HCL. Data science solutions by HCL help clients get innovative resolutions to their industrial affairs. An attentive research activity helps the experts get facts about the current situation, leading to informed decisions.
 
-**Salary:** 8 LPA – 28 LPA (based on skills and experience as a data scientist)  </br></br>
+**Salary:** 8 LPA – 28 LPA (based on skills and experience as a data scientist) </br></br>
 
 ### 7. MuSigma
 
@@ -107,7 +105,7 @@ In the era of AI technology, Splunk designs software products that help users ha
 
 ### 11. Cloudera
 
-A software development company, Cloudera supports AI evolution across the globe, enriching the lives of the global client base. It works on an open-source technology that helps data scientists in the extraction of insights from unstructured datasets. The data scientists at Cloudera have the scope to manage their analytics platform to schedule and monitor their tasks.
+A Software Development company, Cloudera supports AI evolution across the globe, enriching the lives of the global client base. It works on an open-source technology that helps data scientists in the extraction of insights from unstructured datasets. The data scientists at Cloudera have the scope to manage their analytics platform to schedule and monitor their tasks.
 
 **Salary:** 4.5 LPA – 52 LPA (differs with the level of expertise and experience of data scientists) </br></br>
 
@@ -121,7 +119,7 @@ An AI consulting services company, Tiger Analytics helps businesses to have bett
 
 ### 13. Fractal Analytics
 
-In the list of trending AI & data science companies, Fractal brings creative solutions. An intent of controlling human decisions powered by AI technology, Fractal helps business managers and leaders make strategic decisions. Fractal's belief in AI transformations brings out simplified decisions for businesses. AI supports business growth where the experts work to reshape operations and derive better values. Fractal enables its clients to face challenges and stay ahead of the latest updates in the industry. 
+In the list of trending AI & data science companies, Fractal brings creative solutions. An intent of controlling human decisions powered by AI technology, Fractal helps business managers and leaders make strategic decisions. Fractal's belief in AI transformations brings out simplified decisions for businesses. AI supports business growth where the experts work to reshape operations and derive better values. Fractal enables its clients to face challenges and stay ahead of the latest updates in the industry.
 
 **Salary:** 9 LPA – 23.4 LPA (based on job role and expertise in AI and data science tools)
 
@@ -201,6 +199,6 @@ The Latent View is a leading data science and analytics company. Digital solutio
 
 **Salary:** 8 LPA – 35 LPA (based on designation and years of experience) </br></br>
 
-## Summing Up!!  
+## Summing Up!!
 
 You can make a career in any of the given data science companies if you own the right skills. An industry-paced _Data Science and AI Master Program_ supports your career growth journey with attentive learning of skills. Plus, a certificate from IBM and Microsoft can be an additive advantage.

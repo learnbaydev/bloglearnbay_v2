@@ -1,15 +1,16 @@
 ---
-title:  What is ML Fairness Indicator?- All You Need to Know
+title: What is ML Fairness Indicator?- All You Need to Know
 stitle: "What is ML Fairness Indicator?- All You Need to Know"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2022-11-02T13:25:31+05:30"
-modified_time:  "2022-11-02T13:25:31+05:30"
+modified_time: "2022-11-02T13:25:31+05:30"
 desc: "Google's new ML fairness indicator is designed to help developers assess the fairness of their machine learning models. In this article, we'll explain what the ML fairness indicator is and how it works."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-11.jpg"
 headerAlt: "An banner image titled, 'ML Fairness Indicator'."
 date: "Nov 2, 2022"
-tag: [ Google, Machine Learning, ML fairness indicator, Fairness  ]
+tag: [Google, Machine Learning, ML fairness indicator, Fairness]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +19,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,11 +28,16 @@ h1: "What is ML Fairness Indicator?- All You Need to Know"
 id: "what-is-ml-fairness-indicator-all-you-need-to-know"
 tableData:
   [
-     Why is the ML fairness indicator so important?, How to use the fairness and comprehensibility of open-source packages, The library enables the computation of metrics that are frequently used for binary and multiclass fairness evaluations such as, Tools for Machine Learning (ML) fairness indicator:-, Here are a few of the major and most prominent tools for the ML Fairness Indicator:-, The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators using Fairness Indicators helps in, The benefits of the ML fairness indicator include the following:-, What's Next?
-   ]
+    Why is the ML fairness indicator so important?,
+    How to use the fairness and comprehensibility of open-source packages,
+    The library enables the computation of metrics that are frequently used for binary and multiclass fairness evaluations such as,
+    Tools for Machine Learning (ML) fairness indicator:-,
+    Here are a few of the major and most prominent tools for the ML Fairness Indicator:-,
+    The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators using Fairness Indicators helps in,
+    The benefits of the ML fairness indicator include the following:-,
+    What's Next?,
+  ]
 ---
-
-
 
 <span style=" font-weight:bold; font-size:28px"> Importance of ML Fairness Indicator System and Its Adaption by Google! </span>
 
@@ -61,7 +67,7 @@ Most people don't know where or how to begin or are struggling with what works f
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ml-13.jpg" alt="The steps included in ML Fairness Indicator function detection process. Starting from the beginning, the consecutive steps include 'collect.' 'store,' 'Enrich,' 'Train/Apply,' 'Visualize.'" style="width:100%" class="img"/>
 
-## How to use the fairness and comprehensibility of open-source packages  
+## How to use the fairness and comprehensibility of open-source packages
 
 Creating feature significance values for the entire model or specific data points will help you to explain model prediction better.
 
@@ -83,7 +89,7 @@ It offers a variety of metrics for comparing model performances across subgroups
 
 - Evaluate several thresholds in your analysis.
 
-## Tools for Machine Learning (ML) fairness indicator:- 
+## Tools for Machine Learning (ML) fairness indicator:-
 
 - Component of a TFX pipeline termed as an evaluator
 
@@ -97,7 +103,7 @@ It offers a variety of metrics for comparing model performances across subgroups
 
 The <a href="https://aif360.mybluemix.net/" target="_blank" rel="nowfollow">IBM AI</a> <a href="https://aif360.mybluemix.net/" target="_blank" rel="nowfollow">Fairness</a> <a href="https://aif360.mybluemix.net/" target="_blank" rel="nowfollow">360</a> Toolkit is a Python-based toolkit that focuses on technical improvements using fairness measures and algorithms to assist users in examining, identifying, and mitigating bias and discrimination in machine learning (ML) models.
 
-<a href="https://cloud.google.com/ai-platform/prediction/pricing" target="_blank" rel="nowfollow">Google's </a>    <a href="https://cloud.google.com/ai-platform/prediction/pricing" target="_blank" rel="nowfollow">What-if</a> tool can be used to research and comprehend the models on which a given data set operates while also assisting in the fulfillment of certain business requirements. This application is intriguing since it enables users to investigate various notions of justice.
+<a href="https://cloud.google.com/ai-platform/prediction/pricing" target="_blank" rel="nowfollow">Google's </a> <a href="https://cloud.google.com/ai-platform/prediction/pricing" target="_blank" rel="nowfollow">What-if</a> tool can be used to research and comprehend the models on which a given data set operates while also assisting in the fulfillment of certain business requirements. This application is intriguing since it enables users to investigate various notions of justice.
 
 <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/fairlearn-a-python-package-to-assess-ai-system-s-fairness/ba-p/1402950" rel="nowfollow">Fairlean.py</a> from Microsoft is a Python package that employs several techniques designed to lessen "unfairness" in supervised machine learning.
 
@@ -105,13 +111,13 @@ To detect bias in machine learning algorithms, Facebook is creating an internal 
 
 ### The What-If Tool and TensorFlow Data Validation (TFDV) are coupled with ML Fairness Indicators using Fairness Indicators helps in
 
--  Analyze model performance as it relates to certain user groups.
+- Analyze model performance as it relates to certain user groups.
 
--  With confidence intervals and assessments at various levels, results can be trusted.
+- With confidence intervals and assessments at various levels, results can be trusted.
 
--  Analyze how the datasets are distributed.
+- Analyze how the datasets are distributed.
 
--  Examine each slice carefully to determine its underlying causes and future development.
+- Examine each slice carefully to determine its underlying causes and future development.
 
 ### The benefits of the ML fairness indicator include the following:-
 

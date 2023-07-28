@@ -9,11 +9,12 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cus.jpg"
 headerAlt: ""
 date: "Jul 11, 2021"
-tag: [ Data Science ]
+tag: [Data Science]
 author: "Learnbay"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 authordesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -27,9 +28,9 @@ h1: "Customer Experience Enhancement In Banks"
 id: "customer-experience-enhancement-in-banks"
 tableData:
   [
-  Introduction Customer Experience Enhancement,
-  Outlined Five Steps To Guide Craft Smart Data Strategies Customer Experience Enhancement,
-  Conclusion,
+    Introduction Customer Experience Enhancement,
+    Outlined Five Steps To Guide Craft Smart Data Strategies Customer Experience Enhancement,
+    Conclusion,
   ]
 ---
 
@@ -43,17 +44,13 @@ Banks are beginning to explore the opportunity to differentiate with insight. Fo
 
 The industry is still in its nascent stage, however. According to a recent study by Celent, only 24 per cent of banks surveyed had implemented a Big Data solution, most commonly around risk and fraud monitoring or product and service marketing. But of those who have had a Big Data initiative in place for more than a year, 70 per cent had met or exceeded business expectations. And to highlight data’s potential, 90 per cent of those surveyed said they think that successful Big Data initiatives will define the financial services winners in the future.
 
-
 ## Outlined Five Steps To Guide Craft Smart Data Strategies Customer Experience Enhancement
-
-
 
 1. **Elevate the importance of business-savvy data scientists**. While there’s always a high demand for quantitative professionals to be part of the team, progressive banks are looking to complement that talent with creative business professionals who see business opportunities in trends that produce bottom-line results.
 2. **Organize for one version of the truth**. Too many banks are still organized in the product- or channel-centric silos. The bank can’t knit together a comprehensive picture of the customer. Silos need to be redefined along with analytics practices. Online and offline data must be integrated into platforms across channels that facilitate a comprehensive understanding to enable predictive analytics and inform real-time interaction strategies.
 3. **Don’t underestimate the integration challenge**. Today banks need to extract insights from structured and unstructured data, statistical data, social media streams, clickstream data, smartphone data, videos, etc. Small-scale experiments using Big Data are recommended to start, with slow rollout from there.
 4. **Integrate intelligence into customer-facing business practices**. The biggest opportunity for Big Data is the potential to identify and integrate insights into customer-facing applications in real-time. Analytics has come a long way, but many banks neglect to push the intelligence to front-line applications.
 5. **Use Big Data to accelerate the customer-centric transition**. Customer centricity is no longer nice to have a strategy for banks, it’s the only differentiator. And data is the backbone. It’s critical to think beyond technology and analytics to what organization, process, and people-related changes are necessary to really put the data and insights to work.
-
 
 ## Conclusion
 

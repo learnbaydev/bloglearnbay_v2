@@ -3,7 +3,7 @@ title: "What Are the Next Big Trends in AI? | Latest AI Trends to Look Out"
 stitle: "Top 7 AI Trends Everyone Need To Know - Learnbay Blog "
 publish: "Published on"
 published_time: "2023-04-26T13:25:31+05:30"
-modified_time:  "2023-04-26T13:25:31+05:30"
+modified_time: "2023-04-26T13:25:31+05:30"
 desc: "The tech world has seen sudden hype about trending AI technologies. This blog will teach you about the top 7 AI trends and their promising future implications."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wnb-1.jpg"
@@ -17,6 +17,7 @@ tag:
     ai trends 2023,
     future trends in artificial intelligence,
   ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"

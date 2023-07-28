@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Link from "next/link";
 import {
   getAllPostIds,
   getPostData,
@@ -8,31 +6,24 @@ import {
 import Head from "next/head";
 import styles from "../styles/blog.module.css";
 import { sortByDate } from "../utils";
-import { BsDot } from "react-icons/bs";
-import { IoTimeOutline } from "react-icons/io5";
 import Socialshare from "../../components/BlogPage/Socialshare/Socialshare";
-import React, { useState } from "react";
-import { FaChevronDown } from "react-icons/fa";
+import React from "react";
 import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
-import Blog from "../../components/BlogPage/Category/CategorySection";
-import FirstSection from "../../components/BlogPage/FirstSection/FirstSection";
-import BottomBar from "../../components/BottomBar/BottomBar";
+import dynamic from "next/dynamic";
+const CategorySection = dynamic(() =>
+  import("../../components/BlogPage/Blog/Category/CategorySection")
+);
+const FirstSection = dynamic(() =>
+  import("../../components/BlogPage/FirstSection/FirstSection")
+);
+const BottomBar = dynamic(() => import("../../components/BottomBar/BottomBar"));
 
-export default function Post({ postData, posts, allPostsData }) {
-  // console.log(postData);
-  let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
-  let aurl = `/blog/author/${makeUrl}`;
+const RightSideData = dynamic(() =>
+  import("../../components/BlogPage/Blog/RightSideData")
+);
 
-  let catUrl = postData.category.toLowerCase().replace(/\s+/g, "-");
-  let curl = `/blog/category/${catUrl}`;
-
-  const [isContentVisible, setIsContentVisible] = useState(false);
-
-  const toggleContent = () => {
-    setIsContentVisible(!isContentVisible);
-  };
-
+export default function Post({ postData }) {
   return (
     <>
       <section className={styles.MainS}>
@@ -88,104 +79,15 @@ export default function Post({ postData, posts, allPostsData }) {
       <main>
         <div className={styles.Open}>
           <div className={styles.bodyInfo}>
-            <div className={styles.rightInfo}>
-              <div className={styles.blogdiv1}>
-                <div className={styles.table}>
-                  {/* <h5 className={styles.contentH}> Table of content</h5> */}
-
-                  <div className={styles.contentT}>
-                    {postData.table.map((table, i) => {
-                      const removeSpecial = table.replace(
-                        /[&\/\\#+()$~%.'":*?<>{}]/g,
-                        ""
-                      );
-                      const uMake = removeSpecial
-                        .toLowerCase()
-                        .replace(/\s+/g, "-");
-                      const url = `/blog/#${uMake}`;
-                      return (
-                        <div key={i}>
-                          <div className={styles.divContent}>
-                            <p className={styles.tocContent}>
-                              <Link href={url}>{table}</Link>
-                            </p>
-
-                            <hr className={styles.tableline} />
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
-
-                  <div className={styles.parentDdiv}>
-                    <button
-                      onClick={toggleContent}
-                      className={styles.tabButton}
-                    >
-                      {isContentVisible ? "Hide Content" : "Table of content"}{" "}
-                      <span className={styles.TdownIcon}>
-                        <FaChevronDown />
-                      </span>
-                    </button>
-                    <div className={styles.MobileContent}>
-                      {isContentVisible && (
-                        <div className={styles.contentTM}>
-                          {postData.table.map((table, i) => {
-                            const removeSpecial = table.replace(
-                              /[&\/\\#+()$~%.'":*?<>{}]/g,
-                              ""
-                            );
-                            const uMake = removeSpecial
-                              .toLowerCase()
-                              .replace(/\s+/g, "-");
-                            const url = `/blog/#${uMake}`;
-                            return (
-                              <div key={i}>
-                                <span>
-                                  <p className={styles.tocContent}>
-                                    <Link href={url}>{table}</Link>
-                                  </p>
-
-                                  <hr className={styles.tableline} />
-                                </span>
-                              </div>
-                            );
-                          })}
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                </div>
+            <div>
+              <div className={styles.sticky}>
+                <RightSideData table={postData.table} />
               </div>
             </div>
-
             <div className={styles.blogdiv1}>
               <div className={styles.leftInfo}>
                 <article dangerouslySetInnerHTML={{ __html: postData.body }} />
                 <hr />
-
-                <div>
-                  <h1 className={styles.rpH1}>Related Posts</h1>
-                  <div className={styles.relatePost}>
-                    {posts.slice(1, 6).map((post, i) => {
-                      return (
-                        <div className={styles.rPost} key={i}>
-                          <a href={post.id}>
-                            {" "}
-                            <h5>{post.title}</h5>
-                          </a>
-                          <span>
-                            {post.author}
-                            <p className={styles.rPostD}>
-                              <IoTimeOutline className={styles.timeIcon} />
-                              {post.date}
-                            </p>
-                          </span>
-                        </div>
-                      );
-                    })}
-                  </div>
-                </div>
 
                 <div>
                   <Socialshare postData={postData} />
@@ -194,8 +96,11 @@ export default function Post({ postData, posts, allPostsData }) {
                 <hr />
               </div>
             </div>
-
-            <Blog />
+            <div>
+              <div className={styles.sticky}>
+                <CategorySection />
+              </div>
+            </div>
           </div>
         </div>
       </main>
@@ -217,7 +122,6 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       postData,
-      posts: posts.sort(sortByDate),
     },
   };
 }

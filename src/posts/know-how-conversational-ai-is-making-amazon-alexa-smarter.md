@@ -1,5 +1,5 @@
 ---
-title:  Know-How Conversational AI is Making Amazon Alexa Smarter
+title: Know-How Conversational AI is Making Amazon Alexa Smarter
 stitle: "Know-How Conversational AI is Making Amazon Alexa Smarter"
 publish: "Published on"
 published_time: "2022-11-18T13:25:31+05:30"
@@ -9,7 +9,25 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-1.jpg"
 headerAlt: " A 3rd generation of Amazon Alexa eco dot device."
 date: "Nov 18, 2022"
-tag: [ Amazon Alexa, Alexa AI, Conversational AI, Alexa, API, Amazon, alexa ai knowledge, alexa ai technology, alexa ai voice, alexa is an example of ai, conversational ai examples, conversational ai definition, what is an example of conversational ai, Application Programming Interface, how does alexa use ai ]
+tag:
+  [
+    Amazon Alexa,
+    Alexa AI,
+    Conversational AI,
+    Alexa,
+    API,
+    Amazon,
+    alexa ai knowledge,
+    alexa ai technology,
+    alexa ai voice,
+    alexa is an example of ai,
+    conversational ai examples,
+    conversational ai definition,
+    what is an example of conversational ai,
+    Application Programming Interface,
+    how does alexa use ai,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -17,8 +35,8 @@ catdesc: "Explore Artificial Intelligence Blogs, features highly informative and
 authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay"
 adesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
-author: "Milan Jain" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
+author: "Milan Jain"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/milan.webp"
 authordesc: "A passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 authorlinkedin: "https://www.linkedin.com/in/milan-jain-552230160/"
 position: "Editor"
@@ -27,13 +45,24 @@ h1: "Know-How Conversational AI is Making Amazon Alexa Smarter"
 id: "know-how-conversational-ai-is-making-amazon-alexa-smarter"
 tableData:
   [
-     What is conversational AI?, What is Amazon Alexa?, Alexa and Conversational AI, 1. Automatic speech recognition, 2. Natural Language Understanding, 3. Text-To-Speech, Alexa learns from human data continuously -, How is Machine learning helping Alexa's growth?, How does VUI make human-machine interaction conversational?, Five elements to remember while designing a seamless virtual assistance technology:-, Variety, Context, Engagement, Tone, Memory, Conclusion
-
-   ]
+    What is conversational AI?,
+    What is Amazon Alexa?,
+    Alexa and Conversational AI,
+    1. Automatic speech recognition,
+    2. Natural Language Understanding,
+    3. Text-To-Speech,
+    Alexa learns from human data continuously -,
+    How is Machine learning helping Alexa's growth?,
+    How does VUI make human-machine interaction conversational?,
+    Five elements to remember while designing a seamless virtual assistance technology:-,
+    Variety,
+    Context,
+    Engagement,
+    Tone,
+    Memory,
+    Conclusion,
+  ]
 ---
-
-
-
 
 <span style=" font-weight:bold; font-size:28px"> Conversational AI - The Magic Behind Seamless Voice Control Experience of Alexa</span>
 
@@ -43,7 +72,7 @@ IBM was the first to invent the speech recognition machine in 1962. Back then, o
 
 With this timeline, in 2011, Apple's Siri was invented. Later on, in 2012, Google introduced voice assistance. After several years, Amazon introduced Alexa. All of these are voice control services that respond like a human. However, the most sold voice-controlled device is Alexa due to its budget-friendliness, which has been integrated with Amazon Echo (smart speakers) and shows (intelligent speakers with display).
 
-Amazon has been working with _**neural networks,** the most advanced state of conversational AI, to make Alexa sound like a human. Rohit Prasad, the senior vice president of Alexa at Amazon, said that adding <a href="https://www.amazon.science/blog/alexa-the-science-must-go-on" target="_blank" rel="nofollow">neural networks</a> helped AmazonAlexa grow in many ways.
+Amazon has been working with \_**neural networks,** the most advanced state of conversational AI, to make Alexa sound like a human. Rohit Prasad, the senior vice president of Alexa at Amazon, said that adding <a href="https://www.amazon.science/blog/alexa-the-science-must-go-on" target="_blank" rel="nofollow">neural networks</a> helped AmazonAlexa grow in many ways.
 
 Before, Alexa's algorithm was used to break down language into word parts or vocal sounds and then tried to string them together as seamlessly as possible. But it sounded chippy and robotic. So, Amazon Alexa works on neural networks which generate the whole text (<a href="https://blog.learnbay.co/text-stemming-in-nlp" target="_blank">text stemming in NLP</a>) in real-time, which sounds more like a human.
 
@@ -57,7 +86,7 @@ The new advancements in human-computer interaction make powerful computer featur
 
 A Conversational AI system is how people interact with computers. Conversational AI such a technology that controls a voice-based device like Amazon Echo. The conversations with such devices are like magic, and the developers have worked on this for years. With a **Voice User Interface (VUI),** voice solutions like Amazon Alexa can interact with humans much more effortlessly, solve problems and get smarter whenever you train them with custom skills.
 
-## What is Amazon Alexa?  
+## What is Amazon Alexa?
 
 What exactly is Alexa? Alexa is the Amazon cloud-based service for voice and is available on more than 100 million Amazon and third-party devices. With Alexa, you can create natural voice experiences for customers, offering them various methods to engage with tech and use it every day.
 
@@ -69,7 +98,7 @@ Alexa shares the weather prediction without you having any communication with th
 
 Alexa is a "wake word" when you say "Alexa," it listens to your voice. Every intelligent gadget responds when you pronounce the wake word. Although Alexa is the voice assistant that is officially recognized, users can change it to a different wake word such as "Amazon," "Computer," as well as "Echo" as an alternative to waking up.
 
-## Alexa and Conversational AI  
+## Alexa and Conversational AI
 
 Today, many machines are deployed for speaking or having conversations with humans. It can be a support agent as an online bot or, here, Alexa. The difference between these technologies is known by how intelligent it is, and a better Conversational AI makes the difference through features like
 
@@ -81,13 +110,13 @@ Today, many machines are deployed for speaking or having conversations with huma
 
 The audio waveform is transformed to text at the **ASR** step when anyone asks a query to the application. The device interprets the questions at the **NLP** stage and gives a smart response. The text transforms into audio signals during the TTP step, and then audio is created for the user. A variety of deep-learning models can be linked to a pipeline to create an interactive AI application. A familiar pipeline is also present in Alexa too.
 
-### 1. Automatic speech recognition   
+### 1. Automatic speech recognition
 
-Automatic speech recognition "Automatic Speech Recognition (ASR) technology converts words spoken into text. 1st step for enabling voice technologies like Amazon Alexa responding when asked,  **"Alexa , what's it like outside?".** ASR, voice technology, detects spoken sound and recognizes it as words. ASR is the basis of the voice experience. It lets computers comprehend our most natural way of communication (speech).
+Automatic speech recognition "Automatic Speech Recognition (ASR) technology converts words spoken into text. 1st step for enabling voice technologies like Amazon Alexa responding when asked, **"Alexa , what's it like outside?".** ASR, voice technology, detects spoken sound and recognizes it as words. ASR is the basis of the voice experience. It lets computers comprehend our most natural way of communication (speech).
 
 Before, ASR was simply an audio recording in a computer's mind. With ASR, computers can detect patterns in audio waveforms, match them with the sound in a given language and eventually identify which words the user spoke. And ASR, as well as voice assistants, are getting smarter and smarter with the help of <a href="https://blog.learnbay.co/what-is-generative-ai-all-you-need-to-know" target="_blank">generative AI</a>.
 
-### 2. Natural Language Understanding  
+### 2. Natural Language Understanding
 
 Natural language understanding allows computers to understand what the speaker is saying and not just what they speak. This allows the voice technology of Alexa to conclude that you're likely seeking an accurate local weather forecast when you ask, " Alexa, what's it like outside?" At times, voice-first technologies are constructed using NLU, which is focused on recognizing patterns and meanings in human spoken language. A computer is able to understand the meaning of what you are saying without the need to express it in a particular way. Using your voice, you will appear in a real conversation.
 
@@ -105,7 +134,7 @@ Before NLU developing an app for weather that uses voice input required the crea
 
 ### D. Grow expectations: It is more ideal to say, " I do not know the answer to that question," than to pretend to be right by giving a wrong answer.
 
-### 3. Text-To-Speech  
+### 3. Text-To-Speech
 
 TTS module enables the Alexa Auto SDK client application to synthesize Alexa speech on demand from text-to-speech synthesis Markup language (SSML) string. Synthesize speech, and this module uses a text-to-speech module. Auto SDK does not provide any speech-playing API. Your application TTS module integration is responsible for playing synthesized speech delivering a unified Alexa experience to the user.
 
@@ -115,13 +144,13 @@ Text-to-speech model does not require engine configuration.
 
 Communication is a constant activity for deciphering meaning. Many times we even use the wrong words. Usually, the words we say are not the words that we mean. NLU is all about giving computers the necessary understanding of the context for what we say and the flexibility to comprehend different ways in which we can say the same thing.
 
-### Alexa learns from human data continuously -   
+### Alexa learns from human data continuously -
 
 The data is the crucial strength of Alexa. Each time Alexa is unable to interpret your request correctly, the data is enhanced by the system's wisdom to be used the next time. Understanding natural human speech is a huge challenge, but today we have processing capability for improving it as we keep using it more and more. Natural processing capabilities for language have risen to an entirely new level, even though the human language is very complicated.
 
 Amazon has experts in making improvements to Alexa as well as Alexa voice services, as well as an array of machines. The objective is to make a spoken speech as natural as they can
 
-### How is Machine learning helping Alexa's growth?  
+### How is Machine learning helping Alexa's growth?
 
 Alexa gets smarter with time. As humans do, Alexa has learned to continue conversations from one inquiry to another. If you aren't sure of the exact name of the capability you would like Alexa to master, you might be summoned by getting close to it.
 
@@ -131,16 +160,15 @@ These significant advancements were achieved in conversational and sophisticated
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ca-5.jpg" alt="A microphone symbol demonstrating the capability of AI assistants in various kinds of roles such as music, shopping, alarm etc." style="width:100%" class="img"/>
 
-## How does VUI make human-machine interaction conversational?  
+## How does VUI make human-machine interaction conversational?
 
 Conversations are emotionally and conceptually complex. When we as humans interact, how we say something makes a big difference, just what we say.
 
 It is difficult for computers to grasp these nuances, which is where voice design gets in. Well-designed VUI is flexible and takes these unwritten rules of conversation.
 
-
 ## Five elements to remember while designing a seamless virtual assistance technology:-
 
-###  Variety    
+### Variety
 
 Conversations are much more than understanding words, sentences, and perspectives. Humans like to interact in natural and unconventional ways by using phrases they prefer. They correct or change the direction during a dialogue.
 
@@ -148,7 +176,7 @@ Conversations are much more than understanding words, sentences, and perspective
 
 Everyday conversations are taken into account more than the words that are spoken. Positive conversations include context like why, when, and where. I.e., "Alexa, set a reminder for car wash tomorrow" is a simple request during the daytime, but at 1:00 am, "tomorrow" means something different.
 
-### Engagement   
+### Engagement
 
 Conversations can be inconsistent and dynamic. Both parties must understand, respond and remember what the participant is saying. The **VUI** is designed so that Alexa captures all the critical parts of a conversation, no matter how well or poorly presented. I.e., if a user says both the date and the destination to book a flight. Alexa would not have to ask any follow-up questions like "What is the departure date or which destination do you want to book a flight for?"
 
@@ -156,7 +184,7 @@ Conversations can be inconsistent and dynamic. Both parties must understand, res
 
 Face-to-face conversations are mostly done with emotion and personality and even have surprises. If the conversation with Alexa is appropriate, it will make you feel that you are having a conversation with a human and will not make you think that you are having a conversation with a machine.
 
-### Memory   
+### Memory
 
 Conversations do not happen out of isolated occurrences. When appropriate, voice-first experience accounts for the introductory text making the conversation more engaging and relevant to the owner. This is built and updated on previous questions and answers. This can be from five minutes ago to over five days ago.
 

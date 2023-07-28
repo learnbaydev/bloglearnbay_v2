@@ -2,6 +2,9 @@ import React, { useEffect, useState } from "react";
 import styles from "./CategorySection.module.css";
 import Link from "next/link";
 import Image from "next/image";
+import { CiSearch } from "react-icons/ci";
+import { Search } from "../../../SearchBar/search";
+import { sortByDate } from "@/utils";
 
 export default function CategorySection({ categoryPostTag }) {
   const [allPostsData, setAllBlogPostsData] = useState([]);
@@ -13,30 +16,107 @@ export default function CategorySection({ categoryPostTag }) {
 
       if (data.status === 200) {
         const { blogData } = await data.json();
-        setAllBlogPostsData(blogData);
+        setAllBlogPostsData(blogData.sort(sortByDate));
       }
     };
     fetchCertificateId();
   }, []);
 
+  const [search, setSearch] = useState();
+  function findSerach(value) {
+    setSearch(value.target.value);
+  }
+  const [active, setActive] = useState(false);
+  const [active1, setActive1] = useState(false);
+  const [active2, setActive2] = useState(true);
+  useEffect(() => {
+    //
+    var input = document.getElementById("myInput");
+    input.addEventListener("keypress", function (event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("myBtn").click();
+      }
+    });
+  });
+
   return (
     <>
-      {[...categoryPostTag].slice(0, 2).map((post, i) => {
+      <div className={styles.upperDiv}>
+        <div className={styles.innerP}>
+          <Link href="#Data Science & BA">
+            <p
+              className={active2 ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(false);
+                setActive1(false);
+                setActive2(true);
+              }}
+            >
+              DATA SCIENCE & BUSINESS ANALYTICS
+            </p>
+          </Link>
+          <Link href="#Software Development">
+            <p
+              className={active ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(true);
+                setActive1(false);
+                setActive2(false);
+              }}
+            >
+              SOFTWARE DEVELOPMENT
+            </p>
+          </Link>
+          <Link href="#Hot Topics">
+            <p
+              className={active1 ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive1(true);
+                setActive(false);
+                setActive2(false);
+              }}
+            >
+              HOT TOPICS
+            </p>
+          </Link>
+        </div>
+        <div className="col-lg-4">
+          <div className={styles.formControl}>
+            <CiSearch />
+            <input
+              id="myInput"
+              onChange={findSerach}
+              type="text"
+              placeholder="Search"
+              aria-label="Search"
+              aria-describedby="button-search"
+            />
+
+            <Link
+              href={{
+                pathname: "/Search",
+                query: { q: search?.toLowerCase() },
+              }}
+              id="myBtn"
+            ></Link>
+          </div>
+        </div>
+      </div>
+      {[...categoryPostTag].map((post, i) => {
         let tag = post;
 
         const categoryPosts = allPostsData.filter(
-          (post) => post.category === tag
+          (post) => post.parantcategory === tag
         );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
-
-        // console.log("@@@@", categoryPostTag);
 
         const firstBlogPosts = categoryPosts.slice(0, 6);
 
         return (
           <section className={styles.categoryPosts} key={i}>
-            <div className={styles.viewMoreSection}>
+            <div className={styles.viewMoreSection} id={post}>
               <div className={styles.viewMoreSection1}>
                 <h2>
                   {post} ({categoryPosts.length})
@@ -54,7 +134,6 @@ export default function CategorySection({ categoryPostTag }) {
                 {firstBlogPosts.map(
                   ({ id, date, title, author, headerImg, desc }) => {
                     let url = `/${id}`;
-
                     let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
                     let aurl = `/author/${amakeUrl}`;
                     return (
@@ -65,7 +144,7 @@ export default function CategorySection({ categoryPostTag }) {
                               src={headerImg}
                               width="300"
                               height="180"
-                              alt={categoryPosts.id}
+                              alt={title}
                               className={styles.categoryPostImg}
                               style={{ objectFit: "cover" }}
                             />
@@ -83,8 +162,11 @@ export default function CategorySection({ categoryPostTag }) {
                             <hr className={styles.hrline} />
                             <Link href={aurl}>
                               <p>
-                                {date} <b>By</b>
-                                <span>{author}</span>
+                                {date}
+                                <span>
+                                  <b>By</b>
+                                  {author}
+                                </span>
                               </p>
                             </Link>
                           </div>

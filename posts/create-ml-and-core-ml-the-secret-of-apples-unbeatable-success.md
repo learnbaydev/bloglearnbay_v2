@@ -9,7 +9,14 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-1.png"
 headerAlt: "A banner image titled 'Create ML & Core ML'. It also displays the logos of both machine learning model frameworks."
 date: "Feb 13, 2023"
-tag: [ create ml apple, ios machine learning, apple coreml, apple machine learning models ]
+tag:
+  [
+    create ml apple,
+    ios machine learning,
+    apple coreml,
+    apple machine learning models,
+  ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -18,7 +25,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,11 +34,19 @@ h1: "Create ML and Core ML- The Secret of Apple's Unbeatable Success"
 id: "create-ml-and-core-ml-the-secret-of-apples-unbeatable-success"
 tableData:
   [
-      Create ML and Core ML:-, Machine Learning Algorithms in 'Create ML':-  , Machine Learning on 'Core ML':-, How does Apple implement machine learning in its products?, Top 5 ML Innovations of Apple, 1. Machine Learning in voice assistance:-, 2. Image sorting and emojis:-, 3. ML in clicking images:-, 4. ML in Apple Pencil:-, 5. ML in Apple watches:-, Final thoughts:-
-   ]
-
+    Create ML and Core ML:-,
+    Machine Learning Algorithms in 'Create ML':-,
+    Machine Learning on 'Core ML':-,
+    How does Apple implement machine learning in its products?,
+    Top 5 ML Innovations of Apple,
+    1. Machine Learning in voice assistance:-,
+    2. Image sorting and emojis:-,
+    3. ML in clicking images:-,
+    4. ML in Apple Pencil:-,
+    5. ML in Apple watches:-,
+    Final thoughts:-,
+  ]
 ---
-
 
 <span style=" font-weight:bold; font-size:28px"> Know How Apple Play with Machine Learning To Develop Seamless User Experience? </span>
 
@@ -49,14 +64,13 @@ Both are quite relevant and utilize (labeled data sets) supervised learning algo
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-2.png" style="width:100%" class="img" alt="A logo of Apple's create ML."/>
 
-### Machine Learning Algorithms in 'Create ML':-  
+### Machine Learning Algorithms in 'Create ML':-
 
 **Create ML** uses the infrastructure seen in Apple apps like Photos and Siri. This implies that your image classification and natural language processing models are more compact, quick, and simple to train.
 
 Intelligent Document Solutions offers specialized solutions to assist in ensuring your document is updated and organized. Apple creates ML models to produce content and makes recommendations for improving business procedures.
 
-### Machine Learning on 'Core ML':-       
-
+### Machine Learning on 'Core ML':-
 
 **Core ML** seems to be an exceptional tool. A lot of people's attention has recently been focused on this particular language, drawing a lot of interest from developers worldwide.
 
@@ -68,7 +82,7 @@ Apple has given developers a tool to visualize their data related to machine lea
 
 This effectively makes them aware of how well the model works or functions. Developers can concentrate more on improving the program itself if this information is provided from the beginning of testing and exposure.
 
-## How does Apple implement machine learning in its products?  
+## How does Apple implement machine learning in its products?
 
 Apple marketers/researchers frequently uses the reference of <a href="https://blog.learnbay.co/10-must-know-machine-learning-algorithms-for-beginners-in-2023" target="_blank">machine learning</a> when promoting features like image recognition and text analysis in their current products. Although they often omit many technical facts. **_Comparing this to Google, which emphasizes AI's more advantageous elements while ignoring any suggestion that it might be unpleasant in order to engage the public._**
 
@@ -84,9 +98,9 @@ Software developers use these algorithms to create suggestions in the App Store.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-3.png" style="width:100%" class="img" alt="An image shows an AI-humanoid brain and a human palm moving toward Apple's App Store (logo)."/>
 
-## Top 5 ML Innovations of Apple  
+## Top 5 ML Innovations of Apple
 
-### 1. Machine Learning in voice assistance:-  
+### 1. Machine Learning in voice assistance:-
 
 **Siri**, the first virtual personal assistant, was developed through cooperation between SRI International and the Swiss Federal Institute of Technology (EPFL). It is a part of the Cognitive Assistant that Learns and Organizes (CALO) program's DARPA Personalized Assistant that Learns (PAL) project, which is run by SRI. This is what you might call "the largest known artificial intelligence development project in history!"
 
@@ -94,7 +108,7 @@ Siri is one of the most famous and developed voice assistants, which is used wor
 
 Speech recognition converts spoken words into their equivalents in written language. NLP algorithms decipher the intent of what a user says to provide more robust quality in search, context, and relevance for users. Additionally, it helps in more effective and relevant marketing content.
 
-### 2. Image sorting and emojis:-   
+### 2. Image sorting and emojis:-
 
 Knowledgeable Apple supporters will note that the corporation has fast surpassed all competitors in offering clients the newest advances in machine learning.
 
@@ -102,7 +116,7 @@ For instance, thanks to the recent addition of animated emoticons to iPhones, us
 
 Additionally, iPhone users might find that the Photos app uses machine learning to automatically group photos into pre-made galleries or to display a photo of a friend when their name is typed into the app's search bar.
 
-### 3. ML in clicking images:-  
+### 3. ML in clicking images:-
 
 As long as you retain your finger on the shutter button, machine learning enables rapid photo-taking experiences in which the application shoots numerous photographs quickly instead of one at a time.
 
@@ -110,13 +124,13 @@ Then, an ML-trained algorithm learns to analyze each photograph, combines them i
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cmcm-4.png" style="width:100%" class="img" alt="An image shows an Apple pencil on an iPad, with an illuminated apple logo in the background."/>
 
-### 4. ML in Apple Pencil:-  
+### 4. ML in Apple Pencil:-
 
 The Apple pencil taught the iPad a helpful trick. When it detects your palm touching the screen, the program is used to rebuild pencil strokes precisely and lowers the screen resolution; it also uses **_pressure-sensitive touchscreen automation_**.
 
 This is possible because your phone's touch screen sensors can determine how you're tapping the screen and modify some settings to save battery life.
 
-### 5. ML in Apple watches:-  
+### 5. ML in Apple watches:-
 
 Thanks to the Apple Watch, keeping track of your sleep schedule is simpler than ever. The Apple Watch not only records your daily activity and calorie expenditure but also supports you in having the best possible sleep patterns.
 
@@ -130,7 +144,7 @@ Then, accelerometer measurements from the device show deficient activity levels.
 
 **Apple uses machine learning in various ways, but these are just a few examples that will give you a better understanding of how it is used.**
 
-## Final thoughts:-   
+## Final thoughts:-
 
 It is clear from this that Apple has achieved its current position in the global IT industry because of continuous technological advancement in the field of ML. This article is an overview of the technologies such as **_Core ML_** and **_Create ML_**, which are getting advancements with the recent technological growth, helping in enhancing the apps with intelligent features, or building new apps that require AI capabilities.
 

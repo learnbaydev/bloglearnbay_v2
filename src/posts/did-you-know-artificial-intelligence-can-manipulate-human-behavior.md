@@ -9,7 +9,17 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-1.jpg"
 headerAlt: "A banner graphic showing an AI-powered robot and a human sitting together with their laptops at a round table. multiple setting logos around them indicates the robot can manipulate human behavior. The accompanying text reads, 'AI.'"
 date: "Oct 12, 2022"
-tag: [ human behavior manipulation definition, ai predicting human behavior, artificial intelligence and human behaviour, dark side of ai, ai manipulate human behavior, role of artificial intelligence in human life, is artificial intelligence a threat to humans ]
+tag:
+  [
+    human behavior manipulation definition,
+    ai predicting human behavior,
+    artificial intelligence and human behaviour,
+    dark side of ai,
+    ai manipulate human behavior,
+    role of artificial intelligence in human life,
+    is artificial intelligence a threat to humans,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -18,7 +28,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,19 +37,19 @@ h1: "Did You Know Artificial Intelligence Can Manipulate Human Behavior?"
 id: "did-you-know-artificial-intelligence-can-manipulate-human-behavior"
 tableData:
   [
-
-    Will AI take over human thoughts?, AI and human consciousness :-, Impact of AI on human behavior:-, AI chips:-, Final thoughts:-
+    Will AI take over human thoughts?,
+    AI and human consciousness :-,
+    Impact of AI on human behavior:-,
+    AI chips:-,
+    Final thoughts:-,
   ]
 ---
-
-
-
 
 <span style=" font-weight:bold; font-size:28px">Introduction to AI and Human Behavior</span>
 
 **Artificial intelligence (AI)** is an area of computer science concerned with the research and development of intelligent devices, such as digital agents and computer programs. Artificial intelligence is a broad word that can be used to refer to a variety of systems. However, because there are so many diverse characteristics of human intelligence with so many various applications, it's difficult to assign a single label to **intelligent behavior**.
 
-**Humans** cope with knowledge in four ways:  **limited memory, theory of mind, spatial intelligence, and reactive intelligence**. It's not just about technology when it comes to AI. I **t is about the ability of machines to operate and process information without human intervention.**
+**Humans** cope with knowledge in four ways: **limited memory, theory of mind, spatial intelligence, and reactive intelligence**. It's not just about technology when it comes to AI. I **t is about the ability of machines to operate and process information without human intervention.**
 
 Businesses and consumers look to be going in opposite ways in the past. While consumers have become more tech-savvy, businesses have slowly adapted to new technologies. In recent years, this has improved. Humans are teaching AI how to operate with (and on) them.
 
@@ -59,7 +69,7 @@ Surprisingly, one research group discovered that machines can detect whether or 
 
 The recent disclosure of the unlikely scenario of a machine taking over the globe may appear alarming, but it isn't. There are numerous advantages to AI, and it is in our best interests not to try to stop it from growing without effective restrictions and a clear governance mechanism.
 
-## AI and human consciousness :- 
+## AI and human consciousness :-
 
 It's not a question that can be objectively addressed, but it's a fact that machines will become smarter in the future years. It is critical to comprehend the differences between machine and human intelligence.
 
@@ -67,11 +77,11 @@ Now the debate is whether or not an intelligent computer can be deemed aware. As
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/did-3.jpg" style="width:100%" class="img" alt="An AI robot greets a human, which represents the Impact of AI in human behavior." />
 
-## Impact of AI on human behavior:-  
+## Impact of AI on human behavior:-
 
-**What impact does AI have on human behavior? Is AI responsible for all the good and iniquity?** 
+**What impact does AI have on human behavior? Is AI responsible for all the good and iniquity?**
 
-Certainly, we are all aware that AI is infiltrating every aspect of life, from our phones and laptops to our employment. **But, how can we introduce AI for a good purpose?** 
+Certainly, we are all aware that AI is infiltrating every aspect of life, from our phones and laptops to our employment. **But, how can we introduce AI for a good purpose?**
 
 The <a href="https://www.csiro.au/en/" target="_blank" rel="nofollow">CSIRO</a> ran a series of tests in which people were asked to play games versus a computer. We'll look at three of their experiments in this blog to see how they turned out.
 
@@ -83,7 +93,7 @@ The third experiment is basically related to the fund investment process, where 
 
 As we conclude the experiment. We may deduce that the machine picked up on every trend in the human reaction and exploited flaws in people's decision-making processes. The system eventually learned to direct participants toward specific actions as a result of the experiment. These studies are truly beneficial in the actual world and have made a significant advancement; with the passage of time, technology will be polished and will undoubtedly bring more and better AI decision-making and human behavior.
 
-## AI developments that make it simple to manipulate people's behavior:-  
+## AI developments that make it simple to manipulate people's behavior:-
 
 **Deep Learning and computing power**
 
@@ -91,9 +101,9 @@ In order to construct well-accepted programming that can accurately mimic human 
 
 Cloud computing and deep learning are two of artificial intelligence's most promising advances. Deep learning's capabilities are linked to the internet, making it a tremendously resource-intensive computing undertaking. **Artificial neural networks, which are used in deep learning, may handle complex problems. Deep learning is capable of solving problems in ways that standard programming is unable to.**
 
-## AI chips:-  
+## AI chips:-
 
- AI is at its pinnacle right now. In fact, increasing the effectiveness of an AI model may not even be possible with the most advanced CPUs. To use AI for tasks like **computer vision, natural language processing,** and **speech recognition** , businesses need high-performance CPUs. In essence, this AI device improves CPU efficiency. Additionally, they support the analysis and interpretation of the challenging data needed for inference. As the chip is AI-enabled, it likely intervenes in the prior scenario and adjusts all the parameters so that it becomes relevant to the person on every usage.
+AI is at its pinnacle right now. In fact, increasing the effectiveness of an AI model may not even be possible with the most advanced CPUs. To use AI for tasks like **computer vision, natural language processing,** and **speech recognition** , businesses need high-performance CPUs. In essence, this AI device improves CPU efficiency. Additionally, they support the analysis and interpretation of the challenging data needed for inference. As the chip is AI-enabled, it likely intervenes in the prior scenario and adjusts all the parameters so that it becomes relevant to the person on every usage.
 
 ## Final thoughts:-
 

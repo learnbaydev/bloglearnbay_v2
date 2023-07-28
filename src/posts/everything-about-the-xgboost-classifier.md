@@ -16,6 +16,7 @@ Efficient handling of missing data
 In-built cross-validation capability"
 date: "Feb 04, 2022"
 tag: [ xgboost similarity score, xgboost quantile ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -49,40 +50,36 @@ We'll look into the XGBoost machine learning explained in detail below.
 
 **XGBoost classifier** is a boosting machine learning algorithm applied for structured and tabular data. It implements gradient-boosted decision trees designed for speed and performance. Furthermore, It is an extreme _**gradient boost algorithm**_, meaning it's a machine learning algorithm with a wide range of applications. The applications include solving problems regarding regression, classification, etc.
 
-## How does XGBoost work?   
+## How does XGBoost work?
 
 XGBoost works with small to medium-sized tabular datasets and is an ensemble modeling technique. Prediction problems with large unstructured datasets can be handled by Artificial Neural Networks (ANN) algorithms or **gradient-boosting machines**. However, XGBoost algorithms are capable of handling small datasets with speed and accuracy.
 
-### So, What is Ensemble Modeling?     
- 
+### So, What is Ensemble Modeling?
+
 XGBoost machine learning classifier is an _**ensemble learning**_ method. It is not always sufficient to depend solely on the outcomes of a single <a href="https://blog.learnbay.co/octoml-the-coolest-platform-for-faster-machine-learning-model-deployment" target="_blank">machine learning model</a>. Through ensemble learning, we can systematically merge the predictive ability of several learners. The resultant is a single model that aggregates output from several models.
 
 The models that form the ensemble, also known as _**base learners**_, could be either from the same or different _**learning algorithms**_.
 
 For example, bagging and boosting are two widely used ensemble learners. <a href="https://blog.learnbay.co/everything-about-decision-tree-from-scratch" target="_blank">Decision trees</a> have central usage for bagging and boosting among several other statistical models.
 
-#### Ensemble Algorithms  
+#### Ensemble Algorithms
 
 In machine learning and predictive modeling, ensemble learning mixes numerous learners (models) to increase overall performance. Simultaneously, it improves predictiveness and accuracy. Ensemble models are powerful because they can integrate thousands of tiny learners skilled in underlying data subsets.
 
 Some intriguing conclusions to be made from these are:-
 
 - Bagging greatly reduces the basic model's variance.
-  
 - Boosting reduces the bias as well.
-  
 - Stacking also enhances overall predictive power.
-  
 
 #### Ensemble Modeling Types
 
 Considering how the sub-learners are created, we can classify ensemble methods into two groups:
 
 1. When learners are developed sequentially (_**AdaBoost vs XGBoost**_): It relies on the interdependence of basic learners. Each learner impacts the next and may determine a regular behavior pattern. Here, AdaBoost becomes a well-known example of such a sequential ensemble method.
-   
 2. When learners are developed parallelly (_**XGBoost vs Random Forest**_): The base learners are constructed individually to study and utilize the impacts of their independence and decrease the error by combining the findings. <a href="https://blog.learnbay.co/random-forest-model-rfm" target="_blank">Random forest</a> is one example of this method in action.
 
-## Unique features of the XGBoost Classifier   
+## Unique features of the XGBoost Classifier
 
 XGBoost is a popular implementation of gradient boosting. Let's go through some of the qualities of XGBoost.
 
@@ -112,7 +109,7 @@ The **XGBoost classifier** requires non-continuous memory access to get the grad
 
 This functionality optimizes and maximizes the accessible disc space when dealing with large datasets that cannot fit into memory.
 
-## Solving the XGBoost mathematically:- 
+## Solving the XGBoost mathematically:-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/XGBoost1.png" width={800} height={500}  class="img" alt="A graph showing drug dosage on the X-axis and drug effects on the Y-axis."/>
 
@@ -153,7 +150,7 @@ The result is:
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/XGBoost6.png" width={800} height={500} class="img" alt="A flow chart lists the following data. 
 The chart starts with 'Dosage less than 15'. This splits into two branches: 'negative 10.5' and 'Dosage less than 30'. The latter split into sub-branches- '6.5, 7.5' and 'negative 8.'"/>
 
-## Finally   
+## Finally
 
 The machine learning field presents various new and improved technological applications, including XGBoost. Nevertheless, it remains a viable framework concerning prediction accuracy, adaptability, explainability, and practicality.
 

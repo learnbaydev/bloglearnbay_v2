@@ -12,13 +12,7 @@ import CategorySection from "../../components/BlogPage/HomePage/CategorySection/
 import BottomBar from "../../components/BottomBar/BottomBar";
 
 export default function blog({ allPostsData, categoryPostTag }) {
-  // console.log(allPostsData);
-  // console.log(categoryPostTag, "blog");
-  // const length = parseInt(allPostsData.length);
-  // let singleCategoryPost = allPostsData.map((post) => {
-  //   return post.category;
-  // });
-  // let categoryPostTag = Array.from(new Set(singleCategoryPost));
+
   return (
     <div>
       <Head>
@@ -57,13 +51,14 @@ export default function blog({ allPostsData, categoryPostTag }) {
       </main>
     </div>
   );
-}
+} 
+
 export async function getStaticProps(_context) {
   await generateRssFeed();
   await generateCategoryRssFeed();
   const allPostsData = getSortedPostsData();
   let singleCategoryPost = allPostsData.map((post) => {
-    return post.category;
+    return post.parantcategory;
   });
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
 
@@ -74,3 +69,4 @@ export async function getStaticProps(_context) {
     },
   };
 }
+ 

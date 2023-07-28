@@ -4,7 +4,6 @@ import { TabData } from "./TabData";
 import styles from "./Tabs.module.css";
 
 const Tabs = ({ handleIcon }) => {
-
   const [dataLoop, setDataLoop] = useState([
     { title: "Popular Courses", value: true },
     { title: "Data Science & AI", value: false },
@@ -14,7 +13,6 @@ const Tabs = ({ handleIcon }) => {
   ]);
 
   const menuChange = (title, index) => {
-
     if (title === dataLoop[index].title) {
       setDataLoop([...dataLoop], (dataLoop[index].value = true));
       for (let i = 0; i < dataLoop.length; i++) {

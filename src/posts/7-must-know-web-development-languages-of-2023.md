@@ -9,14 +9,22 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-1.jpg"
 headerAlt: "An illustration of a laptop with HTML and CSS code running, along with seven different web development languages such as JAVASCRIPT, JAVA, HTML, SCALA, CSS, PYTHON, and PHP."
 date: "Jan 25, 2023"
-tag: [ web development languages, best language for web development, full stack programmer, best language for front end web development, best language for web development backend]
+tag:
+  [
+    web development languages,
+    best language for web development,
+    full stack programmer,
+    best language for front end web development,
+    best language for web development backend,
+  ]
+parantcategory: "Software Development"
 category: "Full Stack"
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
 catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."
 authortitle: ""
 adesc: ""
 author: "Abhishek Gupta"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/abhishek-gupta.webp"
 authordesc: "Abhishek Gupta is the co-founder and CBO of Learnbay. He holds 7+ years of experience in business development, with a strong background as an instructor in management training and technology. Additionally holding expertise in data science, machine learning, data structure, and system designing. "
 authorlinkedin: "https://www.linkedin.com/in/abhishek-gupta-716552115/"
 position: "Editor"
@@ -25,8 +33,17 @@ h1: "7 Must-Know Web Development Languages of 2023"
 id: "7-must-know-web-development-languages-of-2023"
 tableData:
   [
-       7 Chakras of a Full Stack Web Developer, 1. HTML, 2. CSS, 3. JavaScript, 4. Python, 5. Node.Js, 6. Express, 7. MongoDB, What does a Full Stack Developer do?, Why become a Full-Stack Developer?
-   ]
+    7 Chakras of a Full Stack Web Developer,
+    1. HTML,
+    2. CSS,
+    3. JavaScript,
+    4. Python,
+    5. Node.Js,
+    6. Express,
+    7. MongoDB,
+    What does a Full Stack Developer do?,
+    Why become a Full-Stack Developer?,
+  ]
 ---
 
 <span style=" font-weight:bold; font-size:28px"> Become an Expert Full Stack Developer by Mastering These Essential Web Development Languages </span>
@@ -47,7 +64,6 @@ There are 7 key languages of full stack web development, which is also referred 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-2.jpg" style="width:100%" class="img" alt="An illustration titled, '7 chakras of a full-stack web developer' with a woman in a yoga pose. The seven chakras are HTML, CSS, JS, REACT, EXPRESS, NODE JS, and MONGO DB."/>
 
-
 ## 7 Chakras of a Full Stack Web Developer
 
 ### 1. HTML
@@ -60,7 +76,7 @@ The web development language, HTML, helps in creating pages for the web. In addi
 
 The latest version is HTML5, which provides improved attributes and design for users to experience even better.
 
-### 2. CSS   
+### 2. CSS
 
 _'Give style to the website.'_
 
@@ -70,7 +86,7 @@ CSS is an easy-to-learn language. As a result, it is one of the fundamental web 
 
 CSS is related to web design. Without CSS, the website will be plain text on white background.
 
-### 3. JavaScript   
+### 3. JavaScript
 
 _'Create a dynamic and interactive website.'_
 
@@ -102,7 +118,7 @@ Since its beginning, JavaScript has become a part of every web developer's toolk
 
 - _Repair browser compatibility issue._
 
-### 4. Python   
+### 4. Python
 
 _'Most popular language for Back-end Development.'_
 
@@ -120,7 +136,7 @@ If you are keen to know more about Python based full stack web developer tools, 
 
 <a href="https://blog.learnbay.co/15-tools-every-full-stack-web-developer-should-master" target="_blank">15 Tools Every Full stack Web Developer Should Master</a>
 
-### 5. Node.Js   
+### 5. Node.Js
 
 _'For traditional website and back-end API service.'_
 
@@ -150,7 +166,7 @@ Node.js is a remarkable technology that offers an unbeatable and out-of-the-crow
 
 - _Deploy web apps with ease._
 
-### 6. Express   
+### 6. Express
 
 _'Back-end framework for Node.Js.'_
 
@@ -160,7 +176,7 @@ Express can create a high-performance web application. But in addition, it drive
 
 Express is a simplistic framework. It offers a thin layer of basic web app development features. And also includes high-quality code written by full-stack web developers. So, any full-stack web developer that works on Express in a project uses high-quality code, resulting in better performance.
 
-### 7. MongoDB  
+### 7. MongoDB
 
 _'Create accessible and scalable web applications.'_
 
@@ -186,7 +202,7 @@ Full stack web developers work with MongoDB for a lot of reasons. A few of them 
 
 - _Support agile development and collaboration._
 
-## What does a Full Stack Developer do?  
+## What does a Full Stack Developer do?
 
 Full-stack developers handle the user interface and the server side of a website's development. Due to this, they have quite a bit of responsibility to carry in the industry.
 
@@ -208,7 +224,7 @@ These are:-
 
 - Stay updated with new technologies that improve technology and customer experience.
 
-## Why become a Full-Stack Developer?   
+## Why become a Full-Stack Developer?
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mkwd-4.jpg" style="width:100%" class="img" alt="A full-stack developer seated in front of a computer is coding a program."/>
 

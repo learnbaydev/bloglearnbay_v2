@@ -6,6 +6,7 @@
   background-image: url(https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/author-banner-2.png);
   background-size: cover;
   box-shadow: 0 8px 31px -16px #2372bc;
+  margin-top: 70px;
 }
 .mdiv > * {
   flex: 1 1 0;
@@ -21,45 +22,23 @@
 
 .adesc p {
   position: relative;
-  bottom: 3rem;
+  bottom: 1rem;
   color: #575555;
   font-size: 16px;
   line-height: 148%;
   text-align: justify;
 }
 
-.mcircle {
-  /* margin-left: -50px; */
-}
-
 .circle {
   border-radius: 50%;
   border: solid 3px #534f4f;
-}
-.m1div {
-  /* margin-left: -28rem; */
-
-  /* position: relative;
-  bottom: 2rem;
-  margin-bottom: -4rem; */
-}
-
-.m2div h1 {
-  /* margin-bottom: -20px; */
-}
-
-.Social {
-  /* display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
-    width: 200px; */
 }
 
 .bIcons {
   font-size: 24px;
   position: relative;
   left: 18rem;
-  bottom: 3.2rem;
+  bottom: 2.2rem;
   display: inline;
   display: initial;
   background-color: #0a66c2;
@@ -68,7 +47,42 @@
   cursor: pointer;
   padding: 1.5px;
 }
+@media(max-width: 1024px){
+  .m1div {
+  margin-left: 2rem;
+}
+}
 
+@media(max-width: 801px){
+  .mdiv {
+    grid-template-columns: 41% 64%;
+    padding: 65px 68px 50px 177px;
+}
+}
+
+@media(max-width: 641px){
+  .mdiv{  
+    grid-template-columns: 46% 54%;;
+    padding: 41px 64px 5px 45px;
+  }
+  .m2div h1{
+    font-size: 19px;
+  }
+.adesc p {font-size: 13px;}
+}
+
+@media(max-width:481px){
+    .mcircle {
+    position: relative;
+
+    left: 90px;
+  }
+    .social {
+    position: relative;
+   bottom: -1.8rem;
+    right: -6rem;
+  }
+}
 @media (max-width: 500px) {
   .mdiv {
     display: flex;
@@ -89,12 +103,12 @@
     margin-bottom: 14rem;
     text-align: justify;
   }
-
+/* 
   .mcircle {
     position: relative;
     bottom: 3rem;
     left: 1.5rem;
-  }
+  } */
 
   .circle {
     border-radius: 50%;
@@ -124,17 +138,21 @@
     padding: 2px;
   }
 
-  .social {
+  /* .social {
     position: relative;
     bottom: 4rem;
     right: 5rem;
-  }
+  } */
 }
 
 @media (max-width: 400px) {
-  .mcircle {
+   .mcircle {
     position: relative;
-    bottom: 3rem;
-    left: -2.5rem;
+    left: 44px;
   }
+
+    .m1div {
+    left: 3rem;
+  }
+  
 }

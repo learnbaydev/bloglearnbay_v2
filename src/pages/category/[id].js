@@ -6,20 +6,13 @@ import matter from "gray-matter";
 import { getSortedPostsData } from "../../../lib/posts";
 import Head from "next/head";
 import { sortByDate } from "../../utils";
-import { useState } from "react";
 import Navbar from "../../../components/Navbar/Navbar";
 import Footer from "../../../components/Footer/Footer";
-import CategorySection from "../../../components/BlogPage/CategoryPage/CategorySection";
+import CategorySection from "../../../components/BlogPage/MainCategoryPage/MainCategorySection";
 import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
 import BottomBar from "../../../components/BottomBar/BottomBar";
 
-export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
-  const [visible, setVisible] = useState(9);
-
-  const showMoreItems = () => {
-    setVisible((prevValue) => prevValue + 9);
-  };
-
+export default function CategoryBlog({ categoryPosts, categoryPostTag, id }) {
   const cattitle = categoryPosts[0]?.cattitle || "";
   const catdesc = categoryPosts[0]?.catdesc || "";
 
@@ -32,18 +25,11 @@ export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
       />
 
       <Head>
-        {categoryPosts.slice(0, 1).map(({ category, categoryPosts }) => {
+        {/* {categoryPosts.slice(0, 1).map(({ category, categoryPosts }, index) => {
           let makeUrl = category.toLowerCase().replace(/\s+/g, "-");
-
-          return (
-            <>
-              <link
-                rel="canonical"
-                href={"https://blog.learnbay.co/category/" + makeUrl}
-              />
-            </>
-          );
-        })}
+          const canonicalUrl = "https://blog.learnbay.co/category/" + makeUrl;
+          return <Link key={index} rel="canonical" href={canonicalUrl} />;
+        })} */}
         {/* <html lang="en" /> */}
         <meta name="robots" content="index, follow" />
         <link
@@ -55,6 +41,7 @@ export default function CategoryBlog({ categoryPosts, categoryPostTag }) {
       <Navbar />
       <CategorySection
         categoryPosts={categoryPosts}
+        id={id}
         categoryPostTag={categoryPostTag}
       />
       <CourseSection />
@@ -73,9 +60,8 @@ export async function getStaticPaths() {
       "utf-8"
     );
     const { data: frontMatter } = matter(markdownWithMeta);
-    const categoryLower = frontMatter.category.toLowerCase();
+    const categoryLower = frontMatter.parantcategory.toLowerCase();
     let categoryUrl = categoryLower.replace(/\s+/g, "-");
-
     return categoryUrl;
   });
 
@@ -94,16 +80,17 @@ export async function getStaticProps({ params: { id } }) {
 
   //Filter post by categories
   const categoryPosts = allPostsData.filter(
-    (post) => post.category.toLowerCase().replace(/\s+/g, "-") === id
+    (post) => post.parantcategory.toLowerCase().replace(/\s+/g, "-") === id
   );
-  let singleCategoryPost = allPostsData.map((post) => {
+  let singleCategoryPost = categoryPosts.map((post) => {
     return post.category;
   });
   let categoryPostTag = Array.from(new Set(singleCategoryPost));
   return {
     props: {
-      categoryPosts: categoryPosts.sort(sortByDate),
+      categoryPosts: categoryPosts.sort(sortByDate).slice(0, 5),
       categoryPostTag,
+      id,
     },
   };
 }

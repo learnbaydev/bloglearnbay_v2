@@ -14,6 +14,7 @@ tag:
     data science and data analyst job,
     difference between data science and data analyst,
   ]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -28,8 +29,9 @@ authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
 readTime: "4.5 min"
 h1: "Data Scientist Vs. Data Analyst: Know The Ultimate Career Difference"
-id: data-analyst-vs-data-scientist 
-tableData: [
+id: data-analyst-vs-data-scientist
+tableData:
+  [
     What is Data Science? And How does it shape up Data Scientist's job role?,
     Who are Data Scientists?,
     What is Data Analysis? And How does it shape up Data Analyst's job role?,
@@ -38,9 +40,8 @@ tableData: [
     Feature#1 - Skills and Responsibilities,
     Feature#2 - Salary range in India,
     Feature#3 - Basic eligibility criteria,
-    Concluding Remarks, 
-    Where to get the right guidance?
-
+    Concluding Remarks,
+    Where to get the right guidance?,
   ]
 ---
 
@@ -106,7 +107,7 @@ Below are a few points that will allow you to understand the distinctive feature
 
 ## Three Distinguishing Features of Data Analyst vs. Data Scientist
 
-###  Feature#1 - Skills and Responsibilities
+### Feature#1 - Skills and Responsibilities
 
 <style>
 table {
@@ -171,19 +172,17 @@ td, th {
   </tr>
 </table>
 
-### Feature#2 - Salary range in India  
+### Feature#2 - Salary range in India
 
 Considering career growth, **data analyst vs. data scientist salaries in India** carries upward-trending professional careers. However, the depth of responsibilities affects their salary range in India.
 
-
 Glassdoor states the average <a href="https://blog.learnbay.co/is-your-data-scientist-salary-competitive-cross-check-with-the-latest-trends" target="_blank">data scientist's salary</a> ranges around ₹12,00,000 per annum. The minimum basic pay ranges around ₹5,00,000-₹6,00,000 per annum, and the maximum goes towards ₹25,00,000 per annum.
-
 
 Similarly, a review by Glassdoor also suggests that a **data analyst's** average salary range is ₹10,00,000 per annum. The minimum basic pay ranges around ₹5,00,000 per annum, and the maximum goes towards ₹14,00,000 per annum.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wib-3.jpg" style="width:100%" class="img" alt="An illustration shows a data analyst holding a laptop in his hands. The background shows several figures that indicate the salary and future growth of the mentioned job role." title="Salary range of data analyst and data scientist in India"/>
 
-### Feature#3 - Basic eligibility criteria    
+### Feature#3 - Basic eligibility criteria
 
 There are no advanced skills required to become a data scientist or data analyst. Only you need industry-grade upskilling with the required level of statistical, programming, and analytical skills.
 
@@ -193,13 +192,13 @@ There are no advanced skills required to become a data scientist or data analyst
 
 So, in brief, any graduate can opt for a data scientist or data analyst role followed by a proper <a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">data science certification course</a> or a <a href="https://www.learnbay.co/data-analytics-certification-course" target="_blank">data analytics certification course</a> with hands-on project opportunities.
 
-## Concluding Remarks  
+## Concluding Remarks
 
 **Data scientist vs. data analyst** is the hottest discussion now in the career discussion. In fact, both offer ample scopes to the techies and mainly non-techies toward successful career transformation. A professional who wants to pursue a career in analytics chooses a data analyst job role, and a professional who wants to go with machine learning, deep learning, and AI in the future can choose a <a href="https://blog.learnbay.co/different-job-roles-after-a-data-science-course" target="_blank">data scientist job role</a>.
 
 I must say, the **Data Science vs. Data Analytics course**/roles complement each other. So based on their interest and passion for statistics and coding, candidates can choose either one.
 
-### Where to get the right guidance?  
+### Where to get the right guidance?
 
 For a **data analyst** role, register for <a href="https://www.learnbay.co/data-analytics-certification-course" target="_blank">Data Analytics Program</a>. With interactive learning sessions and project handling, non-technical professionals get benefits.
 

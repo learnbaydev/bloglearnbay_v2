@@ -1,15 +1,38 @@
 ---
 title: The Most Trending Applications of AI in Transportation Industry
 stitle: "Trending Applications of AI in Transportation Industry"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2022-12-09T13:25:31+05:30"
-modified_time:  "2022-12-09T13:25:31+05:30"
+modified_time: "2022-12-09T13:25:31+05:30"
 desc: "Increasing demand for safety in transportation and efficient traffic management are key factors influencing artificial intelligence in transportation."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-1.jpg"
 headerAlt: "A banner illustration titled, 'Most Trending AI Applications in the Transportation Industry.' The illustration of transport vehicles and an AI-based automated robot."
 date: "Dec 9, 2022"
-tag: [ AI in transportation, AI in automotive industry, Artificial intelligence in transportation, AI in Aviation, AI in automobile, examples of ai in transportation, ai in transportation in india, benefits of ai in transportation, future of ai in transportation, ai in public transportation, ai in transportation and logistics, benefits of ai in transportation, application of ai in automotive industry, applications of artificial intelligence in transport an overview, future of ai in aviation, advantages of ai in aviation, application of ai in aviation, use of ai in automobile industry, benefits of ai in automotive industry, future of ai in automotive industry ]
+tag:
+  [
+    AI in transportation,
+    AI in automotive industry,
+    Artificial intelligence in transportation,
+    AI in Aviation,
+    AI in automobile,
+    examples of ai in transportation,
+    ai in transportation in india,
+    benefits of ai in transportation,
+    future of ai in transportation,
+    ai in public transportation,
+    ai in transportation and logistics,
+    benefits of ai in transportation,
+    application of ai in automotive industry,
+    applications of artificial intelligence in transport an overview,
+    future of ai in aviation,
+    advantages of ai in aviation,
+    application of ai in aviation,
+    use of ai in automobile industry,
+    benefits of ai in automotive industry,
+    future of ai in automotive industry,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -18,21 +41,22 @@ authortitle: "Milan Jain - An Enthusiastic Technical Content Creator at Learnbay
 authordesc: "Milan Jian, a passionate blogger with a strong background in content creation and a keen interest in learning about new developments in various technologies."
 
 author: "Milan Jain"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 adesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
-authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/" 
+authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
 readTime: "15-18 mins"
 h1: "The Most Trending Applications of AI in Transportation Industry"
 id: "the-most-trending-applications-of-ai-in-transportation-industry"
 tableData:
   [
-        The Advancements of Artificial Intelligence in Different Means of Transportation, AI in Road Transportation, Applications of AI in Aviation, AI in Railway Transportation, AI in Shipping
-   ]
+    The Advancements of Artificial Intelligence in Different Means of Transportation,
+    AI in Road Transportation,
+    Applications of AI in Aviation,
+    AI in Railway Transportation,
+    AI in Shipping,
+  ]
 ---
-
-
-
 
 <span style=" font-weight:bold; font-size:28px"> Know How Innovation of AI in Transportation Is Easing Our Life?</span>
 
@@ -48,7 +72,7 @@ As per the current automotive industry demand, the user experience must be fast 
 
 ## The Advancements of Artificial Intelligence in Different Means of Transportation
 
-### AI in Road Transportation 
+### AI in Road Transportation
 
 Road transport is a diverse sector, and AI has been successfully implemented in this sector.
 
@@ -60,13 +84,13 @@ AI algorithms are mostly used in sharing economy platforms offering road transpo
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-3.jpg" style="width:100%" class="img" alt="An AI-powered robotic hand holds an airplane miniature at the tip of its index finger. This indicates the applications of AI in the aviation industry."/>
 
-### Applications of AI in Aviation   
+### Applications of AI in Aviation
 
 **AI in the aviation industry** was integrated into its early stages of development. The aviation industry has seen how AI and ML technology can improve business. AI technology in air traffic operations is at an elementary stage. Automation by AI, ML and data analytics models are improving air traffic management. Traffic management, separation standards, and airspace planning design have also changed. Advanced business intelligence systems are in airplanes. It is a customized pricing, sales, marketing, scheduling, and fleet management system.
 
 A few potential applications of AI in aviation are **airplane movement directions, safety checks, unloading, loading, fuelling, anti-icing, and de-icing**. The on-the-ground operations like cargo, mail, passengers, and baggage. Ground handling can also be where AI can make a difference, in the process or speed. AI also helps better strong airport security as it can turn historical and real-time data into anomalies.
 
-### AI in Railway Transportation  
+### AI in Railway Transportation
 
 Railways was first established and then developed in the 19th century. It was the most innovative sector of the economy and handled the biggest part of the industrial revolution. Railways lost in the long-term development against airways.
 
@@ -82,7 +106,7 @@ Until now, amongst all kinds of innovative measures of AI in the transportation 
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mta-4.jpg" style="width:100%" class="img" alt="A foreground image shows a logistic ship, in the background image shows an AI-based automated robot."/>
 
-### AI in Shipping  
+### AI in Shipping
 
 Recently, river, sea, and inland waterway transport have shown many important developments. A few of the trends are ship traffic has increased and is dense. This gave a path to improve maritime safety and surveillance. The increase in container traffic has called for adaptations to port terminals and good connections to the hinterland. The vessel size keeps growing, increasing the pressure that ships receive on ports and their cities. The environmental factor is also addressed and has moved towards greener rules. These rules are of the International Competition in the global maritime industry. **IoT, digitalization, big data, and automation have been game-changers for the water landscape.**
 

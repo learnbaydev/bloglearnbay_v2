@@ -1,5 +1,5 @@
 ---
-title:  OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?
+title: OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?
 stitle: "OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?"
 publish: "Published on"
 published_time: "2023-02-24T13:25:31+05:30"
@@ -9,7 +9,15 @@ slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/oaic-1.png"
 headerAlt: ""
 date: "Feb 24, 2023"
-tag: [ open source chatbot, best ai chatbot, nlp chatbot, large language models use cases, conversational ai examples ]
+tag:
+  [
+    open source chatbot,
+    best ai chatbot,
+    nlp chatbot,
+    large language models use cases,
+    conversational ai examples,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -17,8 +25,8 @@ catdesc: "Explore Artificial Intelligence Blogs, features highly informative and
 authortitle: "Manas Kochar - Artificial Intelligence Enthusiast & Blogger | Learnbay"
 adesc: "Manas Kochar, A Passionate Blogger from Learnbay Content Team. Explore her Artificial Intelligence and Machine Learning Blogs."
 
-author: "Manas Kochar" 
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
+author: "Manas Kochar"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/manas-kochar.webp"
 authordesc: "An enthusiastic blogger with a strong background in content creation and a hard-core interest in emerging technologies, mainly hot topics and happenings in AI and machine learning."
 authorlinkedin: "https://www.linkedin.com/in/manas-kochar-7451ba127/"
 position: "Editor"
@@ -27,8 +35,16 @@ h1: "OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?"
 id: "open-ai-chatgpt-is-it-really-a-threat-to-the-humanoid-world"
 tableData:
   [
-
-    What is OpenAI ChatGPT?, Various Use Cases of ChatGPT, Coding and Debugging, Solving Math Queries, Grading Test Papers, Extracting Data, What are the limitations of ChatGPT?, The Future Possibilities…, Google Vs. ChatGPT, Final Verdict
+    What is OpenAI ChatGPT?,
+    Various Use Cases of ChatGPT,
+    Coding and Debugging,
+    Solving Math Queries,
+    Grading Test Papers,
+    Extracting Data,
+    What are the limitations of ChatGPT?,
+    The Future Possibilities…,
+    Google Vs. ChatGPT,
+    Final Verdict,
   ]
 ---
 
@@ -91,7 +107,7 @@ It comes with its array of limitations which can be seen below.
 - First, as the program’s answers are based on its research from various online sources, it can be biased toward the most supported data. The information on the internet can be biased, manipulated, and incorrect. Since the model does not have ethics instilled, it needs to possess the ability to know what is right or wrong.
 
 - It may offer answers that might be harmful in certain situations. Such as providing the wrong medication for a symptom by searching online.
-Here the information may differ for the most accurate result (which might be least circulated across the internet).
+  Here the information may differ for the most accurate result (which might be least circulated across the internet).
 
 - The answers it provides reflect biases and errors, which may be sensitive or controversial. The responses may display misinformation or stereotypes, which would not fit well with specific groups.
 
@@ -129,4 +145,4 @@ OpenAI ChatGPT is an exciting application that offers many possibilities. If you
 
 If you are interested in such applications, learn about machine learning algorithms and NLP behind it. In addition, you may pursue a project about the same to understand the intricacies, and it can also act as an excellent addition to the resume.
 
-Check out the <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank" rel="dofollow">Artificial Intelligence Certification Course</a> to learn the various applications like this and other trending technologies in detail. Follow us on <a href="https://www.linkedin.com/company/learnbay/" target="_blank" rel="dofollow">LinkedIn</a>, <a href="https://twitter.com/Learnbay" target="_blank" rel="dofollow">Twitter</a>, and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank" rel="dofollow">YouTube</a> for the latest tech innovations around the world. 
+Check out the <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank" rel="dofollow">Artificial Intelligence Certification Course</a> to learn the various applications like this and other trending technologies in detail. Follow us on <a href="https://www.linkedin.com/company/learnbay/" target="_blank" rel="dofollow">LinkedIn</a>, <a href="https://twitter.com/Learnbay" target="_blank" rel="dofollow">Twitter</a>, and <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank" rel="dofollow">YouTube</a> for the latest tech innovations around the world.

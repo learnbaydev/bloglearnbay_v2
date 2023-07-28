@@ -1,15 +1,30 @@
 ---
-title:  What is AIoT? Know Its Advantages in Real-world Scenarios
+title: What is AIoT? Know Its Advantages in Real-world Scenarios
 stitle: "AIOT : Know the advantages in real work scenario"
-publish: "Published on" 
+publish: "Published on"
 published_time: "2022-11-28T13:25:31+05:30"
-modified_time:  "2022-11-28T13:25:31+05:30"
+modified_time: "2022-11-28T13:25:31+05:30"
 desc: "AIoT is a combination of AI and IoT.It is an approach to the development of intelligent systems that use data from sensors and other sources."
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-1.jpg"
 headerAlt: "A banner image representing the use of IoT in various domains like automotive, electrical, etc.  This indicates the development of AIoT."
 date: "Nov 28, 2022"
-tag: [ Artificial intelligence of things, AIoT, Artificial intelligence and IoT, internet of things, artificial intelligence of things aiot, discuss some future products and application of aiot, aiot devices, artificial intelligence of things (aiot) technologies and applications, artificial intelligence of things for weather forecasting and climatic behavioral analysis, artificial intelligence of things examples, aiot full form, relationship between artificial intelligence and iot ]
+tag:
+  [
+    Artificial intelligence of things,
+    AIoT,
+    Artificial intelligence and IoT,
+    internet of things,
+    artificial intelligence of things aiot,
+    discuss some future products and application of aiot,
+    aiot devices,
+    artificial intelligence of things (aiot) technologies and applications,
+    artificial intelligence of things for weather forecasting and climatic behavioral analysis,
+    artificial intelligence of things examples,
+    aiot full form,
+    relationship between artificial intelligence and iot,
+  ]
+parantcategory: "Data Science & BA"
 category: "Artificial Intelligence"
 
 cattitle: "Artificial Intelligence Blogs, Upskilling Resources - Learnbay Blogs"
@@ -18,7 +33,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -27,17 +42,27 @@ h1: "What is AIoT? Know Its Advantages in Real-world Scenarios"
 id: "what-is-aiot-know-its-advantages-in-real-world-scenarios"
 tableData:
   [
-    What is AIoT ?, The AIoT has many benefits - including the following:-, 1. Enhanced efficiency:-,  2. Optimize selection design:-, 3. Improved degree of Personalization:-, 4. Expense deduction:-, Top Applications of AIoT in today's scenario:-, 1. Automated cars:-, 2. Healthcare sectors:-, 3. Smart Homes:-, 4. Creating intelligent cities:-, 5. Wearables gadgets:-, Final thoughts  
-   ]
+    What is AIoT ?,
+    The AIoT has many benefits - including the following:-,
+    1. Enhanced efficiency:-,
+    2. Optimize selection design:-,
+    3. Improved degree of Personalization:-,
+    4. Expense deduction:-,
+    Top Applications of AIoT in today's scenario:-,
+    1. Automated cars:-,
+    2. Healthcare sectors:-,
+    3. Smart Homes:-,
+    4. Creating intelligent cities:-,
+    5. Wearables gadgets:-,
+    Final thoughts,
+  ]
 ---
-
-
 
 <span style=" font-weight:bold; font-size:28px">IoT is Approaching the Next-gen Advancement Via AIoT</span>
 
 **AI and IoT** appear to be effective technologies for their respective fields. Everyone is quite familiar with the term "IoT" (aka Internet of Things). But did you know this term is on the way to becoming obsolete tag? And a new term, ' **AIoT** ,' is going to be its successor.
 
-**IoT is too powerful, but AIoT is going to be a superpower.** 
+**IoT is too powerful, but AIoT is going to be a superpower.**
 
 ## What is AIoT ?
 
@@ -79,7 +104,7 @@ AIoT can help businesses to improve communication between various departments wi
 
 Let's take a closer look at the benefits in detail:
 
-### 1. Enhanced efficiency:-       
+### 1. Enhanced efficiency:-
 
 Integrating Artificial intelligence and IoT allow businesses to automate tasks and procedures that are currently done manually. For example, if a machine can identify when material needs to be restocked and then order it automatically, it reduces the time required for someone to do it manually. As a result, employees are able to focus on more critical tasks, and there is an overall boost in productivity.
 
@@ -97,7 +122,7 @@ Reduced expenses are one advantage firms can gain from automating operations and
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-4.jpg" style="width:100%" class="img" alt="An AIoT-powered automated car runs on a road. "/>
 
-## Top Applications of AIoT in today's scenario:-      
+## Top Applications of AIoT in today's scenario:-
 
 ### 1. Automated cars:-
 
@@ -121,13 +146,13 @@ The <a href="https://blog.learnbay.co/how-to-build-a-rewarding-career-as-a-healt
 
 In addition to this, AIoT devices aid in altering human behavior by measuring patients' levels of stress and allowing doctors to interact effectively.
 
-### 3. Smart Homes:-    
+### 3. Smart Homes:-
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/aiot-5.jpg" style="width:100%" class="img" alt="A smart home equipped with AIoT-powered devices and appliances."/>
 
 <a href="https://www.youtube.com/watch?v=8DUDgqR-6jI" target="_blank" rel="nofollow">Smart homes</a> are a significant concept associated with the consumer market. Devices such as home security systems, thermostats, lighting, and cameras are included in these homes. All of these devices use Bluetooth and WiFi, which is a critical technology that allows these smart homes to share data and store it in a database for an ecosystem. However, incorporating **AIoT** into such technologies increases their efficacy and makes it easier for AI to use monitoring cameras, lights, and other technologies without human intervention.
 
-### 4. Creating intelligent cities:-    
+### 4. Creating intelligent cities:-
 
 Projects for smart cities are already underway all over the world, and AIoT is predicted to play a significant role in these initiatives. AIoT can assist with issues including lowering transportation congestion, increasing energy efficiency, and enhancing public safety.
 
@@ -137,6 +162,6 @@ Projects for smart cities are already underway all over the world, and AIoT is p
 
 The following functions of some smartwatches, such as heart rate sensors, sleep monitoring, and Spo2, can only be achieved by using AIoT,
 
-## Final thoughts   
+## Final thoughts
 
 The application of AIoT has become a significant part of human technological breakthroughs. With future advancements, it is getting ready to demonstrate some of the best-case innovations, according to the analysis of the application. Thanks to recent AIoT advancements, many devices can now be operated via voice or touch. In the future, you might be able to ask your appliances for information or operate them. If you like reading the blog, follow us on <a href="https://www.facebook.com/learnbay/" target="_blank">Facebook</a>, <a href="https://www.youtube.com/channel/UC-ntE_GnjjiUuKYqih9ENYA" target="_blank">YouTube</a>, and <a href="https://www.linkedin.com/company/learnbay/" target="_blank">LinkedIn</a>.

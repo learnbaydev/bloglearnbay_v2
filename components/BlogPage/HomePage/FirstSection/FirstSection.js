@@ -16,7 +16,9 @@ function FirstSection({ allPostsData }) {
   function findSerach(value) {
     setSearch(value.target.value);
   }
-
+  const [active, setActive] = useState(false);
+  const [active1, setActive1] = useState(false);
+  const [active2, setActive2] = useState(false);
   useEffect(() => {
     //
     var input = document.getElementById("myInput");
@@ -30,16 +32,43 @@ function FirstSection({ allPostsData }) {
 
   return (
     <>
-      <div className={styles.upperDiv}>
+      {/* <div className={styles.upperDiv}>
         <div className={styles.innerP}>
           <Link href="#featured">
-            <p>FEATURED BLOG POSTS</p>
+            <p
+              className={active2 ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(false);
+                setActive1(false);
+                setActive2(true);
+              }}
+            >
+              FEATURED BLOG POSTS
+            </p>
           </Link>
-          <Link href="#data-science">
-            <p>DATA SCIENCE & BUSINESS ANALYTICS</p>
+          <Link href="#Full Stack">
+            <p
+              className={active ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive(true);
+                setActive1(false);
+                setActive2(false);
+              }}
+            >
+              Software Development
+            </p>
           </Link>
-          <Link href="#software">
-            <p>SOFTWARE DEVELOPMENT</p>
+          <Link href="#Data Science">
+            <p
+              className={active1 ? styles.active : styles.inactive}
+              onClick={() => {
+                setActive1(true);
+                setActive(false);
+                setActive2(false);
+              }}
+            >
+             DATA SCIENCE & BUSINESS ANALYTICS 
+            </p>
           </Link>
         </div>
         <div className="col-lg-4">
@@ -63,9 +92,9 @@ function FirstSection({ allPostsData }) {
             ></Link>
           </div>
         </div>
-      </div>
-      <div className={styles.upperBanner}>
-        {/* <Swiper
+      </div> */}
+      <div className={styles.upperBanner} id="featured">
+        <Swiper
           slidesPerView={1}
           spaceBetween={40}
           pagination={{
@@ -136,7 +165,7 @@ function FirstSection({ allPostsData }) {
                 );
               }
             )}
-        </Swiper> */}
+        </Swiper>
       </div>
     </>
   );

@@ -18,6 +18,7 @@ tag:
     python2 vs python3 exception,
     python2 vs python3 division,
   ]
+parantcategory: "Data Science & BA"
 category: "Python"
 
 cattitle: "Upskill With All Python Upskilling Resources - Learnbay Blogs"

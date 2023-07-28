@@ -8,8 +8,9 @@ desc: "Learnbay provides data science training in Bangalore with real time proje
 slug: home
 headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-data-science-1.png"
 headerAlt: ""
-date: "may 28, 2019" 
-tag: [ Data Science ]
+date: "may 28, 2019"
+tag: [Data Science]
+parantcategory: "Data Science & BA"
 category: "Data Science"
 
 cattitle: "Latest Data Science Trends, Blogs, Career Resources - Learnbay Blogs"
@@ -18,7 +19,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg : "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -26,14 +27,13 @@ readTime: "7-8 mins"
 h1: "Learnbay | Data Science Training in Bangalore"
 id: "learnbay-data-science-training-in-bangalore"
 tableData:
-  [ 
+  [
     Learnbay | Data Science Training in Bangalore,
     How Flexi Classroom Subscription Helps?,
     Course Modules And Tools Covered,
     Superintelligence,
     A Machine is never conscious,
-    Job Assistance Details
-
+    Job Assistance Details,
   ]
 ---
 
@@ -87,4 +87,4 @@ We at Learnbay provides data science training in Bangalore with real time projec
 - One-on-one Mock Interviews
 - Session on explaining projects in interview (4 hour session - domain specific)
 - Session on Top 50 Interview Questions(3 hour Session)
-- **Job Referrals to the service based and banking/Finance Companies** 
+- **Job Referrals to the service based and banking/Finance Companies**

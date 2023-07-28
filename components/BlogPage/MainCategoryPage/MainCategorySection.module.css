@@ -16,8 +16,11 @@
   height: 100%;
   display: flex;
   background: white;
-  z-index: -1;
+  z-index: 1;
   position: relative;
+  cursor: pointer;
+  
+  
 }
 .blog img {
   z-index: -1;
@@ -46,10 +49,10 @@
 }
 
 .profileWrap h4 {
-  font-size: 26px;
+  font-size: 21px;
   font-weight: 500;
   margin: 10px 0px 20px 0px;
-  line-height: 35px;
+  line-height: 26px;
 }
 .profileWrap span {
   display: flex;
@@ -181,6 +184,7 @@
   gap: 50px;
   align-items: center;
   justify-content: space-between;
+  position: relative;
 }
 
 .innerP {
@@ -203,6 +207,7 @@
   display: flex;
   gap: 10px;
   align-items: center;
+  height: fit-content;
 }
 
 .formControl input {
@@ -213,6 +218,10 @@
 .btnsFlex {
   display: flex;
   gap: 20px;
+  position: absolute;
+  top: 0;
+  right: 100px;
+  z-index: 2;
 }
 
 .btnsFlex select {
@@ -228,15 +237,19 @@
 .rightSide {
   background: #e1f1f54d;
   text-align: center;
-  height: 410px;
-  padding: 0px 20px;
-  overflow-x: scroll;
+  height: max-content;
+  overflow: hidden;
 }
 
 .rightSide p {
-  padding: 20px 0px;
+  padding: 15px 0px;
   border-bottom: 1px solid #0000001a;
   border-width: 20%;
+}
+
+.rightSide p:hover {
+  background-color: #0072bc95;
+  color: #fff;
 }
 
 .rightSide p:last-child {
@@ -306,8 +319,62 @@
 }
 
 
+.blogWrapPost {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  align-items: center;
+  margin: 45px 100px;
+  gap: 30px;
+}
 
 
+.dropdown {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  border-radius: 4px;
+  padding: 10px 20px;
+  background-color: #efefef;
+}
+.select {
+  width: 200px;
+  background-color: #0072bc;
+  border-radius: 4px;
+  border: 1px solid #0072bc;
+  height: 40px;
+  display: flex;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 24px;
+  cursor: pointer;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.dropDownCatName {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 14px;
+}
+
+.listWrap {
+  padding: 0px;
+}
+
+.listWrap P {
+  cursor: pointer;
+  padding: 10px 10px;
+  border-bottom: 1px solid #00000040;
+  margin: 0;
+  font-size: 14px;
+  cursor: pointer;
+  background: #fff;
+}
+.listWrap p:hover {
+  background: #0072bc;
+  color: #fff;
+}
 
 
 @media (max-width: 1281px) {
@@ -339,20 +406,18 @@
     padding: 50px 20px;
   }
 
-  .blogWrap {
-    grid-template-columns: 48% 48%;
-    display: grid;
-    gap: 30px;
-  }
+ .profileWrap span {
+  font-size: 13px;
+ }
 
   .blog {
     display: flex;
     justify-content: center;
   }
 
-  .blogUpper {
+  /* .blogUpper {
     display: block;
-  }
+  } */
   .viewMoreSection h2 {
     font-size: 20px;
   }
@@ -362,12 +427,13 @@
   }
 
   .profileWrap h4 {
-    font-size: 24px;
-    line-height: inherit;
+    font-size: 18px;
+    line-height: 25px;
   }
 
   .profileWrap p {
-    font-size: 0.81rem;
+    display: none;
+    font-size: 13px;
     gap: 7px;
   }
 
@@ -382,12 +448,29 @@
   .profileWrap {
     border-radius: 0px 0px 10px 10px;
   }
+  .profileWrapPost span {
+    font-size: 11px;
+  }
+  .profileWrapPost p {    
+    font-size: 13px;}
+    .profileWrapPost h4 {
+      font-size: 14px;
+    }
+    .blogWrapPost {   
+       margin: 45px 66px;
+          gap: 41px;}
+          .profileWrapPost{height: 283px;}
 }
 
+/* @media(max-width:961px){
+  .profileWrapPost{height: 283px;}
+} */
 @media (max-width: 801px) {
   .blogWrap {
     display: flex;
   }
+  .blogWrapPost {   
+     margin: 45px 86px; }
   .blog img {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
@@ -399,13 +482,21 @@
   .rightSide p {
     font-size: 12px;
   }
+   .profileWrap h4 {
+    font-size: 17px;
+    line-height: 23px;
+  }
 }
 
 @media (max-width: 641px) {
   .profileWrap h4 {
     font-size: 18px;
   }
-
+.profileWrapPost{
+  height: 322px;
+}
+   .blogWrapPost {   
+     margin: 45px 46px; }
   .innerP {
     display: flex;
   }
@@ -420,9 +511,20 @@
   .categoryWrapper {
     grid-template-columns: 66% 31%;
   }
+   .categoryWrapper {
+
+    padding: 50px 40px;
+  }
 }
 
 @media (max-width: 481px) {
+  .blogWrapPost {
+  grid-template-columns: 48% 48%;
+   gap: 15px;
+}
+.profileWrapPost{
+  height: max-content;
+}
   .btnsFlex {
     display: grid;
     gap: 10px;
@@ -456,4 +558,13 @@
   .rightSide {
     margin: 20px 20px 50px 20px;
   }
+   .profileWrap h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
 }
+
+@media (max-width: 400px) {
+  .blogWrapPost {
+  grid-template-columns: 100% ;
+}}

@@ -10,6 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/mle-1
 headerAlt: "A banner image titled, 'Multimodal Deep Learning: Enabling fusion of Multiple modalities and  Deep Learning' shows a series of cloudy face illustration."
 date: "Apr 07, 2023"
 tag: [multimodal meaning, openai gpt 4, multimodal fusion deep learning]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"

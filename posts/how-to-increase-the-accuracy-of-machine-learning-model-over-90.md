@@ -14,6 +14,7 @@ tag:
     What is accuracy in the machine learning?,
     how to increase accuracy of machine learning model,
   ]
+parantcategory: "Data Science & BA"
 category: "Machine Learning"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -195,15 +196,10 @@ If you want to know more about Bagging and Boosting, read the following blog:
 **Points to remember while implementing machine learning algorithms:-**
 
 - To enhance prediction accuracy, building, and testing hypotheses is mandatory.
-  
 - Data should be cleaned and preprocessed to account for missing and outlier values.
-  
 - Generate unique characteristics from available data using feature selection.
-  
 - Try multiple model selection processes to get the best model for your data.
-  
 - Tune hyperparameters to improve model performance.
-  
 - For improved performance, use ensemble methods to merge different models.
 
 Try understanding the proper steps to create an accurate ML model, and the process will become easier. Your coding knowledge and algorithmic problem-solving skills are the ultimate keys to enhancing the Machine learning models.
