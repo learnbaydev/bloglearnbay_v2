@@ -14,7 +14,7 @@ tag:
     is python good for data structures and algorithms,
     which is best for dsa java or python,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"

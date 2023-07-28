@@ -24,7 +24,7 @@ tag:
     what is cloud computing with example,
     types of cloud computing,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Cloud Computing"
 
 cattitle: "Latest Cloud Computing Blogs and Updates - Learnbay Blogs"

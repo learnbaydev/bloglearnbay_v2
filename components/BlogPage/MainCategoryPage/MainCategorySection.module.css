@@ -184,6 +184,7 @@
   gap: 50px;
   align-items: center;
   justify-content: space-between;
+  position: relative;
 }
 
 .innerP {
@@ -206,6 +207,7 @@
   display: flex;
   gap: 10px;
   align-items: center;
+  height: fit-content;
 }
 
 .formControl input {
@@ -216,6 +218,10 @@
 .btnsFlex {
   display: flex;
   gap: 20px;
+  position: absolute;
+  top: 0;
+  right: 100px;
+  z-index: 2;
 }
 
 .btnsFlex select {
@@ -232,14 +238,18 @@
   background: #e1f1f54d;
   text-align: center;
   height: max-content;
-  padding: 0px 20px;
   overflow: hidden;
 }
 
 .rightSide p {
-  padding: 20px 0px;
+  padding: 15px 0px;
   border-bottom: 1px solid #0000001a;
   border-width: 20%;
+}
+
+.rightSide p:hover {
+  background-color: #0072bc95;
+  color: #fff;
 }
 
 .rightSide p:last-child {
@@ -315,6 +325,55 @@
   align-items: center;
   margin: 45px 100px;
   gap: 30px;
+}
+
+
+.dropdown {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  border-radius: 4px;
+  padding: 10px 20px;
+  background-color: #efefef;
+}
+.select {
+  width: 200px;
+  background-color: #0072bc;
+  border-radius: 4px;
+  border: 1px solid #0072bc;
+  height: 40px;
+  display: flex;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 24px;
+  cursor: pointer;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.dropDownCatName {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 14px;
+}
+
+.listWrap {
+  padding: 0px;
+}
+
+.listWrap P {
+  cursor: pointer;
+  padding: 10px 10px;
+  border-bottom: 1px solid #00000040;
+  margin: 0;
+  font-size: 14px;
+  cursor: pointer;
+  background: #fff;
+}
+.listWrap p:hover {
+  background: #0072bc;
+  color: #fff;
 }
 
 

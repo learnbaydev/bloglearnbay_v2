@@ -25,7 +25,7 @@ tag:
     female tech ceos,
     women's role in technology,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Machine Learning Resources - LearnBay Blogs"
@@ -56,7 +56,7 @@ tableData:
 
 <span style=" font-weight:bold; font-size:28px">Full stack software developer career can change the game for women in Tech</span>
 
-When we talk about software developers, we hear famous names **MARTIN FOWLER, KENT BECK, GEORGE H. FAIRBANKS, MARK RICHARDS, UNCLE BOB,** and a few more. The tech industry is flooded with men. Most of them think that when it comes to software development or any other job role in the tech industry, it is only about men.
+When we talk about software developers, we hear famous names **MARTIN FOWLER, KENT BECK, GEORGE H. FAIRBANKS, MARK RICHARDS, UNCLE BOB,** and a few more. The tech industry is flooded with men. Most of them think that when it comes to Software Development or any other job role in the tech industry, it is only about men.
 
 This is why we want to share with you and clear your thoughts that full-stack software is not just about men. In fact, it can change the growth direction of a woman's career no matter whether she has a career break or has an impressive career flow. Industry-paced full-stack developer courses are helping women to remove the gender gap in tech by assisting women in restarting their careers after a <a href="https://blog.learnbay.co/full-stack-software-developer-course-the-guarantee-of-a-lucrative-career-restart-for-women-after-a-break" target="_blank">career break.</a>
 
@@ -136,7 +136,7 @@ Dani Roxberry is a battle-tested software architect with over 15 years of experi
 
 Teresa Shih was often shy and afraid to ask or answer questions in class among the other boys in the class, as we all know that women are usually not renowned in the full-stack software developer role. She continued to be a full-stack software developer, however. She loves coding and problem-solving and likes to learn while working.
 H
-At present, she is the engineering product manager at <a href="https://hackernest.com/" target="_blank" rel="nofollow">HackerNest.</a> She is handling the Engineering product manager role at HackerNest. Even after being shy and getting neglected by others in the class, she is now leading HackerNest towards unbelievable software development-related success.
+At present, she is the engineering product manager at <a href="https://hackernest.com/" target="_blank" rel="nofollow">HackerNest.</a> She is handling the Engineering product manager role at HackerNest. Even after being shy and getting neglected by others in the class, she is now leading HackerNest towards unbelievable Software Development-related success.
 
 <br><br>
 
@@ -180,7 +180,7 @@ classic arcade games, and a restaurant review app. Judit even holds multiple cer
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fwomen-8.jpg" style="width:100%" class="img" alt="A portrait of Lyndsey Padget."/>
 
-Lyndsey is a Kansas City-based full-stack Javascript developer.Her 15 years of experience in web and software development has been gained from her work with top companies and startups.
+Lyndsey is a Kansas City-based full-stack Javascript developer.Her 15 years of experience in web and Software Development has been gained from her work with top companies and startups.
 
 Lyndsey is a MEAN stack expert in Express, MongoDB, Angular (2-7), and NodeJS. She has a great experience in Typescript, Javascript, and Coffeescript - ES5/6/7. She even walks TDD and specializes in designing maintainable intuitive RESTful APIs, release management strategies, and Git workflows.
 

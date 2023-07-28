@@ -10,7 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/tfsi-
 headerAlt: ""
 date: "May 24, 2023"
 tag: []
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -1119,7 +1119,7 @@ Salary Package will be between 12-30 LPA (INR) </br><br/>
 
 ### 2. Which is Better - MERN or Full-Stack?
 
-MERN Stack is only used for web development by full-stack web developers. MERN Stack is best suited for small projects such as one-page or smartphone apps. Full stack software developers are well-versed in all aspects of the software development process. </br><br/>
+MERN Stack is only used for web development by full-stack web developers. MERN Stack is best suited for small projects such as one-page or smartphone apps. Full stack software developers are well-versed in all aspects of the Software Development process. </br><br/>
 
 ### 3. Why Should You Become Full-Stack Developer?
 

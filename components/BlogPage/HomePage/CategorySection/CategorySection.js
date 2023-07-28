@@ -16,6 +16,7 @@ export default function CategorySection({ categoryPostTag }) {
       if (data.status === 200) {
         const { blogData } = await data.json();
         setAllBlogPostsData(blogData);
+        
       }
     };
     fetchCertificateId();
@@ -27,7 +28,7 @@ export default function CategorySection({ categoryPostTag }) {
   }
   const [active, setActive] = useState(false);
   const [active1, setActive1] = useState(false);
-  const [active2, setActive2] = useState(false);
+  const [active2, setActive2] = useState(true);
   useEffect(() => {
     //
     var input = document.getElementById("myInput");
@@ -43,7 +44,7 @@ export default function CategorySection({ categoryPostTag }) {
     <>
       <div className={styles.upperDiv}>
         <div className={styles.innerP}>
-          <Link href="#featured">
+          <Link href="#Data Science & BA">
             <p
               className={active2 ? styles.active : styles.inactive}
               onClick={() => {
@@ -52,10 +53,10 @@ export default function CategorySection({ categoryPostTag }) {
                 setActive2(true);
               }}
             >
-              HOT TOPICS
+              DATA SCIENCE & BUSINESS ANALYTICS
             </p>
           </Link>
-          <Link href="#Full Stack">
+          <Link href="#Software Development">
             <p
               className={active ? styles.active : styles.inactive}
               onClick={() => {
@@ -67,7 +68,7 @@ export default function CategorySection({ categoryPostTag }) {
               SOFTWARE DEVELOPMENT
             </p>
           </Link>
-          <Link href="#Data Science">
+          <Link href="#Hot Topics">
             <p
               className={active1 ? styles.active : styles.inactive}
               onClick={() => {
@@ -76,7 +77,7 @@ export default function CategorySection({ categoryPostTag }) {
                 setActive2(false);
               }}
             >
-              DATA SCIENCE & BUSINESS ANALYTICS
+              HOT TOPICS
             </p>
           </Link>
         </div>
@@ -110,8 +111,6 @@ export default function CategorySection({ categoryPostTag }) {
         );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
         let url = `/category/${makeUrl}`;
-
-        // console.log("@@@@", categoryPostTag);
 
         const firstBlogPosts = categoryPosts.slice(0, 6);
 

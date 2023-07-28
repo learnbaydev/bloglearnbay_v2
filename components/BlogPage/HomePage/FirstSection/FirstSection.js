@@ -55,7 +55,7 @@ function FirstSection({ allPostsData }) {
                 setActive2(false);
               }}
             >
-              SOFTWARE DEVELOPMENT
+              Software Development
             </p>
           </Link>
           <Link href="#Data Science">

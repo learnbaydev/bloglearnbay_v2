@@ -10,7 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nthg-
 headerAlt: ""
 date: "Jun 02, 2023"
 tag: []
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -99,13 +99,13 @@ If the back-end (server side) processes are not working properly, the user exper
 
 ## 4. Gaining knowledge of databases
 
-The database helps store, manage, and access information for software development. PostgreSQL, MySQL, and MongoDB are widely used database applications. You can link to database management systems using the Python or Java programming languages.
+The database helps store, manage, and access information for Software Development. PostgreSQL, MySQL, and MongoDB are widely used database applications. You can link to database management systems using the Python or Java programming languages.
 
-A full stack software developer knows how to develop and manage a database. Based on the project specifications, you need to choose the kind of database to use. Understanding the proper utilization of databases is essential for a software development project. </br></br>
+A full stack software developer knows how to develop and manage a database. Based on the project specifications, you need to choose the kind of database to use. Understanding the proper utilization of databases is essential for a Software Development project. </br></br>
 
 ## 5. Gain practical experience
 
-Software development requires you to have a practical understanding of frameworks and languages so you can create effective code. Projects also help you determine areas to improve and act accordingly. Here, practicing plays a prominent role in building a continuous and basic understanding of technical terminologies.
+Software Development requires you to have a practical understanding of frameworks and languages so you can create effective code. Projects also help you determine areas to improve and act accordingly. Here, practicing plays a prominent role in building a continuous and basic understanding of technical terminologies.
 
 You may begin with small projects and keep expanding your reach. Keep learning until you start working on large-scale projects developed in industries. Websites such as Stack Overflow and GitHub help students practice and study with other students on the platform.
 
@@ -153,7 +153,7 @@ However, expert full stack developers are not only cost-effective, but their abi
 
 It's simpler now, in this internet age to learn full stack development. However, several options can confuse you. Aspirants have a vast number of learning possibilities before them. Having a concise approach and the right strategy is very crucial
 
-So, compare your schedule and academic objectives to find the best way to study full stack software development.</br></br>
+So, compare your schedule and academic objectives to find the best way to study full stack Software Development.</br></br>
 
 ## In conclusion…
 

@@ -15,7 +15,7 @@ tag:
     devops in retail industry,
     digital transformation tools,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Technology"
 
 cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
@@ -79,11 +79,11 @@ But before moving ahead with discussions, let us understand **DevOps, DevOps aut
 
 ## What is DevOps?
 
-As the term specifies, DevOps consists of two elements; Development (Dev) and Operations (Ops). DevOps is significant in framing the tools and methodologies to meet the business's expectations. It supports the software development cycle.
+As the term specifies, DevOps consists of two elements; Development (Dev) and Operations (Ops). DevOps is significant in framing the tools and methodologies to meet the business's expectations. It supports the Software Development cycle.
 
 Complexities of IT projects suppress well with setting a culture of coordination and collaboration. The adoption of DevOps confirms this sense of culture that has shifted the productivity of the retail sector cautiously.
 
-Hence, it connects team operations well with software development functions with resilience and efficient resources.
+Hence, it connects team operations well with Software Development functions with resilience and efficient resources.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/devt-2.jpg" style="width:100%" class="img" alt="A DevOps pro seated with a laptop works on automation projects. The background shows icons of 'settings', 'line graph', 'DevOps logo', and 'floating clouds'." title="DevOps Automation Professional"/>
 

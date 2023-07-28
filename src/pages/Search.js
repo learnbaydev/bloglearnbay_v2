@@ -32,8 +32,6 @@ export default function Search() {
         }
     )
 
-    // console.log("AAAA", posts)
-
     return (
         <>
         <Navbar />

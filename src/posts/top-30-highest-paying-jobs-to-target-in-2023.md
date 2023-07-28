@@ -31,7 +31,7 @@ adesc: "Discover Trisha's extensive experience in writing about cutting-edge eme
 
 author: "Trisha Manna"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/trisha-manna.webp"
-authordesc: "Trisha holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and software development have always been on her extreme interest list. A passion for lifelong "
+authordesc: "Trisha holds 7+ years of expertise in emerging technology-related writing. AI, ML, web, and Software Development have always been on her extreme interest list. A passion for lifelong "
 authorlinkedin: "https://www.linkedin.com/in/trisha-m-5ab088132/"
 position: "Editor"
 readTime: "8-9 mins"

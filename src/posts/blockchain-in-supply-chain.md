@@ -15,7 +15,7 @@ tag:
     supply chain management in blockchain,
     blockchain in supply chain course,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Technology"
 
 cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
@@ -235,4 +235,4 @@ The efficacy of blockchain technology in the supply chain is increasing day by d
 
 It's obvious that blockchain-expertized software developers are going to be in the limelight in the upcoming years. In fact, if you are already a developer, you must upskill yourself with blockchain expertise. It's guaranteed that you can achieve even a 200% hike by the next year.
 
-However, instead of random and unstructured study, you must do a proper industry-demanding <a href="https://www.learnbay.co/full-stack-software-development-program" target="_blank">software development course with blockchain specialization</a>. Also, don't forget to confirm if your chosen course offered guaranteed job assistance or not. If you choose the right course and dedicatedly learn it, no one can resist you transforming your software developer career in a sky-high direction.
+However, instead of random and unstructured study, you must do a proper industry-demanding <a href="https://www.learnbay.co/full-stack-software-development-program" target="_blank">Software Development course with blockchain specialization</a>. Also, don't forget to confirm if your chosen course offered guaranteed job assistance or not. If you choose the right course and dedicatedly learn it, no one can resist you transforming your software developer career in a sky-high direction.

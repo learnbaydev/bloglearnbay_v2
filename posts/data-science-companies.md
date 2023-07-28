@@ -105,7 +105,7 @@ In the era of AI technology, Splunk designs software products that help users ha
 
 ### 11. Cloudera
 
-A software development company, Cloudera supports AI evolution across the globe, enriching the lives of the global client base. It works on an open-source technology that helps data scientists in the extraction of insights from unstructured datasets. The data scientists at Cloudera have the scope to manage their analytics platform to schedule and monitor their tasks.
+A Software Development company, Cloudera supports AI evolution across the globe, enriching the lives of the global client base. It works on an open-source technology that helps data scientists in the extraction of insights from unstructured datasets. The data scientists at Cloudera have the scope to manage their analytics platform to schedule and monitor their tasks.
 
 **Salary:** 4.5 LPA – 52 LPA (differs with the level of expertise and experience of data scientists) </br></br>
 

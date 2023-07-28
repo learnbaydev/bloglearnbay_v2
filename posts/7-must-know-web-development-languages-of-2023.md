@@ -17,7 +17,7 @@ tag:
     best language for front end web development,
     best language for web development backend,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
 catdesc: "Explore career insights, trends, & other resources on Machine Learning and stay updated with this LearnBay's dedicated machine learning blog page."

@@ -60,7 +60,7 @@ function FirstSection({ allPostsData }) {
                 setActive(!active);
               }}
             >
-              SOFTWARE DEVELOPMENT
+              Software Development
             </p>
           </Link>
         </div>

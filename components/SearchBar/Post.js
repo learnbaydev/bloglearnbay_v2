@@ -6,8 +6,6 @@ import Link from "next/link";
 
 export default function Post({ post }) {
   const date = new Date(post.frontmatter?.date);
-
-  // console.log("@@@@@@@", post.frontmatter.image);
  
   return (
     <>

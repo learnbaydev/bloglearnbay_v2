@@ -95,7 +95,7 @@ Data scientists must technically comprehend business difficulties and doubts and
 
 A data engineer certainly manages the data infrastructure of a specific corporation. Data engineers create and test scalable Big Data ecosystems for businesses so that data scientists may run their algorithms on robust, well-optimized data platforms.
 
-- Their job necessitates more software development and programming competence than statistical analysis.
+- Their job necessitates more Software Development and programming competence than statistical analysis.
 - Data engineers also update existing systems with newer or improved versions of current technologies to boost database performance.
 - A data engineer may design data pipelines that transmit the most up-to-date sales, marketing, and revenue data to data analysts and scientists quickly and in a usable format in a corporation with a data team.
 

@@ -10,7 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-1
 headerAlt: ""
 date: "May 29, 2023"
 tag: []
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"

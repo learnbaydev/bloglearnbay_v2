@@ -17,7 +17,6 @@ function FirstSection({
 }) {
   let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
   let aurl = `/author/${makeUrl}`;
-  // console.log(allPostsData);
   return (
     <>
       <div className={styles.upperBanner}>

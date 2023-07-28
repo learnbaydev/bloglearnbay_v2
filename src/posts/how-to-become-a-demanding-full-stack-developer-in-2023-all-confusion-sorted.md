@@ -33,7 +33,7 @@ author: "Milan Jain"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -134,7 +134,7 @@ Some say full Stack development is not easy, but to be frank, it is not that dif
 
 ## What to Learn?
 
-Knowing what you have to learn and scheduling it accordingly for learning thoroughly is better. Many online full-stack courses are available but choose only the one that fulfills your specific learning needs. Check for custom-fit learning modules as per your eligibility and interest. But whatever course you choose, ensure that it comes with **good project opportunities and a placement guarantee**. You can check Learnbay's <a href="https://learnbay.co/full-stack-software-development-program" target="_blank">full-stack software development</a>
+Knowing what you have to learn and scheduling it accordingly for learning thoroughly is better. Many online full-stack courses are available but choose only the one that fulfills your specific learning needs. Check for custom-fit learning modules as per your eligibility and interest. But whatever course you choose, ensure that it comes with **good project opportunities and a placement guarantee**. You can check Learnbay's <a href="https://learnbay.co/full-stack-software-development-program" target="_blank">full-stack Software Development</a>
 course with a job or money-back guarantee.
 
 The few Important factors that a Full-Stack developer needs to keep in mind are:
@@ -253,4 +253,4 @@ Algorithms are a general approach that solves problems and requirements. Every p
 
 **Full-stack software/web development** is a vital department of every large or small organization. Many full-stack developers are not as skilled as they would have learned the basics from self-learning courses, coding boot camps, or learning a few old local computing programs. Engineering graduates and working professionals with 1+ years of experience in any domain can apply for <a href="https://learnbay.co/full-stack-web-development-program" target="_blank">Full-stack web development</a> courses and add these top skills to their resumes.
 
-Choose a full-stack web development or a **full-stack software development** to accelerate your career at the fastest pace possible. You can opt for both as you would have already learned different programming languages. You have to work on how the front and back end works with these languages.
+Choose a full-stack web development or a **full-stack Software Development** to accelerate your career at the fastest pace possible. You can opt for both as you would have already learned different programming languages. You have to work on how the front and back end works with these languages.

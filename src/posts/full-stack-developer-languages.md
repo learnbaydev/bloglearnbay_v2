@@ -10,7 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/plfs.
 headerAlt: ""
 date: "May 26, 2023"
 tag: []
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -253,7 +253,7 @@ It's useful for gathering data from several APIs, combining information from num
 
 It is a challenging way to become a full stack developer. One can understand the field through full stack developer courses and languages used widely throughout various applications. These full stack languages will not only improve your knowledge but also prove helpful in landing interviews.
 
-Do you wish to study more about languages? Then join the full stack software development program. It teaches and provides sufficient practical applications of these languages in live sessions.
+Do you wish to study more about languages? Then join the full stack Software Development program. It teaches and provides sufficient practical applications of these languages in live sessions.
 
 **<a href="https://www.learnbay.co/" target="_blank">Online certification courses</a>** help you enhance your knowledge and easily land an interview with your preferred company. </br></br>
 

@@ -121,7 +121,7 @@ DARWIN has been incorporated into AI to increase its effectiveness and compatibi
 
 3. A complex set of tools is included in the solution, which aids in the acceleration of the conventional software lifecycle. It speeds up the procedure and allows it to be done in less time.
 
-4. The DARWIN platform was created to handle the most cutting-edge methods for software development patterns, which are constantly changing.
+4. The DARWIN platform was created to handle the most cutting-edge methods for Software Development patterns, which are constantly changing.
 
 ## Conclusion:-
 

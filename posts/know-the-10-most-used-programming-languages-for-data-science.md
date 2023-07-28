@@ -88,7 +88,7 @@ There are many different programming languages, but we have listed the top 10 mo
 
 ## Python
 
-Python is the most popular and used programming language in data science for newcomers. It is easy to learn and imply this language, and all credit goes to simple syntax. It is widely utilized in various fields like web development and software development. Library support, garbage collection, increased interoperability with other languages and expanded GUI support are all included in the language.
+Python is the most popular and used programming language in data science for newcomers. It is easy to learn and imply this language, and all credit goes to simple syntax. It is widely utilized in various fields like web development and Software Development. Library support, garbage collection, increased interoperability with other languages and expanded GUI support are all included in the language.
 <br><br>
 
 ## R
