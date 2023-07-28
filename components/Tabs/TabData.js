@@ -1,7 +1,7 @@
 export const TabData = [
   {
     id: "Popular Courses",
-    title: "Popular Courses", 
+    title: "Popular Courses",
     courseName: [
       {
         id: 1,

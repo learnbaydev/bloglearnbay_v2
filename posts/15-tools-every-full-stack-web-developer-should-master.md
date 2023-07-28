@@ -18,7 +18,7 @@ tag:
     Full stack web developer,
     full-stack web developer tool,
   ]
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -67,7 +67,7 @@ tableData:
 
 When it comes to full-stack web developer tools, then plenty of options lie. It's not at all possible to master all the tools for full-stack web development available in the market for a single full-stack web developer. So, when you plan for a full-stack developer career, then first know the list of full-stack web developer tools that are contemporary on demand.
 
-For the past few years, full-stack development has been a popular job role. But most people get confused with the term 'full-stack developer.' Actually, there are a few segments in the full-stack development. Amongst them, the two most hyped are **full-stack web developments and** <a href="https://www.learnbay.co/full-stack-software-development-program" target="_blank">full-stack software development</a>. Don't resemble these two types of full-stack development. The learning modules of these two types of full-stack development are quite different.
+For the past few years, full-stack development has been a popular job role. But most people get confused with the term 'full-stack developer.' Actually, there are a few segments in the full-stack development. Amongst them, the two most hyped are **full-stack web developments and** <a href="https://www.learnbay.co/full-stack-software-development-program" target="_blank">full-stack Software Development</a>. Don't resemble these two types of full-stack development. The learning modules of these two types of full-stack development are quite different.
 
 **In this blog, here, we shall be focusing on the web-development segment.**
 

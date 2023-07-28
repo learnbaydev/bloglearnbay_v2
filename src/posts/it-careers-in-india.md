@@ -30,7 +30,7 @@ tableData:
     1. Computer support professionals,
     2. Cybersecurity,
     3. Networking and systems,
-    4. Software development,
+    4. Software Development,
     5. Cloud computing,
     6. Computer Systems Analyst,
     7. Web developers,
@@ -141,13 +141,13 @@ Career options:
 
 <b>Average salary:</b> Rs.6 lakhs per annum </br></br>
 
-## 4. Software development
+## 4. Software Development
 
 Software developers, often known as software engineers, produce computer applications that perform a variety of functions. Some examples include the web browser, audio streaming apps, and a web-based video conferencing tool.
 
 These professionals have computer science and programming skills. They create, build, and upgrade the software programs that we use on a day-to-day basis. Some are social networking apps, operating systems, and business productivity apps.
 
-Software development may lead to IT careers in a range of fields. This includes banking, video game production, and technology having diversified options to choose from.
+Software Development may lead to IT careers in a range of fields. This includes banking, video game production, and technology having diversified options to choose from.
 
 Career options:
 
@@ -155,7 +155,7 @@ Career options:
 - <b>Software Developer</b>
 - <b>Senior software engineer</b> </br></br>
 
-<b>What it takes:</b> Gain knowledge of basic languages like Ruby, Java, or Python. A degree in software development, computer engineering, computer science, or a similar study area is preferred.
+<b>What it takes:</b> Gain knowledge of basic languages like Ruby, Java, or Python. A degree in Software Development, computer engineering, computer science, or a similar study area is preferred.
 
 <b>Average salary:</b> Rs.9 lakhs per annum </br></br>
 
@@ -171,7 +171,7 @@ Cloud professionals often fall into one of the following three skill categories:
 - Cloud developers build the code that makes the architect's vision a reality.
 - Cloud architects organise and develop the global application framework. </br></br>
 
-<b>What it takes:</b> You can earn certifications to gain cloud-related knowledge. Getting into the field of cloud computing requires knowledge of computer science, software development, and computer science.
+<b>What it takes:</b> You can earn certifications to gain cloud-related knowledge. Getting into the field of cloud computing requires knowledge of computer science, Software Development, and computer science.
 
 <b>Average salary:</b> Rs.8 lakhs per annum </br></br>
 
@@ -239,4 +239,4 @@ You can analyse the chosen IT careers and compare them based on some requirement
 
 You can take help from experts to find out the best possible career options for yourself. The best resource for seeking professionals' advice is **<a href="https://www.learnbay.co/" target="_blank">online courses with certificates</a>**, where you'll also get prepared for such a role in IT. You can enlist advice from experts at any time and figure out the ideal career path for yourself.
 
-The software development master program helps you choose the right domain and also prepare for the IT position. Students study live through expert mentors and earn certifications to show their mastery of IT skills through **<a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence Course</a>**. The program offers career counselling sessions with professionals for students to choose the right IT career path.
+The Software Development master program helps you choose the right domain and also prepare for the IT position. Students study live through expert mentors and earn certifications to show their mastery of IT skills through **<a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">Artificial Intelligence Course</a>**. The program offers career counselling sessions with professionals for students to choose the right IT career path.

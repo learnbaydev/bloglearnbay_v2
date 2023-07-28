@@ -78,7 +78,6 @@ const Course = ({ dataScience, radio, dataScienceCounselling }) => {
           </div>
           <div className={styles.spanWrap}>
             {Details.map((CourseData, index) => {
-              // console.log(Details);
               return (
                 <span
                   key={index}
@@ -137,7 +136,6 @@ const Course = ({ dataScience, radio, dataScienceCounselling }) => {
                                 ratingCount,
                                 courseTime,
                               } = viewAllData;
-                              // console.log(viewAllData);
 
                               return (
                                 <SwiperSlide

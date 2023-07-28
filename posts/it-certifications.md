@@ -101,7 +101,7 @@ As such, no specific requirements related to working experience are mandatory fo
 
 **How to get the certification:**
 
-The exam includes infrastructure, software and applications, IT basics and terms, networks, security, databases, and software development. This certification can also be attained by appearing for and passing the CompTIA IT Fundamental exam. </br></br>
+The exam includes infrastructure, software and applications, IT basics and terms, networks, security, databases, and Software Development. This certification can also be attained by appearing for and passing the CompTIA IT Fundamental exam. </br></br>
 
 ### 3. Microsoft 365 fundamentals
 
@@ -125,7 +125,7 @@ You can study the cloud basics, the main Microsoft 365 utilities and principles,
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/ibm-1.png"   class="img center" alt=""/>
 </br></br>
 
-The IT **<a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">Data Science Certification Course</a>** from Learnbay is offered in collaboration with IBM and Microsoft. These are valuable certificates for individuals seeking a career in software development. You will gain knowledge and experience in programming concepts, with advanced techniques in Clouds and Devops, through the software development program.
+The IT **<a href="https://www.learnbay.co/data-science-certification-courses" target="_blank">Data Science Certification Course</a>** from Learnbay is offered in collaboration with IBM and Microsoft. These are valuable certificates for individuals seeking a career in Software Development. You will gain knowledge and experience in programming concepts, with advanced techniques in Clouds and Devops, through the Software Development program.
 
 The certifications are globally recognized and can help candidates stay ahead of others. They will get many job opportunities in the sector, and professionals also get the chance to boost their earnings. </br></br>
 

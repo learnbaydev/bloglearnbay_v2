@@ -20,7 +20,7 @@ author: "Learnbay"
 authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
 adesc: ""
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Technology"
 
 cattitle: "Latest News, Updates, Blogs on Technology and Innovations - Learnbay Blogs"
@@ -128,7 +128,6 @@ This means that more and more businesses see the benefits of using data science 
 People who work in <a href="https://www.payscale.com/research/US/Job=Data_Scientist/Salary/749e089b/Supply-Chain" target="_blank" rel="nofollow">Supply Chain data science</a>make on average 14.3 lakhs a year, according to the 56 profiles. They make between 5.0 lakhs and 28.2 lakhs per year. Those in the top 10% earn more than £18.4 lakhs a year.
 
 <Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/E-Commerce4.png"   class="img"  />
-
 
 Why are Data Scientists getting paid at a higher level?
 

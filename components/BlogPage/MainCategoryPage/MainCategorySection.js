@@ -1,17 +1,26 @@
 import React, { useState, useEffect } from "react";
+import { useRouter } from "next/router";
 import styles from "./MainCategorySection.module.css";
 import Image from "next/image";
 import Link from "next/link";
 import { CiSearch } from "react-icons/ci";
+import { MdArrowDropDown } from "react-icons/md";
 import dynamic from "next/dynamic";
 import { sortByDate } from "@/utils";
+import { Router } from "next/router";
 const Button = dynamic(() => import("../../Button/Button"));
 
 function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
+  const router = useRouter();
   const [search, setSearch] = useState();
+  const [ParantList, setParantList] = useState([]);
   const [selectedOption, setSelectedOption] = useState("");
+  const [list, setList] = useState("");
   const [categoryBlog, setCategoryBlog] = useState(categoryPosts);
   const [blogTag, setblogTag] = useState("empty");
+  const changePage = (url) => {
+    router.push(url);
+  };
 
   function findSerach(value) {
     setSearch(value.target.value);
@@ -25,6 +34,9 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
 
       if (data.status === 200) {
         const { blogData } = await data.json();
+        blogData.map((data, index) => {
+          return ParantList.push(data.parantcategory);
+        })
         const categoryPosts = blogData.filter(
           (post) =>
             post.parantcategory.toLowerCase().replace(/\s+/g, "-") === id
@@ -77,16 +89,40 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
         </div>
         <div className={styles.btnsFlex}>
           <div>
-            <select
-              id="Categories"
-              value={selectedOption}
-              onChange={handleOptionChange}
-              className={styles.btdfdd}
+            <div
+              className={styles.select}
+              onClick={() => {
+                setList(!list);
+              }}
             >
-              <option value="">Categories</option>
-              <option value="Data-Science">Data Science</option>
-              <option value="Software-Development">Software Development</option>
-            </select>
+              <p className={styles.dropDownCatName}>
+                {categoryPosts[0].parantcategory}
+              </p>
+              <MdArrowDropDown />
+            </div>
+            {list ? (
+              <div className={styles.listWrap}>
+                {Array.from(new Set(ParantList)).map((parantcategory, i) => {
+                  const makeUrl = parantcategory
+                    .toLowerCase()
+                    .replaceAll(" ", "-");
+                  const url = `/category/${makeUrl}`;
+                  return (
+                    <p
+                      key={i}
+                      onClick={() => {
+                        setList(false);
+                        changePage(url);
+                      }}
+                    >
+                      {parantcategory}
+                    </p>
+                  );
+                })}
+              </div>
+            ) : (
+              ""
+            )}
           </div>
           <div className={styles.formControl}>
             <CiSearch />
@@ -113,62 +149,53 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
         <div className={styles.blogWrap}>
           {categoryBlog
             .slice(0, visible)
-            .map(
-              (
-                { id, date, title, author, desc, headerImg, categoryPosts },
-                index
-              ) => {
-                const url = `/${id}`;
-                return (
-                  <div key={index} className={styles.blogUpper}>
-                    <div className={styles.profileWrap}>
-                      <Link href={url} passHref>
-                        <h4>{title}</h4>
-                        <p>{desc}</p>
-                        <br />
-                        <hr className={styles.hrline} />
-                        <span>Read More</span>
+            .map(({ id, date, title, author, desc, headerImg }, index) => {
+              const url = `/${id}`;
+              return (
+                <div key={index} className={styles.blogUpper}>
+                  <div className={styles.profileWrap}>
+                    <Link href={url} passHref>
+                      <h4>{title}</h4>
+                      <p>{desc}</p>
+                      <br />
+                      <hr className={styles.hrline} />
+                      <span>Read More</span>
 
-                        <div className={styles.authordiv}>
-                          <div className={styles.botCont}>
-                            <p>{date}</p>{" "}
-                            <p>
-                              <b>By</b>
-                              <span>{author}</span>
-                            </p>
-                          </div>
+                      <div className={styles.authordiv}>
+                        <div className={styles.botCont}>
+                          <p>{date}</p>{" "}
+                          <p>
+                            <b>By</b>
+                            <span>{author}</span>
+                          </p>
                         </div>
-                      </Link>
-                    </div>
-                    <div className={styles.blog}>
-                      <div className="bgWrap">
-                        <Image
-                          src={headerImg}
-                          fill={true}
-                          priority={true}
-                          alt={title}
-                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                          className={styles.categoryPostImg}
-                          style={{ objectFit: "cover" }}
-                        />
                       </div>
+                    </Link>
+                  </div>
+                  <div className={styles.blog}>
+                    <div className="bgWrap">
+                      <Image
+                        src={headerImg}
+                        fill={true}
+                        priority={true}
+                        alt={title}
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                        className={styles.categoryPostImg}
+                        style={{ objectFit: "cover" }}
+                      />
                     </div>
                   </div>
-                );
-              }
-            )}
+                </div>
+              );
+            })}
           <div className={styles.loadMore} onClick={showMoreItems}>
             <Button className={styles.outLineBtn} text="Load More..." />
           </div>
         </div>
         <div className={styles.rightSide}>
           {categoryPostTag.map((data, index) => {
-            // console.log(categoryPostTag);
-            // let makeUrl = data.toLowerCase().replace(/\s+/g, "-");
-            // let url = `/category/${makeUrl}`;
             return (
-              // <Link href={url} key={index}>
-              <p
+              <p style={{cursor:"pointer"}}
                 onClick={() => {
                   setblogTag(data);
                 }}
@@ -176,7 +203,6 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
               >
                 {data}
               </p>
-              // </Link>
             );
           })}
         </div>

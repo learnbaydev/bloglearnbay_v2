@@ -133,7 +133,7 @@ An IT business analyst is an emerging role that one should consider. The analyst
 - Simplifying technical and architectural essentials of the system and discussion with the stakeholders.
 - Developing business plans and requirements with software projects and programs.
 - Key stakeholder discussion before, during, and after software project development.
-- Suggest the right design for the software development project chosen.
+- Suggest the right design for the Software Development project chosen.
 
 With programming, database management, and data analysis skills, IT analysts perform their daily duties well. An essential graduation degree with applied mathematics/statistics knowledge can make you ready for this field. Plus, you can have a leading career in this field with an industry-paced business analytics program. </br></br>
 

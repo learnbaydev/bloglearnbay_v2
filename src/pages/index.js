@@ -12,13 +12,6 @@ import CategorySection from "../../components/BlogPage/HomePage/CategorySection/
 import BottomBar from "../../components/BottomBar/BottomBar";
 
 export default function blog({ allPostsData, categoryPostTag }) {
-  // console.log(allPostsData);
-  // console.log(categoryPostTag, "blog");
-  // const length = parseInt(allPostsData.length);
-  // let singleCategoryPost = allPostsData.map((post) => {
-  //   return post.category;
-  // });
-  // let categoryPostTag = Array.from(new Set(singleCategoryPost));
 
   return (
     <div>

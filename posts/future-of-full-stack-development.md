@@ -10,7 +10,7 @@ headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/fot-1
 headerAlt: ""
 date: "May 30, 2023"
 tag: []
-parantcategory: "software Development"
+parantcategory: "Software Development"
 category: "Full Stack"
 
 cattitle: "Stay Updated with Full Stack Development Resources - Learnbay Blogs"
@@ -179,6 +179,6 @@ As it is a versatile job prospect, those who want to enter will find many career
 
 ### 3. Which is in great demand - Full Stack Developer or Software Engineer?
 
-Both are great options for a career in software development. Software engineers work on software applications. They develop and maintain software processes.
+Both are great options for a career in Software Development. Software engineers work on software applications. They develop and maintain software processes.
 
 A full stack developer works on the whole stack (front and back end). So they work better on complicated projects requiring advanced programming knowledge.

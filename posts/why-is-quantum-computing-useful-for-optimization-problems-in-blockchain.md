@@ -134,7 +134,7 @@ Blockchain developers have a definite advantage over other developers regarding 
 
 ## How to become a quantum computing expert?
 
-In order to become a **quantum computing** expert, you must hold software development knowledge nourished with AI/ML/deep learning skills.
+In order to become a **quantum computing** expert, you must hold Software Development knowledge nourished with AI/ML/deep learning skills.
 
 Hence if you are already working as a software developer, you have ample room for your career upgradation. You just need to dedicatedly pursue an industry-level <a href="https://www.learnbay.co/artificial-intelligence-certification-course" target="_blank">artificial intelligence and machine learning course</a>.
 
