@@ -1,0 +1,324 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "What Are the Next Big Trends in AI? | Latest AI Trends to Look Out",
+            "summary": "The tech world has seen sudden hype about trending AI technologies. This blog will teach you about the top 7 AI trends and their promising future implications.",
+            "date_modified": "2023-04-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Why Is Quantum Computing Useful for Optimization Problems in Blockchain?",
+            "summary": "Discover how quantum computing revolutionizes optimization problems in blockchain. Also, learn how do quantum computers break blockchain authentication.",
+            "date_modified": "2023-04-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Is Google Bard a Possible Rival to ChatGPT-4?",
+            "summary": "Google Bard and ChatGPT-4 are both very advanced language models, but their respective strengths and applications make it difficult to determine if they are rivals.",
+            "date_modified": "2023-03-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "How Do Google Algorithms Identify AI-Generated Content?",
+            "summary": "In this blog, you will understand how Google detects AI-generated content and what can be the risks of utilizing such content.",
+            "date_modified": "2023-03-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "AI in Automotive Industry - Maneuvering the Automobile Sector of 2023",
+            "summary": "Discover how AI is transforming the automotive industry in 2023. From autonomous vehicles to predictive maintenance, explore the latest advancements and opportunities.",
+            "date_modified": "2023-03-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Top 5 Fascinating AI Blockchain Projects to Master in the Year 2023!",
+            "summary": "This blog will teach you about the benefits of AI in blockchain Projects and Learn about the compelling AI blockchain technology and its impact on future.",
+            "date_modified": "2023-03-16T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Top 8 AI Predictions | What's Next for AI in 2023?",
+            "summary": "Discover the top 8 AI predictions shaping the future of artificial intelligence in 2023. Stay ahead with insights on AI advancements, applications, and trends.",
+            "date_modified": "2023-03-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "AI Lawyers | Is Legal System Approaching a New Era?",
+            "summary": "AI lawyers are the next big thing in the legal business. Here in this blog, you will be briefed with different implications and uses cases of robot lawyers.",
+            "date_modified": "2023-03-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "AI Hardware | What Is It and How Does It Help?",
+            "summary": "This blog will explain in detail how the development of AI hardware has enhanced the effectiveness and proficiency of various hardware components in today's IT industry.",
+            "date_modified": "2023-03-02T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "OpenAI ChatGPT | Is It Really a Threat to the Humanoid World?",
+            "summary": "In this blog, we'll explore the impact of the limitations and whether the Open ChatGPT can compete with Google's chatbot development tools.",
+            "date_modified": "2023-02-23T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Top 15 Natural Language Processing Tools for Startups",
+            "summary": "In this blog, you will find 15 Natural Language Processing tools for startups to help you easily implement and deploy various software applications.",
+            "date_modified": "2023-02-21T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Handwriting Recognition | An Excellent AI Innovation in OCR Technology",
+            "summary": "Learn about the OCR technology's handwriting text recognition method and its in-depth working technique, its use cases and implications in various organizational fields.",
+            "date_modified": "2023-02-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Cognitive Computing vs. Artificial Intelligence | Which One Is Superior?",
+            "summary": "In this blog we will get to know the key differences between Cognitive Computing and Artificial Intelligence and evaluate which is more in demand.",
+            "date_modified": "2023-02-14T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Application of AI in the Fashion Industry | The Next-Level of Technical Creativity",
+            "summary": "In this blog, you will be briefed on the various applications of AI in the fashion industry which has enhanced the next level of technical creativity.",
+            "date_modified": "2023-02-07T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "How Will AI in Digital Marketing Save Marketers in a Cookieless World?",
+            "summary": "We have seen the evolution of digital marketing at a rapid pace, and with the involvement of AI in Digital Marketing, we can effortlessly enhance the use of digital marketing in various marketing and advertising fields. Here in this blog, you will get a brief on how AI in digital marketing can save marketers in a cookieless world.",
+            "date_modified": "2023-01-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "How DARWIN Platform Can Ease AI-related Difficulties- An Invention by Linkedin",
+            "summary": "Here in this blog, learn how AI-based Darwin platform allows to ease of various type of AI-related difficulties and help to get more output from various AI device.",
+            "date_modified": "2023-01-05T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "AI and Cybersecurity - A Match Made in Technology Heaven",
+            "summary": "In this blog post, you will be briefed on different types of benefits while implementing both AI and cybersecurity to fight against cyber attacks and threats.",
+            "date_modified": "2023-01-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "How Can AI Blockchain Help With Modern-day Climate Change?",
+            "summary": "In this blog, we will learn about blockchain's benefits in environmental and climate change to build unique approaches that will surely contribute to preserving the environment.",
+            "date_modified": "2022-12-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Application of AI in Social Media Content Optimization",
+            "summary": "Discover how AI enhances social media content optimization, increasing engagement and expanding reach. Learn about the latest applications and strategies.",
+            "date_modified": "2022-12-18T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "5 Amazing Usages of AI in the Entertainment Industries",
+            "summary": "AI in entertainment has gradually started influencing the entertainment sector. Get a brief overview of the awe-inspiring facts of AI in entertainment industry.",
+            "date_modified": "2022-12-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "The Most Trending Applications of AI in Transportation Industry",
+            "summary": "Increasing demand for safety in transportation and efficient traffic management are key factors influencing artificial intelligence in transportation.",
+            "date_modified": "2022-12-08T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "The Outstanding Evolution of DALL-E 2 Tool Kit | Amazing Open AI",
+            "summary": "Discover the remarkable advancements and incredible possibilities of DALL·E 2 tool kit by OpenAI. Explore the amazing potential of this groundbreaking technology.",
+            "date_modified": "2022-12-01T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Edge AI and Its Importance in Today's Tech World!",
+            "summary": "Edge AI is one of the most effective artificial intelligence (AI) programs currently available in the majority of physical devices worldwide.",
+            "date_modified": "2022-11-29T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "What is AIoT? Know Its Advantages in Real-world Scenarios",
+            "summary": "AIoT is a combination of AI and IoT.It is an approach to the development of intelligent systems that use data from sensors and other sources.",
+            "date_modified": "2022-11-27T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Advanced Application of AI in Banking | A New Era of BFSI Sector",
+            "summary": "In this blog, we'll explore how AI is being used to revolutionize the banking industry, making it more efficient and effective. We'll also know how AI in Banking and Finance is Leading Us to Super Secure and Worry-free Banking Experiences!",
+            "date_modified": "2022-11-22T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Know-How Conversational AI is Making Amazon Alexa Smarter",
+            "summary": "AI is making Amazon Alexa smarter every day. Check out how conversational AI is making Amazon Alexa more intelligent. From improving her voice recognition to understanding human emotions, conversational AI is giving Alexa a big boost.",
+            "date_modified": "2022-11-17T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "How is Augmented Reality Helping the Cyber Security System?",
+            "summary": "Artificial Intelligence in cyber security system is providing a new level of security for businesses and how AR is changing the landscape of cyber security.",
+            "date_modified": "2022-11-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Best AI eBooks For You To Explore And Refine Domain Knowledge",
+            "summary": "Looking for the best AI eBooks? Check out our collection of top AI eBooks for you to explore and refine your domain knowledge. From books on machine learning and artificial intelligence to data science and big data, we've got you covered. So what are you waiting for? Start reading today!",
+            "date_modified": "2022-11-10T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Artificial Intelligence in Weather Forecasting - It Can Definitely Save Our Day",
+            "summary": "Discover how artificial intelligence is revolutionizing weather forecasting. Learn how AI algorithms analyze vast data sets to provide accurate forecasts.",
+            "date_modified": "2022-11-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "The Innovation of Robot Chef is Thrilling The World! | The Power of AI",
+            "summary": "Discover the incredible innovation of robot chefs powered by AI technology that is revolutionizing the culinary world. Explore the features, benefits & impact of cooking automation.",
+            "date_modified": "2022-11-03T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "7 Ways Artificial Intelligence Innovation Is Wiping Out Environmental Impurities!",
+            "summary": "Seven ways that artificial intelligence is being used to wipe out environmental impurities! From cleaning up oil spills to reducing air pollution, AI is making a big difference. Learn more about how AI is helping to save the planet.",
+            "date_modified": "2022-10-30T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "A Few Fascinating Facts about Artificial Intelligence in 2023 and Beyond",
+            "summary": "From chatbots to voice search, learn about the fascinating facts about artificial intelligence and how it is impacting our lives.",
+            "date_modified": "2022-10-20T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Did You Know Artificial Intelligence Can Manipulate Human Behavior?",
+            "summary": "In this blog, we'll look at how Artificial Intelligence (AI) may detect defects in human behavior and utilize them to make decisions. AI has a lot of potential, but it also has a nasty side.",
+            "date_modified": "2022-10-11T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "7 Ways Artificial Intelligence Can Boost Delivery Management Worldwide!",
+            "summary": "AI can help with route planning, order management, and more. In this blog, you will be briefed on how Artificial Intelligence Can boost delivery management.",
+            "date_modified": "2022-10-09T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Women in AI - Top 10 Indian Women Empowering the World of AI",
+            "summary": "Know the achievements of Indian women who are making a significant impact in the world of AI. Learn how these inspiring women are revolutionizing the field and empowering others.",
+            "date_modified": "2022-09-25T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "What Is Generative AI? All You Need To Know!",
+            "summary": "Generative AI is a type of Artificial Intelligence that used to generate new data from scratch. This could be anything from new images to new text or even 3D models.",
+            "date_modified": "2022-09-19T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "The Practice of Intelligence with help of Artificial Intelligence in Academics",
+            "summary": "Integrating AI in academics has potential to revolutionise the way students learn and teachers teach. AI provide personalised feedback and recommendations to students.",
+            "date_modified": "2022-04-06T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Model vs Algorithm in ML",
+            "summary": "In this blog, you will understand Model Vs Algorithms in Machine Learning. Both play an important role in Machine learning.",
+            "date_modified": "2021-04-28T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/artificial-intelligence",
+            "url": "undefined/category/artificial-intelligence",
+            "title": "Artificial Intelligence in E-commerce",
+            "summary": "In this blog, we will discuss about the top 10 practical applications of artificial intelligence in E-commerce and how it is useful for online retailers.",
+            "date_modified": "2021-04-14T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}
