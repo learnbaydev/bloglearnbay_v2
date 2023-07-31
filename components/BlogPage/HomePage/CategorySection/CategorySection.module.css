@@ -258,8 +258,9 @@
   }
 
   .profileWrap h4 {
-    font-size: 15px;
+       font-size: 12px;
     line-height: 20px;
+    font-weight: 700;
   }
 
   .profileWrap p {
@@ -279,7 +280,9 @@
     gap: 30px;
   }
   .innerP p {
-    font-size: 14px;
+       font-size: 11px;
+    font-weight: 700;
+
   }
 }
 @media (max-width: 961px) {
@@ -291,18 +294,18 @@
     font-size: 12px;
   }
   .profileWrap h4 {
-    font-size: 20px;
+      font-size: 15px;
     line-height: 22px;
-    font-weight: 500;
+    font-weight: 600;
   }
   .profileWrap p {
-    font-size: 16px;
+   font-size: 13px;
   }
   .profileWrap span {
     font-size: 11px;
   }
   .categoryWrapper {
-    grid-template-columns: 100%;
+   grid-template-columns: 92%;
   }
   .categoryPostRightSide {
     display: none;
@@ -314,12 +317,16 @@
     padding: 0px 20px;
     margin-top: 0px;
   }
+     .categoryPosts {
+        padding: 15px 60px;
+   }
 }
 
 @media (max-width: 641px) {
   .categoryPostRightSide {
     display: none;
   }
+
 
   .blogWrap {
     grid-template-columns: 49% 49%;
@@ -399,6 +406,10 @@
     justify-content: space-between;
 
     text-align: center;
+  }
+  .blogWrapPost{
+    gap:15px;
+        grid-template-columns: 48% 48%;
   }
 }
 
