@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>Learnbay blog</title>
+    <updated>2023-07-31T11:35:50.711Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Learnbay</name>
+        <email>contacts@learnbay.co</email>
+        <uri> https://twitter.com/Learnbay</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.webp</icon>
+    <rights>All rights reserved 2023, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement]]></title>
+        <id>undefined/category/technology</id>
+        <link href="undefined/category/technology"/>
+        <updated>2023-04-18T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn the advantage of blockchain technology in the supply chain industry. Know the implications of this cutting-edge technology on supply chain and logistics management.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!]]></title>
+        <id>undefined/category/technology</id>
+        <link href="undefined/category/technology"/>
+        <updated>2023-04-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DevOps Automation tools are replacing traditional physical stores with online retail. Its integrated version of retail operations attains a competitive edge.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Data Analytics Can Fast Track Your E-commerce, Retail, and Supply Chain Career?]]></title>
+        <id>undefined/category/technology</id>
+        <link href="undefined/category/technology"/>
+        <updated>2022-05-06T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Data analytics in supply chain has grown in popularity as it has proven to be extremely effective in the fields of retail and E-Commerce.]]></summary>
+    </entry>
+</feed>

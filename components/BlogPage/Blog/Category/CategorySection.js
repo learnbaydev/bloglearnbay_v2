@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import styles from "./CategorySection.module.css";
 import Link from "next/link";
 
-export default function CategorySection({ categoryPostTag }) {
+export default function CategorySection() {
   const [allPostsData, setAllBlogPostsData] = useState([]);
   useEffect(() => {
     const fetchCertificateId = async () => {
@@ -28,9 +28,9 @@ export default function CategorySection({ categoryPostTag }) {
                 <div className={styles.rightCategoryPostFirst}>
                   {allPostsData
                     .slice(10, 20)
-                    .map(({ id, date, title, author, category, desc }) => {
+                    .map(({ id, date, title, parantcategory }) => {
                       let url = `/${id}`;
-                      let tUrl = `/category/${category
+                      let tUrl = `/category/${parantcategory
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
 
@@ -47,7 +47,7 @@ export default function CategorySection({ categoryPostTag }) {
                               rel="noreferrer"
                               className={styles.link}
                             >
-                              <p className={styles.tagSpan}>{category}</p>
+                              <p className={styles.tagSpan}>{parantcategory}</p>
                             </Link>
                           </div>
                           <hr className={styles.hrline} />
