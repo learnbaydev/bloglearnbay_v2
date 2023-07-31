@@ -7,7 +7,6 @@ import { CiSearch } from "react-icons/ci";
 import { MdArrowDropDown } from "react-icons/md";
 import dynamic from "next/dynamic";
 import { sortByDate } from "@/utils";
-import { Router } from "next/router";
 const Button = dynamic(() => import("../../Button/Button"));
 
 function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
@@ -36,7 +35,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
         const { blogData } = await data.json();
         blogData.map((data, index) => {
           return ParantList.push(data.parantcategory);
-        })
+        });
         const categoryPosts = blogData.filter(
           (post) =>
             post.parantcategory.toLowerCase().replace(/\s+/g, "-") === id
@@ -195,7 +194,8 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
         <div className={styles.rightSide}>
           {categoryPostTag.map((data, index) => {
             return (
-              <p style={{cursor:"pointer"}}
+              <p
+                style={{ cursor: "pointer" }}
                 onClick={() => {
                   setblogTag(data);
                 }}

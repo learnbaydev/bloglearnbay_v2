@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { CiSearch } from "react-icons/ci";
 import { Search } from "../../../SearchBar/search";
+import { sortByDate } from "@/utils";
 
 export default function CategorySection({ categoryPostTag }) {
   const [allPostsData, setAllBlogPostsData] = useState([]);
@@ -15,8 +16,7 @@ export default function CategorySection({ categoryPostTag }) {
 
       if (data.status === 200) {
         const { blogData } = await data.json();
-        setAllBlogPostsData(blogData);
-        
+        setAllBlogPostsData(blogData.sort(sortByDate));
       }
     };
     fetchCertificateId();

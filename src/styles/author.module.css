@@ -37,7 +37,7 @@
 .bIcons {
   font-size: 24px;
   position: relative;
-  left: 18rem;
+  left: 22rem;
   bottom: 2.2rem;
   display: inline;
   display: initial;
@@ -62,7 +62,7 @@
 
 @media(max-width: 641px){
   .mdiv{  
-    grid-template-columns: 46% 54%;;
+    grid-template-columns: 46% 54%;
     padding: 41px 64px 5px 45px;
   }
   .m2div h1{
