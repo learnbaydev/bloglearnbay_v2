@@ -91,7 +91,7 @@ export default function CategoryBlog({ categoryPosts }) {
               categoryPosts,
               desc,
             }) => {
-              const url = `/${id}`;
+              const url = `${id}`;
               return (
                 <div>
                   <div className={styles.blog}>
@@ -107,16 +107,16 @@ export default function CategoryBlog({ categoryPosts }) {
                     </div>
                   </div>
                   <div className={styles.profileWrapPost}>
-                    <Link href={`/${url}`} passHref>
+                    <Link href={`${url}`} passHref>
                       <h4>{title.substring(0, 60)}</h4>
                     </Link>
                     <p>{desc.substring(0, 60)}...</p>
-                    <Link href={`/${url}`} passHref>
+                    <Link href={`${url}`} passHref>
                       <span>Read More</span>
                     </Link>
                     <div className={styles.authordiv}>
                       <hr className={styles.hrline} />
-                      <Link href={`/${url}`}>
+                      <Link href={`${url}`}>
                         <p className={styles.authP}>
                           {date} <b>By</b>
                           <span>{author}</span>
