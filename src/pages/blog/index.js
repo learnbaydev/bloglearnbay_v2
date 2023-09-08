@@ -1,15 +1,15 @@
 import Head from "next/head";
 import React, { useEffect, useState } from "react";
-import Navbar from "../../components/Navbar/Navbar";
-import Footer from "../../components/Footer/Footer";
-import generateRssFeed from "../../lib/generateRss";
-import generateCategoryRssFeed from "../../lib/geneRateCategoryRss";
-import { getSortedPostsData } from "../../lib/posts";
-import { sortByDate } from "../utils";
-import FirstSection from "../../components/BlogPage/HomePage/FirstSection/FirstSection";
-import CourseSection from "../../components/BlogPage/CourseSection/CourseSection";
-import CategorySection from "../../components/BlogPage/HomePage/CategorySection/CategorySection";
-import BottomBar from "../../components/BottomBar/BottomBar";
+import Navbar from "../../../components/Navbar/Navbar";
+import Footer from "../../../components/Footer/Footer";
+import generateRssFeed from "../../../lib/generateRss";
+import generateCategoryRssFeed from "../../../lib/geneRateCategoryRss";
+import { getSortedPostsData } from "../../../lib/posts";
+import { sortByDate } from "../../utils";
+import FirstSection from "../../../components/BlogPage/HomePage/FirstSection/FirstSection";
+import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
+import CategorySection from "../../../components/BlogPage/HomePage/CategorySection/CategorySection";
+import BottomBar from "../../../components/BottomBar/BottomBar";
 
 export default function blog({ allPostsData, categoryPostTag }) {
 

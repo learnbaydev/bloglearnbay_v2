@@ -16,7 +16,7 @@ function FirstSection({
   authorimg,
 }) {
   let makeUrl = postData.author.toLowerCase().replace(/\s+/g, "-");
-  let aurl = `/author/${makeUrl}`;
+  let aurl = `/blog/author/${makeUrl}`;
   return (
     <>
       <div className={styles.upperBanner}>

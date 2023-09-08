@@ -54,7 +54,7 @@ export default function Search() {
         <ul className={styles.results}>
           {results.map(({ id, title }) => (
             <li className={styles.result} key={id}>
-              <Link href="/[id]" as={`/${id}`}>
+              <Link href="/[id]" as={`/blog/${id}`}>
                 <p>{title}</p>
               </Link>
             </li>

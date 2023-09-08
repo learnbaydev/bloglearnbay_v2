@@ -4,11 +4,11 @@ export const menuItem = [
     name: "Home",
     url: "/",
   },
-  {
-    id: 2,
-    name: "About Us",
-    url: "/about-us",
-  },
+  // {
+  //   id: 2,
+  //   name: "About Us",
+  //   url: "/about-us",
+  // },
   {
     id: 3,
     name: "Demo",

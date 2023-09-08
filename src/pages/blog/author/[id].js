@@ -3,19 +3,19 @@ import fs from "fs";
 import path from "path";
 import { NextSeo } from "next-seo"; // Add this import statement
 import matter from "gray-matter";
-import { getSortedPostsData } from "../../../lib/posts";
-import styles from "../../../components/BlogPage/MainCategoryPage/MainCategorySection.module.css";
+import { getSortedPostsData } from "../../../../lib/posts";
+import styles from "../../../../components/BlogPage/MainCategoryPage/MainCategorySection.module.css";
 import Head from "next/head";
 import Image from "next/image";
-import { sortByDate } from "../../utils";
-import authorstyle from "../../styles/author.module.css";
+import { sortByDate } from "../../../utils";
+import authorstyle from "../../../styles/author.module.css";
 import Link from "next/link";
 import { FaLinkedinIn } from "react-icons/fa";
-import Navbar from "../../../components/Navbar/Navbar";
-import Footer from "../../../components/Footer/Footer";
+import Navbar from "../../../../components/Navbar/Navbar";
+import Footer from "../../../../components/Footer/Footer";
 import dynamic from "next/dynamic";
 
-const Button = dynamic(() => import("../../../components/Button/Button"));
+const Button = dynamic(() => import("../../../../components/Button/Button"));
 
 export default function CategoryBlog({ categoryPosts }) {
   const [visible, setVisible] = useState(9);
@@ -91,7 +91,7 @@ export default function CategoryBlog({ categoryPosts }) {
               categoryPosts,
               desc,
             }) => {
-              const url = `${id}`;
+              const url = `/blog/${id}`;
               return (
                 <div>
                   <div className={styles.blog}>

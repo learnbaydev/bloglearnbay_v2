@@ -29,8 +29,8 @@ export default function CategorySection() {
                   {allPostsData
                     .slice(10, 20)
                     .map(({ id, date, title, parantcategory }) => {
-                      let url = `/${id}`;
-                      let tUrl = `/category/${parantcategory
+                      let url = `/blog/${id}`;
+                      let tUrl = `/blog/category/${parantcategory
                         .toLowerCase()
                         .replace(/\s+/g, "-")}`;
 
