@@ -42,7 +42,7 @@ export default function Sidebar() {
         type="text"
         placeholder="Enter search term..."
       />
-      <Link href={{ pathname: '/Search', query: { q: search?.toLowerCase() } }} id="myBtn" >
+      <Link href={{ pathname: '/blog/Search', query: { q: search?.toLowerCase() } }} id="myBtn" >
       </Link>   
 
    

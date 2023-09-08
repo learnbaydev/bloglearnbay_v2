@@ -3,14 +3,14 @@ import fs from "fs";
 import { NextSeo } from "next-seo"; // Add this import statement
 import path from "path";
 import matter from "gray-matter";
-import { getSortedPostsData } from "../../../lib/posts";
+import { getSortedPostsData } from "../../../../lib/posts";
 import Head from "next/head";
-import { sortByDate } from "../../utils";
-import Navbar from "../../../components/Navbar/Navbar";
-import Footer from "../../../components/Footer/Footer";
-import CategorySection from "../../../components/BlogPage/MainCategoryPage/MainCategorySection";
-import CourseSection from "../../../components/BlogPage/CourseSection/CourseSection";
-import BottomBar from "../../../components/BottomBar/BottomBar";
+import { sortByDate } from "../../../utils";
+import Navbar from "../../../../components/Navbar/Navbar";
+import Footer from "../../../../components/Footer/Footer";
+import CategorySection from "../../../../components/BlogPage/MainCategoryPage/MainCategorySection";
+import CourseSection from "../../../../components/BlogPage/CourseSection/CourseSection";
+import BottomBar from "../../../../components/BottomBar/BottomBar";
 
 export default function CategoryBlog({ categoryPosts, categoryPostTag, id }) {
   const cattitle = categoryPosts[0]?.cattitle || "";

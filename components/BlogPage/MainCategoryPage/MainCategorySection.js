@@ -105,7 +105,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
                   const makeUrl = parantcategory
                     .toLowerCase()
                     .replaceAll(" ", "-");
-                  const url = `/category/${makeUrl}`;
+                  const url = `/blog/category/${makeUrl}`;
                   return (
                     <p
                       key={i}
@@ -136,7 +136,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
 
             <Link
               href={{
-                pathname: "/Search",
+                pathname: "/blog/Search",
                 query: { q: search?.toLowerCase() },
               }}
               id="myBtn"
@@ -149,7 +149,7 @@ function MainCategorySection({ categoryPosts, categoryPostTag, id }) {
           {categoryBlog
             .slice(0, visible)
             .map(({ id, date, title, author, desc, headerImg }, index) => {
-              const url = `/${id}`;
+              const url = `/blog/${id}`;
               return (
                 <div key={index} className={styles.blogUpper}>
                   <div className={styles.profileWrap}>

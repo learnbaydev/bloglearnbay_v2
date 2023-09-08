@@ -2,25 +2,25 @@ import {
   getAllPostIds,
   getPostData,
   getSortedPostsData,
-} from "../../lib/posts";
+} from "../../../lib/posts";
 import Head from "next/head";
-import styles from "../styles/blog.module.css";
-import { sortByDate } from "../utils";
-import Socialshare from "../../components/BlogPage/Socialshare/Socialshare";
+import styles from "../../styles/blog.module.css";
+import { sortByDate } from "../../utils";
+import Socialshare from "../../../components/BlogPage/Socialshare/Socialshare";
 import React from "react";
-import Navbar from "../../components/Navbar/Navbar";
-import Footer from "../../components/Footer/Footer";
+import Navbar from "../../../components/Navbar/Navbar";
+import Footer from "../../../components/Footer/Footer";
 import dynamic from "next/dynamic";
 const CategorySection = dynamic(() =>
-  import("../../components/BlogPage/Blog/Category/CategorySection")
+  import("../../../components/BlogPage/Blog/Category/CategorySection")
 );
 const FirstSection = dynamic(() =>
-  import("../../components/BlogPage/FirstSection/FirstSection")
+  import("../../../components/BlogPage/FirstSection/FirstSection")
 );
-const BottomBar = dynamic(() => import("../../components/BottomBar/BottomBar"));
+const BottomBar = dynamic(() => import("../../../components/BottomBar/BottomBar"));
 
 const RightSideData = dynamic(() =>
-  import("../../components/BlogPage/Blog/RightSideData")
+  import("../../../components/BlogPage/Blog/RightSideData")
 );
 
 export default function Post({ postData }) {

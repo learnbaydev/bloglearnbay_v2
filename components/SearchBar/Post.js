@@ -24,16 +24,16 @@ export default function Post({ post }) {
             </div>
           </div>
           <div className={styles.profileWrapPost}>
-            <Link href={`/${post.slug}`} passHref>
+            <Link href={`/blog/${post.slug}`} passHref>
               <h4>{post.frontmatter.title.substring(0, 60)}</h4>
             </Link>
             <p>{post.frontmatter.description.substring(0, 60)}...</p>
-            <Link href={`/${post.slug}`} passHref>
+            <Link href={`/blog/${post.slug}`} passHref>
               <span>Read More</span>
             </Link>
             <div className={styles.authordiv}>
               <hr className={styles.hrline} />
-              <Link href={`/${post.slug}`}>
+              <Link href={`/blog/${post.slug}`}>
                 <p className={styles.authP}>
                   
                   {post.frontmatter.date} <b>By</b>
