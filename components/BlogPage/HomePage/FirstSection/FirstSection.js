@@ -119,9 +119,9 @@ function FirstSection({ allPostsData }) {
                 desc,
                 authorimg,
               }) => {
-                const url = `/${id}`;
+                const url = `/blog/${id}`;
                 let makeUrl = author.toLowerCase().replace(/\s+/g, "-");
-                let aurl = `/author/${makeUrl}`;
+                let aurl = `/blog/author/${makeUrl}`;
                 return (
                   <SwiperSlide key={id}>
                     <div className={styles.banner}>

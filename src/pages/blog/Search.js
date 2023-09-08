@@ -1,13 +1,13 @@
 import Head from 'next/head'
-import Post from '../../components/SearchBar/Post'
-import search from "../../components/SearchBar/search.json";
+import Post from '../../../components/SearchBar/Post'
+import search from "../../../components/SearchBar/search.json";
 import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
-import { sortByDate, ImageUrl } from '../utils'
-import styles from "../../src/styles/blogM.module.css";
-import Sidebar from "../../components/SearchBar/Sidebar"
-import Navbar from '../../components/Navbar/Navbar';
-import Footer from '../../components/Footer/Footer';
+import { sortByDate, ImageUrl } from '../../utils'
+import styles from "../../../src/styles/blogM.module.css";
+import Sidebar from "../../../components/SearchBar/Sidebar"
+import Navbar from '../../../components/Navbar/Navbar';
+import Footer from '../../../components/Footer/Footer';
 
 export default function Search() {
     const { query } = useRouter()
@@ -38,7 +38,7 @@ export default function Search() {
             <br /><br /><br />
 
             <section className={styles.blogHead}>
-                <p>Results for:  &apos;{`${query.q}`}.&apos; </p>
+                <p>Results for:  &apos;{`/blog/${query.q}`}.&apos; </p>
                 <Sidebar />
 
             </section>

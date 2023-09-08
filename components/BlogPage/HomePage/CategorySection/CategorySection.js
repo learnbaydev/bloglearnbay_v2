@@ -95,7 +95,7 @@ export default function CategorySection({ categoryPostTag }) {
 
             <Link
               href={{
-                pathname: "/Search",
+                pathname: "/blog/Search",
                 query: { q: search?.toLowerCase() },
               }}
               id="myBtn"
@@ -110,7 +110,7 @@ export default function CategorySection({ categoryPostTag }) {
           (post) => post.parantcategory === tag
         );
         let makeUrl = post.toLowerCase().replace(/\s+/g, "-");
-        let url = `/category/${makeUrl}`;
+        let url = `/blog/category/${makeUrl}`;
 
         const firstBlogPosts = categoryPosts.slice(0, 6);
 
@@ -133,9 +133,9 @@ export default function CategorySection({ categoryPostTag }) {
               <div className={styles.blogWrap}>
                 {firstBlogPosts.map(
                   ({ id, date, title, author, headerImg, desc }) => {
-                    let url = `/${id}`;
+                    let url = `/blog/${id}`;
                     let amakeUrl = author.toLowerCase().replace(/\s+/g, "-");
-                    let aurl = `/author/${amakeUrl}`;
+                    let aurl = `/blog/author/${amakeUrl}`;
                     return (
                       <div key={id}>
                         <div className={styles.blog}>
@@ -184,8 +184,8 @@ export default function CategorySection({ categoryPostTag }) {
                       {allPostsData
                         .slice(10, 20)
                         .map(({ id, date, title, parantcategory }) => {
-                          let url = `/${id}`;
-                          let tUrl = `/category/${parantcategory
+                          let url = `/blog/${id}`;
+                          let tUrl = `/blog/category/${parantcategory
                             .toLowerCase()
                             .replace(/\s+/g, "-")}`;
 
