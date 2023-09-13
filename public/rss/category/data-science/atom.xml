@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2023-09-13T05:16:33.992Z</updated>
+    <updated>2023-09-13T08:04:13.210Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,6 +13,83 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2023, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[Earn Data Science Certification:- Steps to Become a Certified Professional]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-08-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Get certified in Data Science through online courses. Build skills in analytics, machine learning, and programming. Start now!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future of Data Science & Essential Skills for Data Scientists]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-08-08T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the evolving landscape of Data Science. Discover vital skills every Data Scientist needs for success in an increasingly data-driven world. Stay ahead in this dynamic field.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Educational Transformation: Data Science Across Workforce]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-08-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ Explore the transformative impact of Data Science in education on the workforce, enhancing skills, personalizing learning, and aligning curriculum with industry demands.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for the Success of Your Data Analytics Agile Transformation]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-08-01T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It is better to start early through a data analytics online course. If you understand the value of using agile methods for planning data analytics in business, consider studying from a reliable source.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are the Benefits of Enrolling in a Data Science Course?]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn data science essentials & advanced techniques. Boost your career, analyse big data & make informed decisions. Enroll now for expert guidance.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are The Key Skills Every Data Analyst Needs?]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the must-have skills for data analysts! Learn about statistics, programming, data visualisation, and problem-solving. Boost your career now.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right Data Science Program for Your Career Goals]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Data Science and AI Master Program is one of the top data science courses for job assistance. It offers a great course through industry experts and hybrid classes.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Insights: Job and Market Growth Stats]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The journey of tech evolution is unbeatable. You can also be part of the data field if redundant skill sets are shed. A data science course online can provide the upskilling scope for a successful career.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of Mastering Data Visualization & Storytelling for Data Scientists]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-12T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The field of data science demand storytellers who know data and analytics and form better stories to keep the crowd engaged. If you lack such skills, then online data science training may help you better.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethics in Data Science and Proper Privacy and Usage of Data]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-09T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the importance of ethics in data science and how to ensure proper privacy and responsible usage of data in this insightful guide.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Most Important Python Skills to Master as a Data Scientist]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-07-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The most critical skill many data scientists opt for is Python. The data science online course with certificate helps in learning these programming skills and getting certified.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Data Science Career Paths - 2023]]></title>
         <id>undefined/category/data-science</id>
