@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/data-structure",
+            "url": "undefined/category/data-structure",
+            "title": "Essential Data Structures: Must-Know Basics for Every Programmer",
+            "summary": "Enhance your programming skills with our comprehensive data structures course. Learn essential DSA concepts to excel in coding and problem-solving. Enroll now!",
+            "date_modified": "2023-08-22T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/data-structure",
+            "url": "undefined/category/data-structure",
+            "title": "Data Structures or Algorithms: What to Learn First?",
+            "summary": "Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science.",
+            "date_modified": "2023-08-09T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

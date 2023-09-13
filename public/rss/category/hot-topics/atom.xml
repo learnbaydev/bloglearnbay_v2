@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>Learnbay blog</title>
+    <updated>2023-09-13T08:04:13.900Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Learnbay</name>
+        <email>contacts@learnbay.co</email>
+        <uri> https://twitter.com/Learnbay</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.webp</icon>
+    <rights>All rights reserved 2023, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[The Significance of Data Analytics and Artificial Intelligence for Society and Business]]></title>
+        <id>undefined/category/hot-topics</id>
+        <link href="undefined/category/hot-topics"/>
+        <updated>2023-08-02T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To shape a career in the data field, upskilling through data analyst online courses with placement refines your ability to bring socially viable yet valuable results.]]></summary>
+    </entry>
+</feed>

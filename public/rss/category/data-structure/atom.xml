@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>Learnbay blog</title>
+    <updated>2023-09-13T08:04:13.898Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Learnbay</name>
+        <email>contacts@learnbay.co</email>
+        <uri> https://twitter.com/Learnbay</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.webp</icon>
+    <rights>All rights reserved 2023, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[Essential Data Structures: Must-Know Basics for Every Programmer]]></title>
+        <id>undefined/category/data-structure</id>
+        <link href="undefined/category/data-structure"/>
+        <updated>2023-08-22T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhance your programming skills with our comprehensive data structures course. Learn essential DSA concepts to excel in coding and problem-solving. Enroll now!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Structures or Algorithms: What to Learn First?]]></title>
+        <id>undefined/category/data-structure</id>
+        <link href="undefined/category/data-structure"/>
+        <updated>2023-08-09T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Start with data structures before tackling algorithms. A solid understanding of data structures lays the foundation for efficient algorithm design and problem-solving in computer science.]]></summary>
+    </entry>
+</feed>
