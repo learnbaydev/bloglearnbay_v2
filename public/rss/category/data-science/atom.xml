@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2023-09-13T08:04:13.210Z</updated>
+    <updated>2023-09-25T05:54:36.659Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,6 +13,13 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2023, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[How Data Analytics Is Crucial for India's Space Missions ?]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-09-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore how data analytics plays a pivotal role in India's space missions, enhancing precision, efficiency, and mission success. Dive into the analytics cosmos today!]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Earn Data Science Certification:- Steps to Become a Certified Professional]]></title>
         <id>undefined/category/data-science</id>

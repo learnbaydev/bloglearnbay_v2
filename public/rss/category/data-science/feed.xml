@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Wed, 13 Sep 2023 08:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 05:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>undefined</link>
         </image>
         <copyright>All rights reserved 2023, Learnbay</copyright>
+        <item>
+            <title><![CDATA[How Data Analytics Is Crucial for India's Space Missions ?]]></title>
+            <link>undefined/category/data-science</link>
+            <guid>undefined/category/data-science</guid>
+            <pubDate>Wed, 20 Sep 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[Explore how data analytics plays a pivotal role in India's space missions, enhancing precision, efficiency, and mission success. Dive into the analytics cosmos today!]]></description>
+        </item>
         <item>
             <title><![CDATA[Earn Data Science Certification:- Steps to Become a Certified Professional]]></title>
             <link>undefined/category/data-science</link>

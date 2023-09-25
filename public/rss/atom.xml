@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2023-09-13T08:04:12.978Z</updated>
+    <updated>2023-09-25T05:54:36.393Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,6 +13,27 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2023, Sreetam Das</rights>
+    <entry>
+        <title type="html"><![CDATA[How Data Analytics Is Crucial for India's Space Missions ?]]></title>
+        <id>undefined/significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours</id>
+        <link href="undefined/significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours"/>
+        <updated>2023-09-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore how data analytics plays a pivotal role in India's space missions, enhancing precision, efficiency, and mission success. Dive into the analytics cosmos today!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Algorithms and Data Structures Can Change Different Sectors Worldwide?]]></title>
+        <id>undefined/transforming-global-sectors-algorithms-and-data-structures-profound-impact</id>
+        <link href="undefined/transforming-global-sectors-algorithms-and-data-structures-profound-impact"/>
+        <updated>2023-09-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can You Contribute to the World With Data Structures and Algorithms?]]></title>
+        <id>undefined/empower-global-progress-your-impact-with-data-structures-and-algorithms</id>
+        <link href="undefined/empower-global-progress-your-impact-with-data-structures-and-algorithms"/>
+        <updated>2023-09-18T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Earn Data Science Certification:- Steps to Become a Certified Professional]]></title>
         <id>undefined/earn-data-science-certification-steps-to-become-a-certified-professional</id>
