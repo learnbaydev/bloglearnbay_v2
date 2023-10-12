@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2023-09-13T08:04:13.654Z</updated>
+    <updated>2023-09-25T05:54:37.730Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,6 +13,20 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2023, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[How Algorithms and Data Structures Can Change Different Sectors Worldwide?]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2023-09-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can You Contribute to the World With Data Structures and Algorithms?]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2023-09-18T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Stack Development for Non-Techies: How to Get Started]]></title>
         <id>undefined/category/full-stack</id>

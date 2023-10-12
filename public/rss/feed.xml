@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Wed, 13 Sep 2023 08:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 05:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,27 @@
             <link>undefined</link>
         </image>
         <copyright>All rights reserved 2023, Sreetam Das</copyright>
+        <item>
+            <title><![CDATA[How Data Analytics Is Crucial for India's Space Missions ?]]></title>
+            <link>undefined/significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours</link>
+            <guid>undefined/significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours</guid>
+            <pubDate>Wed, 20 Sep 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[Explore how data analytics plays a pivotal role in India's space missions, enhancing precision, efficiency, and mission success. Dive into the analytics cosmos today!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Algorithms and Data Structures Can Change Different Sectors Worldwide?]]></title>
+            <link>undefined/transforming-global-sectors-algorithms-and-data-structures-profound-impact</link>
+            <guid>undefined/transforming-global-sectors-algorithms-and-data-structures-profound-impact</guid>
+            <pubDate>Tue, 19 Sep 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[ Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Can You Contribute to the World With Data Structures and Algorithms?]]></title>
+            <link>undefined/empower-global-progress-your-impact-with-data-structures-and-algorithms</link>
+            <guid>undefined/empower-global-progress-your-impact-with-data-structures-and-algorithms</guid>
+            <pubDate>Mon, 18 Sep 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today.]]></description>
+        </item>
         <item>
             <title><![CDATA[Earn Data Science Certification:- Steps to Become a Certified Professional]]></title>
             <link>undefined/earn-data-science-certification-steps-to-become-a-certified-professional</link>
