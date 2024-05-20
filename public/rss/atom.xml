@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2023-09-25T05:54:36.393Z</updated>
+    <updated>2024-05-14T12:12:00.608Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -12,7 +12,7 @@
     <link rel="self" href="undefined/rss/atom.xml"/>
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
-    <rights>All rights reserved 2023, Sreetam Das</rights>
+    <rights>All rights reserved 2024, Sreetam Das</rights>
     <entry>
         <title type="html"><![CDATA[How Data Analytics Is Crucial for India's Space Missions ?]]></title>
         <id>undefined/significance-of-data-analytics-in-advancing-india's-space-exploration-endeavours</id>

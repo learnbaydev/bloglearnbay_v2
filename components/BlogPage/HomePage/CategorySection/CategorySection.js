@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import styles from "./CategorySection.module.css";
 import Link from "next/link";
 import Image from "next/image";
@@ -22,77 +22,58 @@ export default function CategorySection({ categoryPostTag }) {
     fetchCertificateId();
   }, []);
 
-  const [search, setSearch] = useState();
-  function findSerach(value) {
-    setSearch(value.target.value);
+  const [search, setSearch] = useState("");
+  const [suggestions, setSuggestions] = useState([]);
+  const searchResultRef = useRef(null);
+
+  function findSearch(value) {
+    const inputValue = value.target.value;
+    setSearch(inputValue);
+
+    // Filter suggestions based on input value
+    const filteredSuggestions = allPostsData.filter((post) =>
+      post.title.toLowerCase().includes(inputValue.toLowerCase())
+    );
+
+    setSuggestions(filteredSuggestions);
   }
-  const [active, setActive] = useState(false);
-  const [active1, setActive1] = useState(false);
-  const [active2, setActive2] = useState(true);
+
   useEffect(() => {
-    //
-    var input = document.getElementById("myInput");
-    input.addEventListener("keypress", function (event) {
-      if (event.key === "Enter") {
-        event.preventDefault();
-        document.getElementById("myBtn").click();
+    // Function to handle clicks outside of search result container
+    function handleClickOutside(event) {
+      if (searchResultRef.current && !searchResultRef.current.contains(event.target)) {
+        setSuggestions([]); // Hide the search result dropdown
       }
-    });
-  });
+    }
+
+    // Add event listener to handle clicks outside of the search result container
+    document.addEventListener("mousedown", handleClickOutside);
+
+    // Clean up the event listener on component unmount
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
 
   return (
     <>
       <div className={styles.upperDiv}>
-        <div className={styles.innerP}>
-          <Link href="#Data Science & BA">
-            <p
-              className={active2 ? styles.active : styles.inactive}
-              onClick={() => {
-                setActive(false);
-                setActive1(false);
-                setActive2(true);
-              }}
-            >
-              DATA SCIENCE & BUSINESS ANALYTICS
-            </p>
-          </Link>
-          <Link href="#Software Development">
-            <p
-              className={active ? styles.active : styles.inactive}
-              onClick={() => {
-                setActive(true);
-                setActive1(false);
-                setActive2(false);
-              }}
-            >
-              SOFTWARE DEVELOPMENT
-            </p>
-          </Link>
-          <Link href="#Hot Topics">
-            <p
-              className={active1 ? styles.active : styles.inactive}
-              onClick={() => {
-                setActive1(true);
-                setActive(false);
-                setActive2(false);
-              }}
-            >
-              HOT TOPICS
-            </p>
-          </Link>
-        </div>
+        <div className={styles.innerP}>{/* Your links here */}</div>
         <div className="col-lg-4">
           <div className={styles.formControl}>
             <CiSearch />
-            <input
-              id="myInput"
-              onChange={findSerach}
-              type="text"
-              placeholder="Search"
-              aria-label="Search"
-              aria-describedby="button-search"
-            />
-
+            <div className={styles.searchContainer}>
+              <input
+                id="myInput"
+                onChange={findSearch}
+                value={search}
+                type="text"
+                placeholder="Search"
+                aria-label="Search"
+                aria-describedby="button-search"
+                className={styles.searchInput}
+              />
+            </div>
             <Link
               href={{
                 pathname: "/blog/Search",
@@ -101,6 +82,19 @@ export default function CategorySection({ categoryPostTag }) {
               id="myBtn"
             ></Link>
           </div>
+          {search && suggestions.length > 0 && (
+            <div ref={searchResultRef} className={styles.searchResultContainer}>
+              {suggestions.map((post, index) => (
+                <div className={styles.searchResultItem} key={index}>
+                  <Link href={`/blog/${post.id}`}>
+                    <ul>
+                      <li>{post.title}</li>
+                    </ul>
+                  </Link>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       </div>
       {[...categoryPostTag].map((post, i) => {
@@ -191,18 +185,15 @@ export default function CategorySection({ categoryPostTag }) {
 
                           return (
                             <div key={id}>
-                              <a href={url} target="_blank" rel="noreferrer">
-                                <p>{title}</p>
-                              </a>
+                              <Link href={url}>
+                                <div>{title}</div>
+                              </Link>
                               <div className={styles.rightCategoryPostSecond}>
                                 <p>{date}</p>
-                                <Link
-                                  href={tUrl}
-                                  target="_blank"
-                                  rel="noreferrer"
-                                  className={styles.link}
-                                >
-                                  <p className={styles.tagSpan}>{parantcategory}</p>
+                                <Link href={tUrl} className={styles.link}>
+                                  <div className={styles.tagSpan}>
+                                    {parantcategory}
+                                  </div>
                                 </Link>
                               </div>
                               <hr className={styles.hrline} />
