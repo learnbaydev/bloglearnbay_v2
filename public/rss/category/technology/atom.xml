@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-05-14T12:12:00.999Z</updated>
+    <updated>2024-06-17T05:33:49.462Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,13 +13,6 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2024, Learnbay</rights>
-    <entry>
-        <title type="html"><![CDATA[Blockchain In Supply Chain | 6 Exclusive Ways of Transparency Enhancement]]></title>
-        <id>undefined/category/technology</id>
-        <link href="undefined/category/technology"/>
-        <updated>2023-04-18T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn the advantage of blockchain technology in the supply chain industry. Know the implications of this cutting-edge technology on supply chain and logistics management.]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Automation Tools in Retail | 3 Prominent Reasons Why It Needs Attention!]]></title>
         <id>undefined/category/technology</id>

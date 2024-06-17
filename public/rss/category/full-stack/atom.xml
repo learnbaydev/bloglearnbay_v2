@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-05-14T12:12:00.890Z</updated>
+    <updated>2024-06-17T05:33:49.548Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,20 +13,6 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2024, Learnbay</rights>
-    <entry>
-        <title type="html"><![CDATA[How Algorithms and Data Structures Can Change Different Sectors Worldwide?]]></title>
-        <id>undefined/category/full-stack</id>
-        <link href="undefined/category/full-stack"/>
-        <updated>2023-09-19T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ Explore how algorithms and data structures revolutionize global sectors. Discover their impact on industries, from healthcare to finance, shaping the future of technology and innovation.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can You Contribute to the World With Data Structures and Algorithms?]]></title>
-        <id>undefined/category/full-stack</id>
-        <link href="undefined/category/full-stack"/>
-        <updated>2023-09-18T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how leveraging data structures and algorithms empowers you to solve complex problems, innovate, and make a meaningful impact on the world. Unlock your potential today.]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Full Stack Development for Non-Techies: How to Get Started]]></title>
         <id>undefined/category/full-stack</id>
@@ -54,13 +40,6 @@
         <link href="undefined/category/full-stack"/>
         <updated>2023-05-28T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how to create a portfolio as a full stack web developer. Explore essential tips, practices and strategies for showcasing your skills and projects.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Becoming a Full Stack Developer: The Ultimate Career Hack]]></title>
-        <id>undefined/category/full-stack</id>
-        <link href="undefined/category/full-stack"/>
-        <updated>2023-05-27T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to fast-track your career as a full stack developer? Explore the ultimate career hack with our comprehensive guide on becoming a full stack developer]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Breaking Down The Full Stack Developer Job Description]]></title>
@@ -98,25 +77,11 @@
         <summary type="html"><![CDATA[Discover the importance of learning Data Structures and Algorithms (DSA) in Java or Python in this blog.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Must-Know Web Development Languages of 2023]]></title>
-        <id>undefined/category/full-stack</id>
-        <link href="undefined/category/full-stack"/>
-        <updated>2023-01-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, you will be briefed on seven must-know web development languages HTML, CSS, JavaScript, Python, Node.Js, Express and MongoDB.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Courses in 2023 for a Full-Stack Software Developer]]></title>
         <id>undefined/category/full-stack</id>
         <link href="undefined/category/full-stack"/>
         <updated>2023-01-12T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[are you looking for the full-stack Software Development course? Here is a list of best courses that can help you to choose a career as a full-stack software developer.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Tools Every Full-Stack Web Developer Should Master]]></title>
-        <id>undefined/category/full-stack</id>
-        <link href="undefined/category/full-stack"/>
-        <updated>2022-10-13T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out this list of 15 essential tools that every full-stack web developer should master, categorized for front-end and back-end developer tools.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 Women Full Stack-Software Developer | The Inspiration for All Women in Tech]]></title>

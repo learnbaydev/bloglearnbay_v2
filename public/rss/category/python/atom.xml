@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-05-14T12:12:00.964Z</updated>
+    <updated>2024-06-17T06:21:14.948Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -19,54 +19,5 @@
         <link href="undefined/category/python"/>
         <updated>2023-04-23T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Python 2 Vs Python 3 has become a hot topic for python in data science and AI. Here we examined differences between both and explained which could be better alternative.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python's Pywhatkit Module for Sending Message-Generating Codes?]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2023-02-09T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We have seen various implications of the python programming language. And Python's Pywhatkit module seems to prove a powerful tool for sending message-generating codes. In this blog, you will learn how to configure and run the Pywhatkit module for sending an auto-generated message.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Most Trending Python Libraries for Natural Language Processing (NLP) [2023 Update]]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2023-02-05T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the trending Python libraries for natural language processing (NLP) that would help you with classification, summarization, NER, and machine translation.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operators in Python - Operation using Symbol]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2022-09-13T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Python has a set of built-in operators that can be used on different data types. In this blog, we will learn about the different operators in Python and how to use them.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basics of Functions In Python - A Glance]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2022-09-08T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog you will learn about Python functions, including how to call and write a function. To understand more about Python functions, click here.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuples - An Immutable Derived Datatype]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2022-08-17T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog you will learn about What is Tuples, Their Different Types, Sorting of Tuples and also, you will get to know about its basic operations.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Python Programming]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2022-04-26T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Python programming language is a high-level, general-purpose language. The object-oriented programming approach made it ideal for application development.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Method Overriding in Python of Data Science Everything You Need to Know]]></title>
-        <id>undefined/category/python</id>
-        <link href="undefined/category/python"/>
-        <updated>2021-12-16T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The method overriding in Python means creating around two methods with the same particular name but differ in the programming logic as well.]]></summary>
     </entry>
 </feed>
