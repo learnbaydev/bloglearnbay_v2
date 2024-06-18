@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-06-17T06:25:30.465Z</updated>
+    <updated>2024-06-18T10:20:50.110Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,6 +13,13 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2024, Sreetam Das</rights>
+    <entry>
+        <title type="html"><![CDATA[Top Courses to Master:- AI, Cybersecurity, Data Science, Machine Learning]]></title>
+        <id>undefined/top-courses-in-ai-cybersecurity-data-science-ml</id>
+        <link href="undefined/top-courses-in-ai-cybersecurity-data-science-ml"/>
+        <updated>2024-06-17T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors]]></title>
         <id>undefined/women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors</id>
