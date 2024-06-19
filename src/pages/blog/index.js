@@ -25,14 +25,14 @@ export default function blog({ allPostsData, categoryPostTag }) {
           name="description"
           content="Stay Ahead with LearnBay Blogs on Upskilling Resources & IT Careers in AI, Data Science, Machine Learning & Full Stack Development For Learners & Professionals "
         />
-        <link href="/Learnbay-Favicon-L.png" />
+        <link href="" />
         <meta
           name="google-site-verification"
           content="q2xA2OZrvhAj8r1YGNF_3x5m5GuWCqo9rNb7atG4mXU"
         />
         <link
           rel="icon"
-          href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png"
+          href="https://d32and0ii3b8oy.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp"
         />
         <link rel="canonical" href="https://blog.learnbay.co/" />
         <meta name="publisher" content="Learnbay" />
