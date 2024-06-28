@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>Learnbay blog</title>
+    <updated>2024-06-28T09:22:48.390Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Learnbay</name>
+        <email>contacts@learnbay.co</email>
+        <uri> https://twitter.com/Learnbay</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.webp</icon>
+    <rights>All rights reserved 2024, Learnbay</rights>
+    <entry>
+        <title type="html"><![CDATA[Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs]]></title>
+        <id>undefined/category/deep-learning</id>
+        <link href="undefined/category/deep-learning"/>
+        <updated>2024-05-27T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog.]]></summary>
+    </entry>
+</feed>
