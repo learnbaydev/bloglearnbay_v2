@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Learnbay blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Learnbay",
+        "url": " https://twitter.com/Learnbay"
+    },
+    "items": [
+        {
+            "id": "undefined/category/deep-learning",
+            "url": "undefined/category/deep-learning",
+            "title": "Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs",
+            "summary": "Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog.",
+            "date_modified": "2024-05-27T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

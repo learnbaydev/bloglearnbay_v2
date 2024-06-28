@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-06-19T06:34:36.689Z</updated>
+    <updated>2024-06-28T08:55:15.038Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -21,11 +21,39 @@
         <summary type="html"><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Women in Data Science Are Diminishing the Gender Gap in Indian Tech Sectors]]></title>
-        <id>undefined/women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors</id>
-        <link href="undefined/women-in-data-science-are-diminishing-the-gender-gap-in-indian-tech-sectors"/>
-        <updated>2023-03-06T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Women have attained a peak in the field of technology. Here in this blog, we are going to discuss how women in data science have diminished the gender gap in tech sectors. Also, what are the difficulties and alternatives to pursuing the best data science course?]]></summary>
+        <title type="html"><![CDATA[Top 11 Data Science Courses in India with Placement Support [2024 Update]]]></title>
+        <id>undefined/top-data-science-courses-india</id>
+        <link href="undefined/top-data-science-courses-india"/>
+        <updated>2024-06-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ Looking for the best Data Science Institute to upgrade your career? Explore top data science course institutes in India, Become a certified data scientist.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs]]></title>
+        <id>undefined/automated-deep-learning-for-chest-radiograph-screening</id>
+        <link href="undefined/automated-deep-learning-for-chest-radiograph-screening"/>
+        <updated>2024-05-27T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Uptrend of Generative AI To Ease Massive Data Center Migration]]></title>
+        <id>undefined/generative-ai-ease-datacenter-migration</id>
+        <link href="undefined/generative-ai-ease-datacenter-migration"/>
+        <updated>2024-05-24T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how generative AI simplifies data center migration, enhancing efficiency and scalability. Explore the latest trends in AI-driven solutions. Read our blog.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rising Influence of Data Science and AI in Banking & Finance]]></title>
+        <id>undefined/influence-of-data-science-&amp;-ai-in-banking-&amp;-finance</id>
+        <link href="undefined/influence-of-data-science-&amp;-ai-in-banking-&amp;-finance"/>
+        <updated>2024-05-24T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The growing impact of data science and AI in banking and finance. Stay ahead with insights into key trends and advancements shaping the industry]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOT Careers:- Your Ultimate Guide to Thriving Opportunities in 2024]]></title>
+        <id>undefined/iot-careers-ultimate-guide-for-2024</id>
+        <link href="undefined/iot-careers-ultimate-guide-for-2024"/>
+        <updated>2024-05-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
@@ -33,12 +61,5 @@
         <link href="undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant"/>
         <updated>2022-10-24T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package]]></title>
-        <id>undefined/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package</id>
-        <link href="undefined/banking-finance-services-insurance-sector-know-how-to-achieve-the-most-lucrative-salary-package"/>
-        <updated>2022-04-06T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></summary>
     </entry>
 </feed>

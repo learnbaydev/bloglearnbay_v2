@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-06-19T06:34:36.692Z</updated>
+    <updated>2024-06-28T08:55:15.056Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -21,10 +21,17 @@
         <summary type="html"><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package]]></title>
+        <title type="html"><![CDATA[Top 11 Data Science Courses in India with Placement Support [2024 Update]]]></title>
         <id>undefined/category/trending</id>
         <link href="undefined/category/trending"/>
-        <updated>2022-04-06T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></summary>
+        <updated>2024-06-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ Looking for the best Data Science Institute to upgrade your career? Explore top data science course institutes in India, Become a certified data scientist.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOT Careers:- Your Ultimate Guide to Thriving Opportunities in 2024]]></title>
+        <id>undefined/category/trending</id>
+        <link href="undefined/category/trending"/>
+        <updated>2024-05-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.]]></summary>
     </entry>
 </feed>

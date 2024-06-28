@@ -50,12 +50,90 @@
       "title": "Top Courses to Master:- AI, Cybersecurity, Data Science, Machine Learning",
       "slug": "top-courses-in-ai-cybersecurity-data-science-ml",
       "description": "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.",
-      "categories": "Hot Topics",
-      "author": "Learnbay",
-      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/Cybersecurity.banner.png",
+      "categories": "Data Science and AI",
+      "author": "Sonalisha",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/bank_banner.png",
       "readTime": "5 mins",
+      "date": "May 25, 2024",
+      "draft": false
+    }
+
+  },
+  {
+    "slug": "iot-careers-ultimate-guide-for-2024",
+    "frontmatter": {
+      "title": "IOT Careers:- Your Ultimate Guide to Thriving Opportunities in 2024",
+      "slug": "iot-careers-ultimate-guide-for-2024",
+      "description": "Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.",
+      "categories": "Hot Topics",
+      "author": "Sayantika",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/IoT_banner.png",
+      "readTime": "4 mins",
+      "date": "May 24, 2024",
+      "draft": false
+    }
+    
+  },
+
+  {
+    "slug": "influence-of-data-science-&-ai-in-banking-&-finance",
+    "frontmatter": {
+      "title": "The Rising Influence of Data Science and AI in Banking & Finance",
+      "slug": "influence-of-data-science-&-ai-in-banking-&-finance",
+      "description": "The growing impact of data science and AI in banking and finance. Stay ahead with insights into key trends and advancements shaping the industry",
+      "categories": "Data Science and AI",
+      "author": "Sayantika",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/IoT_banner.png",
+      "readTime": "4 mins",
+      "date": "May 24, 2024",
+      "draft": false
+    }
+    
+  },
+  {
+    "slug": "automated-deep-learning-for-chest-radiograph-screening",
+    "frontmatter": {
+      "title": "Role of Automated Deep Learning Algorithm For Reliable Screening of Chest Radiographs",
+      "slug": "automated-deep-learning-for-chest-radiograph-screening",
+      "description": "Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog.",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/role_banner.png",
+      "readTime": "4 mins",
+      "date": "May 24, 2024",
+      "draft": false
+    }
+    
+  },
+
+  {
+    "slug": "top-data-science-courses-india",
+    "frontmatter": {
+      "title": "Top 11 Data Science Courses in India with Placement Support [2024 Update]",
+      "slug": "top-data-science-courses-india",
+      "description": " Looking for the best Data Science Institute to upgrade your career? Explore top data science course institutes in India, Become a certified data scientist..",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/role_banner.png",
+      "readTime": "4 mins",
+      "date": "Jun 14, 2024",
+      "draft": false
+    }
+    
+  },
+  {
+    "slug": "generative-ai-ease-datacenter-migration",
+    "frontmatter": {
+      "title": "The Uptrend of Generative AI To Ease Massive Data Center Migration",
+      "slug": "generative-ai-ease-datacenter-migration",
+      "description": " Looking for the best Data Science Institute to upgrade your career? Explore top data science course institutes in India, Become a certified data scientist..",
+      "categories": "Machine Learning",
+      "author": "Sonalisha Mohanty",
+      "image": "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/uptrend_banner.png",
+      "readTime": "6 mins",
       "date": "Jun 18, 2024",
       "draft": false
     }
+    
   }
 ]

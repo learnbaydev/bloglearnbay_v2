@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Wed, 19 Jun 2024 06:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 08:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -21,11 +21,18 @@
             <description><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></description>
         </item>
         <item>
-            <title><![CDATA[Banking, Finance, Services & Insurance Sector Know How to Achieve The Most Lucrative Salary Package]]></title>
+            <title><![CDATA[Top 11 Data Science Courses in India with Placement Support [2024 Update]]]></title>
             <link>undefined/category/trending</link>
             <guid>undefined/category/trending</guid>
-            <pubDate>Wed, 06 Apr 2022 18:30:00 GMT</pubDate>
-            <description><![CDATA[The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability.]]></description>
+            <pubDate>Thu, 13 Jun 2024 18:30:00 GMT</pubDate>
+            <description><![CDATA[ Looking for the best Data Science Institute to upgrade your career? Explore top data science course institutes in India, Become a certified data scientist.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[IOT Careers:- Your Ultimate Guide to Thriving Opportunities in 2024]]></title>
+            <link>undefined/category/trending</link>
+            <guid>undefined/category/trending</guid>
+            <pubDate>Thu, 23 May 2024 18:30:00 GMT</pubDate>
+            <description><![CDATA[Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.]]></description>
         </item>
     </channel>
 </rss>
