@@ -2,13 +2,16 @@
   "name": "bloglearnbay_v2",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+  
+    "scripts": {
+      "dev": "node server.js",
+      "build": "next build",
+      "start": "NODE_ENV=production node server.js"
+    },
+  
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "marked": "^4.0.17",
