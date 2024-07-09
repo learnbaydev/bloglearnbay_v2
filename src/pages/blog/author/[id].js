@@ -43,7 +43,7 @@ export default function CategoryBlog({ categoryPosts }) {
         })}
         <link
           rel="icon"
-          href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png"
+          href="https://dye9dtwtg1p5q.cloudfront.net/main/Learnbay-Favicon-L.png"
         />
         <meta name="robots" content="index, follow" />
       </Head>

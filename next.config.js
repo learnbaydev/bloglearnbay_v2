@@ -1,22 +1,34 @@
-/** @type {import('next').NextConfig} */
-// const nextConfig = {
-//   reactStrictMode: true,
-// }
+const isProd = process.env.NODE_ENV == "production";
+const nextConfig = {
+  assetPrefix: isProd ? "https://dye9dtwtg1p5q.cloudfront.net" : undefined,
+  eslint: {
+    ignoreDuringBuilds: true,    
+  },
+  experimental: {
+    optimizePackageImports: [
+      "react-phone-input-2",
+      "react-icons",
+      "swiper",
+      "mongodb",
+      "typed.js",
+    ],
 
-module.exports = {
-    eslint: {
-      ignoreDuringBuilds: true,
-    },
-    reactStrictMode: true,
-    images: {
-      domains: [
-        "learnbay-wb.s3.ap-south-1.amazonaws.com",
-        "skillslash-cdn.s3.ap-south-1.amazonaws.com",
-      ],
-  
-      formats: ["image/avif", "image/webp"],
-      minimumCacheTTL: 60,
-    },
+    // nextScriptWorkers: true,
+  },
+
+  reactStrictMode: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "dye9dtwtg1p5q.cloudfront.net",
+        pathname: "**",
+      },
+    ],
+    formats: ["image/avif", "image/webp"],
+    minimumCacheTTL: 2678400,
+  },
+
     async redirects() {
       return [
         {
@@ -1023,5 +1035,5 @@ module.exports = {
   //   },
   // };
   
-  // module.exports = nextConfig;
+  module.exports = nextConfig;
   

@@ -28,7 +28,7 @@ const Footer = ({ adPage }) => {
         <div className={styles.FooterDivInner}>
           <a href="/">
             <Image
-              src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/logo-light.png"
+              src="https://dye9dtwtg1p5q.cloudfront.net/main/logo-light.png"
               alt="Learnbay"
               width="230"
               height="50"

@@ -10,7 +10,7 @@ export const Details = [
         courseDetails: [
           {
             id: 1,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/Adv.+DSAI.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/Adv.+DSAI.png",
             title: "Advanced Data Science",
             ratingCount: 4,
             rating: [
@@ -38,7 +38,7 @@ export const Details = [
           },
           {
             id: 3,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/Managers.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/Managers.png",
             title: "Data Science & AI ",
             title1: "For Managers",
             ratingCount: 4,
@@ -66,7 +66,7 @@ export const Details = [
           },
           {
             id: 4,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/AIML.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/AIML.png",
             title: "Advance AI & ML Program",
             ratingCount: 4,
             rating: [<FaStar />, <FaStar />, <FaStar />, <FaStar />],
@@ -88,7 +88,7 @@ export const Details = [
           },
           {
             id: 6,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/DSAI+Master+(1).png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/DSAI+Master+(1).png",
             title: "Data Science & AI ",
             title1: "Master Program",
             ratingCount: 4,
@@ -110,7 +110,7 @@ export const Details = [
           },
           {
             id: 2,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/NewDesignImage/SDE-masters.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/NewDesignImage/SDE-masters.png",
             title: "Software Development ",
             ratingCount: 4,
             rating: [
@@ -138,7 +138,7 @@ export const Details = [
           },
           {
             id: 5,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/NewDesignImage/software-blockchain.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/NewDesignImage/software-blockchain.png",
             title: "Software Development ",
             ratingCount: 4,
             rating: [
@@ -167,7 +167,7 @@ export const Details = [
           },
           {
             id: 7,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/NewDesignImage/software-Devops.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/NewDesignImage/software-Devops.png",
             title: "Software Development Program ",
             ratingCount: 4,
             rating: [
@@ -210,7 +210,7 @@ export const Details = [
         courseDetails: [
           {
             id: 1,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/Foundation.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/Foundation.png",
             title: "Data Science",
             title1: "Foundation Program",
             ratingCount: 4,
@@ -232,7 +232,7 @@ export const Details = [
           },
           {
             id: 2,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/Adv.+DSAI.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/Adv.+DSAI.png",
             title: "Advanced Data Science",
             ratingCount: 4,
             rating: [<FaStar />, <FaStar />, <FaStar />, <FaStar />],
@@ -254,7 +254,7 @@ export const Details = [
           },
           {
             id: 3,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/AIML.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/AIML.png",
             title: "Advance AI & ML Program",
             ratingCount: 4,
             rating: [<FaStar />, <FaStar />, <FaStar />, <FaStar />],
@@ -276,7 +276,7 @@ export const Details = [
           },
           {
             id: 4,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/Managers.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/Managers.png",
             title: "Data Science & AI ",
             title1: "For Managers",
             ratingCount: 4,
@@ -298,7 +298,7 @@ export const Details = [
           },
           {
             id: 5,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/DSAI+Master+(1).png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/DSAI+Master+(1).png",
             title: "Data Science & AI ",
             title1: "Master Program",
             ratingCount: 4,
@@ -326,7 +326,7 @@ export const Details = [
           },
           {
             id: 6,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/BA.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/BA.png",
             title: "Business Analytics",
             title1: "Master Program",
             ratingCount: 4,
@@ -354,7 +354,7 @@ export const Details = [
           },
           {
             id: 7,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/DA.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/DA.png",
             title: "Data Analytics",
             ratingCount: 4,
             rating: [
@@ -382,7 +382,7 @@ export const Details = [
           },
           {
             id: 8,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/BFSI+(1).png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/BFSI+(1).png",
             title: "Data Science and AI Program",
             title1: "for BFSI Professionals",
             ratingCount: 4,
@@ -410,7 +410,7 @@ export const Details = [
           },
           {
             id: 9,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/HR.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/HR.png",
             title: "HR Analytics",
             ratingCount: 4,
             rating: [
@@ -438,7 +438,7 @@ export const Details = [
           },
           {
             id: 10,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Course-home/Marketing.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/Course-home/Marketing.png",
             title: "Marketing Analytics",
             ratingCount: 4,
             rating: [
@@ -479,7 +479,7 @@ export const Details = [
         courseDetails: [
           {
             id: 1,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/NewDesignImage/software-blockchain.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/NewDesignImage/software-blockchain.png",
             title: "Software Development ",
             ratingCount: 4,
             rating: [
@@ -507,7 +507,7 @@ export const Details = [
               "https://brochureslearnbay.s3.ap-south-1.amazonaws.com/learnbay/Software+Development+with+Specialization+in+Blockchain.pdf",
           },
           {
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/NewDesignImage/SDE-masters.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/NewDesignImage/SDE-masters.png",
             title: "Software Development ",
             ratingCount: 4,
             rating: [
@@ -535,7 +535,7 @@ export const Details = [
           },
           {
             id: 3,
-            img: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/NewDesignImage/software-Devops.png",
+            img: "https://dye9dtwtg1p5q.cloudfront.net/main/NewDesignImage/software-Devops.png",
             title: "Software Development Program ",
             ratingCount: 4,
             rating: [

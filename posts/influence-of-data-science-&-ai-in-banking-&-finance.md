@@ -6,7 +6,7 @@ published_time: "2024-05-25T13:25:31+05:30"
 modified_time: "2024-05-25T13:25:31+05:30"
 desc: "The growing impact of data science and AI in banking and finance. Stay ahead with insights into key trends and advancements shaping the industry"
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/bank_banner.png"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/bank_banner.png"
 headerAlt: "Data Science and AI in Banking & Finance"
 date: "May 25, 2024"
 tag:
@@ -23,7 +23,7 @@ authortitle: ""
 adesc: ""
 
 author: "Sayantika"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/synatika.jpeg"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog-v2/synatika.jpeg"
 authordesc: "A data science and AI blogger and researcher specializing in healthcare applications of artificial intelligence and data science. With healthcare expertise, she also has a keen interest in learning models, implementing AI solutions, and utilizing scripting languages such as Python and Java for healthcare innovation. "
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "Editor"
@@ -58,7 +58,7 @@ Gradually, the banking sector becomes digital, leading to time and cost-effectiv
 
 _Let’s review the latest trends, led by data science and AI lifting the BFSI sector yields._</br></br>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/bank_one.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/main-blog-v2/bank_one.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
 
 ## Top Trends of <b>Data Science and AI in Banking</b> and Finance
 
@@ -140,7 +140,7 @@ In short, the BFSI sector is flourishing day-to-day with the rise of data scienc
 
 _Let’s review the proven skills that shall help BFSI experts deal with the rising influence of data science and AI._</br></br>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/bank.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/main-blog-v2/bank.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
 
 ## Vital Data Science and AI Skills That Every BFSI Expert Must Have
 
