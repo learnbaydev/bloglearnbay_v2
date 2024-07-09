@@ -6,7 +6,7 @@ published_time: "2024-05-28T13:25:31+05:30"
 modified_time: "2024-05-28T13:25:31+05:30"
 desc: "Learn how automated deep learning algorithms enhance chest radiograph screening reliability, revolutionising medical imaging interpretation. Read our blog."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/role_banner.png"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/role_banner.png"
 headerAlt: "Automated deep learning in chest radiograph screening."
 date: "May 28, 2024"
 tag:
@@ -24,7 +24,7 @@ catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technolo
 authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
@@ -48,7 +48,7 @@ _<b>Now, let’s review the pitfalls of a manual screening system.</b>_</br>
 
 ## Traditional/Manual Chest Radiograph Screening System
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/role_one.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/role_one.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
 
 No wonder the tech shifts across the globe have made notable changes in medical history. Yet, a lack of trained experts and unfair behavior hamper the credibility of the sector. Today's medical industry relies on vast automated systems since its manual operations lack fairness.</br>
 
@@ -68,7 +68,7 @@ Deep learning neural network is the weapon of many non-linear modules that help 
 
 ## Automated Deep Learning Algorithms – Emergence & Benefits
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/role.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/role.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
 
 Automated deep learning algorithms bring a more efficient and accurate approach to medical practices. Unlike human experts, deep learning in medical imaging and diagnosis delivers higher yields. Its ability to automate tools, set algorithms, arrange feature sets, and decide the parameters work well. Deep learning improves the accuracy of automated image analysis that humans fail to do.</br>
 

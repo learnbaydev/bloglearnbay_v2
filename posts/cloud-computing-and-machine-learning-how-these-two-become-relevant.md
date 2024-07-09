@@ -6,7 +6,7 @@ published_time: "2022-10-25T13:25:31+05:30"
 modified_time: "2022-10-25T13:25:31+05:30"
 desc: "Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-1.jpg"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/cl-1.jpg"
 headerAlt: "An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."
 date: "Oct 25, 2022"
 tag:
@@ -33,7 +33,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/nivin.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/nivin.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"
@@ -89,7 +89,7 @@ The need to apply machine learning becomes apparent when one realizes the fact t
 
 ## Now - What is cloud computing?
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-2.jpg" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/cl-2.jpg" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
 
 Cloud computing is a very applicable and reliable innovation more than a marketing term. To be more precise, the future of commercial technology depends on cloud computing. For many businesses, the cloud has already become an integral element of their business model, and this trend will continue.
 
@@ -149,7 +149,7 @@ The Internet of Things (<a href="https://youtu.be/8DUDgqR-6jI" target="_blank" r
 
 **So there were a few cloud-based machine learning applications that are quite trustworthy and useful in any organizational discipline.**
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/cl-3.jpg" style="width:100%" class="img" alt="An image indicating the use of cloud computing services in an organizational department via a few cloud-based machine learning applications."/>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/cl-3.jpg" style="width:100%" class="img" alt="An image indicating the use of cloud computing services in an organizational department via a few cloud-based machine learning applications."/>
 
 ## Final Thoughts:-
 

@@ -6,7 +6,7 @@ published_time: "2024-06-18T13:25:31+05:30"
 modified_time: "2024-06-18T13:25:31+05:30"
 desc: "Learn how generative AI simplifies data center migration, enhancing efficiency and scalability. Explore the latest trends in AI-driven solutions. Read our blog."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/uptrend_banner.png"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/uptrend_banner.png"
 headerAlt: "Data Science and AI in Banking & Finance"
 date: "May 25, 2024"
 tag:
@@ -23,7 +23,7 @@ catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technolo
 authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
@@ -59,7 +59,7 @@ Industry research reports state a notable rise in the global datacenter migratio
 _Yet, the query is how? Let’s move to the next part, which reflects on the rise of GenAI to ease data center migration actions._
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/uptrend_one.png" style="width:100%" class="img" alt="An image shows a human hand of logo of AI."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/uptrend_banner.png" style="width:100%" class="img" alt="An image shows a human hand of logo of AI."/></br>
 
 
 
@@ -98,7 +98,7 @@ GenAI tools can identify the right data center infrastructure for firms. At time
 
 
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/uptrend_two.png" style="width:100%" class="img" alt="An image shows timely risk management, including AI data-driven data center transformation."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/main-blog/uptrend_two.png" style="width:100%" class="img" alt="An image shows timely risk management, including AI data-driven data center transformation."/></br>
 
 
 

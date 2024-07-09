@@ -32,7 +32,7 @@ export default function blog({ allPostsData, categoryPostTag }) {
         />
         <link
           rel="icon"
-          href="https://d32and0ii3b8oy.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp"
+          href="https://dye9dtwtg1p5q.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp"
         />
         <link rel="canonical" href="https://blog.learnbay.co/" />
         <meta name="publisher" content="Learnbay" />

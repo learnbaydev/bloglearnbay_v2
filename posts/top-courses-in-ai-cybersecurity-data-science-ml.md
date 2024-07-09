@@ -6,7 +6,7 @@ published_time: "2024-06-18T13:25:31+05:30"
 modified_time: "2024-06-18T13:25:31+05:30"
 desc: "The BFSI industry in India has seen a significant transformation, which has led to the emergence of a new fintech competition as well as improved customer experiences and banking requirements for sustainability."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/Cybersecurity.banner.png"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/Cybersecurity.banner.png"
 headerAlt: " Cybersecurity, Data Science, and Machine Learning courses."
 date: "Jun 18, 2024"
 tag:
@@ -25,7 +25,7 @@ authortitle: ""
 adesc: ""
 
 author: "Learnbay"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/learnbay-admin.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/learnbay-admin.webp"
 authordesc: " "
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "Editor"
@@ -78,7 +78,7 @@ AI has become the pillar of strength for the digital space. Smart integration of
 - Advanced AI deployment with live projects or case studies
 - Latest Gen-AI tools and trends
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/Cybersecurity_one.png" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/Cybersecurity_one.png" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
 
 ### 2. Top Cybersecurity Programs to Enroll
 
@@ -136,7 +136,7 @@ Data science is trending across the globe changing the business and job outlook.
 - Latest AI tools deployment
 - Gen-AI tools and trends
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/Cybersecurity_two.png" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/Cybersecurity_twos.png" style="width:100%" class="img" alt="A representation of cloud computing through  Internet-hosted services."/>
 
 ### 4. In-demand ML Courses for Career Growth
 

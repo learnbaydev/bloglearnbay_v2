@@ -6,7 +6,7 @@ published_time: "2024-06-18T13:25:31+05:30"
 modified_time: "2024-06-18T13:25:31+05:30"
 desc: "Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/IoT_banner.png"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/IoT_banner.png"
 headerAlt: " Guide for IoT Careers in 2024"
 date: "May 24, 2024"
 tag:
@@ -27,7 +27,7 @@ authortitle: ""
 adesc: ""
 
 author: "Sayantika"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/synatika.jpeg"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog-v2/synatika.jpeg"
 authordesc: "A data science and AI blogger and researcher specializing in healthcare applications of artificial intelligence and data science. With healthcare expertise, she also has a keen interest in learning models, implementing AI solutions, and utilizing scripting languages such as Python and Java for healthcare innovation. "
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "Editor"
@@ -75,7 +75,7 @@ Going forward in this blog,</br>
 
 <b>Let's focus on the required education, trending job choices, and salary perks for professionals aiming for careers.</b></br></br>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog-v2/IoT.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/IoT.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br></br>
 
 ## Necessary Skills for an IOT Engineer
 

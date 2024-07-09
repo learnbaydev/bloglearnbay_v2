@@ -6,7 +6,7 @@ published_time: "2024-06-14T13:25:31+05:30"
 modified_time: "2024-06-14T13:25:31+05:30"
 desc: " Looking for the best Data Science Institute to upgrade your career? Explore top data science course institutes in India, Become a certified data scientist."
 slug: home
-headerImg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/top_india_banner.png"
+headerImg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/top_india_banner.png"
 headerAlt: "Automated deep learning in chest radiograph screening."
 date: "Jun 14, 2024"
 tag: []
@@ -19,7 +19,7 @@ catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technolo
 authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
-authorimg: "https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/sonalisha.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/sonalisha.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"
@@ -229,7 +229,7 @@ _<b>Contact Details:</b>_
 
 For Admission: <a href="https://admissions.emeritus.org/" target="_balnk" rel="nofollow">https://admissions.emeritus.org/</a>
 
-<Image src="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/top_india.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
+<Image src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/top_india.png" style="width:100%" class="img" alt="An image shows the necessary skills for an IOT engineer shows a person pointing to the logo of IOT."/></br>
 
 ## Top Courses for Master's Degree in Data Science Online [ Freshers exclusive] 
 

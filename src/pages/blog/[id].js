@@ -30,7 +30,7 @@ export default function Post({ postData }) {
         <Head>
           <link
             rel="icon"
-            href="https://learnbay-wb.s3.ap-south-1.amazonaws.com/main/Learnbay-Favicon-L.png"
+            href="https://dye9dtwtg1p5q.cloudfront.net/main/Learnbay-Favicon-L.png"
           />
           <title>{postData.stitle}</title>
 
@@ -57,7 +57,7 @@ export default function Post({ postData }) {
 
           <meta name="robots" content="index, follow" />
 
-          <link href="https://d32and0ii3b8oy.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp" />
+          <link href="https://dye9dtwtg1p5q.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp" />
         </Head>
 
         <Navbar />
