@@ -23,7 +23,7 @@ authortitle: ""
 adesc: ""
 
 author: "Sayantika"
-authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog-v2/synatika.jpeg"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/syantika_author.png"
 authordesc: "A data science and AI blogger and researcher specializing in healthcare applications of artificial intelligence and data science. With healthcare expertise, she also has a keen interest in learning models, implementing AI solutions, and utilizing scripting languages such as Python and Java for healthcare innovation. "
 authorlinkedin: "https://www.linkedin.com/company/learnbay/mycompany/"
 position: "Editor"

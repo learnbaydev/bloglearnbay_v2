@@ -32,7 +32,7 @@ export default function blog({ allPostsData, categoryPostTag }) {
         />
         <link
           rel="icon"
-          href="https://dye9dtwtg1p5q.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp"
+          href="https://learnbay-ver.s3.us-east-2.amazonaws.com/learnbay-blog-v2/website-icon_blog.webp"
         />
         <link rel="canonical" href="https://blog.learnbay.co/" />
         <meta name="publisher" content="Learnbay" />
@@ -46,7 +46,7 @@ export default function blog({ allPostsData, categoryPostTag }) {
           categoryPostTag={categoryPostTag}
           allPostsData={allPostsData}
         />
-        <CourseSection />
+        {/* <CourseSection /> */}
         <Footer />
       </main>
     </div>

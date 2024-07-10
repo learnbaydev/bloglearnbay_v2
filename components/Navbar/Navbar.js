@@ -99,7 +99,7 @@ const Navbar = ({
 
           {adPage ? (
             <Image
-              src="https://dye9dtwtg1p5q.cloudfront.net/main/ALight/learnbay-logo.png"
+              src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/learnbay-logo.avif"
               alt="Learnbay"
               quality={100}
               style={{ objectFit: "contain" }}
@@ -109,7 +109,7 @@ const Navbar = ({
           ) : (
             <Link href="/">
               <Image
-                src="https://dye9dtwtg1p5q.cloudfront.net/main/ALight/learnbay-logo.png"
+                src="https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/learnbay-logo.avif"
                 alt="Learnbay"
                 quality={100}
                 style={{ objectFit: "contain" }}

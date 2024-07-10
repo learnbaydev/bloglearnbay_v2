@@ -24,7 +24,7 @@ catdesc: "Explore LearnBay's informative blog to stay ahead with latest Technolo
 authortitle: "Sonalisha Mohanty - A Passionate Technical Content Writer at Learnbay"
 adesc: "Sonalisha Mohanty, a passionate blogger on emerging tech innovations and keen interest in data management has attracted her to blogging."
 author: "Sonalisha Mohanty"
-authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/sonalisha.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/sonalisha_author.webp"
 authordesc: "Sonalisha is an MBA. But her tech enthusiasm has made her a passionate blogger on emerging tech innovations. Her keen interest in trending technologies and data management has attracted her to blogging and learning emerging innovations."
 authorlinkedin: "http://www.linkedin.com/in/sonalisha-mohanty-637578259"
 position: "Editor"

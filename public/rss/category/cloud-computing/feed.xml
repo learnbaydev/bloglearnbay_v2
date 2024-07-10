@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Tue, 09 Jul 2024 06:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 05:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -17,7 +17,7 @@
             <title><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
             <link>undefined/category/cloud-computing</link>
             <guid>undefined/category/cloud-computing</guid>
-            <pubDate>Mon, 24 Oct 2022 18:30:00 GMT</pubDate>
+            <pubDate>Mon, 24 Jun 2024 18:30:00 GMT</pubDate>
             <description><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></description>
         </item>
     </channel>

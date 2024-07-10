@@ -4,7 +4,7 @@
         <title>Learnbay blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Tue, 09 Jul 2024 06:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 05:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>undefined</link>
         </image>
         <copyright>All rights reserved 2024, Sreetam Das</copyright>
+        <item>
+            <title><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
+            <link>undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant</link>
+            <guid>undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant</guid>
+            <pubDate>Mon, 24 Jun 2024 18:30:00 GMT</pubDate>
+            <description><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></description>
+        </item>
         <item>
             <title><![CDATA[Top Courses to Master:- AI, Cybersecurity, Data Science, Machine Learning]]></title>
             <link>undefined/top-courses-in-ai-cybersecurity-data-science-ml</link>
@@ -54,13 +61,6 @@
             <guid>undefined/iot-careers-ultimate-guide-for-2024</guid>
             <pubDate>Thu, 23 May 2024 18:30:00 GMT</pubDate>
             <description><![CDATA[Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
-            <link>undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant</link>
-            <guid>undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant</guid>
-            <pubDate>Mon, 24 Oct 2022 18:30:00 GMT</pubDate>
-            <description><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></description>
         </item>
     </channel>
 </rss>
