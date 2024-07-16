@@ -1,6 +1,6 @@
 const isProd = process.env.NODE_ENV == "production";
 const nextConfig = {
-  assetPrefix: isProd ? "https://dye9dtwtg1p5q.cloudfront.net" : undefined,
+  assetPrefix: isProd ? "https://dye9dtwtg1p5q.cloudfront.net/" : undefined,
   eslint: {
     ignoreDuringBuilds: true,    
   },
