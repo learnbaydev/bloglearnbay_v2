@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Learnbay blog</title>
-    <updated>2024-07-09T06:09:56.067Z</updated>
+    <updated>2024-07-16T12:09:38.750Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Learnbay</name>
@@ -13,6 +13,13 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.webp</icon>
     <rights>All rights reserved 2024, Sreetam Das</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
+        <id>undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant</id>
+        <link href="undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant"/>
+        <updated>2024-06-24T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Courses to Master:- AI, Cybersecurity, Data Science, Machine Learning]]></title>
         <id>undefined/top-courses-in-ai-cybersecurity-data-science-ml</id>
@@ -54,12 +61,5 @@
         <link href="undefined/iot-careers-ultimate-guide-for-2024"/>
         <updated>2024-05-23T18:30:00.000Z</updated>
         <summary type="html"><![CDATA[Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Computing and Machine Learning - How These Two Become Relevant]]></title>
-        <id>undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant</id>
-        <link href="undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant"/>
-        <updated>2022-10-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.]]></summary>
     </entry>
 </feed>

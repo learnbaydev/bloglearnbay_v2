@@ -4,112 +4,68 @@ import { TabData } from "./TabData";
 import styles from "./Tabs.module.css";
 
 const Tabs = ({ handleIcon }) => {
-  const [dataLoop, setDataLoop] = useState([
-    { title: "Popular Courses", value: true },
-    { title: "Data Science & AI", value: false },
-    { title: "Software Development", value: false },
-    { title: "Master Program", value: false },
-    { title: "View All", value: false },
-  ]);
+  const [selectedIndex, setSelectedIndex] = useState(null);
 
-  const menuChange = (title, index) => {
-    if (title === dataLoop[index].title) {
-      setDataLoop([...dataLoop], (dataLoop[index].value = true));
-      for (let i = 0; i < dataLoop.length; i++) {
-        if (index === i) {
-          setDataLoop([...dataLoop], (dataLoop[index].value = true));
-        } else {
-          setDataLoop([...dataLoop], (dataLoop[i].value = false));
-        }
-      }
+  const handleMenuChange = (index) => {
+    // Check if the same tab is clicked again
+    if (selectedIndex === index) {
+      // Close the tab by setting selectedIndex to null
+      setSelectedIndex(null);
+    } else {
+      // Open the selected tab
+      setSelectedIndex(index);
     }
+  };
+
+  const handleLeavePanel = () => {
+    setSelectedIndex(null);
+  };
+
+  const renderCourses = () => {
+    const selectedData = TabData[selectedIndex];
+    if (!selectedData) return null;
+
+    return (
+      <div className={styles.RowWrap}>
+        {selectedData.courseName.map((course, index) => (
+          <div className={styles.Row} key={index}>
+            <a href={course.url}>
+              <div className={styles.Program} onClick={() => handleIcon(false)}>
+                <div className={styles.ProLeft}>
+                  <h5>{course.CName}</h5>
+                  <span>{course.hours}</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        ))}
+      </div>
+    );
   };
 
   return (
     <div className="wrapper">
       <div className={styles.MenuTabs}>
         <div className={styles.leftPanel}>
-          {TabData.map((data, index) => {
-            return (
-              <div key={data.id}>
-                <span
-                  key={data.id}
-                  id="0"
-                  onMouseOver={() => {
-                    menuChange(data.title, index);
-                  }}
-                  className={
-                    dataLoop[index].value ? styles.spanActive : styles.span
-                  }
-                >
-                  {data.title}
-                  <IoIosArrowForward />
-                </span>
-                {/*  For Mobile Tabs are visible onClick below middlePanel is for mobile view */}
-                {dataLoop[index].value ? (
-                  <div className={styles.middlePanel}>
-                    {TabData.map((data, index) => {
-                      const { courseName } = data;
-                      return dataLoop[index].value ? (
-                        <div className={styles.RowWrap} key={index}>
-                          {courseName.map((data, index) => {
-                            return (
-                              <div className={styles.Row} key={index}>
-                                <a href={data.url}>
-                                  <div
-                                    className={styles.Program}
-                                    onClick={() => handleIcon(false)}
-                                  >
-                                    <div className={styles.ProLeft}>
-                                      <h5>{data.CName}</h5>
-                                      <span>{data.hours} </span>
-                                    </div>
-                                  </div>
-                                </a>
-                              </div>
-                            );
-                          })}
-                        </div>
-                      ) : (
-                        ""
-                      );
-                    })}
-                  </div>
-                ) : (
-                  ""
-                )}
-              </div>
-            );
-          })}
+          {TabData.map((data, index) => (
+            <div key={data.id}>
+              <span
+                onMouseOver={() => handleMenuChange(index)}
+                onClick={() => handleMenuChange(index)}
+                className={
+                  selectedIndex === index ? styles.spanActive : styles.span
+                }
+              >
+                {data.title}
+              {/* <IoIosArrowForward /> */}
+              </span>
+              {(selectedIndex === index || selectedIndex === null) && (
+                <div className={styles.middlePanel}>{renderCourses()}</div>
+              )}
+            </div>
+          ))}
         </div>
-        <div className={styles.middlePanel}>
-          {TabData.map((data, index) => {
-            const { courseName } = data;
-            return dataLoop[index].value ? (
-              <div className={styles.RowWrap} key={index}>
-                {courseName.map((data, index) => {
-                  return (
-                    <div className={styles.Row} key={index}>
-                      <a href={data.url}>
-                        <div
-                          className={styles.Program}
-                          onClick={() => handleIcon(false)}
-                        >
-                          <div className={styles.ProLeft}>
-                            <h5>{data.CName}</h5>
-                            <span>{data.hours} </span>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  );
-                })}
-              </div>
-            ) : (
-              ""
-            );
-          })}
-        </div>
+        <div className={styles.middlePanel}>{renderCourses()}</div>
       </div>
     </div>
   );

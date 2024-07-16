@@ -8,7 +8,7 @@ desc: "Cloud computation and machine learning technologies are used by organizat
 slug: home
 headerImg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/cl-1.jpg"
 headerAlt: "An illustration of artificial intelligence (AI) bot seated in front of a laptop represents the use of cloud computing."
-date: "Oct 25, 2022"
+date: "jun 25, 2024"
 tag:
   [
     Cloud computing,
@@ -33,7 +33,7 @@ authortitle: "Nivin Biswas - AI and Machine Learning Enthusiast & Blogger | Lear
 adesc: "Nivin Biswas, A blogger and researcher in AI, Data Science, and Full-Stack. Also, he expertise in ML Models and Scripting Languages like Python & Java."
 
 author: "Nivin Biswas"
-authorimg: "https://dye9dtwtg1p5q.cloudfront.net/main-blog/blog/nivin.webp"
+authorimg: "https://dye9dtwtg1p5q.cloudfront.net/learnbay-blog-v2/nivin_author.webp"
 authordesc: "A tech blogger and researcher in artificial intelligence, data science, and full-stack development. He holds expertise in machine learning models, artificial intelligence, and scripting languages like Python and Java"
 authorlinkedin: "https://www.linkedin.com/in/nivin-biswas-7b3197178/"
 position: "Editor"

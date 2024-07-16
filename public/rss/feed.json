@@ -9,6 +9,14 @@
     },
     "items": [
         {
+            "id": "undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant",
+            "url": "undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant",
+            "title": "Cloud Computing and Machine Learning - How These Two Become Relevant",
+            "summary": "Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.",
+            "date_modified": "2024-06-24T18:30:00.000Z",
+            "author": {}
+        },
+        {
             "id": "undefined/top-courses-in-ai-cybersecurity-data-science-ml",
             "url": "undefined/top-courses-in-ai-cybersecurity-data-science-ml",
             "title": "Top Courses to Master:- AI, Cybersecurity, Data Science, Machine Learning",
@@ -54,14 +62,6 @@
             "title": "IOT Careers:- Your Ultimate Guide to Thriving Opportunities in 2024",
             "summary": "Explore the landscape of IoT careers in 2024 with our comprehensive guide. Unlock thriving opportunities and chart your path to success in the dynamic world of Internet of Things.",
             "date_modified": "2024-05-23T18:30:00.000Z",
-            "author": {}
-        },
-        {
-            "id": "undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant",
-            "url": "undefined/cloud-computing-and-machine-learning-how-these-two-become-relevant",
-            "title": "Cloud Computing and Machine Learning - How These Two Become Relevant",
-            "summary": "Cloud computation and machine learning technologies are used by organizations to process large amounts of data and get relevant results in real-time.",
-            "date_modified": "2022-10-24T18:30:00.000Z",
             "author": {}
         }
     ]

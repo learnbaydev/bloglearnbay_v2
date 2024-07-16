@@ -1,208 +1,120 @@
 export const TabData = [
   {
-    id: "Popular Courses",
-    title: "Popular Courses",
+    id: "Domain Certification Courses",
+    title: "Domain Certification Courses",
     courseName: [
       {
-        id: 1,
-        CName: "Advance Data Science and AI Program",
-        hours: "250+ Hours | 7 & 9 Months",
-        url: "/advance-data-science-certification-courses",
+        CName: "Data Science & AI Program For Managers and Leaders",
+        hours: "11 Months",
+        url: "/datascience/data-science-ai-for-managers",
       },
       {
-        CName: "Data Science and AI for Managers & Leaders",
-        hours: "400+ Hours | 11 & 13 Months",
-        url: "/data-science-ai-for-managers",
+        CName: "HR Analytics Certification Program",
+        hours: "5 Months",
+        url: "/datascience/hr-analytics",
       },
       {
-        CName: "Software Development Master Program",
-        hours: "300+ Hours | 9 & 11 Months",
-        url: "/full-stack-software-development-program",
+        CName: "Data Science & AI for BFSI Professionals",
+        hours: "7 Months",
+        url: "/datascience/data-science-for-bfsi-professional",
       },
       {
-        CName: "Advance AI & ML Program For Tech Professionals",
-        hours: "350+ Hours | 9 & 11 Months",
-        url: "/artificial-intelligence-certification-course",
-      },
-      {
-        CName: "Software Development in Blockchain",
-        hours: "250+ Hours | 8 & 10 Months",
-        url: "/software-development-program-with-specialization-in-blockchain",
-      },
-      {
-        CName: "Data Science and AI Master Program",
-        hours: "500+ Hours | 13 & 15 Months",
-        url: "/data-science-ai-masters-program",
-      },
-      {
-        CName: " Software Development in Cloud Computing & DevOps",
-        hours: "250+ Hours | 8 & 10 Months",
-        url: "/software-development-program-with-specialization-in-cloud-computing-&-devops",
+        CName: "Marketing Analytics Certification Program",
+        hours: "5 Months",
+        url: "/datascience/marketing-analytics",
       },
     ],
   },
   {
-    id: "Data Science & AI",
-    title: "Data Science & AI",
+    id: "Our Certification Courses",
+    title: "Our Certification Courses",
     courseName: [
+      {
+        CName: "Data Science and AI Master Certification Program",
+        hours: "13 Months",
+        url: "/datascience/data-science-and-ai-master-certification-program",
+      },
+      {
+        CName: "Business Analytics Master Certification Program",
+        hours: "7 Months",
+        url: "/datascience/business-analytics-certification-course",
+      },
+      {
+        CName: "Advanced AI and ML Certification Program",
+        hours: "9 Months",
+        url: "/datascience/artificial-intelligence-certification-course",
+      },
+      {
+        CName: "Advanced Data Science and AI Certification",
+        hours: "7 Months",
+        url: "/datascience/advance-data-science-certification-courses",
+      },
+      {
+        CName: "Data Science and AI Program for Freshers",
+        hours: "6 Months",
+        url: "/datascience/data-science-ai-for-freshers",
+      },
+      {
+        CName: "Data Analytics Certification Program",
+        hours: "5 Months",
+        url: "/datascience/data-analytics-certification-course",
+      },
       {
         CName: "Data Science Foundation Program",
-        hours: " 200+ Hours | 5 & 7 Months",
-        url: "/data-science-certification-courses",
+        hours: "4 Months",
+        url: "/datascience/data-science-certification-courses",
+      },
+    ],
+  },
+
+  {
+    id: "Cloud & DevOps and Fullstack",
+    title: "Cloud & DevOps and Fullstack",
+    courseName: [
+      {
+        CName: "Cloud Computing & DevOps Certification Program",
+        hours: "7 Months",
+        url: "/cloud&devops/cloud-computing-and-devOps-certification-program",
       },
       {
-        CName: "Advance Data Science & AI Program",
-        hours: " 250+ Hours | 7 & 9 Months",
-        url: "/advance-data-science-certification-courses",
+        CName: "Certificate in AWS Cloud Computing & Devops",
+        hours: "3-4 Months",
+        url: "/cloud&devops/aws-cloud-computing-and-devOps",
       },
       {
-        CName: "Advance AI & ML Program For Tech Professionals",
-        hours: " 350+ Hours | 9 & 11 Months",
-        url: "/artificial-intelligence-certification-course",
-      },
-      {
-        CName: "Data Science and AI for Managers & Leaders",
-        hours: " 400+ Hours | 11 & 13 Months",
-        url: "/data-science-ai-for-managers",
-      },
-      {
-        CName: "Data Science and AI Master Program",
-        hours: "  500+ Hours | 13 & 15 Months",
-        url: "/data-science-ai-masters-program",
-      },
-      {
-        CName: "Business Analytics Master Program",
-        hours: " 250+ Hours | 7 & 9 Months",
-        url: "/business-analytics-certification-course",
-      },
-      {
-        CName: "Data Analytics Program",
-        hours: "  180+ Hours | 5 & 6.5 Months",
-        url: "/data-analytics-certification-course",
-      },
-      {
-        CName: "Data Science and AI Program for BFSI Professionals",
-        hours: "   250+ Hours | 7 & 9 Months",
-        url: "/data-science-for-bfsi-professional",
-      },
-      {
-        CName: "HR Analytics Program",
-        hours: " 200+ Hours | 5 & 7 Months",
-        url: "/hr-analytics",
-      },
-      {
-        CName: "Marketing Analytics Program",
-        hours: " 200+ Hours | 5 & 7 Months",
-        url: "/marketing-analytics",
+        CName: "Software Development Certification Program",
+        hours: "11 Months",
+        url: "/fullstack/full-stack-software-development-program",
       },
     ],
   },
   {
-    id: "Software Development",
-    title: "Software Development",
+    id: "Master's Degree Program",
+    title: "Master's Degree Program",
     courseName: [
       {
-        CName: "Software Development in Blockchain",
-        hours: "250+ Hours | 8 & 10 Months",
-        url: "/software-development-program-with-specialization-in-blockchain",
-      },
-      {
-        CName: "Software Development Master Program",
-        hours: "300+ Hours | 9 & 11 Months",
-        url: "/full-stack-software-development-program",
-      },
-      {
-        CName: "  Software Development in Cloud Computing & DevOps",
-        hours: " 250+ Hours | 8 & 10 Months",
-        url: "/software-development-program-with-specialization-in-cloud-computing-&-devops",
+        CName: "Master's Degree in CS: Data Science and AI",
+        hours: "18 Months",
+        url: "/datascience/data-science-and-ai-masters-in-cs",
       },
     ],
   },
   {
-    id: "Master Program",
-    title: "Master Program",
+    id: "IIT Guwahati",
+    title: "IIT Guwahati",
     courseName: [
+    
       {
-        CName: "Data Science and AI Master Program",
-        hours: "500+ Hours | 13 & 15 Months",
-        url: "/data-science-ai-masters-program",
+        CName: "Executive program in Data Science & AI ",
+        hours: "11 Months",
+        url: "/datascience/executive-program-in-data-science-and-ai-by-iit-guwahati",
       },
       {
-        CName: "Software Development Master Program",
-        hours: " 300+ Hours | 9 & 11 Months",
-        url: "/full-stack-software-development-program",
+        CName: "Advance Data Analytics Program",
+        hours: "6 Months",
+        url: "/datascience/advance-data-analytics-program-iit-guwahati",
       },
-    ],
-  },
-  {
-    id: "View All",
-    title: "View All",
-    courseName: [
-      {
-        CName: "Data Science Foundation Program",
-        hours: "200+ Hours | 5 & 7 Months",
-        url: "/data-science-certification-courses",
-      },
-      {
-        CName: "Software Development in Blockchain",
-        hours: "250+ Hours | 8 & 10 Months",
-        url: "/software-development-program-with-specialization-in-blockchain",
-      },
-      {
-        CName: "Advance Data Science & AI Program",
-        hours: "250+ Hours | 7 & 9 Months",
-        url: "/advance-data-science-certification-courses",
-      },
-      {
-        CName: "Software Development Master Program",
-        hours: " 300+ Hours | 9 & 11 Months",
-        url: "/full-stack-software-development-program",
-      },
-      {
-        CName: "Advance AI & ML Program For Tech Professionals",
-        hours: "350+ Hours | 9 & 11 Months",
-        url: "/artificial-intelligence-certification-course",
-      },
-      {
-        CName: "Data Science and AI for Managers & Leaders",
-        hours: " 400+ Hours | 11 & 13 Months",
-        url: "/data-science-ai-for-managers",
-      },
-      {
-        CName: "Data Science and AI Master Program",
-        hours: "  500+ Hours | 13 & 15 Months",
-        url: "/data-science-ai-masters-program",
-      },
-      {
-        CName: "Business Analytics Master Program",
-        hours: "   250+ Hours | 7 & 9 Months",
-        url: "/business-analytics-certification-course",
-      },
-      {
-        CName: "Data Analytics Program",
-        hours: " 180+ Hours | 5 & 6.5 Months",
-        url: "/data-analytics-certification-course",
-      },
-      {
-        CName: " Data Science and AI Program for BFSI Professionals",
-        hours: "  250+ Hours | 7 & 9 Months",
-        url: "/data-science-for-bfsi-professional",
-      },
-      {
-        CName: " HR Analytics Program",
-        hours: " 200+ Hours | 5 & 7 Months",
-        url: "/hr-analytics",
-      },
-      {
-        CName: " Marketing Analytics Program",
-        hours: "  200+ Hours | 5 & 7 Months",
-        url: "/marketing-analytics",
-      },
-      {
-        CName: "  Software Development in Cloud Computing & DevOps",
-        hours: "  250+ Hours | 8 & 10 Months",
-        url: "/software-development-program-with-specialization-in-cloud-computing-&-devops",
-      },
+      ,
     ],
   },
 ];

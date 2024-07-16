@@ -57,7 +57,7 @@ export default function Post({ postData }) {
 
           <meta name="robots" content="index, follow" />
 
-          <link href="https://dye9dtwtg1p5q.cloudfront.net/web/s3_main/cloud-computing/website-icon.webp" />
+          <link href="https://learnbay-ver.s3.us-east-2.amazonaws.com/learnbay-blog-v2/website-icon_blog.webp" />
         </Head>
 
         <Navbar />
