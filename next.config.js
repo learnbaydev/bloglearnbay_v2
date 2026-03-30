@@ -1033,34 +1033,6 @@ const nextConfig = {
         destination: "/full-stack-development-for-non-techies",
         permanent: true,
       },
-
-      {
-        source:
-          "/blog/random-forest-algorithm-in-machine-learning-with-example",
-        destination: "/category/machine-learning",
-        permanent: true,
-      },
-
-      {
-        source:
-          "/data-science-course/blog-post/top-10-machine-learning-algorithms-...2021/",
-        destination: "/category/machine-learning",
-        permanent: true,
-      },
-
-      {
-        source:
-          "data-science-course/blog-post/top-15-freshers-level-power-bi-interview-questions-for-2021/",
-        destination: "/category/data-science",
-        permanent: true,
-      },
-
-      {
-        source:
-          "/data-science-course/blog-post/differentiating-data-scientist-and-data-analyst/",
-        destination: "/differentiating-data-scientist-and-data-analyst",
-        permanent: true,
-      },
     ];
   },
 };
